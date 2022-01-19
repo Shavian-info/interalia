@@ -1,13 +1,13 @@
 sub one by one.ss01;
-sub one.tf by one.tf.ss01;
+sub one.tf by one.ss01.tf;
 sub three by three.1;
 sub three.tf by three.1.tf;
 sub four by four.ss01;
-sub four.tf by four.tf.ss01;
+sub four.tf by four.ss01.tf;
 sub six by six.ss01;
-sub six.tf by six.tf.ss01;
+sub six.tf by six.ss01.tf;
 sub nine by nine.ss01;
-sub nine.tf by nine.tf.ss01;
+sub nine.tf by nine.ss01.tf;
 
 sub a by a.1;
 sub aacute by aacute.1;

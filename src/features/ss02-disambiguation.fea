@@ -58,6 +58,6 @@ sub afii10056 by afii10056.1;
 
 # zero
 sub zero by zero.slash;
-sub zero.tf by zero.tf.slash;
+sub zero.tf by zero.slash.tf;
 sub zero.squared by zero.slash.squared;
 sub zero.circled by zero.slash.circled;
