@@ -5,10 +5,10 @@ RUN apt-get -qq update \
     git curl unzip build-essential ca-certificates ttfautohint \
  && pip install virtualenv
 
-RUN mkdir /inter
-WORKDIR /inter
+RUN mkdir /interalia
+WORKDIR /interalia
 
-COPY . /inter/
+COPY . /interalia/
 RUN rm Dockerfile
 
 RUN ln -s /host/src src \
@@ -22,7 +22,7 @@ RUN ln -s /host/src src \
  && ln -s /host/build/fonts build/fonts
 
 RUN rm init.sh && ln -s /host/init.sh . \
- && echo "source /inter/init.sh" >> "$HOME/.bashrc" \
+ && echo "source /interalia/init.sh" >> "$HOME/.bashrc" \
  && echo "alias l='ls -lAF'" >> "$HOME/.bashrc" \
  && echo 'export PS1="\[\e[33;1m\]\u@\w\[\e[0m\]\\\$ "' >> "$HOME/.bashrc"
 
@@ -31,7 +31,7 @@ RUN apt-get -y autoremove \
  && apt-get clean \
  && rm -rf /var/lib/apt/lists/*
 
-ENV PATH=/inter/build/venv/bin:$PATH
+ENV PATH=/interalia/build/venv/bin:$PATH
 
 VOLUME /host
 

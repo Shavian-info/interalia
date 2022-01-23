@@ -184,7 +184,7 @@ body        .row.styles { display: none; }
 }
 #style-spectrum > div {
   --size: 5rem;
-  font-family: "Inter var experimental";
+  font-family: "Inter Alia var experimental";
   font-size: var(--size);
   line-height: 1rem;
   display:inline-flex;

@@ -8,10 +8,10 @@
   --sidebarButtonSize: 24px;
   --sidebarWidthToButtonSizeScale: 0.0872; /* 24/275 */
 
-  --font-family: Inter;
+  --font-family: 'Inter Alia';
 }
 @supports (font-variation-settings: normal) {
-  :root { --font-family: 'Inter var'; }
+  :root { --font-family: 'Inter Alia var'; }
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 1.5),
        only screen and (min-device-pixel-ratio: 1.5),
@@ -200,7 +200,7 @@ select {
   background-position: right center;
 }
 /* fix for Firefox issue:; */
-select option { font-family:var(--font-family),Inter; }
+select option { font-family:var(--font-family),'Inter Alia'; }
 
 input[type="number"]:focus,
 input[type="text"]:focus,

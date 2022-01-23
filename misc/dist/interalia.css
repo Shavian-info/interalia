@@ -1,0 +1,200 @@
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url("InterAlia-Thin.woff2?v=0.001") format("woff2"),
+       url("InterAlia-Thin.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 100;
+  font-display: swap;
+  src: url("InterAlia-ThinItalic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-ThinItalic.woff?v=0.001") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 200;
+  font-display: swap;
+  src: url("InterAlia-ExtraLight.woff2?v=0.001") format("woff2"),
+       url("InterAlia-ExtraLight.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url("InterAlia-ExtraLightItalic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-ExtraLightItalic.woff?v=0.001") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("InterAlia-Light.woff2?v=0.001") format("woff2"),
+       url("InterAlia-Light.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url("InterAlia-LightItalic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-LightItalic.woff?v=0.001") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("InterAlia-Regular.woff2?v=0.001") format("woff2"),
+       url("InterAlia-Regular.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("InterAlia-Italic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-Italic.woff?v=0.001") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("InterAlia-Medium.woff2?v=0.001") format("woff2"),
+       url("InterAlia-Medium.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url("InterAlia-MediumItalic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-MediumItalic.woff?v=0.001") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("InterAlia-SemiBold.woff2?v=0.001") format("woff2"),
+       url("InterAlia-SemiBold.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url("InterAlia-SemiBoldItalic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-SemiBoldItalic.woff?v=0.001") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("InterAlia-Bold.woff2?v=0.001") format("woff2"),
+       url("InterAlia-Bold.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url("InterAlia-BoldItalic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-BoldItalic.woff?v=0.001") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("InterAlia-ExtraBold.woff2?v=0.001") format("woff2"),
+       url("InterAlia-ExtraBold.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 800;
+  font-display: swap;
+  src: url("InterAlia-ExtraBoldItalic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-ExtraBoldItalic.woff?v=0.001") format("woff");
+}
+
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("InterAlia-Black.woff2?v=0.001") format("woff2"),
+       url("InterAlia-Black.woff?v=0.001") format("woff");
+}
+@font-face {
+  font-family: 'Inter Alia';
+  font-style:  italic;
+  font-weight: 900;
+  font-display: swap;
+  src: url("InterAlia-BlackItalic.woff2?v=0.001") format("woff2"),
+       url("InterAlia-BlackItalic.woff?v=0.001") format("woff");
+}
+
+/* -------------------------------------------------------
+Variable font.
+Usage:
+
+  html { font-family: 'Inter Alia', sans-serif; }
+  @supports (font-variation-settings: normal) {
+    html { font-family: 'Inter var', sans-serif; }
+  }
+*/
+@font-face {
+  font-family: 'Inter Alia var';
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: normal;
+  font-named-instance: 'Regular';
+  src: url("InterAlia-roman.var.woff2?v=0.001") format("woff2");
+}
+@font-face {
+  font-family: 'Inter Alia var';
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: italic;
+  font-named-instance: 'Italic';
+  src: url("InterAlia-italic.var.woff2?v=0.001") format("woff2");
+}
+
+
+/* --------------------------------------------------------------------------
+[EXPERIMENTAL] Multi-axis, single variable font.
+
+Slant axis is not yet widely supported (as of February 2019) and thus this
+multi-axis single variable font is opt-in rather than the default.
+
+When using this, you will probably need to set font-variation-settings
+explicitly, e.g.
+
+  * { font-variation-settings: "slnt" 0deg }
+  .italic { font-variation-settings: "slnt" 10deg }
+
+*/
+@font-face {
+  font-family: 'Inter Alia var experimental';
+  font-weight: 100 900;
+  font-display: swap;
+  font-style: oblique 0deg 10deg;
+  src: url("InterAlia.var.woff2?v=0.001") format("woff2");
+}

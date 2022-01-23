@@ -47,26 +47,26 @@ web_text:    all_web_text     all_web_hinted_text
 web_display: all_web_display  all_web_hinted_display
 
 var: all_var_text  all_var_display
-var_text:    $(FONTDIR)/var/Inter.var.woff2 $(FONTDIR)/var/Inter.var.ttf $(FONTDIR)/var/Inter-V.var.ttf
-var_display: $(FONTDIR)/var/InterDisplay.var.woff2 $(FONTDIR)/var/InterDisplay.var.ttf $(FONTDIR)/var/InterDisplay-V.var.ttf
+var_text:    $(FONTDIR)/var/InterAlia.var.woff2 $(FONTDIR)/var/InterAlia.var.ttf $(FONTDIR)/var/InterAlia-V.var.ttf
+var_display: $(FONTDIR)/var/InterAliaDisplay.var.woff2 $(FONTDIR)/var/InterAliaDisplay.var.ttf $(FONTDIR)/var/InterAliaDisplay-V.var.ttf
 all_var_text: \
-	$(FONTDIR)/var/Inter.var.ttf \
-	$(FONTDIR)/var/Inter.var.woff2 \
-	$(FONTDIR)/var/Inter-V.var.ttf \
-	$(FONTDIR)/var/Inter-V.var.woff2 \
-	$(FONTDIR)/var/Inter-roman.var.ttf \
-	$(FONTDIR)/var/Inter-roman.var.woff2 \
-	$(FONTDIR)/var/Inter-italic.var.ttf \
-	$(FONTDIR)/var/Inter-italic.var.woff2
+	$(FONTDIR)/var/InterAlia.var.ttf \
+	$(FONTDIR)/var/InterAlia.var.woff2 \
+	$(FONTDIR)/var/InterAlia-V.var.ttf \
+	$(FONTDIR)/var/InterAlia-V.var.woff2 \
+	$(FONTDIR)/var/InterAlia-roman.var.ttf \
+	$(FONTDIR)/var/InterAlia-roman.var.woff2 \
+	$(FONTDIR)/var/InterAlia-italic.var.ttf \
+	$(FONTDIR)/var/InterAlia-italic.var.woff2
 all_var_display: \
-	$(FONTDIR)/var/InterDisplay.var.ttf \
-	$(FONTDIR)/var/InterDisplay.var.woff2 \
-	$(FONTDIR)/var/InterDisplay-V.var.ttf \
-	$(FONTDIR)/var/InterDisplay-V.var.woff2 \
-	$(FONTDIR)/var/InterDisplay-roman.var.ttf \
-	$(FONTDIR)/var/InterDisplay-roman.var.woff2 \
-	$(FONTDIR)/var/InterDisplay-italic.var.ttf \
-	$(FONTDIR)/var/InterDisplay-italic.var.woff2
+	$(FONTDIR)/var/InterAliaDisplay.var.ttf \
+	$(FONTDIR)/var/InterAliaDisplay.var.woff2 \
+	$(FONTDIR)/var/InterAliaDisplay-V.var.ttf \
+	$(FONTDIR)/var/InterAliaDisplay-V.var.woff2 \
+	$(FONTDIR)/var/InterAliaDisplay-roman.var.ttf \
+	$(FONTDIR)/var/InterAliaDisplay-roman.var.woff2 \
+	$(FONTDIR)/var/InterAliaDisplay-italic.var.ttf \
+	$(FONTDIR)/var/InterAliaDisplay-italic.var.woff2
 
 .PHONY: all  all_otf  all_ttf  text  display
 .PHONY: web  web_text  web_display
@@ -113,16 +113,16 @@ build/%.woff: build/%.ttf
 
 
 # VF OTF from UFO
-$(FONTDIR)/var/Inter.var.ttf: $(all_ufo_masters_text) version.txt
+$(FONTDIR)/var/InterAlia.var.ttf: $(all_ufo_masters_text) version.txt
 	@mkdir -p "$(dir $@)"
-	misc/fontbuild compile-var -o $@ $(FONTBUILD_FLAGS) build/ufo/Inter.designspace
+	misc/fontbuild compile-var -o $@ $(FONTBUILD_FLAGS) build/ufo/InterAlia.designspace
 	$(BIN)/gftools fix-unwanted-tables -t MVAR $@
 	$(BIN)/gftools fix-dsig --autofix $@
 
-$(FONTDIR)/var/Inter-V.var.ttf: $(FONTDIR)/var/Inter.var.ttf
-	misc/fontbuild rename --family "Inter V" -o $@ $<
+$(FONTDIR)/var/InterAlia-V.var.ttf: $(FONTDIR)/var/InterAlia.var.ttf
+	misc/fontbuild rename --family "Inter Alia V" -o $@ $<
 
-$(FONTDIR)/var/Inter-%.var.ttf: build/ufo/Inter-%.designspace $(all_ufo_masters_text) version.txt
+$(FONTDIR)/var/InterAlia-%.var.ttf: build/ufo/InterAlia-%.designspace $(all_ufo_masters_text) version.txt
 	@mkdir -p "$(dir $@)"
 	misc/fontbuild compile-var -o $@ $(FONTBUILD_FLAGS) $<
 	misc/tools/fix-vf-meta.py $@
@@ -130,16 +130,16 @@ $(FONTDIR)/var/Inter-%.var.ttf: build/ufo/Inter-%.designspace $(all_ufo_masters_
 	$(BIN)/gftools fix-dsig --autofix $@
 
 
-$(FONTDIR)/var/InterDisplay.var.ttf: $(all_ufo_masters_display) version.txt
+$(FONTDIR)/var/InterAliaDisplay.var.ttf: $(all_ufo_masters_display) version.txt
 	@mkdir -p "$(dir $@)"
-	misc/fontbuild compile-var -o $@ $(FONTBUILD_FLAGS) build/ufo/InterDisplay.designspace
+	misc/fontbuild compile-var -o $@ $(FONTBUILD_FLAGS) build/ufo/InterAliaDisplay.designspace
 	$(BIN)/gftools fix-unwanted-tables -t MVAR $@
 	$(BIN)/gftools fix-dsig --autofix $@
 
-$(FONTDIR)/var/InterDisplay-V.var.ttf: $(FONTDIR)/var/InterDisplay.var.ttf
-	misc/fontbuild rename --family "Inter Display V" -o $@ $<
+$(FONTDIR)/var/InterAliaDisplay-V.var.ttf: $(FONTDIR)/var/InterAliaDisplay.var.ttf
+	misc/fontbuild rename --family "Inter Alia Display V" -o $@ $<
 
-$(FONTDIR)/var/InterDisplay-%.var.ttf: build/ufo/InterDisplay-%.designspace $(all_ufo_masters_display) version.txt
+$(FONTDIR)/var/InterAliaDisplay-%.var.ttf: build/ufo/InterAliaDisplay-%.designspace $(all_ufo_masters_display) version.txt
 	@mkdir -p "$(dir $@)"
 	misc/fontbuild compile-var -o $@ $(FONTBUILD_FLAGS) $<
 	misc/tools/fix-vf-meta.py $@
@@ -148,38 +148,38 @@ $(FONTDIR)/var/InterDisplay-%.var.ttf: build/ufo/InterDisplay-%.designspace $(al
 
 
 # OTF/TTF from UFO
-$(FONTDIR)/const/Inter%.otf: build/ufo/Inter%.ufo version.txt
+$(FONTDIR)/const/InterAlia%.otf: build/ufo/InterAlia%.ufo version.txt
 	@mkdir -p "$(dir $@)"
-	misc/fontbuild compile -o $@ $(FONTBUILD_FLAGS) build/ufo/Inter$*.ufo
+	misc/fontbuild compile -o $@ $(FONTBUILD_FLAGS) build/ufo/InterAlia$*.ufo
 
-$(FONTDIR)/const/Inter%.ttf: build/ufo/Inter%.ufo version.txt
+$(FONTDIR)/const/InterAlia%.ttf: build/ufo/InterAlia%.ufo version.txt
 	@mkdir -p "$(dir $@)"
-	misc/fontbuild compile -o $@ $(FONTBUILD_FLAGS) build/ufo/Inter$*.ufo
+	misc/fontbuild compile -o $@ $(FONTBUILD_FLAGS) build/ufo/InterAlia$*.ufo
 
 
 # DESIGNSPACE from GLYPHS
-build/ufo/Inter-roman.designspace: build/ufo/Inter.designspace
-build/ufo/Inter-italic.designspace: build/ufo/Inter.designspace
-build/ufo/Inter.designspace: src/Inter.glyphs
+build/ufo/InterAlia-roman.designspace: build/ufo/InterAlia.designspace
+build/ufo/InterAlia-italic.designspace: build/ufo/InterAlia.designspace
+build/ufo/InterAlia.designspace: src/InterAlia.glyphs
 	@mkdir -p build/ufo
-	misc/fontbuild glyphsync -o build/ufo src/Inter.glyphs
-build/ufo/InterDisplay-roman.designspace: build/ufo/InterDisplay.designspace
-build/ufo/InterDisplay-italic.designspace: build/ufo/InterDisplay.designspace
-build/ufo/InterDisplay.designspace: src/InterDisplay.glyphs
+	misc/fontbuild glyphsync -o build/ufo src/InterAlia.glyphs
+build/ufo/InterAliaDisplay-roman.designspace: build/ufo/InterAliaDisplay.designspace
+build/ufo/InterAliaDisplay-italic.designspace: build/ufo/InterAliaDisplay.designspace
+build/ufo/InterAliaDisplay.designspace: src/InterAliaDisplay.glyphs
 	@mkdir -p build/ufo
-	misc/fontbuild glyphsync -o build/ufo src/InterDisplay.glyphs
+	misc/fontbuild glyphsync -o build/ufo src/InterAliaDisplay.glyphs
 
 
 # short-circuit Make for performance
-src/Inter.glyphs:
+src/InterAlia.glyphs:
 	@true
-src/InterDisplay.glyphs:
+src/InterAliaDisplay.glyphs:
 	@true
 
 # make sure intermediate files are not gc'd by make
-.PRECIOUS: build/ufo/Inter-*.designspace build/ufo/InterDisplay-*.designspace
+.PRECIOUS: build/ufo/InterAlia-*.designspace build/ufo/InterAliaDisplay-*.designspace
 
-designspace: build/ufo/Inter.designspace build/ufo/InterDisplay.designspace
+designspace: build/ufo/InterAlia.designspace build/ufo/InterAliaDisplay.designspace
 .PHONY: designspace
 
 
@@ -193,7 +193,7 @@ build/ufo/features: src/features
 	@ln -s ../../src/features build/ufo/features
 
 # make sure intermediate UFOs are not gc'd by make
-.PRECIOUS: build/ufo/Inter-%.ufo
+.PRECIOUS: build/ufo/InterAlia-%.ufo
 
 # Note: The seemingly convoluted dependency graph above is required to
 # make sure that glyphsync and instancegen are not run in parallel.
@@ -251,71 +251,71 @@ FBAKE_STATIC_ARGS := $(FBAKE_ARGS) -x com.google.fonts/check/family/underline_th
 FBAKE_VAR_ARGS    := $(FBAKE_ARGS) -x com.google.fonts/check/STAT_strings
 
 # static text family
-build/fbreport-text-const.txt: $(wildcard $(FONTDIR)/const/Inter-*.otf)
-	@echo "fontbakery check-universal Inter-*.otf > $(@) ..."
+build/fbreport-text-const.txt: $(wildcard $(FONTDIR)/const/InterAlia-*.otf)
+	@echo "fontbakery check-universal InterAlia-*.otf > $(@) ..."
 	@$(BIN)/fontbakery $(FBAKE_STATIC_ARGS) $^ > $@ || \
 	  (cat $@; echo "report at $@"; touch -m -t 199001010000 $@; exit 1)
-	@echo "fontbakery check-universal Inter-*.otf OK"
+	@echo "fontbakery check-universal InterAlia-*.otf OK"
 
 # multi-axis VF text family
-build/fbreport-text-var2.txt: $(FONTDIR)/var/Inter.var.ttf
-	@echo "fontbakery check-universal Inter.var.ttf > $(@) ..."
+build/fbreport-text-var2.txt: $(FONTDIR)/var/InterAlia.var.ttf
+	@echo "fontbakery check-universal InterAlia.var.ttf > $(@) ..."
 	@$(BIN)/fontbakery $(FBAKE_VAR_ARGS) $^ > $@ || \
 	  (cat $@; echo "report at $@"; touch -m -t 199001010000 $@; exit 1)
-	@echo "fontbakery check-universal Inter.var.ttf"
+	@echo "fontbakery check-universal InterAlia.var.ttf"
 
 # single-axis VF text family
-build/fbreport-text-var1.txt: $(wildcard $(FONTDIR)/var/Inter-*.var.ttf)
-	@echo "fontbakery check-universal Inter-*.var.ttf > $(@) ..."
+build/fbreport-text-var1.txt: $(wildcard $(FONTDIR)/var/InterAlia-*.var.ttf)
+	@echo "fontbakery check-universal InterAlia-*.var.ttf > $(@) ..."
 	@$(BIN)/fontbakery $(FBAKE_VAR_ARGS) $^ > $@ || \
 	  (cat $@; echo "report at $@"; touch -m -t 199001010000 $@; exit 1)
-	@echo "fontbakery check-universal Inter-*.var.ttf"
+	@echo "fontbakery check-universal InterAlia-*.var.ttf"
 
 
 # static display family
-build/fbreport-display-const.txt: $(wildcard $(FONTDIR)/const/InterDisplay-*.otf)
-	@echo "fontbakery check-universal InterDisplay-*.otf > $(@) ..."
+build/fbreport-display-const.txt: $(wildcard $(FONTDIR)/const/InterAliaDisplay-*.otf)
+	@echo "fontbakery check-universal InterAliaDisplay-*.otf > $(@) ..."
 	@$(BIN)/fontbakery $(FBAKE_STATIC_ARGS) $^ > $@ || \
 	  (cat $@; echo "report at $@"; touch -m -t 199001010000 $@; exit 1)
-	@echo "fontbakery check-universal InterDisplay-*.otf"
+	@echo "fontbakery check-universal InterAliaDisplay-*.otf"
 
 # multi-axis VF display family
-build/fbreport-display-var2.txt: $(FONTDIR)/var/InterDisplay.var.ttf
-	@echo "fontbakery check-universal InterDisplay.var.ttf > $(@) ..."
+build/fbreport-display-var2.txt: $(FONTDIR)/var/InterAliaDisplay.var.ttf
+	@echo "fontbakery check-universal InterAliaDisplay.var.ttf > $(@) ..."
 	@$(BIN)/fontbakery $(FBAKE_VAR_ARGS) $^ > $@ || \
 	  (cat $@; echo "report at $@"; touch -m -t 199001010000 $@; exit 1)
-	@echo "fontbakery check-universal InterDisplay.var.ttf"
+	@echo "fontbakery check-universal InterAliaDisplay.var.ttf"
 
 # single-axis VF display family
-build/fbreport-display-var1.txt: $(wildcard $(FONTDIR)/var/InterDisplay-*.var.ttf)
-	@echo "fontbakery check-universal InterDisplay-*.var.ttf > $(@) ..."
+build/fbreport-display-var1.txt: $(wildcard $(FONTDIR)/var/InterAliaDisplay-*.var.ttf)
+	@echo "fontbakery check-universal InterAliaDisplay-*.var.ttf > $(@) ..."
 	@$(BIN)/fontbakery $(FBAKE_VAR_ARGS) $^ > $@ || \
 	  (cat $@; echo "report at $@"; touch -m -t 199001010000 $@; exit 1)
-	@echo "fontbakery check-universal InterDisplay-*.var.ttf"
+	@echo "fontbakery check-universal InterAliaDisplay-*.var.ttf"
 
 # check does the same thing as test, but without any dependency checks, meaning
 # it will check whatever font files are already built.
-check_text: $(wildcard $(FONTDIR)/const/Inter-*.ttf) \
-            $(wildcard $(FONTDIR)/const/Inter-*.otf) \
-            $(wildcard $(FONTDIR)/const/Inter-*.woff2) \
-            $(wildcard $(FONTDIR)/var/Inter-*.var.ttf) \
-            $(wildcard $(FONTDIR)/var/Inter-*.var.woff2) \
-            $(FONTDIR)/var/Inter.var.ttf \
-            $(FONTDIR)/var/Inter.var.woff2
+check_text: $(wildcard $(FONTDIR)/const/InterAlia-*.ttf) \
+            $(wildcard $(FONTDIR)/const/InterAlia-*.otf) \
+            $(wildcard $(FONTDIR)/const/InterAlia-*.woff2) \
+            $(wildcard $(FONTDIR)/var/InterAlia-*.var.ttf) \
+            $(wildcard $(FONTDIR)/var/InterAlia-*.var.woff2) \
+            $(FONTDIR)/var/InterAlia.var.ttf \
+            $(FONTDIR)/var/InterAlia.var.woff2
 	misc/fontbuild checkfont $^
 	@echo "$(@): OK"
 
-check_display: $(wildcard $(FONTDIR)/const/InterDisplay-*.ttf) \
-               $(wildcard $(FONTDIR)/const/InterDisplay-*.otf) \
-               $(wildcard $(FONTDIR)/const/InterDisplay-*.woff2) \
-               $(wildcard $(FONTDIR)/var/InterDisplay-*.var.ttf) \
-               $(wildcard $(FONTDIR)/var/InterDisplay-*.var.woff2) \
-               $(FONTDIR)/var/InterDisplay.var.ttf \
-               $(FONTDIR)/var/InterDisplay.var.woff2
+check_display: $(wildcard $(FONTDIR)/const/InterAliaDisplay-*.ttf) \
+               $(wildcard $(FONTDIR)/const/InterAliaDisplay-*.otf) \
+               $(wildcard $(FONTDIR)/const/InterAliaDisplay-*.woff2) \
+               $(wildcard $(FONTDIR)/var/InterAliaDisplay-*.var.ttf) \
+               $(wildcard $(FONTDIR)/var/InterAliaDisplay-*.var.woff2) \
+               $(FONTDIR)/var/InterAliaDisplay.var.ttf \
+               $(FONTDIR)/var/InterAliaDisplay.var.woff2
 	misc/fontbuild checkfont $^ \
 	@echo "$(@): OK"
 
-check_pedantic: $(FONTDIR)/var/Inter.var.ttf
+check_pedantic: $(FONTDIR)/var/InterAlia.var.ttf
 	$(BIN)/fontbakery check-universal --dark-theme --loglevel WARN -j \
 		-x com.google.fonts/check/unitsperem \
 		$^
@@ -344,22 +344,22 @@ $(FONTDIR)/samples:
 VERSION := $(shell cat version.txt)
 
 # distribution zip files
-ZIP_FILE_DIST := build/release/Inter-${VERSION}.zip
+ZIP_FILE_DIST := build/release/InterAlia-${VERSION}.zip
 
 zip: all
 	$(MAKE) -j8 test
 	bash misc/makezip.sh -all -reveal-in-finder \
-		"build/release/Inter-${VERSION}-$(shell git rev-parse --short=10 HEAD).zip"
+		"build/release/InterAlia-${VERSION}-$(shell git rev-parse --short=10 HEAD).zip"
 
 zip_text: text
 	$(MAKE) -j4 test_text
 	bash misc/makezip.sh -text -reveal-in-finder \
-		"build/release/Inter-${VERSION}-text-$(shell git rev-parse --short=10 HEAD).zip"
+		"build/release/InterAlia-${VERSION}-text-$(shell git rev-parse --short=10 HEAD).zip"
 
 zip_display: display
 	$(MAKE) -j4 test_display
 	bash misc/makezip.sh -display -reveal-in-finder \
-		"build/release/Inter-${VERSION}-display-$(shell git rev-parse --short=10 HEAD).zip"
+		"build/release/InterAlia-${VERSION}-display-$(shell git rev-parse --short=10 HEAD).zip"
 
 
 dist_zip: dist_check dist_build
@@ -448,32 +448,32 @@ docs_fonts_text: docs_fonts_pre
 	cp -a $(FONTDIR)/const/*.woff \
 	      $(FONTDIR)/const/*.woff2 \
 	      $(FONTDIR)/const/*.otf \
-	      $(FONTDIR)/var/Inter.var.* \
-	      $(FONTDIR)/var/InterDisplay.var.* \
-	      $(FONTDIR)/var/Inter*-roman.var.* \
-	      $(FONTDIR)/var/Inter*-italic.var.* \
+	      $(FONTDIR)/var/InterAlia.var.* \
+	      $(FONTDIR)/var/InterAliaDisplay.var.* \
+	      $(FONTDIR)/var/InterAlia*-roman.var.* \
+	      $(FONTDIR)/var/InterAlia*-italic.var.* \
 	      docs/font-files/
 
 docs_fonts_display: docs_fonts_pre
 	cp -a $(FONTDIR)/const/*.woff \
 	      $(FONTDIR)/const/*.woff2 \
 	      $(FONTDIR)/const/*.otf \
-	      $(FONTDIR)/var/Inter.var.* \
-	      $(FONTDIR)/var/InterDisplay.var.* \
-	      $(FONTDIR)/var/Inter*-roman.var.* \
-	      $(FONTDIR)/var/Inter*-italic.var.* \
+	      $(FONTDIR)/var/InterAlia.var.* \
+	      $(FONTDIR)/var/InterAliaDisplay.var.* \
+	      $(FONTDIR)/var/InterAlia*-roman.var.* \
+	      $(FONTDIR)/var/InterAlia*-italic.var.* \
 	      docs/font-files/
 
 .PHONY: docs  docs_info  docs_fonts  docs_fonts_pre  docs_fonts_text  docs_fonts_display
 
-docs/_data/fontinfo.json: docs/font-files/Inter-Regular.otf misc/tools/fontinfo.py
+docs/_data/fontinfo.json: docs/font-files/InterAlia-Regular.otf misc/tools/fontinfo.py
 	misc/tools/fontinfo.py -pretty $< > docs/_data/fontinfo.json
 
-docs/lab/glyphinfo.json: misc/tools/gen-glyphinfo.py build/ufo/Inter-Regular.ufo
-	misc/tools/gen-glyphinfo.py -ucd misc/UnicodeData.txt build/ufo/Inter-Regular.ufo > $@
+docs/lab/glyphinfo.json: misc/tools/gen-glyphinfo.py build/ufo/InterAlia-Regular.ufo
+	misc/tools/gen-glyphinfo.py -ucd misc/UnicodeData.txt build/ufo/InterAlia-Regular.ufo > $@
 
-docs/glyphs/metrics.json: misc/tools/gen-metrics-and-svgs.py build/ufo/Inter-Regular.ufo
-	misc/tools/gen-metrics-and-svgs.py build/ufo/Inter-Regular.ufo
+docs/glyphs/metrics.json: misc/tools/gen-metrics-and-svgs.py build/ufo/InterAlia-Regular.ufo
+	misc/tools/gen-metrics-and-svgs.py build/ufo/InterAlia-Regular.ufo
 
 
 # Helper target to download latest Unicode data. Nothing depends on this.
@@ -486,36 +486,36 @@ update_UnicodeData:
 
 # install targets
 install_ttf: all_ttf_const
-	@echo "Installing TTF files locally at ~/Library/Fonts/Inter"
-	rm -rf ~/'Library/Fonts/Inter'
-	mkdir -p ~/'Library/Fonts/Inter'
-	cp -a $(FONTDIR)/const/*.ttf ~/'Library/Fonts/Inter'
+	@echo "Installing TTF files locally at ~/Library/Fonts/InterAlia"
+	rm -rf ~/'Library/Fonts/InterAlia'
+	mkdir -p ~/'Library/Fonts/InterAlia'
+	cp -a $(FONTDIR)/const/*.ttf ~/'Library/Fonts/InterAlia'
 
 install_ttf_hinted: all_ttf_hinted
-	@echo "Installing autohinted TTF files locally at ~/Library/Fonts/Inter"
-	rm -rf ~/'Library/Fonts/Inter'
-	mkdir -p ~/'Library/Fonts/Inter'
-	cp -a $(FONTDIR)/const-hinted/*.ttf ~/'Library/Fonts/Inter'
+	@echo "Installing autohinted TTF files locally at ~/Library/Fonts/InterAlia"
+	rm -rf ~/'Library/Fonts/InterAlia'
+	mkdir -p ~/'Library/Fonts/InterAlia'
+	cp -a $(FONTDIR)/const-hinted/*.ttf ~/'Library/Fonts/InterAlia'
 
 install_text_otf: all_otf_text
-	@echo "Installing OTF files locally at ~/Library/Fonts/Inter"
-	rm -rf ~/'Library/Fonts/Inter'
-	mkdir -p ~/'Library/Fonts/Inter'
-	cp -a $(FONTDIR)/const/Inter-*.otf ~/'Library/Fonts/Inter'
+	@echo "Installing OTF files locally at ~/Library/Fonts/InterAlia"
+	rm -rf ~/'Library/Fonts/InterAlia'
+	mkdir -p ~/'Library/Fonts/InterAlia'
+	cp -a $(FONTDIR)/const/InterAlia-*.otf ~/'Library/Fonts/InterAlia'
 
 install_display_otf: all_otf_display
-	@echo "Installing OTF files locally at ~/Library/Fonts/InterDisplay"
-	rm -rf ~/'Library/Fonts/InterDisplay'
-	mkdir -p ~/'Library/Fonts/InterDisplay'
-	cp -a $(FONTDIR)/const/InterDisplay-*.otf ~/'Library/Fonts/InterDisplay'
+	@echo "Installing OTF files locally at ~/Library/Fonts/InterAliaDisplay"
+	rm -rf ~/'Library/Fonts/InterAliaDisplay'
+	mkdir -p ~/'Library/Fonts/InterAliaDisplay'
+	cp -a $(FONTDIR)/const/InterAliaDisplay-*.otf ~/'Library/Fonts/InterAliaDisplay'
 
-install_text_var: $(FONTDIR)/var/Inter-V.var.ttf
-	mkdir -p ~/'Library/Fonts/Inter'
-	cp -a $@ ~/'Library/Fonts/Inter/Inter-V.ttf'
+install_text_var: $(FONTDIR)/var/InterAlia-V.var.ttf
+	mkdir -p ~/'Library/Fonts/InterAlia'
+	cp -a $@ ~/'Library/Fonts/InterAlia/InterAlia-V.ttf'
 
-install_display_var: $(FONTDIR)/var/InterDisplay-V.var.ttf
-	mkdir -p ~/'Library/Fonts/InterDisplay'
-	cp -a $@ ~/'Library/Fonts/InterDisplay/InterDisplay-V.ttf'
+install_display_var: $(FONTDIR)/var/InterAliaDisplay-V.var.ttf
+	mkdir -p ~/'Library/Fonts/InterAliaDisplay'
+	cp -a $@ ~/'Library/Fonts/InterAliaDisplay/InterAliaDisplay-V.ttf'
 
 install:         install_text  install_display
 install_otf:     install_text_otf  install_display_otf

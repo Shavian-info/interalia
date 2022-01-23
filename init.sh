@@ -391,7 +391,7 @@ else
   if $GENERATE_MAKE_FILE; then
 
     # Warning about UFOs moving from src to build/ufo
-    for f in src/Inter-*.ufo; do
+    for f in src/InterAlia-*.ufo; do
       if [ -f "$f" ]; then
         echo "" >&2
         echo "--------------------------- WARNING ----------------------------" >&2
@@ -452,37 +452,37 @@ else
 
     # master UFO targets
     echo "# master UFOs" >> "$GEN_MAKE_FILE"
-    echo "# Note: build/ufo/Inter.designspace depends on src/Inter.glyphs" >> "$GEN_MAKE_FILE"
-    echo "# Note: build/ufo/InterDisplay.designspace depends on src/InterDisplay.glyphs" >> "$GEN_MAKE_FILE"
+    echo "# Note: build/ufo/InterAlia.designspace depends on src/InterAlia.glyphs" >> "$GEN_MAKE_FILE"
+    echo "# Note: build/ufo/InterAliaDisplay.designspace depends on src/InterAliaDisplay.glyphs" >> "$GEN_MAKE_FILE"
     for style in "${master_styles[@]}"; do
-      echo -n "build/ufo/Inter-${style}.ufo:" >> "$GEN_MAKE_FILE"
-      echo -n " build/ufo/Inter.designspace" >> "$GEN_MAKE_FILE"
+      echo -n "build/ufo/InterAlia-${style}.ufo:" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAlia.designspace" >> "$GEN_MAKE_FILE"
       echo -n " build/ufo/features" >> "$GEN_MAKE_FILE"
       echo -n " \$(wildcard" >> "$GEN_MAKE_FILE"
-      echo -n " build/ufo/Inter-${style}.ufo/*.plist" >> "$GEN_MAKE_FILE"
-      echo -n " build/ufo/Inter-${style}.ufo/*.fea" >> "$GEN_MAKE_FILE"
-      echo -n " build/ufo/Inter-${style}.ufo/glyphs/*.plist" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAlia-${style}.ufo/*.plist" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAlia-${style}.ufo/*.fea" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAlia-${style}.ufo/glyphs/*.plist" >> "$GEN_MAKE_FILE"
       echo ")" >> "$GEN_MAKE_FILE"
       echo -e "\t@touch \"\$@\"" >> "$GEN_MAKE_FILE"
 
-      echo -n "build/ufo/InterDisplay-${style}.ufo:" >> "$GEN_MAKE_FILE"
-      echo -n " build/ufo/InterDisplay.designspace" >> "$GEN_MAKE_FILE"
+      echo -n "build/ufo/InterAliaDisplay-${style}.ufo:" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAliaDisplay.designspace" >> "$GEN_MAKE_FILE"
       echo -n " build/ufo/features" >> "$GEN_MAKE_FILE"
       echo -n " \$(wildcard" >> "$GEN_MAKE_FILE"
-      echo -n " build/ufo/InterDisplay-${style}.ufo/*.plist" >> "$GEN_MAKE_FILE"
-      echo -n " build/ufo/InterDisplay-${style}.ufo/*.fea" >> "$GEN_MAKE_FILE"
-      echo -n " build/ufo/InterDisplay-${style}.ufo/glyphs/*.plist" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAliaDisplay-${style}.ufo/*.plist" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAliaDisplay-${style}.ufo/*.fea" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAliaDisplay-${style}.ufo/glyphs/*.plist" >> "$GEN_MAKE_FILE"
       echo ")" >> "$GEN_MAKE_FILE"
       echo -e "\t@touch \"\$@\"" >> "$GEN_MAKE_FILE"
     done
     echo -n "all_ufo_masters_text :=" >> "$GEN_MAKE_FILE"
     for style in "${master_styles[@]}"; do
-      echo -n " build/ufo/Inter-${style}.ufo" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAlia-${style}.ufo" >> "$GEN_MAKE_FILE"
     done
     echo "" >> "$GEN_MAKE_FILE"
     echo -n "all_ufo_masters_display :=" >> "$GEN_MAKE_FILE"
     for style in "${master_styles[@]}"; do
-      echo -n " build/ufo/InterDisplay-${style}.ufo" >> "$GEN_MAKE_FILE"
+      echo -n " build/ufo/InterAliaDisplay-${style}.ufo" >> "$GEN_MAKE_FILE"
     done
     echo "" >> "$GEN_MAKE_FILE"
     echo "" >> "$GEN_MAKE_FILE"
@@ -496,19 +496,19 @@ else
       all_styles+=( $style )
       instance_styles+=( $style )
 
-      echo -n "build/ufo/Inter-${style}.ufo:" >> "$GEN_MAKE_FILE"
+      echo -n "build/ufo/InterAlia-${style}.ufo:" >> "$GEN_MAKE_FILE"
       for depstyle in $dependent_styles; do
-        echo -n " build/ufo/Inter-${depstyle}.ufo" >> "$GEN_MAKE_FILE"
+        echo -n " build/ufo/InterAlia-${depstyle}.ufo" >> "$GEN_MAKE_FILE"
       done
       echo "" >> "$GEN_MAKE_FILE"
-      echo -e "\tmisc/fontbuild instancegen build/ufo/Inter.designspace ${style}" >> "$GEN_MAKE_FILE"
+      echo -e "\tmisc/fontbuild instancegen build/ufo/InterAlia.designspace ${style}" >> "$GEN_MAKE_FILE"
 
-      echo -n "build/ufo/InterDisplay-${style}.ufo:" >> "$GEN_MAKE_FILE"
+      echo -n "build/ufo/InterAliaDisplay-${style}.ufo:" >> "$GEN_MAKE_FILE"
       for depstyle in $dependent_styles; do
-        echo -n " build/ufo/InterDisplay-${depstyle}.ufo" >> "$GEN_MAKE_FILE"
+        echo -n " build/ufo/InterAliaDisplay-${depstyle}.ufo" >> "$GEN_MAKE_FILE"
       done
       echo "" >> "$GEN_MAKE_FILE"
-      echo -e "\tmisc/fontbuild instancegen build/ufo/InterDisplay.designspace ${style}" >> "$GEN_MAKE_FILE"
+      echo -e "\tmisc/fontbuild instancegen build/ufo/InterAliaDisplay.designspace ${style}" >> "$GEN_MAKE_FILE"
     done
     echo "" >> "$GEN_MAKE_FILE"
 
@@ -517,45 +517,45 @@ else
     for style in "${all_styles[@]}"; do
       echo "${style}: ${style}_otf ${style}_ttf ${style}_ttf_hinted ${style}_web ${style}_web_hinted" >> "$GEN_MAKE_FILE"
 
-      echo "${style}_ttf_hinted: ${DIST_DIR_TOK}const-hinted/Inter-${style}.ttf" >> "$GEN_MAKE_FILE"
-      echo "${style}_ttf: ${DIST_DIR_TOK}const/Inter-${style}.ttf" >> "$GEN_MAKE_FILE"
-      echo "${style}_otf: ${DIST_DIR_TOK}const/Inter-${style}.otf" >> "$GEN_MAKE_FILE"
+      echo "${style}_ttf_hinted: ${DIST_DIR_TOK}const-hinted/InterAlia-${style}.ttf" >> "$GEN_MAKE_FILE"
+      echo "${style}_ttf: ${DIST_DIR_TOK}const/InterAlia-${style}.ttf" >> "$GEN_MAKE_FILE"
+      echo "${style}_otf: ${DIST_DIR_TOK}const/InterAlia-${style}.otf" >> "$GEN_MAKE_FILE"
 
       echo -n "${style}_web:" >> "$GEN_MAKE_FILE"
       for format in "${web_formats[@]}"; do
-        echo -n " ${DIST_DIR_TOK}const/Inter-${style}.${format}" >> "$GEN_MAKE_FILE"
+        echo -n " ${DIST_DIR_TOK}const/InterAlia-${style}.${format}" >> "$GEN_MAKE_FILE"
       done
       echo "" >> "$GEN_MAKE_FILE"
 
       echo -n "${style}_web_hinted:" >> "$GEN_MAKE_FILE"
       for format in "${web_formats[@]}"; do
-        echo -n " ${DIST_DIR_TOK}const-hinted/Inter-${style}.${format}" >> "$GEN_MAKE_FILE"
+        echo -n " ${DIST_DIR_TOK}const-hinted/InterAlia-${style}.${format}" >> "$GEN_MAKE_FILE"
       done
       echo "" >> "$GEN_MAKE_FILE"
 
-      echo "${style}_check: ${DIST_DIR_TOK}const/Inter-${style}.otf ${DIST_DIR_TOK}const/Inter-${style}.ttf" >> "$GEN_MAKE_FILE"
+      echo "${style}_check: ${DIST_DIR_TOK}const/InterAlia-${style}.otf ${DIST_DIR_TOK}const/InterAlia-${style}.ttf" >> "$GEN_MAKE_FILE"
       echo -e "\tmisc/fontbuild checkfont $^" >> "$GEN_MAKE_FILE"
 
 
       echo "display_${style}: display_${style}_otf display_${style}_ttf display_${style}_ttf_hinted display_${style}_web display_${style}_web_hinted" >> "$GEN_MAKE_FILE"
 
-      echo "display_${style}_ttf_hinted: ${DIST_DIR_TOK}const-hinted/InterDisplay-${style}.ttf" >> "$GEN_MAKE_FILE"
-      echo "display_${style}_ttf: ${DIST_DIR_TOK}const/InterDisplay-${style}.ttf" >> "$GEN_MAKE_FILE"
-      echo "display_${style}_otf: ${DIST_DIR_TOK}const/InterDisplay-${style}.otf" >> "$GEN_MAKE_FILE"
+      echo "display_${style}_ttf_hinted: ${DIST_DIR_TOK}const-hinted/InterAliaDisplay-${style}.ttf" >> "$GEN_MAKE_FILE"
+      echo "display_${style}_ttf: ${DIST_DIR_TOK}const/InterAliaDisplay-${style}.ttf" >> "$GEN_MAKE_FILE"
+      echo "display_${style}_otf: ${DIST_DIR_TOK}const/InterAliaDisplay-${style}.otf" >> "$GEN_MAKE_FILE"
 
       echo -n "display_${style}_web:" >> "$GEN_MAKE_FILE"
       for format in "${web_formats[@]}"; do
-        echo -n " ${DIST_DIR_TOK}const/InterDisplay-${style}.${format}" >> "$GEN_MAKE_FILE"
+        echo -n " ${DIST_DIR_TOK}const/InterAliaDisplay-${style}.${format}" >> "$GEN_MAKE_FILE"
       done
       echo "" >> "$GEN_MAKE_FILE"
 
       echo -n "display_${style}_web_hinted:" >> "$GEN_MAKE_FILE"
       for format in "${web_formats[@]}"; do
-        echo -n " ${DIST_DIR_TOK}const-hinted/InterDisplay-${style}.${format}" >> "$GEN_MAKE_FILE"
+        echo -n " ${DIST_DIR_TOK}const-hinted/InterAliaDisplay-${style}.${format}" >> "$GEN_MAKE_FILE"
       done
       echo "" >> "$GEN_MAKE_FILE"
 
-      echo "display_${style}_check: ${DIST_DIR_TOK}const/InterDisplay-${style}.otf ${DIST_DIR_TOK}const/InterDisplay-${style}.ttf" >> "$GEN_MAKE_FILE"
+      echo "display_${style}_check: ${DIST_DIR_TOK}const/InterAliaDisplay-${style}.otf ${DIST_DIR_TOK}const/InterAliaDisplay-${style}.ttf" >> "$GEN_MAKE_FILE"
       echo -e "\tmisc/fontbuild checkfont $^" >> "$GEN_MAKE_FILE"
 
 
@@ -637,16 +637,16 @@ else
     # all_samples_pdf target
     echo -n "all_samples_pdf:" >> "$GEN_MAKE_FILE"
     for style in "${all_styles[@]}"; do
-      echo -n " \$(FONTDIR)/samples/Inter-${style}.pdf" >> "$GEN_MAKE_FILE"
-      echo -n " \$(FONTDIR)/samples/InterDisplay-${style}.pdf" >> "$GEN_MAKE_FILE"
+      echo -n " \$(FONTDIR)/samples/InterAlia-${style}.pdf" >> "$GEN_MAKE_FILE"
+      echo -n " \$(FONTDIR)/samples/InterAliaDisplay-${style}.pdf" >> "$GEN_MAKE_FILE"
     done
     echo "" >> "$GEN_MAKE_FILE"
 
     # all_samples_png target
     echo -n "all_samples_png:" >> "$GEN_MAKE_FILE"
     for style in "${all_styles[@]}"; do
-      echo -n " \$(FONTDIR)/samples/Inter-${style}.png" >> "$GEN_MAKE_FILE"
-      echo -n " \$(FONTDIR)/samples/InterDisplay-${style}.png" >> "$GEN_MAKE_FILE"
+      echo -n " \$(FONTDIR)/samples/InterAlia-${style}.png" >> "$GEN_MAKE_FILE"
+      echo -n " \$(FONTDIR)/samples/InterAliaDisplay-${style}.png" >> "$GEN_MAKE_FILE"
     done
     echo "" >> "$GEN_MAKE_FILE"
 

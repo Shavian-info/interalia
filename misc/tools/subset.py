@@ -24,48 +24,48 @@ FORCE = False
 FONTS = [
 
   # Text family
-  { 'infile':  'build/fonts/var/Inter.var.ttf',
-    'outfile': 'build/fonts/subset/Inter.{subset}.var.woff2',
-    'css_family': 'Inter var experimental',
+  { 'infile':  'build/fonts/var/InterAlia.var.ttf',
+    'outfile': 'build/fonts/subset/InterAlia.{subset}.var.woff2',
+    'css_family': 'Inter Alia var experimental',
     'css_weight': '100 900',
     'css_style':  'oblique 0deg 10deg',
   },
 
-  { 'infile':  'build/fonts/var/Inter-roman.var.ttf',
-    'outfile': 'build/fonts/subset/Inter-roman.{subset}.var.woff2',
-    'css_family': 'Inter var',
+  { 'infile':  'build/fonts/var/InterAlia-roman.var.ttf',
+    'outfile': 'build/fonts/subset/InterAlia-roman.{subset}.var.woff2',
+    'css_family': 'Inter Alia var',
     'css_weight': '100 900',
     'css_style':  'normal',
     'css_extra':  "font-named-instance: 'Regular';",
   },
 
-  { 'infile':  'build/fonts/var/Inter-italic.var.ttf',
-    'outfile': 'build/fonts/subset/Inter-italic.{subset}.var.woff2',
-    'css_family': 'Inter var',
+  { 'infile':  'build/fonts/var/InterAlia-italic.var.ttf',
+    'outfile': 'build/fonts/subset/InterAlia-italic.{subset}.var.woff2',
+    'css_family': 'Inter Alia var',
     'css_weight': '100 900',
     'css_style':  'italic',
     'css_extra':  "font-named-instance: 'Italic';",
   },
 
   # Display family
-  { 'infile':  'build/fonts/var/InterDisplay.var.ttf',
-    'outfile': 'build/fonts/subset/InterDisplay.{subset}.var.woff2',
-    'css_family': 'InterDisplay var experimental',
+  { 'infile':  'build/fonts/var/InterAliaDisplay.var.ttf',
+    'outfile': 'build/fonts/subset/InterAliaDisplay.{subset}.var.woff2',
+    'css_family': 'Inter AliaDisplay var experimental',
     'css_weight': '100 900',
     'css_style':  'oblique 0deg 10deg',
   },
 
-  { 'infile':  'build/fonts/var/InterDisplay-roman.var.ttf',
-    'outfile': 'build/fonts/subset/InterDisplay-roman.{subset}.var.woff2',
-    'css_family': 'InterDisplay var',
+  { 'infile':  'build/fonts/var/InterAliaDisplay-roman.var.ttf',
+    'outfile': 'build/fonts/subset/InterAliaDisplay-roman.{subset}.var.woff2',
+    'css_family': 'Inter AliaDisplay var',
     'css_weight': '100 900',
     'css_style':  'normal',
     'css_extra':  "font-named-instance: 'Regular';",
   },
 
-  { 'infile':  'build/fonts/var/InterDisplay-italic.var.ttf',
-    'outfile': 'build/fonts/subset/InterDisplay-italic.{subset}.var.woff2',
-    'css_family': 'InterDisplay var',
+  { 'infile':  'build/fonts/var/InterAliaDisplay-italic.var.ttf',
+    'outfile': 'build/fonts/subset/InterAliaDisplay-italic.{subset}.var.woff2',
+    'css_family': 'Inter AliaDisplay var',
     'css_weight': '100 900',
     'css_style':  'italic',
     'css_extra':  "font-named-instance: 'Italic';",
@@ -183,6 +183,10 @@ def main(argv):
     range(0x2DE0, 0x2DFF),
     range(0xA640, 0xA69F),
     range(0xFE2E, 0xFE2F),
+  ),
+  
+    defsubset('shavian',
+    range(10450, 1047F),
   ),
 
   defsubset('symbols',
@@ -371,7 +375,7 @@ def genCompactIntRanges(codepoints :[int]) -> [[int]]:
 def genCSS(fontinfo, subsets):
   outfileTemplate = pjoin(BASEDIR, fontinfo['outfile'])
 
-  css_family = fontinfo.get('css_family', 'Inter')
+  css_family = fontinfo.get('css_family', 'Inter Alia')
   css_style  = fontinfo.get('css_style', 'normal')
   css_weight = fontinfo.get('css_weight', '400')
   css_extra  = fontinfo.get('css_extra', '')

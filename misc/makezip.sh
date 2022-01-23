@@ -54,8 +54,8 @@ if $OPT_HELP; then
   echo "Usage: $0 [options] <outfile>"
   echo "Options:"
   echo "  -h, -help          Show help."
-  echo "  -text              Include Inter Text"
-  echo "  -display           Include Inter Display"
+  echo "  -text              Include Inter Alia Text"
+  echo "  -display           Include Inter Alia Display"
   echo "  -a, -all           Include all fonts"
   echo "  -reveal-in-finder  After creating the zip file, show it in Finder"
   exit 1
@@ -77,61 +77,61 @@ rm -f  build/tmp/a.zip
 
 # create directories
 mkdir -p \
-  "$ZIPDIR/Inter Desktop" \
-  "$ZIPDIR/Inter Hinted for Windows/Desktop" \
-  "$ZIPDIR/Inter Hinted for Windows/Web" \
-  "$ZIPDIR/Inter Variable" \
-  "$ZIPDIR/Inter Variable/Single axis" \
-  "$ZIPDIR/Inter Web"
+  "$ZIPDIR/Inter Alia Desktop" \
+  "$ZIPDIR/Inter Alia Hinted for Windows/Desktop" \
+  "$ZIPDIR/Inter Alia Hinted for Windows/Web" \
+  "$ZIPDIR/Inter Alia Variable" \
+  "$ZIPDIR/Inter Alia Variable/Single axis" \
+  "$ZIPDIR/Inter Alia Web"
 
 # copy font files
 # ----------------------------------------------------------------------------
 if $OPT_TEXT; then
-  # Inter Desktop
-  cp $FONTDIR/const/Inter-*.otf          "$ZIPDIR/Inter Desktop/" &
-  cp $FONTDIR/var/Inter-V.var.ttf        "$ZIPDIR/Inter Desktop/Inter-V.ttf" &
+  # Inter Alia Desktop
+  cp $FONTDIR/const/InterAlia-*.otf          "$ZIPDIR/Inter Alia Desktop/" &
+  cp $FONTDIR/var/InterAlia-V.var.ttf        "$ZIPDIR/Inter Alia Desktop/InterAlia-V.ttf" &
 
-  # Inter Hinted for Windows
-  cp "misc/dist/about hinted fonts.txt"  "$ZIPDIR/Inter Hinted for Windows/" &
-  cp $FONTDIR/const-hinted/Inter-*.ttf   "$ZIPDIR/Inter Hinted for Windows/Desktop/" &
-  cp $FONTDIR/const-hinted/Inter-*.woff* "$ZIPDIR/Inter Hinted for Windows/Web/" &
-  cp misc/dist/inter.css                 "$ZIPDIR/Inter Hinted for Windows/Web/" &
+  # Inter Alia Hinted for Windows
+  cp "misc/dist/about hinted fonts.txt"  "$ZIPDIR/Inter Alia Hinted for Windows/" &
+  cp $FONTDIR/const-hinted/InterAlia-*.ttf   "$ZIPDIR/Inter Alia Hinted for Windows/Desktop/" &
+  cp $FONTDIR/const-hinted/InterAlia-*.woff* "$ZIPDIR/Inter Alia Hinted for Windows/Web/" &
+  cp misc/dist/interalia.css                 "$ZIPDIR/Inter Alia Hinted for Windows/Web/" &
 
-  # Inter Variable
-  cp $FONTDIR/var/Inter.var.ttf          "$ZIPDIR/Inter Variable/Inter.ttf" &
-  cp $FONTDIR/var/Inter-roman.var.ttf    "$ZIPDIR/Inter Variable/Single axis/Inter-roman.ttf" &
-  cp $FONTDIR/var/Inter-italic.var.ttf   "$ZIPDIR/Inter Variable/Single axis/Inter-italic.ttf" &
+  # Inter Alia Variable
+  cp $FONTDIR/var/InterAlia.var.ttf          "$ZIPDIR/Inter Alia Variable/InterAlia.ttf" &
+  cp $FONTDIR/var/InterAlia-roman.var.ttf    "$ZIPDIR/Inter Alia Variable/Single axis/InterAlia-roman.ttf" &
+  cp $FONTDIR/var/InterAlia-italic.var.ttf   "$ZIPDIR/Inter Alia Variable/Single axis/InterAlia-italic.ttf" &
 
-  # Inter Web
-  cp $FONTDIR/const/Inter-*.woff*        "$ZIPDIR/Inter Web/" &
-  cp $FONTDIR/var/Inter.var.woff2        "$ZIPDIR/Inter Web/" &
-  cp $FONTDIR/var/Inter-roman.var.woff2  "$ZIPDIR/Inter Web/" &
-  cp $FONTDIR/var/Inter-italic.var.woff2 "$ZIPDIR/Inter Web/" &
-  cp misc/dist/inter.css                 "$ZIPDIR/Inter Web/" &
+  # Inter Alia Web
+  cp $FONTDIR/const/InterAlia-*.woff*        "$ZIPDIR/Inter Alia Web/" &
+  cp $FONTDIR/var/InterAlia.var.woff2        "$ZIPDIR/Inter Alia Web/" &
+  cp $FONTDIR/var/InterAlia-roman.var.woff2  "$ZIPDIR/Inter Alia Web/" &
+  cp $FONTDIR/var/InterAlia-italic.var.woff2 "$ZIPDIR/Inter Alia Web/" &
+  cp misc/dist/interalia.css                 "$ZIPDIR/Inter Alia Web/" &
 fi
 # ----------------------------------------------------------------------------
 if $OPT_DISPLAY; then
-  # Inter Desktop
-  cp $FONTDIR/const/InterDisplay-*.otf          "$ZIPDIR/Inter Desktop/" &
-  cp $FONTDIR/var/InterDisplay-V.var.ttf        "$ZIPDIR/Inter Desktop/InterDisplay-V.ttf" &
+  # Inter Alia Desktop
+  cp $FONTDIR/const/InterAliaDisplay-*.otf          "$ZIPDIR/Inter Alia Desktop/" &
+  cp $FONTDIR/var/InterAliaDisplay-V.var.ttf        "$ZIPDIR/Inter Alia Desktop/InterAliaDisplay-V.ttf" &
 
-  # Inter Hinted for Windows
-  cp "misc/dist/about hinted fonts.txt"         "$ZIPDIR/Inter Hinted for Windows/" &
-  cp $FONTDIR/const-hinted/InterDisplay-*.ttf   "$ZIPDIR/Inter Hinted for Windows/Desktop/" &
-  cp $FONTDIR/const-hinted/InterDisplay-*.woff* "$ZIPDIR/Inter Hinted for Windows/Web/" &
-  cp misc/dist/inter-display.css                "$ZIPDIR/Inter Hinted for Windows/Web/" &
+  # Inter Alia Hinted for Windows
+  cp "misc/dist/about hinted fonts.txt"         "$ZIPDIR/Inter Alia Hinted for Windows/" &
+  cp $FONTDIR/const-hinted/InterAliaDisplay-*.ttf   "$ZIPDIR/Inter Alia Hinted for Windows/Desktop/" &
+  cp $FONTDIR/const-hinted/InterAliaDisplay-*.woff* "$ZIPDIR/Inter Alia Hinted for Windows/Web/" &
+  cp misc/dist/interalia-display.css                "$ZIPDIR/Inter Alia Hinted for Windows/Web/" &
 
-  # Inter Variable
-  cp $FONTDIR/var/InterDisplay.var.ttf          "$ZIPDIR/Inter Variable/InterDisplay.ttf" &
-  cp $FONTDIR/var/InterDisplay-roman.var.ttf    "$ZIPDIR/Inter Variable/Single axis/InterDisplay-roman.ttf" &
-  cp $FONTDIR/var/InterDisplay-italic.var.ttf   "$ZIPDIR/Inter Variable/Single axis/InterDisplay-italic.ttf" &
+  # Inter Alia Variable
+  cp $FONTDIR/var/InterAliaDisplay.var.ttf          "$ZIPDIR/Inter Alia Variable/InterAliaDisplay.ttf" &
+  cp $FONTDIR/var/InterAliaDisplay-roman.var.ttf    "$ZIPDIR/Inter Alia Variable/Single axis/InterAliaDisplay-roman.ttf" &
+  cp $FONTDIR/var/InterAliaDisplay-italic.var.ttf   "$ZIPDIR/Inter Alia Variable/Single axis/InterAliaDisplay-italic.ttf" &
 
-  # Inter Web
-  cp $FONTDIR/const/InterDisplay-*.woff*        "$ZIPDIR/Inter Web/" &
-  cp $FONTDIR/var/InterDisplay.var.woff2        "$ZIPDIR/Inter Web/" &
-  cp $FONTDIR/var/InterDisplay-roman.var.woff2  "$ZIPDIR/Inter Web/" &
-  cp $FONTDIR/var/InterDisplay-italic.var.woff2 "$ZIPDIR/Inter Web/" &
-  cp misc/dist/inter-display.css                "$ZIPDIR/Inter Web/" &
+  # Inter Alia Web
+  cp $FONTDIR/const/InterAliaDisplay-*.woff*        "$ZIPDIR/Inter Alia Web/" &
+  cp $FONTDIR/var/InterAliaDisplay.var.woff2        "$ZIPDIR/Inter Alia Web/" &
+  cp $FONTDIR/var/InterAliaDisplay-roman.var.woff2  "$ZIPDIR/Inter Alia Web/" &
+  cp $FONTDIR/var/InterAliaDisplay-italic.var.woff2 "$ZIPDIR/Inter Alia Web/" &
+  cp misc/dist/interalia-display.css                "$ZIPDIR/Inter Alia Web/" &
 fi
 # ----------------------------------------------------------------------------
 

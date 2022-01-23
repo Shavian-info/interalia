@@ -1,5 +1,5 @@
 // constants
-var kSVGScale  = 0.1 // how bmuch metrics are scaled in the SVGs
+var kSVGScale  = 0.1 // how much metrics are scaled in the SVGs
 var kGlyphSize = 346 // at kSVGScale. In sync with CSS and SVGs
 var kUPM       = 2816
 

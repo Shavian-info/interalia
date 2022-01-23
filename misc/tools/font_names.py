@@ -134,7 +134,7 @@ def renameFontFamily(infile, outfile, newFamilyName):
 
 
 def main():
-  infile = "./build/fonts/var/Inter.var.ttf"
+  infile = "./build/fonts/var/InterAlia.var.ttf"
   outfile = "./build/tmp/var2.otf"
   renameFontFamily(infile, outfile, "Inter V")
   print("%s familyName: %r" % (infile, getFamilyName(loadFont(infile)) ))

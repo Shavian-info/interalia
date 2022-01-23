@@ -18,14 +18,14 @@ var fontFamilyName,
       interBuildVersion.replace(/\./g, "_")
   );
 
-  fontFamilyName = 'Inter-v' + fontVersion
-  fontFamilyNameHinted = 'Inter-hinted-v' + fontVersion
-  fontFamilyNameVar = 'Inter-var-v' + fontVersion
-  fontFamilyNameVarHinted = 'Inter-var-hinted-v' + fontVersion
-  fontFamilyNameDisplay = 'InterDisplay-v' + fontVersion
-  fontFamilyNameDisplayHinted = 'InterDisplay-hinted-v' + fontVersion
-  fontFamilyNameDisplayVar = 'InterDisplay-var-v' + fontVersion
-  fontFamilyNameDisplayVarHinted = 'InterDisplay-var-hinted-v' + fontVersion
+  fontFamilyName = 'InterAlia-v' + fontVersion
+  fontFamilyNameHinted = 'InterAlia-hinted-v' + fontVersion
+  fontFamilyNameVar = 'InterAlia-var-v' + fontVersion
+  fontFamilyNameVarHinted = 'InterAlia-var-hinted-v' + fontVersion
+  fontFamilyNameDisplay = 'InterAliaDisplay-v' + fontVersion
+  fontFamilyNameDisplayHinted = 'InterAliaDisplay-hinted-v' + fontVersion
+  fontFamilyNameDisplayVar = 'InterAliaDisplay-var-v' + fontVersion
+  fontFamilyNameDisplayVarHinted = 'InterAliaDisplay-var-hinted-v' + fontVersion
 
   let outbuf = []
   function w(s) { outbuf.push(s) }
@@ -68,10 +68,10 @@ var fontFamilyName,
   }
 
   let families = [
-    ["Inter",        "const",        fontFamilyName],
-    ["Inter",        "const-hinted", fontFamilyNameHinted],
-    ["InterDisplay", "const",        fontFamilyNameDisplay],
-    ["InterDisplay", "const-hinted", fontFamilyNameDisplayHinted],
+    ["InterAlia",        "const",        fontFamilyName],
+    ["InterAlia",        "const-hinted", fontFamilyNameHinted],
+    ["InterAliaDisplay", "const",        fontFamilyNameDisplay],
+    ["InterAliaDisplay", "const-hinted", fontFamilyNameDisplayHinted],
   ]
 
   for (let [family, filepath, cssname] of families) {
@@ -83,8 +83,8 @@ var fontFamilyName,
   }
 
   for (let [family,cssname] of [
-    ["Inter",fontFamilyNameVar],
-    ["InterDisplay",fontFamilyNameDisplayVar],
+    ["InterAlia",fontFamilyNameVar],
+    ["InterAliaDisplay",fontFamilyNameDisplayVar],
   ]) {
     w(`@font-face {
       font-family: '${cssname}';
