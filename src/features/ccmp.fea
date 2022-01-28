@@ -7,46 +7,46 @@
   tildeacutecomb macrongravecomb.cn macronacutecomb.cn
   macrondieresiscomb.cn acutedotcomb.cn carondotcomb.cn
   tildemacroncomb.cn tildedieresiscomb.cn circumflexnosp overscorenosp
-  brevenosp dotnosp dieresisnosp hook ringnosp acutedblnosp caroncmb
-  linevertnosp linevertdblnosp dblgravecmb candrabindunosp breveinvnosp
-  commaturnsupnosp commaabovecmb commasuprevnosp commaaboverightcmb
+  brevenosp dotnosp dieresisnosp hook ringnosp acutedblnosp caroncomb
+  linevertnosp linevertdblnosp dblgravecomb candrabindunosp breveinvnosp
+  commaturnsupnosp commaabovecomb commasuprevnosp commaaboverightcomb
   anglesupnosp hornnosp xsupnosp tildevertsupnosp overscoredblnosp
-  graveleftnosp acuterightnosp perispomenigreekcmb koroniscmb
-  diaeresistonosnosp uni0346 uni034A uni034B uni034C arrowheadrightabovecomb uni0351
-  uni0352 uni0357 uni0358 uni035B uni1DC0 uni1DC1 uni1DC3 uni1DC4
-  uni1DC5 uni1DC6 uni1DC7 uni1DC8 uni1DC9 uni1DCB uni1DCC uni1DCD
-  uni1DCE uni1DD1 uni1DD2 uni1DD3 uni1DD4 uni1DD5 uni1DD6 uni1DD7
-  uni1DD8 uni1DD9 uni1DDA uni1DDB uni1DDC uni1DDD uni1DDE uni1DDF
-  uni1DE0 uni1DE1 uni1DE2 uni1DE3 uni1DE4 uni1DE5 uni1DE6 uni1DE7
-  uni1DE8 uni1DE9 uni1DEA uni1DEB uni1DEC uni1DED uni1DEE uni1DEF
-  uni1DF0 uni1DF1 uni1DF2 uni1DF3 uni1DF4 uni1DF5 uni1DFE uni0363
-  uni0364 uni0365 uni0366 uni0367 uni0368 uni0369 uni036A uni036B
-  uni036C uni036D uni036E uni036F titlocyrilliccmb
-  palatalizationcyrilliccmb dasiapneumatacyrilliccmb
-  psilipneumatacyrilliccmb uni0487 uni20F0 uniA69F uni2DFF uni20DC
-  uniFE20 uniFE21 uniFE22 uniFE23 uniFE24 uniFE25 uniFE26
+  graveleftnosp acuterightnosp perispomenicomb koroniscomb
+  diaeresistonosnosp gbridgeabovecomb nottildeabovecomb homotheticabovecomb almostequaltoabovecomb arrowheadrightabovecomb lefthalfringabovecomb
+  fermatacomb righthalfringabovecomb dotaboverightcomb zigzagabovecomb gravedottedcomb acutedottedcomb suspensioncomb macronacutecomb
+  gravemacroncomb macrongravecomb acutemacroncomb graveacutegravecomb acutegraveacutecomb brevemacroncomb macronbrevecomb doublecircumflexcomb
+  ogonekabovecomb urabovecomb usabovecomb flattenedopenaabovecomb aecomb aocomb avcomb ccedillacomb
+  insulardcomb ethcomb gcomb Gcomb kcomb lcomb Lcomb Mcomb
+  ncomb Ncomb Rcomb rrotundacomb scomb longscomb zcomb alphalatincomb
+  bcomb betalatincomb schwacomb fcomb ldoublemiddletildecomb olightcentralizationstrokecomb pcomb eshcomb
+  ulightcentralizationstrokecomb wcomb adiaeresiscomb odiaeresiscomb udiaeresiscomb uptackabovecomb arrowheadleftabovecomb acomb
+  ecomb icomb ocomb ucomb ccomb dcomb hcomb mcomb
+  rcomb tcomb vcomb xcomb titlocomb-cy
+  palatalizationcomb-cy dasiapneumatacomb-cy
+  psilipneumatacomb-cy pokrytiecomb-cy asteriskabovecomb iotifiedecomb-cy iotifiedbigYuscomb-cy fourdotsabovecomb
+  ligaturelefthalfcomb ligaturerighthalfcomb doubletildelefthalfcomb doubletilderighthalfcomb macronlefthalfcomb macronrighthalfcomb conjoiningmacroncomb
 ];
 
 # Transpose sequences like /i /gravecomb -> /idotless /gravecomb
 lookup ccmp02 {
   sub i' @CCMP_ACC by idotless;
   sub j' @CCMP_ACC by jdotless;
-  sub ibar' @CCMP_ACC by uni0268.ccmp;
-  sub iogonek' @CCMP_ACC by uni012F.ccmp; # iogonek is generated
-  sub uni0249' @CCMP_ACC by uni0249.ccmp;
+  sub ibar' @CCMP_ACC by istroke.ccmp;
+  sub iogonek' @CCMP_ACC by iogonek.ccmp; # iogonek is generated
+  sub jstroke' @CCMP_ACC by jstroke.ccmp;
   sub jcrosstail' @CCMP_ACC by jcrosstail.ccmp;
-  sub yotgreek' @CCMP_ACC by jdotless;
-  sub icyrillic' @CCMP_ACC by idotless;
-  sub jecyrillic' @CCMP_ACC by jdotless;
-  sub itildebelow' @CCMP_ACC by uni1E2D.ccmp; # uni1E2D.ccmp is generated
-  sub idotbelow' @CCMP_ACC by uni1ECB.ccmp; # both are generated
-  sub i.numr' @CCMP_ACC by uni2071.ccmp;
+  sub yot' @CCMP_ACC by jdotless;
+  sub i-cy' @CCMP_ACC by idotless;
+  sub je-cy' @CCMP_ACC by jdotless;
+  sub itildebelow' @CCMP_ACC by itildebelow.ccmp; # itildebelow.ccmp is generated
+  sub idotbelow' @CCMP_ACC by idotbelow.ccmp; # both are generated
+  sub i.numr' @CCMP_ACC by imod.ccmp;
 } ccmp02;
 
 lookup ccmp03 {
-  sub d caroncmb by dcaron;
-  sub l caroncmb by lcaron;
-  sub t caroncmb by tcaron;
+  sub d caroncomb by dcaron;
+  sub l caroncomb by lcaron;
+  sub t caroncomb by tcaron;
 
   sub A gravecomb by Agrave;
   sub A acutecomb by Aacute;
@@ -119,9 +119,9 @@ lookup ccmp03 {
   sub c circumflexnosp by ccircumflex;
   sub C dotnosp by Cdotaccent;
   sub c dotnosp by cdotaccent;
-  sub C caroncmb by Ccaron;
-  sub c caroncmb by ccaron;
-  sub D caroncmb by Dcaron;
+  sub C caroncomb by Ccaron;
+  sub c caroncomb by ccaron;
+  sub D caroncomb by Dcaron;
   sub E macroncomb by Emacron;
   sub e macroncomb by emacron;
   sub E brevenosp by Ebreve;
@@ -130,15 +130,15 @@ lookup ccmp03 {
   sub e dotnosp by edotaccent;
   sub E ogoneknosp by Eogonek;
   sub e ogoneknosp by eogonek;
-  sub E caroncmb by Ecaron;
-  sub e caroncmb by ecaron;
+  sub E caroncomb by Ecaron;
+  sub e caroncomb by ecaron;
   sub G circumflexnosp by Gcircumflex;
   sub g circumflexnosp by gcircumflex;
   sub G brevenosp by Gbreve;
   sub g brevenosp by gbreve;
   sub G dotnosp by Gdotaccent;
   sub g dotnosp by gdotaccent;
-  sub G commaaccent by Gcommaaccent;
+  sub G commaaccentcomb by Gcommaaccent;
   sub g commaaccentrotate.cn by gcommaaccent;
   sub H circumflexnosp by Hcircumflex;
   sub h circumflexnosp by hcircumflex;
@@ -153,20 +153,20 @@ lookup ccmp03 {
   sub I dotnosp by Idotaccent;
   sub J circumflexnosp by Jcircumflex;
   sub jdotless circumflexnosp by jcircumflex;
-  sub K commaaccent by Kcommaaccent;
-  sub k commaaccent by kcommaaccent;
+  sub K commaaccentcomb by Kcommaaccent;
+  sub k commaaccentcomb by kcommaaccent;
   sub L acutecomb by Lacute;
   sub l acutecomb by lacute;
-  sub L commaaccent by Lcommaaccent;
-  sub l commaaccent by lcommaaccent;
+  sub L commaaccentcomb by Lcommaaccent;
+  sub l commaaccentcomb by lcommaaccent;
   sub L dotnosp by Ldot;
   sub l dotnosp by ldot;
   sub N acutecomb by Nacute;
   sub n acutecomb by nacute;
-  sub N commaaccent by Ncommaaccent;
-  sub n commaaccent by ncommaaccent;
-  sub N caroncmb by Ncaron;
-  sub n caroncmb by ncaron;
+  sub N commaaccentcomb by Ncommaaccent;
+  sub n commaaccentcomb by ncommaaccent;
+  sub N caroncomb by Ncaron;
+  sub n caroncomb by ncaron;
   sub O macroncomb by Omacron;
   sub o macroncomb by omacron;
   sub O brevenosp by Obreve;
@@ -175,25 +175,25 @@ lookup ccmp03 {
   sub o acutedblnosp by ohungarumlaut;
   sub R acutecomb by Racute;
   sub r acutecomb by racute;
-  sub R commaaccent by Rcommaaccent;
-  sub r commaaccent by rcommaaccent;
-  sub R caroncmb by Rcaron;
-  sub r caroncmb by rcaron;
+  sub R commaaccentcomb by Rcommaaccent;
+  sub r commaaccentcomb by rcommaaccent;
+  sub R caroncomb by Rcaron;
+  sub r caroncomb by rcaron;
   sub S acutecomb by Sacute;
   sub s acutecomb by sacute;
   sub S circumflexnosp by Scircumflex;
   sub s circumflexnosp by scircumflex;
   sub S cedillanosp by Scedilla;
   sub s cedillanosp by scedilla;
-  sub S commaaccent by Scommaaccent;
-  sub s commaaccent by scommaaccent;
-  sub S caroncmb by Scaron;
-  sub s caroncmb by scaron;
-  sub T commaaccent by uni021A;
-  sub t commaaccent by tcommaaccent;
+  sub S commaaccentcomb by Scommaaccent;
+  sub s commaaccentcomb by scommaaccent;
+  sub S caroncomb by Scaron;
+  sub s caroncomb by scaron;
+  sub T commaaccentcomb by Tcommaaccent;
+  sub t commaaccentcomb by tcommaaccent;
   sub T cedillanosp by Tcommaaccent;
   sub t cedillanosp by tcedilla;
-  sub T caroncmb by Tcaron;
+  sub T caroncomb by Tcaron;
   sub U tildecomb by Utilde;
   sub u tildecomb by utilde;
   sub U macroncomb by Umacron;
@@ -215,13 +215,13 @@ lookup ccmp03 {
   sub z acutecomb by zacute;
   sub Z dotnosp by Zdotaccent;
   sub z dotnosp by zdotaccent;
-  sub Z caroncmb by Zcaron;
-  sub z caroncmb by zcaron;
+  sub Z caroncomb by Zcaron;
+  sub z caroncomb by zcaron;
   sub AE acutecomb by AEacute;
   sub ae acutecomb by aeacute;
   sub Oslash acutecomb by Oslashacute;
   sub oslash acutecomb by oslashacute;
-  #sub z caroncmb by zcaron;
+  #sub z caroncomb by zcaron;
   sub W gravecomb by Wgrave;
   sub w gravecomb by wgrave;
   sub W acutecomb by Wacute;
@@ -230,30 +230,30 @@ lookup ccmp03 {
   sub w dieresisnosp by wdieresis;
   sub Y gravecomb by Ygrave;
   sub y gravecomb by ygrave;
-  sub jdotless caroncmb by jcaron;
+  sub jdotless caroncomb by jcaron;
   sub A dotbelow by Adotbelow;
   sub a dotbelow by adotbelow;
   sub A hook by Ahookabove;
   sub a hook by ahookabove;
-  #sub A circumflexacutecomb.cn by uni1EA4;
+  #sub A circumflexacutecomb.cn by Acircumflexacute;
   sub A circumflexnosp acutecomb by Acircumflexacute;
   sub a circumflexacutecomb.cn by acircumflexacute;
-  #sub A circumflexgravecomb.cn by uni1EA6;
+  #sub A circumflexgravecomb.cn by Acircumflexgrave;
   sub A circumflexnosp gravecomb by Acircumflexgrave;
   sub a circumflexgravecomb.cn by acircumflexgrave;
-  #sub A circumflexhookcomb.cn by uni1EA8;
+  #sub A circumflexhookcomb.cn by Acircumflexhookabove;
   sub A circumflexnosp hook by Acircumflexhookabove;
   sub a circumflexhookcomb.cn by acircumflexhookabove;
-  #sub A circumflextildecomb.cn by uni1EAA;
+  #sub A circumflextildecomb.cn by Acircumflextilde;
   sub A circumflexnosp tildecomb by Acircumflextilde;
   sub a circumflextildecomb.cn by acircumflextilde;
-  #sub A breveacutecomb.cn by uni1EAE;
+  #sub A breveacutecomb.cn by Abreveacute;
   sub A brevenosp acutecomb by Abreveacute;
   sub a breveacutecomb.cn by abreveacute;
-  #sub A brevegravecomb.cn by uni1EB0;
+  #sub A brevegravecomb.cn by Abrevegrave;
   sub A brevenosp gravecomb by Abrevegrave;
   sub a brevegravecomb.cn by abrevegrave;
-  #sub A brevehookcomb.cn by uni1EB2;
+  #sub A brevehookcomb.cn by Abrevehookabove;
   sub A brevenosp hook by Abrevehookabove;
   sub a brevehookcomb.cn by abrevehookabove;
   sub A brevetildecomb.cn by Abrevetilde;
@@ -264,16 +264,16 @@ lookup ccmp03 {
   sub e hook by ehookabove;
   sub E tildecomb by Etilde;
   sub e tildecomb by etilde;
-  #sub E circumflexacutecomb.cn by uni1EBE;
+  #sub E circumflexacutecomb.cn by Ecircumflexacute;
   sub E circumflexnosp acutecomb by Ecircumflexacute;
   sub e circumflexacutecomb.cn by ecircumflexacute;
-  #sub E circumflexgravecomb.cn by uni1EC0;
+  #sub E circumflexgravecomb.cn by Ecircumflexgrave;
   sub E circumflexnosp gravecomb by Ecircumflexgrave;
   sub e circumflexgravecomb.cn by ecircumflexgrave;
-  #sub E circumflexhookcomb.cn by uni1EC2;
+  #sub E circumflexhookcomb.cn by Ecircumflexhookabove;
   sub E circumflexnosp hook by Ecircumflexhookabove;
   sub e circumflexhookcomb.cn by ecircumflexhookabove;
-  #sub E circumflextildecomb.cn by uni1EC4;
+  #sub E circumflextildecomb.cn by Ecircumflextilde;
   sub E circumflexnosp tildecomb by Ecircumflextilde;
   sub e circumflextildecomb.cn by ecircumflextilde;
   sub I hook by Ihookabove;
@@ -284,16 +284,16 @@ lookup ccmp03 {
   sub o dotbelow by odotbelow;
   sub O hook by Ohookabove;
   sub o hook by ohookabove;
-  #sub O circumflexacutecomb.cn by uni1ED0;
+  #sub O circumflexacutecomb.cn by Ocircumflexacute;
   sub O circumflexnosp acutecomb by Ocircumflexacute;
   sub o circumflexacutecomb.cn by ocircumflexacute;
-  #sub O circumflexgravecomb.cn by uni1ED2;
+  #sub O circumflexgravecomb.cn by Ocircumflexgrave;
   sub O circumflexnosp gravecomb by Ocircumflexgrave;
   sub o circumflexgravecomb.cn by ocircumflexgrave;
-  #sub O circumflexhookcomb.cn by uni1ED4;
+  #sub O circumflexhookcomb.cn by Ocircumflexhookabove;
   sub O circumflexnosp hook by Ocircumflexhookabove;
   sub o circumflexhookcomb.cn by ocircumflexhookabove;
-  #sub O circumflextildecomb.cn by uni1ED6;
+  #sub O circumflextildecomb.cn by Ocircumflextilde;
   sub O circumflexnosp tildecomb by Ocircumflextilde;
   sub o circumflextildecomb.cn by ocircumflextilde;
   sub Ohorn acutecomb by Ohornacute;
@@ -326,109 +326,109 @@ lookup ccmp03 {
   sub y hook by yhookabove;
   sub Y tildecomb by Ytilde;
   sub y tildecomb by ytilde;
-  sub A caroncmb by Acaron;
-  sub a caroncmb by acaron;
-  sub I caroncmb by Icaron;
-  sub idotless caroncmb by icaron;
-  sub O caroncmb by Ocaron;
-  sub o caroncmb by ocaron;
-  sub U caroncmb by Ucaron;
-  sub u caroncmb by ucaron;
-  #sub U dieresismacroncomb.cn by uni01D5;
+  sub A caroncomb by Acaron;
+  sub a caroncomb by acaron;
+  sub I caroncomb by Icaron;
+  sub idotless caroncomb by icaron;
+  sub O caroncomb by Ocaron;
+  sub o caroncomb by ocaron;
+  sub U caroncomb by Ucaron;
+  sub u caroncomb by ucaron;
+  #sub U dieresismacroncomb.cn by Udieresismacron;
   sub U dieresisnosp macroncomb by Udieresismacron;
   sub u dieresismacroncomb.cn by udieresismacron;
-  #sub U dieresisacutecomb.cn by uni01D7;
+  #sub U dieresisacutecomb.cn by Udieresisacute;
   sub U dieresisnosp acutecomb by Udieresisacute;
   sub u dieresisacutecomb.cn by udieresisacute;
-  #sub U dieresiscaroncomb.cn by uni01D9;
-  sub U dieresisnosp caroncmb by Udieresiscaron;
+  #sub U dieresiscaroncomb.cn by Udieresiscaron;
+  sub U dieresisnosp caroncomb by Udieresiscaron;
   sub u dieresiscaroncomb.cn by udieresiscaron;
-  #sub U dieresisgravecomb.cn by uni01DB;
+  #sub U dieresisgravecomb.cn by Udieresisgrave;
   sub U dieresisnosp gravecomb by Udieresisgrave;
   sub u dieresisgravecomb.cn by udieresisgrave;
-  #sub A dieresismacroncomb.cn by uni01DE;
+  #sub A dieresismacroncomb.cn by Adieresismacron;
   sub A dieresisnosp macroncomb by Adieresismacron;
   sub a dieresismacroncomb.cn by adieresismacron;
-  #sub A dotmacroncomb.cn by uni01E0;
+  #sub A dotmacroncomb.cn by Adotmacron;
   sub A dotnosp macroncomb by Adotmacron;
   sub a dotmacroncomb.cn by adotmacron;
   sub AE macroncomb by AEmacron;
   sub ae macroncomb by aemacron;
-  sub G caroncmb by Gcaron;
-  sub g caroncmb by gcaron;
-  sub K caroncmb by Kcaron;
-  sub k caroncmb by kcaron;
+  sub G caroncomb by Gcaron;
+  sub g caroncomb by gcaron;
+  sub K caroncomb by Kcaron;
+  sub k caroncomb by kcaron;
   sub O ogoneknosp by Oogonek;
   sub o ogoneknosp by oogonek;
   sub G acutecomb by Gacute;
   sub g acutecomb by gacute;
-  sub N gravecomb by uni01F8;
-  sub n gravecomb by uni01F9;
-  sub A dblgravecmb by Adblgrave;
-  sub a dblgravecmb by adblgrave;
+  sub N gravecomb by Ngrave;
+  sub n gravecomb by ngrave;
+  sub A dblgravecomb by Adblgrave;
+  sub a dblgravecomb by adblgrave;
   sub A breveinvnosp by Ainvertedbreve;
   sub a breveinvnosp by ainvertedbreve;
-  sub E dblgravecmb by Edblgrave;
-  sub e dblgravecmb by edblgrave;
+  sub E dblgravecomb by Edblgrave;
+  sub e dblgravecomb by edblgrave;
   sub E breveinvnosp by Einvertedbreve;
   sub e breveinvnosp by einvertedbreve;
-  sub I dblgravecmb by Idblgrave;
-  sub idotless dblgravecmb by idblgrave;
+  sub I dblgravecomb by Idblgrave;
+  sub idotless dblgravecomb by idblgrave;
   sub I breveinvnosp by Iinvertedbreve;
   sub idotless breveinvnosp by iinvertedbreve;
-  sub O dblgravecmb by Odblgrave;
-  sub o dblgravecmb by odblgrave;
+  sub O dblgravecomb by Odblgrave;
+  sub o dblgravecomb by odblgrave;
   sub O breveinvnosp by Oinvertedbreve;
   sub o breveinvnosp by oinvertedbreve;
-  sub R dblgravecmb by Rdblgrave;
-  sub r dblgravecmb by rdblgrave;
+  sub R dblgravecomb by Rdblgrave;
+  sub r dblgravecomb by rdblgrave;
   sub R breveinvnosp by Rinvertedbreve;
   sub r breveinvnosp by rinvertedbreve;
-  sub U dblgravecmb by Udblgrave;
-  sub u dblgravecmb by udblgrave;
+  sub U dblgravecomb by Udblgrave;
+  sub u dblgravecomb by udblgrave;
   sub U breveinvnosp by Uinvertedbreve;
   sub u breveinvnosp by uinvertedbreve;
-  sub H caroncmb by uni021E;
-  sub h caroncmb by uni021F;
-  sub A dotnosp by uni0226;
-  sub a dotnosp by uni0227;
-  sub E cedillanosp by uni0228;
-  sub e cedillanosp by uni0229;
-  #sub O dieresismacroncomb.cn by uni022A;
-  sub O dieresisnosp macroncomb by uni022A;
-  sub o dieresismacroncomb.cn by uni022B;
-  #sub O tildemacroncomb.cn by uni022C;
-  sub O tildecomb macroncomb by uni022C;
-  sub o tildemacroncomb.cn by uni022D;
-  sub O dotnosp by uni022E;
-  sub o dotnosp by uni022F;
-  #sub O dotmacroncomb.cn by uni0230;
-  sub O dotnosp macroncomb by uni0230;
-  sub o dotmacroncomb.cn by uni0231;
-  sub Y macroncomb by uni0232;
-  sub y macroncomb by uni0233;
-  sub Upsilonhooksymbol acutecomb by Upsilonacutehooksymbolgreek;
-  sub Upsilonhooksymbol dieresisnosp by Upsilondieresishooksymbolgreek;
+  sub H caroncomb by Hcaron;
+  sub h caroncomb by hcaron;
+  sub A dotnosp by Adotaccent;
+  sub a dotnosp by adotaccent;
+  sub E cedillanosp by Ecedilla;
+  sub e cedillanosp by ecedilla;
+  #sub O dieresismacroncomb.cn by Odieresismacron;
+  sub O dieresisnosp macroncomb by Odieresismacron;
+  sub o dieresismacroncomb.cn by odieresismacron;
+  #sub O tildemacroncomb.cn by Otildemacron;
+  sub O tildecomb macroncomb by Otildemacron;
+  sub o tildemacroncomb.cn by otildemacron;
+  sub O dotnosp by Odotaccent;
+  sub o dotnosp by odotaccent;
+  #sub O dotmacroncomb.cn by Odotaccentmacron;
+  sub O dotnosp macroncomb by Odotaccentmacron;
+  sub o dotmacroncomb.cn by odotaccentmacron;
+  sub Y macroncomb by Ymacron;
+  sub y macroncomb by ymacron;
+  sub UpsilonhookSymbol acutecomb by UpsilonacutehookSymbol;
+  sub UpsilonhookSymbol dieresisnosp by UpsilondieresishookSymbol;
   sub B dotnosp by Bdotaccent;
   sub b dotnosp by bdotaccent;
   sub B dotbelow by Bdotbelow;
   sub b dotbelow by bdotbelow;
-  sub B macronsubnosp by Blinebelow;
-  sub b macronsubnosp by blinebelow;
+  sub B macronsubnosp by Bmacronbelow;
+  sub b macronsubnosp by bmacronbelow;
   sub D dotnosp by Ddotaccent;
   sub d dotnosp by ddotaccent;
   sub D dotbelow by Ddotbelow;
   sub d dotbelow by ddotbelow;
-  sub D macronsubnosp by Dlinebelow;
-  sub d macronsubnosp by dlinebelow;
-  sub D commaaccent by Dcedilla;
-  sub d commaaccent by dcedilla;
+  sub D macronsubnosp by Dmacronbelow;
+  sub d macronsubnosp by dmacronbelow;
+  sub D commaaccentcomb by Dcedilla;
+  sub d commaaccentcomb by dcedilla;
   sub D circumflexsubnosp by Dcircumflexbelow;
   sub d circumflexsubnosp by dcircumflexbelow;
-  #sub E macrongravecomb.cn by uni1E14;
+  #sub E macrongravecomb.cn by Emacrongrave;
   sub E macroncomb gravecomb by Emacrongrave;
   sub e macrongravecomb.cn by emacrongrave;
-  #sub E macronacutecomb.cn by uni1E16;
+  #sub E macronacutecomb.cn by Emacronacute;
   sub E macroncomb acutecomb by Emacronacute;
   sub e macronacutecomb.cn by emacronacute;
   sub E circumflexsubnosp by Ecircumflexbelow;
@@ -456,12 +456,12 @@ lookup ccmp03 {
   sub k acutecomb by kacute;
   sub K dotbelow by Kdotbelow;
   sub k dotbelow by kdotbelow;
-  sub K macronsubnosp by Klinebelow;
-  sub k macronsubnosp by klinebelow;
+  sub K macronsubnosp by Kmacronbelow;
+  sub k macronsubnosp by kmacronbelow;
   sub L dotbelow by Ldotbelow;
   sub l dotbelow by ldotbelow;
-  sub L macronsubnosp by Llinebelow;
-  sub l macronsubnosp by llinebelow;
+  sub L macronsubnosp by Lmacronbelow;
+  sub l macronsubnosp by lmacronbelow;
   sub L circumflexsubnosp by Lcircumflexbelow;
   sub l circumflexsubnosp by lcircumflexbelow;
   sub M acutecomb by Macute;
@@ -474,20 +474,20 @@ lookup ccmp03 {
   sub n dotnosp by ndotaccent;
   sub N dotbelow by Ndotbelow;
   sub n dotbelow by ndotbelow;
-  sub N macronsubnosp by Nlinebelow;
-  sub n macronsubnosp by nlinebelow;
+  sub N macronsubnosp by Nmacronbelow;
+  sub n macronsubnosp by nmacronbelow;
   sub N circumflexsubnosp by Ncircumflexbelow;
   sub n circumflexsubnosp by ncircumflexbelow;
-  #sub O tildeacutecomb.cn by uni1E4C;
+  #sub O tildeacutecomb.cn by Otildeacute;
   sub O tildecomb acutecomb by Otildeacute;
   sub o tildeacutecomb by otildeacute;
-  #sub O tildedieresiscomb.cn by uni1E4E;
+  #sub O tildedieresiscomb.cn by Otildedieresis;
   sub O tildecomb dieresisnosp by Otildedieresis;
   sub o tildedieresiscomb.cn by otildedieresis;
-  #sub O macrongravecomb.cn by uni1E50;
+  #sub O macrongravecomb.cn by Omacrongrave;
   sub O macroncomb gravecomb by Omacrongrave;
   sub o macrongravecomb.cn by omacrongrave;
-  #sub O macronacutecomb.cn by uni1E52;
+  #sub O macronacutecomb.cn by Omacronacute;
   sub O macroncomb acutecomb by Omacronacute;
   sub o macronacutecomb.cn by omacronacute;
   sub P acutecomb by Pacute;
@@ -498,24 +498,24 @@ lookup ccmp03 {
   sub r dotnosp by rdotaccent;
   sub R dotbelow by Rdotbelow;
   sub r dotbelow by rdotbelow;
-  sub R macronsubnosp by Rlinebelow;
-  sub r macronsubnosp by rlinebelow;
+  sub R macronsubnosp by Rmacronbelow;
+  sub r macronsubnosp by rmacronbelow;
   sub S dotnosp by Sdotaccent;
   sub s dotnosp by sdotaccent;
   sub S dotbelow by Sdotbelow;
   sub s dotbelow by sdotbelow;
-  #sub S acutedotcomb.cn by uni1E64;
+  #sub S acutedotcomb.cn by Sacutedotaccent;
   sub S acutecomb dotnosp by Sacutedotaccent;
   sub s acutedotcomb.cn by sacutedotaccent;
-  #sub S carondotcomb.cn by uni1E66;
-  sub S caroncmb dotnosp by Scarondotaccent;
+  #sub S carondotcomb.cn by Scarondotaccent;
+  sub S caroncomb dotnosp by Scarondotaccent;
   sub s carondotcomb.cn by scarondotaccent;
   sub T dotnosp by Tdotaccent;
   sub t dotnosp by tdotaccent;
   sub T dotbelow by Tdotbelow;
   sub t dotbelow by tdotbelow;
-  sub T macronsubnosp by Tlinebelow;
-  sub t macronsubnosp by tlinebelow;
+  sub T macronsubnosp by Tmacronbelow;
+  sub t macronsubnosp by tmacronbelow;
   sub T circumflexsubnosp by Tcircumflexbelow;
   sub t circumflexsubnosp by tcircumflexbelow;
   sub U dotdblsubnosp by Udieresisbelow;
@@ -524,10 +524,10 @@ lookup ccmp03 {
   sub u tildesubnosp by utildebelow;
   sub U circumflexsubnosp by Ucircumflexbelow;
   sub u circumflexsubnosp by ucircumflexbelow;
-  #sub U tildeacutecomb.cn by uni1E78;
+  #sub U tildeacutecomb.cn by Utildeacute;
   sub U tildecomb acutecomb by Utildeacute;
   sub u tildeacutecomb by utildeacute;
-  #sub U macrondieresiscomb.cn by uni1E7A;
+  #sub U macrondieresiscomb.cn by Umacrondieresis;
   sub U macroncomb dieresisnosp by Umacrondieresis;
   sub u macrondieresiscomb.cn by umacrondieresis;
   sub V tildecomb by Vtilde;
@@ -548,9 +548,9 @@ lookup ccmp03 {
   sub z circumflexnosp by zcircumflex;
   sub Z dotbelow by Zdotbelow;
   sub z dotbelow by zdotbelow;
-  sub Z macronsubnosp by Zlinebelow;
-  sub z macronsubnosp by zlinebelow;
-  sub h macronsubnosp by hlinebelow;
+  sub Z macronsubnosp by Zmacronbelow;
+  sub z macronsubnosp by zmacronbelow;
+  sub h macronsubnosp by hmacronbelow;
   sub t dieresisnosp by tdieresis;
   sub w ringnosp by wring;
   sub y ringnosp by yring;

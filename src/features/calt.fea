@@ -19,29 +19,29 @@
   @Numeral
 
   # punctuation
-  ampersand exclam exclamdbl exclamdown uni2049 question uni2047 uni2048
+  ampersand exclam exclamdouble exclamdown exclamationquestion question doublequestion questionexclamation
   questiondown interrobang invertedinterrobang bar paragraph
 
   # currency
-  dollar cent yen sterling florin uni20BA uni20BD euro uni20B9 tenge peseta
+  dollar cent yen sterling florin liraTurkish ruble euro rupeeIndian tenge peseta
   peso kip won lira austral hryvnia naira guarani coloncurrency cedi cruzeiro
-  tugrik uni20AF mill afii57636 manat rupee lari franc
+  tugrik drachma mill sheqel manat rupee lari franc
 
   # cap-tall symbols
-  numero triagrt triagdn triagup warningSign blackleftpointingtriangle
+  numero rightBlackPointer downBlackTriangle upBlackTriangle warningSign leftBlackTriangle
   circleblack circlewhite
   diamondblack diamondblack_x diamondwhite diamondwhite_x
   sunWithRays blackSunWithRays
   heartWhiteSuit heartBlackSuit heavyBlackHeart
   upBlackArrow upWhiteArrow
-  capslock placeofinterestsign control projective option alternativekeysymbol
+  capslock placeofinterestsign control projective optionKey alternativekeysymbol
   brokenCircleNorthWestArrow anticlockwiseOpenCircleArrow
   clockwiseOpenCircleArrow
-  deleteleft deleteright clear ejectsymbol
+  deleteLeftKey deleterightKey clear ejectsymbol
 
   # percent and fractions
   onehalf onethird onequarter threequarters fivesixths onefraction seveneighths
-  oneeighth fiveeighths threeeighths percent perthousand pertenthousand uni214D
+  oneeighth fiveeighths threeeighths percent perthousand pertenthousand aktieselskab
   cadauna careof accountof addresssubject
 ];
 
@@ -69,7 +69,7 @@
   emdash
   hyphen
   bullet
-  openbullet
+  whiteBullet
   hyphenbullet
   trianglebullet
   blackleftbullet
@@ -121,7 +121,7 @@
   emdash.case
   hyphen.case
   bullet.case
-  openbullet.case
+  whiteBullet.case
   hyphenbullet.case
   trianglebullet.case
   blackleftbullet.case
@@ -158,7 +158,7 @@
   slash bar quoteleft quoteright apostrophemod quotesingle quotedbl
   quotedblleft quotedblright quotedblbase quotesinglbase prime doubleprime
   tripleprime quadrupleprime primerev doubleprimerev tripleprimerev primemod
-  doubleprimemod comma period ellipsis twodotleader semicolon underscore
+  doubleprimemod comma period ellipsis twodotenleader semicolon underscore
   asciicircum circumflex
   asterisk
 ];

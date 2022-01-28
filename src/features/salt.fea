@@ -35,7 +35,7 @@ sub acircumflextilde by acircumflextilde.1;
 sub adblgrave by adblgrave.1;
 sub adieresis by adieresis.1;
 sub adieresismacron by adieresismacron.1;
-sub uni0227 by uni0227.1;
+sub adotaccent by adotaccent.1;
 sub adotbelow by adotbelow.1;
 sub adotmacron by adotmacron.1;
 sub agrave by agrave.1;
@@ -48,7 +48,7 @@ sub aring by aring.1;
 sub aringacute by aringacute.1;
 sub aringbelow by aringbelow.1;
 sub atilde by atilde.1;
-sub acyrillic by a.1;  # acyrillic is just a reference to /a
+sub a-cy by a.1;  # a-cy is just a reference to /a
 
 sub l by l.ss02;
 sub lslash by lslash.ss02;
@@ -61,12 +61,12 @@ sub lcommaaccent by lcommaaccent.ss02;
 sub lcaron by lcaron.ss02;
 sub ldotbelow by ldotbelow.ss02;
 sub ldotbelowmacron by ldotbelowmacron.ss02;
-sub llinebelow by llinebelow.ss02;
+sub lmacronbelow by lmacronbelow.ss02;
 sub lcircumflexbelow by lcircumflexbelow.ss02;
 
 sub r by r.1;
 sub rrthook by rrthook.1;
-sub uni024D by uni024D.1;
+sub rstroke by rstroke.1;
 sub rdescend by rdescend.1;
 sub racute by racute.1;
 sub rcommaaccent by rcommaaccent.1;
@@ -76,7 +76,7 @@ sub rinvertedbreve by rinvertedbreve.1;
 sub rdotaccent by rdotaccent.1;
 sub rdotbelow by rdotbelow.1;
 sub rdotbelowmacron by rdotbelowmacron.1;
-sub rlinebelow by rlinebelow.1;
+sub rmacronbelow by rmacronbelow.1;
 
 sub G by G.1;
 sub Gbar by Gbar.1;

@@ -3,7 +3,7 @@ featureNames { name "r curves into round neighbors"; };
 @straight_r = [
   r
   rrthook
-  uni024D
+  rstroke
   rdescend
   racute
   rcommaaccent
@@ -13,12 +13,12 @@ featureNames { name "r curves into round neighbors"; };
   rdotaccent
   rdotbelow
   rdotbelowmacron
-  rlinebelow
+  rmacronbelow
 ];
 @curved_r = [
   r.1
   rrthook.1
-  uni024D.1
+  rstroke.1
   rdescend.1
   racute.1
   rcommaaccent.1
@@ -28,7 +28,7 @@ featureNames { name "r curves into round neighbors"; };
   rdotaccent.1
   rdotbelow.1
   rdotbelowmacron.1
-  rlinebelow.1
+  rmacronbelow.1
 ];
 
 # lower case-sized glyphs where the left side is curved, like "o"
@@ -50,7 +50,7 @@ featureNames { name "r curves into round neighbors"; };
   aringacute
   adblgrave
   ainvertedbreve
-  uni0227
+  adotaccent
   aringbelow
   adotbelow
   ahookabove
@@ -64,15 +64,15 @@ featureNames { name "r curves into round neighbors"; };
   abrevehookabove
   abrevetilde
   abrevedotbelow
-  acyrillic
-  abrevecyrillic
-  adieresiscyrillic
+  a-cy
+  abreve-cy
+  adieresis-cy
   ae
   aemacron
   aeacute
-  aiecyrillic
+  aie-cy
   c
-  uni023C
+  cstroke
   chook
   ccurl
   ccedilla
@@ -81,18 +81,18 @@ featureNames { name "r curves into round neighbors"; };
   cdotaccent
   ccaron
   ccedillaacute
-  sigmalunatesymbolgreek
-  escyrillic
+  sigmaLunateSymbol
+  es-cy
   d
   dcroat
   drthook
   dhook
   dtopbar
-  uni0221
+  dcurl
   dcaron
   ddotaccent
   ddotbelow
-  dlinebelow
+  dmacronbelow
   dcedilla
   dcircumflexbelow
   dz
@@ -102,7 +102,7 @@ featureNames { name "r curves into round neighbors"; };
   dong
   e
   edieresis
-  uni0247
+  estroke
   egrave
   eacute
   ecircumflex
@@ -113,7 +113,7 @@ featureNames { name "r curves into round neighbors"; };
   ecaron
   edblgrave
   einvertedbreve
-  uni0229
+  ecedilla
   emacrongrave
   emacronacute
   ecircumflexbelow
@@ -127,10 +127,10 @@ featureNames { name "r curves into round neighbors"; };
   ecircumflexhookabove
   ecircumflextilde
   ecircumflexdotbelow
-  iecyrillic
-  uni0450
-  iocyrillic
-  iebrevecyrillic
+  ie-cy
+  iegrave-cy
+  io-cy
+  iebreve-cy
   eturn
   g
   ghook
@@ -158,10 +158,10 @@ featureNames { name "r curves into round neighbors"; };
   oogonekmacron
   odblgrave
   oinvertedbreve
-  uni022B
-  uni022D
-  uni022F
-  uni0231
+  odieresismacron
+  otildemacron
+  odotaccent
+  odotaccentmacron
   otildeacute
   otildedieresis
   omacrongrave
@@ -181,25 +181,25 @@ featureNames { name "r curves into round neighbors"; };
   oslashacute
   omicron
   omicrontonos
-  uni1F40
-  uni1F41
-  uni1F42
-  uni1F43
-  uni1F44
-  uni1F45
-  uni1F78
-  fitacyrillic
+  omicronpsili
+  omicrondasia
+  omicronpsilivaria
+  omicrondasiavaria
+  omicronpsilioxia
+  omicrondasiaoxia
+  omicronvaria
+  fita-cy
   obar
-  ocyrillic
-  odieresiscyrillic
+  o-cy
+  odieresis-cy
   oe
-  ukcyrillic
+  uk-cy
   q
   qhook
   qrthook
   s
   srthook
-  uni023F
+  sswashtail
   sacute
   scircumflex
   scedilla
@@ -210,35 +210,35 @@ featureNames { name "r curves into round neighbors"; };
   sacutedotaccent
   scarondotaccent
   sdotbelowdotaccent
-  dzecyrillic
+  dze-cy
   tonetwo
   eth
   alpha
   alphatonos
-  uni1F00
-  uni1F01
-  uni1F02
-  uni1F03
-  uni1F04
-  uni1F05
-  uni1F06
-  uni1F07
-  uni1F70
-  uni1F80
-  uni1F81
-  uni1F82
-  uni1F83
-  uni1F84
-  uni1F85
-  uni1F86
-  uni1F87
-  uni1FB0
-  uni1FB1
-  uni1FB2
-  uni1FB3
-  uni1FB4
-  uni1FB6
-  uni1FB7
+  alphapsili
+  alphadasia
+  alphapsilivaria
+  alphadasiavaria
+  alphapsilioxia
+  alphadasiaoxia
+  alphapsiliperispomeni
+  alphadasiaperispomeni
+  alphavaria
+  alphapsiliypogegrammeni
+  alphadasiaypogegrammeni
+  alphapsilivariaypogegrammeni
+  alphadasiavariaypogegrammeni
+  alphapsilioxiaypogegrammeni
+  alphadasiaoxiaypogegrammeni
+  alphapsiliperispomeniypogegrammeni
+  alphadasiaperispomeniypogegrammeni
+  alphavrachy
+  alphamacron
+  alphavariaypogegrammeni
+  alphaypogegrammeni
+  alphaoxiaypogegrammeni
+  alphaperispomeni
+  alphaperispomeniypogegrammeni
   delta
   epsilon
   epsilontonos
@@ -247,83 +247,83 @@ featureNames { name "r curves into round neighbors"; };
   epsilon1rev
   epsilon1revclosed
   epsilon1revhook
-  uni1F10
-  uni1F11
-  uni1F12
-  uni1F13
-  uni1F14
-  uni1F15
-  uni1F72
+  epsilonpsili
+  epsilondasia
+  epsilonpsilivaria
+  epsilondasiavaria
+  epsilonpsilioxia
+  epsilondasiaoxia
+  epsilonvaria
   rho
-  uni1FE4
-  uni1FE5
-  uni03FC
-  sigma1
+  rhopsili
+  rhodasia
+  rhoStrokeSymbol
+  sigmafinal
   sigma
   phi
   phigreek
   omega
   omegatonos
-  uni1F60
-  uni1F61
-  uni1F62
-  uni1F63
-  uni1F64
-  uni1F65
-  uni1F66
-  uni1F67
-  uni1F7C
-  uni1FA0
-  uni1FA1
-  uni1FA2
-  uni1FA3
-  uni1FA4
-  uni1FA5
-  uni1FA6
-  uni1FA7
-  uni1FF2
-  uni1FF3
-  uni1FF4
-  uni1FF6
-  uni1FF7
-  zecyrillic
-  efcyrillic
-  ereversedcyrillic
-  iacyrillic
-  ecyrillic
-  haabkhasiancyrillic
+  omegapsili
+  omegadasia
+  omegapsilivaria
+  omegadasiavaria
+  omegapsilioxia
+  omegadasiaoxia
+  omegapsiliperispomeni
+  omegadasiaperispomeni
+  omegavaria
+  omegapsiliypogegrammeni
+  omegadasiaypogegrammeni
+  omegapsilivariaypogegrammeni
+  omegadasiavariaypogegrammeni
+  omegapsilioxiaypogegrammeni
+  omegadasiaoxiaypogegrammeni
+  omegapsiliperispomeniypogegrammeni
+  omegadasiaperispomeniypogegrammeni
+  omegavariaypogegrammeni
+  omegaypogegrammeni
+  omegaoxiaypogegrammeni
+  omegaperispomeni
+  omegaperispomeniypogegrammeni
+  ze-cy
+  ef-cy
+  ereversed-cy
+  ya-cy
+  e-cy
+  haabkhasian-cy
   cent
   manat
   six.ss01
   ascript
-  ascript_uni02DE
+  ascript_rhotichookmod
   erev
   schwa
   schwahook
   oopen
-  uni0238
-  uni0239
-  uni2184
-  zedescendercyrillic
-  esdescendercyrillic
-  schwacyrillic
-  schwadieresiscyrillic
-  zedieresiscyrillic
-  obarredcyrillic
-  obarreddieresiscyrillic
-  uni04ED
-  koppacyrillic
-  uni037B
-  uni037C
-  uni037D
-  uni03D9
+  dbdigraph
+  qpdigraph
+  creversed
+  zedescender-cy
+  esdescender-cy
+  schwa-cy
+  schwadieresis-cy
+  zedieresis-cy
+  obarred-cy
+  obarreddieresis-cy
+  edieresis-cy
+  koppa-cy
+  sigmaLunateReversedSymbol
+  sigmaLunateDottedSymbol
+  sigmaLunateDottedReversedSymbol
+  koppaArchaic
   stigma
   rho1
-  uni1F71
-  uni1F73
-  uni1F79
-  uni217D
-  uni217E
+  alphaoxia
+  epsilonoxia
+  omicronoxia
+  hundred-roman
+  fivehundred-roman
 ];
 
 sub @straight_r' @lc_left_side_curved by @curved_r;

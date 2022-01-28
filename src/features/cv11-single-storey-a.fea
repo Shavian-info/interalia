@@ -17,7 +17,7 @@ sub acircumflextilde by acircumflextilde.1;
 sub adblgrave by adblgrave.1;
 sub adieresis by adieresis.1;
 sub adieresismacron by adieresismacron.1;
-sub uni0227 by uni0227.1;
+sub adotaccent by adotaccent.1;
 sub adotbelow by adotbelow.1;
 sub adotmacron by adotmacron.1;
 sub agrave by agrave.1;
@@ -30,4 +30,4 @@ sub aring by aring.1;
 sub aringacute by aringacute.1;
 sub aringbelow by aringbelow.1;
 sub atilde by atilde.1;
-sub acyrillic by a.1;  # acyrillic is just a reference to /a
+sub a-cy by a.1;  # a-cy is just a reference to /a

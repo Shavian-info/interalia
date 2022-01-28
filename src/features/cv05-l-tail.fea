@@ -10,5 +10,5 @@ sub lcommaaccent by lcommaaccent.ss02;
 sub lcaron by lcaron.ss02;
 sub ldotbelow by ldotbelow.ss02;
 sub ldotbelowmacron by ldotbelowmacron.ss02;
-sub llinebelow by llinebelow.ss02;
+sub lmacronbelow by lmacronbelow.ss02;
 sub lcircumflexbelow by lcircumflexbelow.ss02;
