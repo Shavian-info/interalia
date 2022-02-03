@@ -13,7 +13,7 @@ Inter Alia builds on the features of Inter to add:
 
 Support for additional scripts may be considered in future.
 
-***Note that the 'Display' font has yet to be updated and does not include the additional features.
+***Note that the 'Display' font has yet to be updated and does not include the additional features.***
 
 ## Design
 
