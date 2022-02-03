@@ -5,7 +5,7 @@
 Inter Alia is an expanded version of Rasmus Andersson's beautiful open source sans serif typeface, [Inter](https://rsms.me/inter). Inter was specially designed for user interfaces with focus on high legibility of small-to-medium sized text on computer screens.
 
 Inter Alia builds on the features of Inter to add:
-- support for [the Shavian alphabet](https://www.shavian.info) with a newly designed set of glyphs, including the letters missing from Unicode (through character variants)
+- support for [the Shavian alphabet](https://www.shavian.info) with a newly designed set of glyphs, including the letters missing from Unicode (through character variants accessed by inserting 'Variation Selector 1' (U+FE00) after 𐑒, 𐑜, 𐑢, 𐑤, 𐑻, and 𐑺)
 - support for old-style figures or numerals, also known as text figures, with both proportional and tabular spacing
 - refinements to International Phonetic Alphabet glyphs and other less common glyphs.
 
