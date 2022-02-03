@@ -365,3 +365,5 @@ sub @Numeral @Whitespace @Whitespace x' @Whitespace @Whitespace @Numeral by mult
 
 # END NxN
 # -------------------------------------------------------------------------------------
+
+sub ringpoint by ringpoint wordjoiner;

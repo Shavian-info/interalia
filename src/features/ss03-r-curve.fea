@@ -98,7 +98,7 @@ featureNames { name "r curves into round neighbors"; };
   dz
   dzcaron
   dzcurl
-  dyogh
+  dezh
   dong
   e
   edieresis
@@ -243,10 +243,10 @@ featureNames { name "r curves into round neighbors"; };
   epsilon
   epsilontonos
   epsilonclosed
-  epsilon1
-  epsilon1rev
-  epsilon1revclosed
-  epsilon1revhook
+  eopen
+  eopenreversed
+  eopenreversedclosed
+  eopenreversedhook
   epsilonpsili
   epsilondasia
   epsilonpsilivaria
@@ -295,9 +295,9 @@ featureNames { name "r curves into round neighbors"; };
   cent
   manat
   six.ss01
-  ascript
+  alpha-latin
   ascript_rhotichookmod
-  erev
+  ereversed
   schwa
   schwahook
   oopen

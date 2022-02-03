@@ -7,8 +7,8 @@ differently. These instructions are for the most common Linux distributions:
 1. Create a folder called ".fonts" in your home directory.
    Example: mkdir -p ~/.fonts
 
-2. Copy the otf files in the "Inter Desktop" folder into your .fonts directory
-   Example: cp "Inter Desktop"/*.otf ~/.fonts/
+2. Copy the otf files in the "Inter Alia Desktop" folder into your .fonts directory
+   Example: cp "Inter Alia Desktop"/*.otf ~/.fonts/
 
 You may have to restart apps and/or your window server session.
 
@@ -24,8 +24,8 @@ A: Try rebuilding the font database:
    sudo fc-cache -f -v
    Then restart your program(s).
 
-Q: Is there a way to tell if Inter was actually installed?
-A: Try running: fc-list | grep "Inter"
+Q: Is there a way to tell if Inter Alia was actually installed?
+A: Try running: fc-list | grep "Inter Alia"
 
 Q: ~/.fonts is an old thing. The new thing is ~/.local/share/fonts
 A: Yes, that is true for recent distributions. These distros usually support
