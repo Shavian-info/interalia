@@ -13,6 +13,8 @@ Inter Alia builds on the features of Inter to add:
 
 Support for additional scripts may be considered in future.
 
+***Note that the 'Display' font has yet to be updated and does not include the additional features.
+
 ## Design
 
 Inter Alia expands the Inter typeface with additional glyphs and features. Inter is similar to Roboto, San Francisco, Akkurat, Asap, Lucida Grande and other "UI" and "Text" typefaces. Some trade-offs were made in order to make this typeface work really well at small sizes. For details of the underlying approach to designing Inter, please see [https://github.com/rsms/inter](https://github.com/rsms/inter).
