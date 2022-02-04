@@ -17,7 +17,7 @@ Support for additional scripts may be considered in future.
 
 ## Using & installing Inter Alia
 
-- [**Download the latest font files…**](https://github.com/shavian-info/inter/releases/latest)
+- [**Download the latest font files…**](https://github.com/shavian-info/interalia/releases/latest)
 
 
 ## Design
