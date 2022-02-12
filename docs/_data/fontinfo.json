@@ -70,8 +70,8 @@
     "VORG": "[present but not decoded]",
     "cmap": "[present but not decoded]",
     "head": {
-      "checkSumAdjustment": 2116696874,
-      "created": 3726696042,
+      "checkSumAdjustment": 2962111519,
+      "created": 3727390340,
       "flags": [
         "0: Baseline at y=0",
         "1: Left sidebearing point at x=0",
@@ -87,7 +87,7 @@
       "macStyle": [],
       "macStyle_raw": 0,
       "magicNumber": 1594834165,
-      "modified": 3726696162,
+      "modified": 3727390491,
       "tableVersion": 1.0,
       "unitsPerEm": 2816,
       "xMax": 7274,
@@ -106,12 +106,12 @@
       "metricDataFormat": 0,
       "minLeftSideBearing": -2080,
       "minRightSideBearing": -2828,
-      "numberOfHMetrics": 2644,
+      "numberOfHMetrics": 2647,
       "tableVersion": 65536,
       "xMaxExtent": 7274
     },
     "hmtx": "[present but not decoded]",
-    "id": "InterAlia-Regular:2022:37ab20767",
+    "id": "InterAlia-Regular:2022:698147209",
     "maxp": "[present but not decoded]",
     "name": "InterAlia-Regular",
     "names": {
@@ -134,7 +134,7 @@
       "designer": "Rasmus Andersson (Latin, Greek, Cyrillic etc.) and Evan from Shavian.info (Shavian, old style figures)",
       "designerURL": "https://www.shavian.info/",
       "familyName": "Inter Alia",
-      "fontId": "InterAlia-Regular:2022:37ab20767",
+      "fontId": "InterAlia-Regular:2022:698147209",
       "fullName": "Inter Alia Regular",
       "licenseDescription": "This Font Software is licensed under the SIL Open Font License, Version one.1. This license is available with a FAQ at: http://scripts.sil.org/OFL",
       "licenseURL": "http://scripts.sil.org/OFL",
@@ -143,7 +143,7 @@
       "sampleText": "\ud801\udc63\ud801\udc7d\ud801\udc66\ud801\udc59 \ud801\udc65\ud801\udc70 \ud801\udc5a\ud801\udc74, \ud801\udc5e \ud801\udc68\ud801\udc60\ud801\udc7c \ud801\udc54\ud801\udc6e\ud801\udc73\ud801\udc56 \ud801\udc52\ud801\udc77\ud801\udc5f. \ud801\udc7a \ud801\udc58\ud801\udc79 \ud801\udc61\ud801\udc76\ud801\udc53\ud801\udc69\ud801\udc64 \ud801\udc78\ud801\udc7e, \ud801\udc72 \ud801\udc5d\ud801\udc6c, \u201c\ud801\udc7f \ud801\udc62\ud801\udc6a\ud801\udc6f\ud801\udc51 \ud801\udc5c\ud801\udc6b\ud801\udc5b \ud801\udc57\ud801\udc6d. \ud801\udc67\ud801\udc55\ud801\udc71 \u00b7\ud801\udc50\ud801\udc75-\ud801\udc7b!\u201d.",
       "subfamilyName": "Regular",
       "vendorURL": "https://www.shavian.info/",
-      "version": "Version 0.001;git-37ab20767"
+      "version": "Version 0.001;git-698147209"
     },
     "post": {
       "formatType": 3.0,
