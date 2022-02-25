@@ -1,5 +1,5 @@
 cvParameters { FeatUILabelNameID { name "Open four"; }; };
 sub four by four.ss01;
 sub four.tf by four.ss01.tf;
-sub four.squared by four.ss01.squared;
+sub four.box by four.ss01.box;
 sub four.circled by four.ss01.circled;

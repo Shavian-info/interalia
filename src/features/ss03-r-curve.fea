@@ -2,9 +2,9 @@ featureNames { name "r curves into round neighbors"; };
 # curved "r" when it meets a curved shape, e.g. "ro"
 @straight_r = [
   r
-  rrthook
+  rtail
   rstroke
-  rdescend
+  rlongleg
   racute
   rcommaaccent
   rcaron
@@ -17,9 +17,9 @@ featureNames { name "r curves into round neighbors"; };
 ];
 @curved_r = [
   r.1
-  rrthook.1
+  rtail.1
   rstroke.1
-  rdescend.1
+  rlongleg.1
   racute.1
   rcommaaccent.1
   rcaron.1
@@ -85,7 +85,7 @@ featureNames { name "r curves into round neighbors"; };
   es-cy
   d
   dcroat
-  drthook
+  dtail
   dhook
   dtopbar
   dcurl
@@ -131,10 +131,10 @@ featureNames { name "r curves into round neighbors"; };
   iegrave-cy
   io-cy
   iebreve-cy
-  eturn
+  eturned
   g
   ghook
-  gbar
+  gstroke
   gcircumflex
   gbreve
   gdotaccent
@@ -189,16 +189,16 @@ featureNames { name "r curves into round neighbors"; };
   omicrondasiaoxia
   omicronvaria
   fita-cy
-  obar
+  obarred
   o-cy
   odieresis-cy
   oe
   uk-cy
   q
   qhook
-  qrthook
+  qhooktail
   s
-  srthook
+  shook
   sswashtail
   sacute
   scircumflex
@@ -242,7 +242,7 @@ featureNames { name "r curves into round neighbors"; };
   delta
   epsilon
   epsilontonos
-  epsilonclosed
+  eopenclosed
   eopen
   eopenreversed
   eopenreversedclosed
@@ -261,7 +261,7 @@ featureNames { name "r curves into round neighbors"; };
   sigmafinal
   sigma
   phi
-  phigreek
+  phi
   omega
   omegatonos
   omegapsili
@@ -296,7 +296,7 @@ featureNames { name "r curves into round neighbors"; };
   manat
   six.ss01
   alpha-latin
-  alpha-latin_rhotichookmod
+  alpha_rhotichookmod-latin.rlig
   ereversed
   schwa
   schwahook
@@ -318,7 +318,7 @@ featureNames { name "r curves into round neighbors"; };
   sigmaLunateDottedReversedSymbol
   koppaArchaic
   stigma
-  rho1
+  rhoSymbol
   alphaoxia
   epsilonoxia
   omicronoxia

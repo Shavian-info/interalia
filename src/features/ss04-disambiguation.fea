@@ -6,7 +6,7 @@ featureNames { name "Disambiguation without slashed zero"; };
 sub l by l.ss02;
 sub lslash by lslash.ss02;
 sub lbar by lbar.ss02;
-sub lmidtilde by lmidtilde.ss02;
+sub lmiddletilde by lmiddletilde.ss02;
 sub lbelt by lbelt.ss02;
 sub ldot by ldot.ss02;
 sub lacute by lacute.ss02;

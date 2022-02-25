@@ -1,6 +1,6 @@
 cvParameters { FeatUILabelNameID { name "Capital G with spur"; }; };
 sub G by G.1;
-sub Gbar by Gbar.1;
+sub Gstroke by Gstroke.1;
 sub Ghook by Ghook.1;
 sub Gcircumflex by Gcircumflex.1;
 sub Gbreve by Gbreve.1;

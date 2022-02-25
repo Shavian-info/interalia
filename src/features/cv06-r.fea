@@ -1,8 +1,8 @@
 cvParameters { FeatUILabelNameID { name "r with curved tail"; }; };
 sub r by r.1;
-sub rrthook by rrthook.1;
+sub rtail by rtail.1;
 sub rstroke by rstroke.1;
-sub rdescend by rdescend.1;
+sub rlongleg by rlongleg.1;
 sub racute by racute.1;
 sub rcommaaccent by rcommaaccent.1;
 sub rcaron by rcaron.1;

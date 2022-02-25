@@ -8,7 +8,7 @@ featureNames { name "Disambiguation"; };
 sub l by l.ss02;
 sub lslash by lslash.ss02;
 sub lbar by lbar.ss02;
-sub lmidtilde by lmidtilde.ss02;
+sub lmiddletilde by lmiddletilde.ss02;
 sub lbelt by lbelt.ss02;
 sub ldot by ldot.ss02;
 sub lacute by lacute.ss02;
@@ -59,5 +59,5 @@ sub Yi-cy by Yi-cy.1;
 # zero
 sub zero by zero.slash;
 sub zero.tf by zero.slash.tf;
-sub zero.squared by zero.slash.squared;
+sub zero.box by zero.slash.box;
 sub zero.circled by zero.slash.circled;

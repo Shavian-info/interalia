@@ -24,17 +24,17 @@
 
   # currency
   dollar cent yen sterling florin liraTurkish ruble euro rupeeIndian tenge peseta
-  peso kip won lira austral hryvnia naira guarani coloncurrency cedi cruzeiro
+  peso kip won lira austral hryvnia naira guarani colonsign cedi cruzeiro
   tugrik drachma mill sheqel manat rupee lari franc
 
   # cap-tall symbols
   numero rightBlackPointer downBlackTriangle upBlackTriangle warningSign leftBlackTriangle
-  circleblack circlewhite
-  diamondblack diamondblack_x diamondwhite diamondwhite_x
+  blackCircle whiteCircle
+  blackDiamond whiteXBlackDiamond whiteDiamond whiteXWhiteDiamond
   sunWithRays blackSunWithRays
   heartWhiteSuit heartBlackSuit heavyBlackHeart
   upBlackArrow upWhiteArrow
-  capslock placeofinterestsign control projective optionKey alternativekeysymbol
+  capslock propellor control projective optionKey alternativekeysymbol
   brokenCircleNorthWestArrow anticlockwiseOpenCircleArrow
   clockwiseOpenCircleArrow
   deleteLeftKey deleterightKey clear ejectsymbol
@@ -42,7 +42,7 @@
   # percent and fractions
   onehalf onethird onequarter threequarters fivesixths onefraction seveneighths
   oneeighth fiveeighths threeeighths percent perthousand pertenthousand aktieselskab
-  cadauna careof accountof addresssubject
+  cadauna careof accountof addressedtothesubject
 ];
 
 # x-height tall glyphs
@@ -71,18 +71,18 @@
   bullet
   whiteBullet
   hyphenbullet
-  trianglebullet
+  triangularbullet
   blackleftbullet
   blackrightbullet
   blackSmallSquare
   leftArrow
   leftLongArrow
-  leftLongArrow2
+  leftSansSerifArrow
   leftDoubleArrow
   leftLongDoubleArrow
   rightArrow
-  rightLongArrow
-  rightLongArrow2
+  rightlongArrow
+  rightSansSerifArrow
   rightDoubleArrow
   rightLongDoubleArrow
   leftRightArrow
@@ -123,18 +123,18 @@
   bullet.case
   whiteBullet.case
   hyphenbullet.case
-  trianglebullet.case
+  triangularbullet.case
   blackleftbullet.case
   blackrightbullet.case
   blackSmallSquare.case
   leftArrow.case
   leftLongArrow.case
-  leftLongArrow2.case
+  leftSansSerifArrow.case
   leftDoubleArrow.case
   leftLongDoubleArrow.case
   rightArrow.case
-  rightLongArrow.case
-  rightLongArrow2.case
+  rightlongArrow.case
+  rightSansSerifArrow.case
   rightDoubleArrow.case
   rightLongDoubleArrow.case
   leftRightArrow.case
@@ -156,8 +156,8 @@
 
 @Punctuation = [
   slash bar quoteleft quoteright apostrophemod quotesingle quotedbl
-  quotedblleft quotedblright quotedblbase quotesinglbase prime doubleprime
-  tripleprime quadrupleprime primerev doubleprimerev tripleprimerev primemod
+  quotedblleft quotedblright quotedblbase quotesinglbase minute second
+  tripleprime quadrupleprime primeReversed doubleprimeReversed tripleprimeReversed primemod
   doubleprimemod comma period ellipsis twodotenleader semicolon underscore
   asciicircum circumflex
   asterisk
@@ -168,20 +168,20 @@
 # BEGIN arrow replacements
 
 # --->
-sub @DASH @DASH @DASH greater by rightLongArrow2;
-sub @DASH_ANY @DASH_ANY @DASH_ANY greater.case by rightLongArrow2.case;
+sub @DASH @DASH @DASH greater by rightSansSerifArrow;
+sub @DASH_ANY @DASH_ANY @DASH_ANY greater.case by rightSansSerifArrow.case;
 # -->
-sub @DASH @DASH greater by rightLongArrow;
-sub @DASH_ANY @DASH_ANY greater.case by rightLongArrow.case;
+sub @DASH @DASH greater by rightlongArrow;
+sub @DASH_ANY @DASH_ANY greater.case by rightlongArrow.case;
 # [endash emdash]-> (legacy)
-sub [endash emdash] greater by rightLongArrow;
-sub [endash emdash endash.case emdash.case] greater.case by rightLongArrow.case;
+sub [endash emdash] greater by rightlongArrow;
+sub [endash emdash endash.case emdash.case] greater.case by rightlongArrow.case;
 # ->
 sub hyphen greater by rightArrow;
 sub [hyphen hyphen.case] greater.case by rightArrow.case;
 # <---
-sub less @DASH @DASH @DASH by leftLongArrow2;
-sub less.case @DASH_ANY @DASH_ANY @DASH_ANY by leftLongArrow2.case;
+sub less @DASH @DASH @DASH by leftSansSerifArrow;
+sub less.case @DASH_ANY @DASH_ANY @DASH_ANY by leftSansSerifArrow.case;
 # <--
 sub less @DASH @DASH by leftLongArrow;
 sub less.case @DASH_ANY @DASH_ANY by leftLongArrow.case;
@@ -200,8 +200,8 @@ sub [less less.case] rightArrow.case by leftRightArrow.case;
 sub leftArrow greater by leftRightArrow; # <-,-
 sub leftArrow.case [greater greater.case] by leftRightArrow.case;
 # <-->
-sub less rightLongArrow by leftRightLongArrow; # <,-->
-sub [less less.case] rightLongArrow.case by leftRightLongArrow.case;
+sub less rightlongArrow by leftRightLongArrow; # <,-->
+sub [less less.case] rightlongArrow.case by leftRightLongArrow.case;
 sub leftLongArrow greater by leftRightLongArrow; # <--,>
 sub leftLongArrow.case [greater greater.case] by leftRightLongArrow.case;
 # <=>

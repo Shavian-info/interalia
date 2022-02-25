@@ -59,16 +59,16 @@
     nine.dnom
 ];
 @subscripts = [
-    zero.subs
-    one.subs
-    two.subs
-    three.subs
-    four.subs
-    five.subs
-    six.subs
-    seven.subs
-    eight.subs
-    nine.subs
+    zeroinferior
+    oneinferior
+    twoinferior
+    threeinferior
+    fourinferior
+    fiveinferior
+    sixinferior
+    seveninferior
+    eightinferior
+    nineinferior
 ];
 
 lookup FractionBar {

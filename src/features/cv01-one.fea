@@ -1,5 +1,5 @@
 cvParameters { FeatUILabelNameID { name "Alternate one"; }; };
 sub one by one.ss01;
 sub one.tf by one.ss01.tf;
-sub one.squared by one.ss01.squared;
+sub one.box by one.ss01.box;
 sub one.circled by one.ss01.circled;
