@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilonLunateReversedSymbol" format="2">
+  <advance height="2479.0" width="825.0"/>
+  <unicode hex="03F6"/>
+  <outline>
+    <contour>
+      <point x="52.66666666666667" y="96.0" type="line"/>
+      <point x="52.66666666666667" y="11.333333333333332" type="line"/>
+      <point x="287.6666666666667" y="11.333333333333332" type="line" smooth="yes"/>
+      <point x="608.3333333333334" y="11.333333333333332"/>
+      <point x="771.6666666666666" y="204.33333333333334"/>
+      <point x="771.6666666666666" y="515.0" type="curve" smooth="yes"/>
+      <point x="771.6666666666666" y="565.0" type="line" smooth="yes"/>
+      <point x="771.6666666666666" y="879.0"/>
+      <point x="609.6666666666666" y="1070.6666666666667"/>
+      <point x="287.6666666666667" y="1070.6666666666667" type="curve" smooth="yes"/>
+      <point x="52.66666666666667" y="1070.6666666666667" type="line"/>
+      <point x="52.66666666666667" y="986.0" type="line"/>
+      <point x="287.6666666666667" y="986.0" type="line" smooth="yes"/>
+      <point x="556.3333333333334" y="986.0"/>
+      <point x="675.0" y="827.0"/>
+      <point x="675.0" y="565.0" type="curve" smooth="yes"/>
+      <point x="675.0" y="515.0" type="line" smooth="yes"/>
+      <point x="675.0" y="257.0"/>
+      <point x="555.3333333333334" y="96.0"/>
+      <point x="287.6666666666667" y="96.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="233.66666666666666" y="500.6666666666667" type="line"/>
+      <point x="737.0" y="500.6666666666667" type="line"/>
+      <point x="737.0" y="584.6666666666666" type="line"/>
+      <point x="233.66666666666666" y="584.6666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

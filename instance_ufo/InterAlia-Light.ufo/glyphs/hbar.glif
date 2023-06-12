@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hbar" format="2">
+  <advance height="2479.0" width="1194.6666666666667"/>
+  <unicode hex="0127"/>
+  <anchor x="595.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="248.33333333333334" y="-2.0" name="cedilla"/>
+  <anchor x="236.33333333333334" y="1310.0" name="cross"/>
+  <anchor x="236.33333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="crossbar" xOffset="-212.0" yOffset="589.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lhookretroflex" format="2">
+  <advance height="2479" width="475"/>
+  <unicode hex="026D"/>
+  <anchor x="129" y="0" name="bottom"/>
+  <anchor x="257" y="768" name="cross"/>
+  <anchor x="539" y="1489" name="raccent"/>
+  <anchor x="408" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="152" y="0" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="71" y="-205" type="line" smooth="yes"/>
+      <point x="47" y="-341"/>
+      <point x="97" y="-416"/>
+      <point x="226" y="-416" type="curve"/>
+      <point x="252" y="-416"/>
+      <point x="273" y="-413"/>
+      <point x="293" y="-409" type="curve"/>
+      <point x="300" y="-362" type="line"/>
+      <point x="283" y="-367"/>
+      <point x="264" y="-369"/>
+      <point x="235" y="-369" type="curve"/>
+      <point x="121" y="-369"/>
+      <point x="97" y="-321"/>
+      <point x="119" y="-198" type="curve" smooth="yes"/>
+    </contour>
+    <component base="l" xOffset="1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

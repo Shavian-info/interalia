@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.circled" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="24B9"/>
+  <anchor x="1267.0" y="0.0" name="bottom"/>
+  <anchor x="1110.6" y="776.0" name="cross"/>
+  <anchor x="1678.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="D" xOffset="772.6"/>
+    <component base="enclosingcirclecomb" xOffset="716.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

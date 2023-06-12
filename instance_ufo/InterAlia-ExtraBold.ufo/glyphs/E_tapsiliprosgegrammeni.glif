@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsiliprosgegrammeni" format="2">
+  <advance height="2479.0" width="1851.0"/>
+  <unicode hex="1F98"/>
+  <anchor x="1084.6" y="0.0" name="bottom"/>
+  <anchor x="608.2" y="-0.5999999999999996" name="cedilla"/>
+  <anchor x="1905.0" y="143.2" name="cyrtic"/>
+  <anchor x="1738.0" y="0.0" name="right"/>
+  <anchor x="396.8" y="1489.0" name="tonos"/>
+  <anchor x="1086.4" y="1676.6" name="top"/>
+  <outline>
+    <component base="H" xOffset="319.0"/>
+    <component base="prosgegrammeni" xOffset="824.8"/>
+    <component base="koronisaccentleft.cn" xOffset="-12.599999999999994" yOffset="-6.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

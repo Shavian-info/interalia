@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upsilonpsilivaria" format="2">
+  <advance height="2479.0" width="1218.3999999999999"/>
+  <unicode hex="1F52"/>
+  <anchor x="707.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="upsilon"/>
+    <component base="psilivaria" xOffset="84.19999999999999" yOffset="122.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

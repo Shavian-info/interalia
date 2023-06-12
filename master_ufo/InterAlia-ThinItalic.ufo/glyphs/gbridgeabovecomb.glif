@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gbridgeabovecomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0346"/>
+  <outline>
+    <contour>
+      <point x="-713" y="1231" type="line"/>
+      <point x="-666" y="1231" type="line"/>
+      <point x="-602" y="1615" type="line"/>
+      <point x="-649" y="1615" type="line"/>
+    </contour>
+    <contour>
+      <point x="-630" y="1568" type="line"/>
+      <point x="-217" y="1568" type="line"/>
+      <point x="-209" y="1615" type="line"/>
+      <point x="-623" y="1615" type="line"/>
+    </contour>
+    <contour>
+      <point x="-288" y="1231" type="line"/>
+      <point x="-241" y="1231" type="line"/>
+      <point x="-177" y="1615" type="line"/>
+      <point x="-224" y="1615" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

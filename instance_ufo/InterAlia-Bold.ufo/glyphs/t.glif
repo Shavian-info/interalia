@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t" format="2">
+  <advance height="2479.0" width="795.4"/>
+  <unicode hex="0074"/>
+  <anchor x="634.2" y="1562.0" name="raccent"/>
+  <anchor x="444.8" y="0.0" name="bottom"/>
+  <anchor x="542.0" y="0.0" name="cedilla"/>
+  <anchor x="353.0" y="1520.8" name="top"/>
+  <outline>
+    <contour>
+      <point x="718.0" y="1117.0" type="line"/>
+      <point x="44.8" y="1117.0" type="line"/>
+      <point x="44.8" y="884.4" type="line"/>
+      <point x="718.0" y="884.4" type="line"/>
+    </contour>
+    <component base="_part.t_base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

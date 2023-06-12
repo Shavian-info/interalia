@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance height="2479.0" width="461.6666666666667"/>
+  <unicode hex="00B8"/>
+  <anchor x="235.66666666666669" y="0.0" name="_cedilla"/>
+  <outline>
+    <contour>
+      <point x="195.33333333333334" y="6.0" type="line"/>
+      <point x="171.66666666666666" y="-109.66666666666667" type="line"/>
+      <point x="279.0" y="-111.0"/>
+      <point x="331.3333333333333" y="-145.66666666666666"/>
+      <point x="332.0" y="-224.0" type="curve" smooth="yes"/>
+      <point x="331.3333333333333" y="-293.6666666666667"/>
+      <point x="281.0" y="-324.3333333333333"/>
+      <point x="178.33333333333334" y="-327.0" type="curve"/>
+      <point x="181.33333333333334" y="-395.3333333333333" type="line"/>
+      <point x="333.6666666666667" y="-392.6666666666667"/>
+      <point x="413.33333333333337" y="-332.3333333333333"/>
+      <point x="414.0" y="-222.0" type="curve" smooth="yes"/>
+      <point x="413.33333333333337" y="-124.33333333333333"/>
+      <point x="354.0" y="-66.66666666666667"/>
+      <point x="263.0" y="-52.0" type="curve"/>
+      <point x="273.33333333333337" y="6.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

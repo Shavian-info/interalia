@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelow.ss02" format="2">
+  <advance height="2479" width="497"/>
+  <anchor x="215" y="0" name="bottom"/>
+  <anchor x="255" y="768" name="cross"/>
+  <anchor x="537" y="1489" name="raccent"/>
+  <anchor x="407" y="1676" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="dotbelowcomb" xOffset="867"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

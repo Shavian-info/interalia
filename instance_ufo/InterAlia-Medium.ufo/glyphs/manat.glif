@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="manat" format="2">
+  <advance height="2479.0" width="1506.4"/>
+  <unicode hex="20BC"/>
+  <outline>
+    <contour>
+      <point x="1364.2" y="0.0" type="line"/>
+      <point x="1364.2" y="177.2" type="line" smooth="yes"/>
+      <point x="1363.8" y="617.6"/>
+      <point x="1115.8" y="886.6"/>
+      <point x="753.6" y="886.6" type="curve" smooth="yes"/>
+      <point x="399.8" y="886.6"/>
+      <point x="143.8" y="617.6"/>
+      <point x="144.0" y="177.2" type="curve" smooth="yes"/>
+      <point x="144.0" y="0.0" type="line"/>
+      <point x="362.6" y="0.0" type="line"/>
+      <point x="362.6" y="178.4" type="line" smooth="yes"/>
+      <point x="362.4" y="513.0"/>
+      <point x="528.4" y="689.2"/>
+      <point x="753.6" y="689.2" type="curve" smooth="yes"/>
+      <point x="985.6" y="689.2"/>
+      <point x="1144.6" y="513.0"/>
+      <point x="1145.0" y="178.4" type="curve" smooth="yes"/>
+      <point x="1145.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="864.6" y="1117.0" type="line"/>
+      <point x="643.8" y="1117.0" type="line"/>
+      <point x="643.8" y="0.0" type="line"/>
+      <point x="864.6" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

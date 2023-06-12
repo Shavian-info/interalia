@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="flattenedopenaabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DD3"/>
+  <outline>
+    <contour>
+      <point x="-629.8000000000001" y="1386.2" type="line"/>
+      <point x="-635.4" y="1341.0"/>
+      <point x="-665.6" y="1316.8"/>
+      <point x="-713.4" y="1316.8" type="curve" smooth="yes"/>
+      <point x="-758.6" y="1316.8"/>
+      <point x="-777.0" y="1348.8"/>
+      <point x="-771.2" y="1386.2" type="curve"/>
+      <point x="-943.3999999999999" y="1386.2" type="line"/>
+      <point x="-957.8" y="1287.2"/>
+      <point x="-874.8" y="1190.6"/>
+      <point x="-732.8" y="1190.6" type="curve" smooth="yes"/>
+      <point x="-589.6" y="1190.6"/>
+      <point x="-508.6" y="1257.0"/>
+      <point x="-489.20000000000005" y="1386.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-327.8" y="1386.2" type="line"/>
+      <point x="-332.6" y="1341.0"/>
+      <point x="-362.20000000000005" y="1316.8"/>
+      <point x="-410.4" y="1316.8" type="curve" smooth="yes"/>
+      <point x="-456.6" y="1316.8"/>
+      <point x="-473.4" y="1348.8"/>
+      <point x="-468.59999999999997" y="1386.2" type="curve"/>
+      <point x="-606.6" y="1386.2" type="line"/>
+      <point x="-621.0" y="1287.2"/>
+      <point x="-572.2" y="1190.6"/>
+      <point x="-430.8" y="1190.6" type="curve" smooth="yes"/>
+      <point x="-287.0" y="1190.6"/>
+      <point x="-173.0" y="1257.0"/>
+      <point x="-154.60000000000002" y="1386.2" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lhookretroflex" format="2">
+  <advance height="2479.0" width="624.8000000000001"/>
+  <unicode hex="026D"/>
+  <anchor x="164.4" y="0.0" name="bottom"/>
+  <anchor x="292.6" y="768.0" name="cross"/>
+  <anchor x="656.8" y="1489.0" name="raccent"/>
+  <anchor x="442.2" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="271.40000000000003" y="0.0" type="line"/>
+      <point x="54.4" y="0.0" type="line"/>
+      <point x="36.4" y="-102.2" type="line" smooth="yes"/>
+      <point x="0.19999999999999996" y="-321.6"/>
+      <point x="127.8" y="-419.0"/>
+      <point x="306.2" y="-419.0" type="curve" smooth="yes"/>
+      <point x="354.00000000000006" y="-419.0"/>
+      <point x="395.40000000000003" y="-417.2"/>
+      <point x="428.0" y="-409.4" type="curve"/>
+      <point x="456.20000000000005" y="-234.2" type="line"/>
+      <point x="438.6" y="-237.0"/>
+      <point x="416.79999999999995" y="-240.0"/>
+      <point x="394.20000000000005" y="-240.0" type="curve" smooth="yes"/>
+      <point x="305.8" y="-240.0"/>
+      <point x="236.8" y="-209.2"/>
+      <point x="254.20000000000002" y="-102.2" type="curve" smooth="yes"/>
+    </contour>
+    <component base="l" xOffset="1.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

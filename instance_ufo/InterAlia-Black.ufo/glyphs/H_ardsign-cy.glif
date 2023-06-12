@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hardsign-cy" format="2">
+  <advance height="2479" width="1687"/>
+  <unicode hex="042A"/>
+  <anchor x="683" y="1178" name="cross"/>
+  <outline>
+    <contour>
+      <point x="55" y="1187" type="line"/>
+      <point x="655" y="1187" type="line"/>
+      <point x="655" y="1489" type="line"/>
+      <point x="55" y="1489" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="343"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hdotaccent" format="2">
+  <advance height="2479" width="1325"/>
+  <unicode hex="1E23"/>
+  <anchor x="573" y="0" name="bottom"/>
+  <anchor x="209" y="0" name="cedilla"/>
+  <anchor x="416" y="1271" name="cross"/>
+  <anchor x="483" y="1676" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="dotaccent" xOffset="25" yOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>h</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

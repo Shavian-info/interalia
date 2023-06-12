@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescenderabkhasian-cy" format="2">
+  <advance height="2479.0" width="1537.0"/>
+  <unicode hex="04BF"/>
+  <anchor x="931.8" y="0.0" name="bottom"/>
+  <anchor x="935.6" y="0.0" name="cedilla"/>
+  <anchor x="1166.8" y="19.6" name="ogonek"/>
+  <anchor x="931.8" y="1303.0" name="top"/>
+  <outline>
+    <component base="cheabkhasian-cy"/>
+    <component base="cedilla" xOffset="585.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

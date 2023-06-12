@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idblgrave" format="2">
+  <advance height="2479" width="597"/>
+  <unicode hex="0208"/>
+  <anchor x="207" y="0" name="bottom"/>
+  <anchor x="335" y="788" name="cross"/>
+  <anchor x="407" y="0" name="ogonek"/>
+  <anchor x="433" y="0" name="right"/>
+  <anchor x="250" y="1489" name="tonos"/>
+  <anchor x="486" y="1676" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dblgravecomb" xOffset="972" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

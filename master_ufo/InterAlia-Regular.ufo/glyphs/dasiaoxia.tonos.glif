@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaoxia.tonos" format="2">
+  <advance height="2479" width="919"/>
+  <unicode hex="E0FE"/>
+  <anchor x="815" y="1489" name="_tonos"/>
+  <outline>
+    <component base="dasiaoxia"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

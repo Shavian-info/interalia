@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="er-cy" format="2">
+  <advance height="2479.0" width="1225.3333333333333"/>
+  <unicode hex="0440"/>
+  <anchor x="65.33333333333333" y="-419.0" name="bottom"/>
+  <anchor x="1003.6666666666666" y="-502.3333333333333" name="bottom0315"/>
+  <anchor x="109.99999999999999" y="-163.0" name="cross"/>
+  <anchor x="760.3333333333333" y="1303.0" name="top"/>
+  <outline>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedescender-cy" format="2">
+  <advance height="2479.0" width="1507.0"/>
+  <unicode hex="04B7"/>
+  <anchor x="1214.4" y="142.0" name="cyrtic"/>
+  <anchor x="687.8" y="0.0" name="left"/>
+  <anchor x="1027.8" y="0.0" name="right"/>
+  <anchor x="736.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="che-cy"/>
+    <component base="cyrillictic.cn" xOffset="964.2" yOffset="-1.1999999999999993"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>che-cy</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

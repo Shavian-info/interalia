@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilonvaria" format="2">
+  <advance height="2479.0" width="1132.0"/>
+  <unicode hex="1F72"/>
+  <anchor x="569.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="varia" xOffset="202.0" yOffset="110.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DDC"/>
+  <outline>
+    <contour>
+      <point x="-454.3333333333333" y="1999.0" type="line"/>
+      <point x="-557.3333333333334" y="1999.0" type="line"/>
+      <point x="-688.3333333333334" y="1201.0" type="line"/>
+      <point x="-585.3333333333334" y="1201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-156.0" y="1754.0" type="line"/>
+      <point x="-274.0" y="1754.0" type="line"/>
+      <point x="-479.99999999999994" y="1557.0" type="line"/>
+      <point x="-591.6666666666666" y="1446.6666666666667" type="line"/>
+      <point x="-599.0" y="1339.0" type="line"/>
+      <point x="-435.0" y="1490.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="-322.0" y="1201.0" type="line"/>
+      <point x="-205.33333333333334" y="1201.0" type="line"/>
+      <point x="-406.6666666666667" y="1552.6666666666667" type="line"/>
+      <point x="-477.66666666666663" y="1477.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

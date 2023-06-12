@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eng" format="2">
+  <advance height="2479" width="1170"/>
+  <unicode hex="014B"/>
+  <anchor x="582" y="0" name="bottom"/>
+  <anchor x="585" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="919" y="0" type="line"/>
+      <point x="919" y="-172" type="line" smooth="yes"/>
+      <point x="919" y="-308"/>
+      <point x="867" y="-372"/>
+      <point x="765" y="-372" type="curve" smooth="yes"/>
+      <point x="738" y="-372"/>
+      <point x="714" y="-368"/>
+      <point x="695" y="-364" type="curve"/>
+      <point x="695" y="-406" type="line"/>
+      <point x="713" y="-415"/>
+      <point x="739" y="-419"/>
+      <point x="768" y="-419" type="curve" smooth="yes"/>
+      <point x="895" y="-419"/>
+      <point x="966" y="-333"/>
+      <point x="966" y="-172" type="curve" smooth="yes"/>
+      <point x="966" y="0" type="line"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>n</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

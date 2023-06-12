@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1F12F" format="2">
+  <advance height="2479.0" width="1873.0"/>
+  <unicode hex="1F12F"/>
+  <outline>
+    <contour>
+      <point x="1356.6666666666667" y="745.0" type="curve" smooth="yes"/>
+      <point x="1356.6666666666667" y="983.0"/>
+      <point x="1163.6666666666667" y="1177.0"/>
+      <point x="924.6666666666666" y="1177.0" type="curve" smooth="yes"/>
+      <point x="730.3333333333334" y="1177.0"/>
+      <point x="570.3333333333334" y="1046.0"/>
+      <point x="533.3333333333334" y="869.0" type="curve"/>
+      <point x="668.0" y="869.0" type="line"/>
+      <point x="697.6666666666666" y="975.3333333333334"/>
+      <point x="801.6666666666666" y="1048.6666666666667"/>
+      <point x="924.6666666666666" y="1048.6666666666667" type="curve" smooth="yes"/>
+      <point x="1093.0" y="1048.6666666666667"/>
+      <point x="1229.3333333333333" y="913.0"/>
+      <point x="1229.3333333333333" y="745.0" type="curve" smooth="yes"/>
+      <point x="1229.3333333333333" y="576.6666666666666"/>
+      <point x="1093.0" y="440.3333333333333"/>
+      <point x="924.6666666666666" y="440.3333333333333" type="curve" smooth="yes"/>
+      <point x="801.6666666666666" y="440.3333333333333"/>
+      <point x="708.3333333333334" y="515.0"/>
+      <point x="678.0" y="621.0" type="curve"/>
+      <point x="543.3333333333334" y="621.0" type="line"/>
+      <point x="579.6666666666666" y="443.0"/>
+      <point x="730.3333333333334" y="313.0"/>
+      <point x="924.6666666666666" y="313.0" type="curve" smooth="yes"/>
+      <point x="1163.6666666666667" y="313.0"/>
+      <point x="1356.6666666666667" y="506.0"/>
+    </contour>
+    <component base="whiteCircle"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>whiteCircle</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

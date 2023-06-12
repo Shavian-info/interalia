@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflex" format="2">
+  <advance height="2479.0" width="884.3333333333334"/>
+  <unicode hex="02C6"/>
+  <anchor x="566.9999999999999" y="1303.0" name="_top"/>
+  <outline>
+    <component base="caron" xScale="-1.0" yScale="-1.0" xOffset="1157.3333333333335" yOffset="2784.6666666666665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>caron</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

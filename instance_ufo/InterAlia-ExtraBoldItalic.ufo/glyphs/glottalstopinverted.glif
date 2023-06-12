@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopinverted" format="2">
+  <advance height="2479.0" width="1220.6000000000001"/>
+  <unicode hex="0296"/>
+  <anchor x="746.0" y="1278.2" name="cross"/>
+  <outline>
+    <contour>
+      <point x="501.79999999999995" y="-23.0" type="curve" smooth="yes"/>
+      <point x="839.4" y="-23.0"/>
+      <point x="1091.2" y="199.6"/>
+      <point x="1148.0" y="543.4" type="curve" smooth="yes"/>
+      <point x="1208.8000000000002" y="910.6"/>
+      <point x="1016.0" y="1154.6"/>
+      <point x="675.8" y="1154.6" type="curve"/>
+      <point x="645.6" y="884.6" type="line"/>
+      <point x="769.6" y="884.6"/>
+      <point x="822.8000000000001" y="769.0"/>
+      <point x="793.6" y="588.6" type="curve" smooth="yes"/>
+      <point x="759.4000000000001" y="384.8"/>
+      <point x="645.6" y="247.0"/>
+      <point x="506.99999999999994" y="247.0" type="curve" smooth="yes"/>
+      <point x="423.8" y="247.0"/>
+      <point x="371.40000000000003" y="313.6"/>
+      <point x="376.40000000000003" y="430.8" type="curve"/>
+      <point x="48.599999999999994" y="430.8" type="line"/>
+      <point x="10.399999999999988" y="156.0"/>
+      <point x="189.0" y="-23.0"/>
+    </contour>
+    <contour>
+      <point x="502.6" y="884.6" type="line"/>
+      <point x="857.6" y="884.6" type="line"/>
+      <point x="962.2" y="1510.0" type="line"/>
+      <point x="606.2" y="1510.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

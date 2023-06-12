@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="creversed" format="2">
+  <advance height="2479.0" width="1161.6"/>
+  <unicode hex="2184"/>
+  <outline>
+    <component base="oopen"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

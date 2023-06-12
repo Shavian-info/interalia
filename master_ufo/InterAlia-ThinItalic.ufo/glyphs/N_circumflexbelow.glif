@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncircumflexbelow" format="2">
+  <advance height="2479" width="1583"/>
+  <unicode hex="1E4A"/>
+  <anchor x="698" y="0" name="bottom"/>
+  <anchor x="1207" y="0" name="right"/>
+  <anchor x="977" y="1676" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="circumflexbelowcomb" xOffset="1310"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

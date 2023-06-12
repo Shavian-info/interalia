@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance height="2479" width="1401"/>
+  <unicode hex="04B8"/>
+  <anchor x="1188" y="6" name="cyrtic"/>
+  <anchor x="1129" y="0" name="left"/>
+  <anchor x="1168" y="0" name="right"/>
+  <anchor x="684" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="691" y="960" type="line"/>
+      <point x="644" y="960" type="line"/>
+      <point x="644" y="329" type="line"/>
+      <point x="691" y="329" type="line"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Che-cy</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

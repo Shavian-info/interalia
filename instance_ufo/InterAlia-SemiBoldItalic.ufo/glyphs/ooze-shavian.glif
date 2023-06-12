@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ooze-shavian" format="2">
+  <advance height="2479.0" width="1185.6"/>
+  <unicode hex="10475"/>
+  <outline>
+    <contour>
+      <point x="-44.2" y="0.0" type="line"/>
+      <point x="253.20000000000002" y="0.0" type="line"/>
+      <point x="648.6" y="829.6" type="line"/>
+      <point x="659.6" y="829.6" type="line"/>
+      <point x="779.1999999999999" y="0.0" type="line"/>
+      <point x="1048.8" y="0.0" type="line"/>
+      <point x="837.0" y="1117.0" type="line"/>
+      <point x="545.6" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

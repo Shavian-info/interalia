@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vow-shavian" format="2">
+  <advance height="2479.0" width="810.3333333333334"/>
+  <unicode hex="1045D"/>
+  <outline>
+    <contour>
+      <point x="188.33333333333334" y="-419.0" type="line"/>
+      <point x="276.3333333333333" y="-419.0" type="line"/>
+      <point x="276.3333333333333" y="713.6666666666666" type="line" smooth="yes"/>
+      <point x="276.3333333333333" y="900.3333333333334"/>
+      <point x="396.3333333333333" y="1028.6666666666667"/>
+      <point x="571.3333333333334" y="1030.0" type="curve"/>
+      <point x="684.3333333333334" y="1030.0" type="line"/>
+      <point x="684.3333333333334" y="1117.0" type="line"/>
+      <point x="568.3333333333334" y="1117.0" type="line" smooth="yes"/>
+      <point x="348.3333333333333" y="1116.3333333333333"/>
+      <point x="188.33333333333334" y="964.3333333333334"/>
+      <point x="188.33333333333334" y="722.3333333333334" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

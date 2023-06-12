@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Stigma" format="2">
+  <advance height="2479.0" width="1566.8"/>
+  <unicode hex="03DA"/>
+  <outline>
+    <contour>
+      <point x="703.4" y="-393.0" type="line" name="hr00"/>
+      <point x="1001.4" y="-389.8"/>
+      <point x="1209.2" y="-253.8"/>
+      <point x="1245.6" y="-38.0" type="curve" smooth="yes"/>
+      <point x="1268.6" y="104.2"/>
+      <point x="1207.8" y="203.0"/>
+      <point x="1067.6" y="249.2" type="curve" smooth="yes"/>
+      <point x="736.0" y="359.8" type="line" smooth="yes"/>
+      <point x="556.8000000000001" y="421.0"/>
+      <point x="491.4" y="552.6"/>
+      <point x="528.4" y="775.8" type="curve" smooth="yes"/>
+      <point x="541.8" y="860.2" type="line" smooth="yes"/>
+      <point x="585.0" y="1118.8"/>
+      <point x="703.0" y="1250.4"/>
+      <point x="916.4" y="1250.4" type="curve" smooth="yes"/>
+      <point x="1088.0" y="1250.4"/>
+      <point x="1169.0" y="1170.8"/>
+      <point x="1154.0" y="992.2" type="curve"/>
+      <point x="1469.0" y="992.2" type="line"/>
+      <point x="1493.2" y="1311.0"/>
+      <point x="1288.4" y="1510.0"/>
+      <point x="951.4" y="1510.0" type="curve" smooth="yes"/>
+      <point x="576.2" y="1510.0"/>
+      <point x="283.20000000000005" y="1245.8"/>
+      <point x="218.79999999999998" y="858.4" type="curve" smooth="yes"/>
+      <point x="205.4" y="775.8" type="line" smooth="yes"/>
+      <point x="145.6" y="417.2"/>
+      <point x="268.59999999999997" y="200.0"/>
+      <point x="557.6" y="110.2" type="curve" smooth="yes"/>
+      <point x="838.6" y="21.39999999999999" type="line" smooth="yes"/>
+      <point x="905.1999999999999" y="0.4"/>
+      <point x="925.8" y="-22.799999999999997"/>
+      <point x="918.8" y="-62.60000000000001" type="curve" smooth="yes"/>
+      <point x="908.5999999999999" y="-123.4"/>
+      <point x="847.1999999999999" y="-152.0"/>
+      <point x="741.6" y="-152.60000000000002" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

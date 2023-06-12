@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chi" format="2">
+  <advance height="2479.0" width="1463.2"/>
+  <unicode hex="03A7"/>
+  <anchor x="730.8" y="1.200000000000001" name="bottom"/>
+  <anchor x="730.8" y="745.0" name="cross"/>
+  <anchor x="1346.2" y="123.4" name="cyrtic"/>
+  <anchor x="1226.8" y="0.0" name="right"/>
+  <anchor x="730.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="X"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

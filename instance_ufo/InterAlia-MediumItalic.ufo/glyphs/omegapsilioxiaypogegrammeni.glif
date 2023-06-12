@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegapsilioxiaypogegrammeni" format="2">
+  <advance height="2479.0" width="1746.0"/>
+  <unicode hex="1FA4"/>
+  <anchor x="704.4" y="0.0" name="bottom"/>
+  <anchor x="1093.4" y="1303.0" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="prosgegrammeni" xOffset="562.2"/>
+    <component base="psilioxia" xOffset="591.2" yOffset="128.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

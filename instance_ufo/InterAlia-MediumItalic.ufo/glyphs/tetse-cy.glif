@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetse-cy" format="2">
+  <advance height="2479.0" width="1471.6"/>
+  <unicode hex="04B5"/>
+  <anchor x="436.4" y="1117.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="902.4" y="1117.0" type="line"/>
+      <point x="186.0" y="1117.0" type="line"/>
+      <point x="155.4" y="928.6" type="line"/>
+      <point x="871.8" y="928.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="1337.3999999999999" y="188.0" type="line"/>
+      <point x="1035.3999999999999" y="188.0" type="line"/>
+      <point x="1004.8" y="0.0" type="line"/>
+      <point x="1073.4" y="0.0" type="line"/>
+      <point x="1021.2" y="-320.0" type="line"/>
+      <point x="1234.4" y="-320.0" type="line"/>
+    </contour>
+    <component base="pe-cy" xScale="-1.0" yScale="-1.0" xOffset="1400.8" yOffset="1117.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

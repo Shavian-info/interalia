@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guarani" format="2">
+  <advance height="2479.0" width="1518.3333333333333"/>
+  <unicode hex="20B2"/>
+  <anchor x="766.0" y="0.0" name="bottom"/>
+  <anchor x="768.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="817.3333333333334" y="1676.0" type="line"/>
+      <point x="722.6666666666666" y="1676.0" type="line"/>
+      <point x="722.6666666666666" y="-186.0" type="line"/>
+      <point x="817.3333333333334" y="-186.0" type="line"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

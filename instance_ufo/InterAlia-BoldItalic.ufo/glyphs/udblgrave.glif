@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udblgrave" format="2">
+  <advance height="2479.0" width="1293.0"/>
+  <unicode hex="0215"/>
+  <anchor x="574.4" y="0.0" name="bottom"/>
+  <anchor x="1057.2" y="0.0" name="ogonek"/>
+  <anchor x="761.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dblgravecomb" xOffset="1192.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

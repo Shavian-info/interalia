@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onethird" format="2">
+  <advance height="2479.0" width="1981.0"/>
+  <unicode hex="2153"/>
+  <anchor x="1127.6" y="791.0" name="dnom"/>
+  <anchor x="627.2" y="698.0" name="numr"/>
+  <outline>
+    <component base="one.numr"/>
+    <component base="fraction" xOffset="599.0"/>
+    <component base="three.dnomf" xOffset="1158.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>three.dnomf</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

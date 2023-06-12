@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackleftbullet.case" format="2">
+  <advance height="2479.0" width="1262.8"/>
+  <outline>
+    <component base="blackleftbullet" xOffset="25.0" yOffset="151.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

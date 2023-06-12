@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="blackDiamond" format="2">
+  <advance height="2479" width="2129"/>
+  <unicode hex="25C6"/>
+  <outline>
+    <contour>
+      <point x="2042" y="745" type="line"/>
+      <point x="1071" y="1722" type="line"/>
+      <point x="87" y="745" type="line"/>
+      <point x="1071" y="-233" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

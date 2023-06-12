@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fahrenheit" format="2">
+  <advance height="2479.0" width="2139.2"/>
+  <unicode hex="2109"/>
+  <anchor x="1550.6" y="12.0" name="bottom"/>
+  <anchor x="1227.8" y="289.6" name="cross"/>
+  <anchor x="1573.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="degree"/>
+    <component base="F" xOffset="941.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>degree</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sampi" format="2">
+  <advance height="2479.0" width="1556.6"/>
+  <unicode hex="03E1"/>
+  <outline>
+    <contour>
+      <point x="84.6" y="1425.2" type="line" name="hr00"/>
+      <point x="955.6" y="1061.4"/>
+      <point x="1193.0" y="590.8"/>
+      <point x="1192.4" y="-436.0" type="curve"/>
+      <point x="1475.0" y="-286.6" type="line"/>
+      <point x="1475.6" y="668.2"/>
+      <point x="1243.6" y="1226.0"/>
+      <point x="367.8" y="1578.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1070.0" y="851.6" type="line"/>
+      <point x="946.6" y="1061.2" type="line"/>
+      <point x="152.0" y="614.4" type="line"/>
+      <point x="275.6" y="401.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1291.0" y="428.2" type="line"/>
+      <point x="1168.0" y="639.6" type="line"/>
+      <point x="373.0" y="192.2" type="line"/>
+      <point x="497.0" y="-20.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

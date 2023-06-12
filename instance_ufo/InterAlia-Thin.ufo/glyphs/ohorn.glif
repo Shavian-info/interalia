@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance height="2479" width="1155"/>
+  <unicode hex="01A1"/>
+  <anchor x="593" y="0" name="bottom"/>
+  <anchor x="643" y="0" name="ogonek"/>
+  <anchor x="593" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="1069" y="1220" type="line"/>
+      <point x="1069" y="1069"/>
+      <point x="1027" y="999"/>
+      <point x="897" y="988" type="curve"/>
+      <point x="897" y="941" type="line"/>
+      <point x="1055" y="953"/>
+      <point x="1116" y="1047"/>
+      <point x="1116" y="1220" type="curve"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

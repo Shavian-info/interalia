@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsadblgrave-cy" format="2">
+  <advance height="2479.0" width="1475.0"/>
+  <unicode hex="0476"/>
+  <anchor x="921.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="Izhitsa-cy"/>
+    <component base="dblgravecomb" xOffset="1296.6" yOffset="372.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

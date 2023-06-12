@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lsdigraph" format="2">
+  <advance height="2479.0" width="1559.6000000000001"/>
+  <unicode hex="02AA"/>
+  <anchor x="161.20000000000002" y="0.0" name="bottom"/>
+  <anchor x="221.20000000000002" y="776.0" name="cross"/>
+  <anchor x="602.0" y="1489.0" name="raccent"/>
+  <anchor x="369.2" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="254.8" y="-8.6" type="line"/>
+      <point x="486.79999999999995" y="-8.6"/>
+      <point x="672.6" y="101.2"/>
+      <point x="741.6" y="305.2" type="curve"/>
+      <point x="479.4" y="305.2" type="line"/>
+      <point x="456.8" y="240.6"/>
+      <point x="412.2" y="205.2"/>
+      <point x="349.2" y="205.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="912.1999999999999" y="-21.8" type="curve" smooth="yes"/>
+      <point x="1187.6" y="-21.8"/>
+      <point x="1404.2" y="118.2"/>
+      <point x="1439.0" y="325.0" type="curve" smooth="yes"/>
+      <point x="1465.8" y="489.2"/>
+      <point x="1375.0" y="590.1999999999999"/>
+      <point x="1171.3999999999999" y="636.0" type="curve" smooth="yes"/>
+      <point x="987.0" y="677.0" type="line" smooth="yes"/>
+      <point x="879.1999999999999" y="702.2"/>
+      <point x="844.0" y="737.8"/>
+      <point x="854.4000000000001" y="797.4" type="curve" smooth="yes"/>
+      <point x="866.6" y="877.8"/>
+      <point x="964.4" y="935.4"/>
+      <point x="1078.6" y="935.4" type="curve" smooth="yes"/>
+      <point x="1196.3999999999999" y="935.4"/>
+      <point x="1245.8" y="870.4"/>
+      <point x="1254.0" y="795.0" type="curve"/>
+      <point x="1496.1999999999998" y="821.4" type="line"/>
+      <point x="1491.2" y="1011.8"/>
+      <point x="1357.2" y="1132.0"/>
+      <point x="1090.6000000000001" y="1132.0" type="curve" smooth="yes"/>
+      <point x="826.8" y="1132.0"/>
+      <point x="625.6" y="1004.4000000000001"/>
+      <point x="591.6" y="801.8000000000001" type="curve" smooth="yes"/>
+      <point x="563.6" y="635.0"/>
+      <point x="650.1999999999999" y="523.4"/>
+      <point x="857.4" y="478.59999999999997" type="curve" smooth="yes"/>
+      <point x="1041.0" y="438.8" type="line" smooth="yes"/>
+      <point x="1141.0" y="416.6"/>
+      <point x="1177.8" y="379.8"/>
+      <point x="1167.6000000000001" y="320.2" type="curve" smooth="yes"/>
+      <point x="1156.0" y="239.79999999999998"/>
+      <point x="1056.6000000000001" y="175.60000000000002"/>
+      <point x="926.5999999999999" y="176.8" type="curve" smooth="yes"/>
+      <point x="815.2" y="177.60000000000002"/>
+      <point x="746.6" y="222.6"/>
+      <point x="741.6" y="305.2" type="curve"/>
+      <point x="479.4" y="305.2" type="line"/>
+      <point x="478.79999999999995" y="101.0"/>
+      <point x="633.4" y="-21.8"/>
+    </contour>
+    <component base="l.ss02" xOffset="-83.39999999999999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

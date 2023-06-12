@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcedilla" format="2">
+  <advance height="2479" width="1315"/>
+  <unicode hex="0162"/>
+  <anchor x="564" y="0" name="bottom"/>
+  <anchor x="585" y="0" name="cedilla"/>
+  <anchor x="692" y="768" name="cross"/>
+  <anchor x="748" y="64" name="cyrtic"/>
+  <anchor x="605" y="0" name="right"/>
+  <anchor x="844" y="1676" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="cedilla" xOffset="399"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>cedilla</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cedilla</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etaprosgegrammeni" format="2">
+  <advance height="2479.0" width="1513.0"/>
+  <unicode hex="1FCC"/>
+  <anchor x="662.0" y="0.0" name="bottom"/>
+  <anchor x="185.66666666666666" y="-2.0" name="cedilla"/>
+  <anchor x="1281.6666666666665" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="1219.6666666666667" y="0.0" name="right"/>
+  <anchor x="313.3333333333333" y="1489.0" name="tonos"/>
+  <anchor x="947.3333333333334" y="1678.0" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="prosgegrammeni" xOffset="534.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

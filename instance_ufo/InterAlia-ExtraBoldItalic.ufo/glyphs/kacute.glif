@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kacute" format="2">
+  <advance height="2479.0" width="1218.8000000000002"/>
+  <unicode hex="1E31"/>
+  <anchor x="527.0" y="0.0" name="bottom"/>
+  <anchor x="545.5999999999999" y="2049.0" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="acute" xOffset="-148.39999999999998" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

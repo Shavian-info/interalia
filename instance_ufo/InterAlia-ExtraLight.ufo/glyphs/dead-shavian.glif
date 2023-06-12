@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dead-shavian" format="2">
+  <advance height="2479.0" width="837.3333333333334"/>
+  <unicode hex="1045B"/>
+  <outline>
+    <contour>
+      <point x="188.33333333333334" y="-419.0" type="line"/>
+      <point x="272.3333333333333" y="-419.0" type="line"/>
+      <point x="272.3333333333333" y="-218.66666666666666"/>
+      <point x="490.3333333333333" y="0.6666666666666666"/>
+      <point x="688.3333333333334" y="0.0" type="curve" smooth="yes"/>
+      <point x="711.3333333333334" y="0.0" type="line"/>
+      <point x="711.3333333333334" y="87.66666666666667" type="line"/>
+      <point x="680.6666666666666" y="87.66666666666667" type="line" smooth="yes"/>
+      <point x="537.3333333333334" y="87.0"/>
+      <point x="355.0" y="-37.0"/>
+      <point x="284.0" y="-183.66666666666666" type="curve"/>
+      <point x="276.3333333333333" y="-183.66666666666666" type="line"/>
+      <point x="276.3333333333333" y="1116.6666666666667" type="line"/>
+      <point x="188.33333333333334" y="1116.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

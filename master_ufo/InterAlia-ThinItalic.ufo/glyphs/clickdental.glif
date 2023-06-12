@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clickdental" format="2">
+  <advance height="2479" width="381"/>
+  <unicode hex="01C0"/>
+  <outline>
+    <contour>
+      <point x="374" y="1516" type="line"/>
+      <point x="327" y="1516" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

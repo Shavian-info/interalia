@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sure-shavian" format="2">
+  <advance height="2479.0" width="907.4"/>
+  <unicode hex="10456"/>
+  <outline>
+    <contour>
+      <point x="553.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="809.8" y="0.0" type="line"/>
+      <point x="809.8" y="205.6" type="line"/>
+      <point x="570.4" y="205.6" type="line" smooth="yes"/>
+      <point x="387.6" y="205.6"/>
+      <point x="313.4" y="280.0"/>
+      <point x="313.4" y="463.8" type="curve" smooth="yes"/>
+      <point x="315.0" y="742.2"/>
+      <point x="487.6" y="1129.4"/>
+      <point x="733.8" y="1409.4" type="curve"/>
+      <point x="556.0" y="1510.0" type="line"/>
+      <point x="304.4" y="1242.0"/>
+      <point x="96.2" y="751.8"/>
+      <point x="96.2" y="421.2" type="curve" smooth="yes"/>
+      <point x="96.2" y="141.0"/>
+      <point x="247.4" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

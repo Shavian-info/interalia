@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iota" format="2">
+  <advance height="2479.0" width="657.4"/>
+  <unicode hex="03B9"/>
+  <anchor x="295.4" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="144.4" y="1117.0" type="line"/>
+      <point x="144.4" y="312.6" type="line"/>
+      <point x="145.0" y="80.2"/>
+      <point x="268.0" y="-13.2"/>
+      <point x="463.2" y="-13.2" type="curve" smooth="yes"/>
+      <point x="532.0" y="-13.2"/>
+      <point x="596.0" y="-1.2000000000000002"/>
+      <point x="646.6" y="16.2" type="curve"/>
+      <point x="646.6" y="244.0" type="line"/>
+      <point x="624.8" y="241.6"/>
+      <point x="597.6" y="238.0"/>
+      <point x="559.0" y="238.0" type="curve" smooth="yes"/>
+      <point x="483.0" y="238.0"/>
+      <point x="442.4" y="260.8"/>
+      <point x="441.8" y="349.8" type="curve"/>
+      <point x="445.4" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

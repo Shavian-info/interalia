@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enge-cy" format="2">
+  <advance height="2479.0" width="1463.3333333333333"/>
+  <unicode hex="04A5"/>
+  <anchor x="1044.3333333333333" y="25.333333333333336" name="cyrtic"/>
+  <anchor x="1006.0" y="0.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="1427.6666666666667" y="1117.0" type="line"/>
+      <point x="969.6666666666666" y="1117.0" type="line"/>
+      <point x="969.6666666666666" y="1033.0" type="line"/>
+      <point x="1427.6666666666667" y="1033.0" type="line"/>
+    </contour>
+    <component base="en-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

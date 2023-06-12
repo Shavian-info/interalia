@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fivehundred-roman" format="2">
+  <advance height="2479" width="1501"/>
+  <unicode hex="216E"/>
+  <anchor x="582" y="0" name="bottom"/>
+  <anchor x="335" y="788" name="cross"/>
+  <anchor x="780" y="1676" name="top"/>
+  <outline>
+    <component base="D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ydieresis" format="2">
+  <advance height="2479.0" width="1159.8"/>
+  <unicode hex="00FF"/>
+  <anchor x="780.4" y="-39.2" name="bottom"/>
+  <anchor x="591.8" y="-419.0" name="ogonek"/>
+  <anchor x="767.1999999999999" y="1676.0" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="dieresis" xOffset="-4.599999999999999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

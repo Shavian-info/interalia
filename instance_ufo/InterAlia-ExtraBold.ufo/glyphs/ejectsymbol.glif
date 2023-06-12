@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ejectsymbol" format="2">
+  <advance height="2479.0" width="1769.0"/>
+  <unicode hex="23CF"/>
+  <outline>
+    <contour>
+      <point x="137.0" y="208.0" type="line"/>
+      <point x="1631.0" y="208.0" type="line"/>
+      <point x="1631.0" y="532.8" type="line"/>
+      <point x="137.0" y="532.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="134.0" y="745.0" type="line"/>
+      <point x="1635.0" y="745.0" type="line"/>
+      <point x="884.0" y="1511.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

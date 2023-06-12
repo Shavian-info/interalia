@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance height="2479.0" width="1588.6"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="1519.8" y="914.0" type="line"/>
+      <point x="119.0" y="914.0" type="line"/>
+      <point x="81.0" y="685.6" type="line"/>
+      <point x="1482.2" y="685.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="703.0" y="1489.0" type="line"/>
+      <point x="434.0" y="1489.0" type="line"/>
+      <point x="186.60000000000002" y="0.0" type="line"/>
+      <point x="455.4" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1699.4" y="1489.0" type="line"/>
+      <point x="1346.2" y="1489.0" type="line"/>
+      <point x="610.8" y="815.8" type="line"/>
+      <point x="557.6" y="815.8" type="line"/>
+      <point x="485.6" y="379.8" type="line"/>
+      <point x="765.2" y="637.6" type="line"/>
+      <point x="820.6" y="696.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="1104.6000000000001" y="0.0" type="line"/>
+      <point x="1428.0" y="0.0" type="line"/>
+      <point x="916.6" y="853.8" type="line"/>
+      <point x="706.1999999999999" y="680.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

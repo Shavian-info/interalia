@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowdoublerightbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0362"/>
+  <outline>
+    <contour>
+      <point x="785" y="-273" type="line"/>
+      <point x="-969" y="-273" type="line"/>
+      <point x="-969" y="-428" type="line"/>
+      <point x="785" y="-428" type="line"/>
+    </contour>
+    <contour>
+      <point x="631" y="-550" type="line"/>
+      <point x="948" y="-352" type="line"/>
+      <point x="765" y="-300" type="line"/>
+      <point x="367" y="-550" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="-154" type="line"/>
+      <point x="759" y="-399" type="line"/>
+      <point x="948" y="-352" type="line"/>
+      <point x="631" y="-154" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doublebrevecomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="035D"/>
+  <anchor x="0" y="1161" name="_marktop_dd"/>
+  <outline>
+    <contour>
+      <point x="0" y="1187" type="curve" smooth="yes"/>
+      <point x="337" y="1187"/>
+      <point x="596" y="1335"/>
+      <point x="701" y="1487" type="curve"/>
+      <point x="541" y="1487" type="line"/>
+      <point x="465" y="1411"/>
+      <point x="233" y="1312"/>
+      <point x="0" y="1312" type="curve" smooth="yes"/>
+      <point x="-230" y="1312"/>
+      <point x="-460" y="1408"/>
+      <point x="-541" y="1487" type="curve"/>
+      <point x="-701" y="1487" type="line"/>
+      <point x="-596" y="1335"/>
+      <point x="-335" y="1187"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

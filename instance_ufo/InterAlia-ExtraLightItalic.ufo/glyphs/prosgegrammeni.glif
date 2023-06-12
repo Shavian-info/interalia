@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="prosgegrammeni" format="2">
+  <advance height="2479.0" width="506.3333333333333"/>
+  <unicode hex="1FBE"/>
+  <anchor x="122.0" y="0.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="127.00000000000001" y="-455.6666666666667" type="curve" smooth="yes"/>
+      <point x="148.33333333333334" y="-455.6666666666667"/>
+      <point x="172.00000000000003" y="-451.6666666666667"/>
+      <point x="183.66666666666666" y="-448.3333333333333" type="curve"/>
+      <point x="186.66666666666669" y="-383.6666666666667" type="line"/>
+      <point x="179.0" y="-385.6666666666667"/>
+      <point x="160.33333333333334" y="-388.0"/>
+      <point x="148.66666666666666" y="-388.0" type="curve" smooth="yes"/>
+      <point x="120.33333333333336" y="-388.0"/>
+      <point x="103.33333333333331" y="-364.0"/>
+      <point x="111.33333333333331" y="-317.0" type="curve" smooth="yes"/>
+      <point x="148.33333333333331" y="-87.0" type="line"/>
+      <point x="67.33333333333334" y="-87.0" type="line"/>
+      <point x="29.666666666666675" y="-318.0" type="line" smooth="yes"/>
+      <point x="14.333333333333343" y="-406.33333333333337"/>
+      <point x="58.33333333333332" y="-455.6666666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

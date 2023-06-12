@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.case" format="2">
+  <advance height="2479.0" width="594.4"/>
+  <outline>
+    <component base="period" xOffset="32.6" yOffset="194.39999999999998"/>
+    <component base="period" xOffset="158.2" yOffset="933.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

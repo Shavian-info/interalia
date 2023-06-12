@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedottedcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DC1"/>
+  <outline>
+    <contour>
+      <point x="-460.6" y="1292.2" type="curve" smooth="yes"/>
+      <point x="-461.4" y="1220.2"/>
+      <point x="-402.0" y="1161.4"/>
+      <point x="-307.4" y="1161.4" type="curve" smooth="yes"/>
+      <point x="-213.39999999999998" y="1161.4"/>
+      <point x="-155.2" y="1220.2"/>
+      <point x="-154.39999999999998" y="1292.2" type="curve" smooth="yes"/>
+      <point x="-155.2" y="1366.4"/>
+      <point x="-213.39999999999998" y="1424.6"/>
+      <point x="-307.4" y="1424.6" type="curve" smooth="yes"/>
+      <point x="-402.0" y="1424.6"/>
+      <point x="-461.4" y="1366.4"/>
+    </contour>
+    <contour>
+      <point x="-862.6" y="1229.8" type="line"/>
+      <point x="-644.2" y="1229.8" type="line"/>
+      <point x="-360.4" y="1536.0" type="line"/>
+      <point x="-662.8" y="1536.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1159.6" y="1391.2" type="curve" smooth="yes"/>
+      <point x="-1160.0" y="1318.6"/>
+      <point x="-1102.4" y="1261.2"/>
+      <point x="-1007.8" y="1261.2" type="curve" smooth="yes"/>
+      <point x="-915.0" y="1261.2"/>
+      <point x="-855.6" y="1317.4"/>
+      <point x="-855.2" y="1391.2" type="curve" smooth="yes"/>
+      <point x="-855.6" y="1468.0"/>
+      <point x="-915.0" y="1523.6"/>
+      <point x="-1007.8" y="1523.6" type="curve" smooth="yes"/>
+      <point x="-1102.4" y="1523.6"/>
+      <point x="-1160.0" y="1466.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

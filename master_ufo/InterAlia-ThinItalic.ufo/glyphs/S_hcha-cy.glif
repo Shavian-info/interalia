@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shcha-cy" format="2">
+  <advance height="2479" width="1806"/>
+  <unicode hex="0429"/>
+  <outline>
+    <contour>
+      <point x="1622" y="47" type="line"/>
+      <point x="1446" y="47" type="line"/>
+      <point x="1437" y="0" type="line"/>
+      <point x="1565" y="0" type="line"/>
+      <point x="1507" y="-352" type="line"/>
+      <point x="1536" y="-352" type="line"/>
+    </contour>
+    <component base="Sha-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Sha-cy</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

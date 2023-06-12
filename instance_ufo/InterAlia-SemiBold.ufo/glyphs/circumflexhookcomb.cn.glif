@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexhookcomb.cn" format="2">
+  <advance height="2479.0" width="1155.4"/>
+  <unicode hex="E11F"/>
+  <anchor x="488.0" y="1329.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="579.0" y="1497.8" type="line"/>
+      <point x="393.2" y="1497.8" type="line"/>
+      <point x="110.0" y="1258.4" type="line"/>
+      <point x="312.4" y="1258.4" type="line"/>
+      <point x="486.2" y="1404.6" type="line"/>
+      <point x="659.8" y="1258.4" type="line"/>
+      <point x="861.8" y="1258.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="916.2" y="1389.8" type="line"/>
+      <point x="916.2" y="1445.4" type="line"/>
+      <point x="981.4" y="1455.0"/>
+      <point x="1046.6" y="1491.2"/>
+      <point x="1046.6" y="1569.0" type="curve" smooth="yes"/>
+      <point x="1046.6" y="1671.2"/>
+      <point x="945.8" y="1733.2"/>
+      <point x="756.6" y="1733.2" type="curve"/>
+      <point x="749.4" y="1623.2" type="line"/>
+      <point x="823.0" y="1623.2"/>
+      <point x="878.0" y="1609.4"/>
+      <point x="878.0" y="1563.6" type="curve" smooth="yes"/>
+      <point x="878.0" y="1527.4"/>
+      <point x="841.6" y="1512.2"/>
+      <point x="758.4" y="1507.4" type="curve"/>
+      <point x="767.6" y="1389.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

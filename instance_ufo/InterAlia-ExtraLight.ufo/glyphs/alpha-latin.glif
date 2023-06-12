@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alpha-latin" format="2">
+  <advance height="2479.0" width="1240.6666666666667"/>
+  <unicode hex="0251"/>
+  <anchor x="981.0" y="562.3333333333334" name="rhotichook"/>
+  <anchor x="605.0" y="0.0" name="bottom"/>
+  <anchor x="1025.0" y="0.0" name="ogonek"/>
+  <anchor x="594.6666666666666" y="1303.0" name="rhalfring"/>
+  <anchor x="596.3333333333334" y="1303.0" name="top"/>
+  <outline>
+    <component base="a.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance height="2479.0" width="1531.4"/>
+  <unicode hex="0041"/>
+  <anchor x="672.1999999999999" y="0.0" name="bottom"/>
+  <anchor x="1389.0" y="0.0" name="ogonek"/>
+  <anchor x="628.0" y="1489.0" name="tonos"/>
+  <anchor x="952.1999999999999" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="293.2" y="0.0" type="line"/>
+      <point x="858.8000000000001" y="1149.0" type="line"/>
+      <point x="870.8000000000001" y="1149.0" type="line"/>
+      <point x="1051.8" y="0.0" type="line"/>
+      <point x="1389.0" y="0.0" type="line"/>
+      <point x="1123.0" y="1489.0" type="line"/>
+      <point x="716.4" y="1489.0" type="line"/>
+      <point x="-44.6" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="369.8" y="585.6" type="line"/>
+      <point x="328.2" y="339.8" type="line"/>
+      <point x="1125.0" y="339.8" type="line"/>
+      <point x="1167.2" y="585.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

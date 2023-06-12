@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xdieresis" format="2">
+  <advance height="2479.0" width="1364.4"/>
+  <unicode hex="1E8C"/>
+  <anchor x="681.6" y="8.4" name="bottom"/>
+  <anchor x="681.6" y="745.0" name="cross"/>
+  <anchor x="1267.4" y="83.8" name="cyrtic"/>
+  <anchor x="1161.6" y="0.0" name="right"/>
+  <anchor x="681.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="X"/>
+    <component base="casedieresis.cn" xOffset="95.80000000000001" yOffset="21.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

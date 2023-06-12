@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G.1" format="2">
+  <advance height="2479.0" width="1629.0"/>
+  <anchor x="705.0" y="4.800000000000001" name="bottom"/>
+  <anchor x="984.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="717.8" y="-20.0" type="curve" smooth="yes"/>
+      <point x="896.4" y="-20.0"/>
+      <point x="1040.2" y="48.0"/>
+      <point x="1156.0" y="166.8" type="curve"/>
+      <point x="1164.8000000000002" y="166.8" type="line"/>
+      <point x="1153.3999999999999" y="0.0" type="line"/>
+      <point x="1390.0" y="0.0" type="line"/>
+      <point x="1525.2" y="814.6" type="line"/>
+      <point x="871.1999999999999" y="814.6" type="line"/>
+      <point x="827.6" y="552.2" type="line"/>
+      <point x="1197.6" y="552.2" type="line"/>
+      <point x="1127.1999999999998" y="561.6" type="line"/>
+      <point x="1100.8" y="401.2"/>
+      <point x="970.2" y="295.20000000000005"/>
+      <point x="769.1999999999999" y="295.20000000000005" type="curve" smooth="yes"/>
+      <point x="549.0" y="295.20000000000005"/>
+      <point x="448.6" y="460.4"/>
+      <point x="495.00000000000006" y="747.4" type="curve" smooth="yes"/>
+      <point x="543.0" y="1032.0"/>
+      <point x="714.8" y="1194.6"/>
+      <point x="931.0" y="1194.6" type="curve" smooth="yes"/>
+      <point x="1075.3999999999999" y="1194.6"/>
+      <point x="1168.3999999999999" y="1124.8"/>
+      <point x="1180.2" y="1003.2" type="curve"/>
+      <point x="1543.2" y="1003.2" type="line"/>
+      <point x="1556.8" y="1301.6"/>
+      <point x="1318.0" y="1510.0"/>
+      <point x="973.6" y="1510.0" type="curve" smooth="yes"/>
+      <point x="575.8000000000001" y="1510.0"/>
+      <point x="207.6" y="1229.6"/>
+      <point x="127.2" y="742.6" type="curve" smooth="yes"/>
+      <point x="49.2" y="271.4"/>
+      <point x="293.0" y="-20.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nu" format="2">
+  <advance height="2479.0" width="1569.6666666666665"/>
+  <unicode hex="039D"/>
+  <anchor x="691.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="1226.3333333333335" y="0.0" name="right"/>
+  <anchor x="970.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

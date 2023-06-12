@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance height="2479.0" width="1020.0"/>
+  <unicode hex="02DC"/>
+  <anchor x="510.0" y="1303.0" name="_top"/>
+  <anchor x="510.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="243.33333333333334" y="1291.6666666666667" type="line"/>
+      <point x="250.0" y="1356.0"/>
+      <point x="303.6666666666667" y="1403.6666666666667"/>
+      <point x="372.6666666666667" y="1403.6666666666667" type="curve" smooth="yes"/>
+      <point x="491.6666666666667" y="1403.6666666666667"/>
+      <point x="523.0" y="1293.3333333333333"/>
+      <point x="651.0" y="1293.3333333333333" type="curve" smooth="yes"/>
+      <point x="751.3333333333334" y="1293.3333333333333"/>
+      <point x="838.6666666666666" y="1365.3333333333333"/>
+      <point x="852.6666666666666" y="1475.3333333333333" type="curve"/>
+      <point x="777.6666666666666" y="1486.3333333333333" type="line"/>
+      <point x="767.6666666666666" y="1420.6666666666667"/>
+      <point x="710.3333333333334" y="1374.3333333333333"/>
+      <point x="648.0" y="1374.3333333333333" type="curve" smooth="yes"/>
+      <point x="541.6666666666666" y="1374.3333333333333"/>
+      <point x="496.0" y="1484.6666666666667"/>
+      <point x="369.6666666666667" y="1484.6666666666667" type="curve" smooth="yes"/>
+      <point x="262.0" y="1484.6666666666667"/>
+      <point x="176.66666666666666" y="1407.6666666666667"/>
+      <point x="168.0" y="1297.6666666666667" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

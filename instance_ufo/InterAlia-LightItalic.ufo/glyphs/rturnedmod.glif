@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rturnedmod" format="2">
+  <advance height="2479.0" width="513.0"/>
+  <unicode hex="02B4"/>
+  <outline>
+    <contour>
+      <point x="81.66666666666667" y="645.0" type="line"/>
+      <point x="95.33333333333334" y="639.6666666666666"/>
+      <point x="119.0" y="637.0"/>
+      <point x="146.33333333333334" y="637.0" type="curve" smooth="yes"/>
+      <point x="290.0" y="637.0"/>
+      <point x="407.3333333333333" y="788.3333333333334"/>
+      <point x="445.0" y="1022.0" type="curve"/>
+      <point x="404.33333333333337" y="1022.0" type="line"/>
+      <point x="378.0" y="865.6666666666666"/>
+      <point x="306.6666666666667" y="767.3333333333334"/>
+      <point x="188.33333333333334" y="767.3333333333334" type="curve" smooth="yes"/>
+      <point x="157.66666666666666" y="767.3333333333334"/>
+      <point x="132.33333333333334" y="773.3333333333334"/>
+      <point x="105.33333333333333" y="784.3333333333334" type="curve"/>
+    </contour>
+    <contour>
+      <point x="359.66666666666663" y="844.3333333333334" type="line"/>
+      <point x="359.33333333333337" y="652.0" type="line"/>
+      <point x="465.0" y="652.0" type="line"/>
+      <point x="598.0" y="1450.0" type="line"/>
+      <point x="460.66666666666663" y="1450.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

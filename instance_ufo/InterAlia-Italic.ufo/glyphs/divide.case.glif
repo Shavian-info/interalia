@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="divide.case" format="2">
+  <advance height="2479" width="1350"/>
+  <outline>
+    <component base="divide" xOffset="27" yOffset="163"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

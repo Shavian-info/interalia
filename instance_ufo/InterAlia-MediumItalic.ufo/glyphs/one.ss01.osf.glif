@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.ss01.osf" format="2">
+  <advance height="2479.0" width="846.0"/>
+  <outline>
+    <contour>
+      <point x="722.4000000000001" y="1117.4" type="line"/>
+      <point x="513.0" y="1117.4" type="line"/>
+      <point x="490.59999999999997" y="1075.8"/>
+      <point x="359.8" y="888.1999999999999"/>
+      <point x="141.0" y="888.1999999999999" type="curve"/>
+      <point x="112.0" y="704.0" type="line"/>
+      <point x="280.8" y="704.0"/>
+      <point x="409.0" y="771.0"/>
+      <point x="440.6" y="814.0" type="curve"/>
+      <point x="452.2" y="814.0" type="line"/>
+      <point x="317.0" y="0.0" type="line"/>
+      <point x="536.4000000000001" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

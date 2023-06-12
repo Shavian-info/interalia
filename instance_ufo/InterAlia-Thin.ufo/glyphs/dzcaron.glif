@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcaron" format="2">
+  <advance height="2479" width="2112"/>
+  <unicode hex="01C6"/>
+  <anchor x="596" y="0" name="bottom_1"/>
+  <anchor x="1574" y="0" name="bottom_2"/>
+  <anchor x="969" y="1280" name="cross_1"/>
+  <anchor x="1592" y="559" name="cross_2"/>
+  <anchor x="1123" y="1489" name="raccent"/>
+  <anchor x="576" y="1489" name="top_1"/>
+  <anchor x="1592" y="1303" name="top_2"/>
+  <outline>
+    <component base="d"/>
+    <component base="zcaron" xOffset="1071"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>zcaron</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

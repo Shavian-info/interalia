@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotapsilivaria" format="2">
+  <advance height="2479" width="733"/>
+  <unicode hex="1F32"/>
+  <anchor x="335" y="1303" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="psilivaria" xOffset="-203" yOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

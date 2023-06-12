@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheverticalstroke-cy" format="2">
+  <advance height="2479.0" width="1480.8"/>
+  <unicode hex="04B8"/>
+  <anchor x="1420.6" y="83.8" name="cyrtic"/>
+  <anchor x="1096.0" y="0.0" name="left"/>
+  <anchor x="1312.0" y="0.0" name="right"/>
+  <anchor x="754.6" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="812.0" y="1030.2" type="line"/>
+      <point x="648.0" y="1030.2" type="line"/>
+      <point x="648.0" y="305.2" type="line"/>
+      <point x="812.0" y="305.2" type="line"/>
+    </contour>
+    <component base="Che-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

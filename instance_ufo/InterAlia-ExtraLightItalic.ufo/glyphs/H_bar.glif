@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance height="2479.0" width="1548.3333333333333"/>
+  <unicode hex="0126"/>
+  <anchor x="679.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="191.99999999999997" y="-4.0" name="cedilla"/>
+  <anchor x="1261.0" y="25.333333333333336" name="cyrtic"/>
+  <anchor x="1219.0" y="0.0" name="right"/>
+  <anchor x="351.3333333333333" y="1489.0" name="tonos"/>
+  <anchor x="962.3333333333333" y="1677.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1522.6666666666667" y="1111.0" type="line"/>
+      <point x="208.99999999999997" y="1111.0" type="line"/>
+      <point x="194.99999999999997" y="1030.0" type="line"/>
+      <point x="1509.0" y="1030.0" type="line"/>
+    </contour>
+    <component base="H" xOffset="18.666666666666668"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

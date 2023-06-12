@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etapsiliypogegrammeni" format="2">
+  <advance height="2479.0" width="1299.0"/>
+  <unicode hex="1F90"/>
+  <anchor x="199.79999999999998" y="0.0" name="bottom"/>
+  <anchor x="772.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="prosgegrammeni" xOffset="33.0"/>
+    <component base="koronis" xOffset="487.4" yOffset="122.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SigmaLunateDottedReversedSymbol" format="2">
+  <advance height="2479.0" width="1540.0"/>
+  <unicode hex="03FF"/>
+  <anchor x="748.0" y="1490.2" name="cedilla"/>
+  <anchor x="742.6" y="-187.0" name="top"/>
+  <outline>
+    <component base="Oopen"/>
+    <component base="period" xOffset="439.6" yOffset="605.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

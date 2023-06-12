@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DE1"/>
+  <outline>
+    <contour>
+      <point x="-240" y="1245" type="line"/>
+      <point x="-537" y="1798" type="line"/>
+      <point x="-564" y="1751" type="line"/>
+      <point x="-269" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-537" y="1798" type="line"/>
+      <point x="-583" y="1798" type="line"/>
+      <point x="-682" y="1201" type="line"/>
+      <point x="-636" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-124" y="1798" type="line"/>
+      <point x="-170" y="1798" type="line"/>
+      <point x="-269" y="1201" type="line"/>
+      <point x="-223" y="1201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

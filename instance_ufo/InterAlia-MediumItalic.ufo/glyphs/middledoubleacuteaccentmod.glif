@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="middledoubleacuteaccentmod" format="2">
+  <advance height="2479.0" width="957.8"/>
+  <unicode hex="02F6"/>
+  <outline>
+    <component base="hungarumlautcomb" xOffset="1326.0" yOffset="-276.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

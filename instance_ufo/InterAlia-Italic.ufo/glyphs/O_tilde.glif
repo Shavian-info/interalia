@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otilde" format="2">
+  <advance height="2479" width="1559"/>
+  <unicode hex="00D5"/>
+  <anchor x="698" y="6" name="bottom"/>
+  <anchor x="841" y="0" name="ogonek"/>
+  <anchor x="329" y="1489" name="tonos"/>
+  <anchor x="963" y="1676" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="casetilde.cn" xOffset="319"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

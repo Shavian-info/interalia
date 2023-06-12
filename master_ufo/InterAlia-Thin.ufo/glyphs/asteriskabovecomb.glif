@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asteriskabovecomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="20F0"/>
+  <anchor x="-489" y="1303" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-512" y="1277" type="line"/>
+      <point x="-465" y="1277" type="line"/>
+      <point x="-465" y="1607" type="line"/>
+      <point x="-189" y="1449" type="line"/>
+      <point x="-166" y="1489" type="line"/>
+      <point x="-442" y="1648" type="line"/>
+      <point x="-170" y="1804" type="line"/>
+      <point x="-193" y="1844" type="line"/>
+      <point x="-465" y="1689" type="line"/>
+      <point x="-465" y="2010" type="line"/>
+      <point x="-512" y="2010" type="line"/>
+      <point x="-512" y="1689" type="line"/>
+      <point x="-785" y="1847" type="line"/>
+      <point x="-809" y="1807" type="line"/>
+      <point x="-535" y="1648" type="line"/>
+      <point x="-816" y="1488" type="line"/>
+      <point x="-793" y="1447" type="line"/>
+      <point x="-512" y="1607" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

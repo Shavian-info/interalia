@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endlowtonemod" format="2">
+  <advance height="2479.0" width="399.0"/>
+  <unicode hex="02FC"/>
+  <outline>
+    <contour>
+      <point x="286.3333333333333" y="-419.0" type="line"/>
+      <point x="367.33333333333337" y="-419.0" type="line"/>
+      <point x="367.33333333333337" y="-72.66666666666667" type="line"/>
+      <point x="286.3333333333333" y="-72.66666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="33.333333333333336" y="-419.0" type="line"/>
+      <point x="367.33333333333337" y="-419.0" type="line"/>
+      <point x="367.33333333333337" y="-341.0" type="line"/>
+      <point x="33.333333333333336" y="-341.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

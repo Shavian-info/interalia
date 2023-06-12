@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.dnomf" format="2">
+  <advance height="2479.0" width="832.8"/>
+  <outline>
+    <contour>
+      <point x="407.2" y="806.0" type="curve" smooth="yes"/>
+      <point x="193.2" y="806.0"/>
+      <point x="53.2" y="688.0"/>
+      <point x="53.2" y="516.6" type="curve" smooth="yes"/>
+      <point x="53.2" y="362.6"/>
+      <point x="176.6" y="252.2"/>
+      <point x="339.4" y="252.2" type="curve" smooth="yes"/>
+      <point x="432.6" y="252.2"/>
+      <point x="510.6" y="285.4"/>
+      <point x="560.0" y="350.0" type="curve"/>
+      <point x="567.6" y="350.0" type="line"/>
+      <point x="567.6" y="248.4"/>
+      <point x="503.6" y="177.4"/>
+      <point x="396.4" y="177.4" type="curve" smooth="yes"/>
+      <point x="341.6" y="177.4"/>
+      <point x="295.2" y="192.8"/>
+      <point x="277.0" y="227.0" type="curve"/>
+      <point x="57.8" y="227.0" type="line"/>
+      <point x="80.0" y="95.4"/>
+      <point x="209.0" y="-12.0"/>
+      <point x="396.4" y="-12.0" type="curve" smooth="yes"/>
+      <point x="611.6" y="-12.0"/>
+      <point x="781.8" y="107.39999999999999"/>
+      <point x="781.8" y="411.2" type="curve" smooth="yes"/>
+      <point x="781.8" y="721.8"/>
+      <point x="587.2" y="806.0"/>
+    </contour>
+    <contour>
+      <point x="407.2" y="631.4" type="curve" smooth="yes"/>
+      <point x="495.4" y="631.4"/>
+      <point x="560.0" y="565.6"/>
+      <point x="548.2" y="515.4" type="curve" smooth="yes"/>
+      <point x="535.4" y="466.2"/>
+      <point x="484.8" y="415.6"/>
+      <point x="400.6" y="415.6" type="curve" smooth="yes"/>
+      <point x="321.4" y="415.6"/>
+      <point x="266.8" y="463.4"/>
+      <point x="266.8" y="522.0" type="curve" smooth="yes"/>
+      <point x="266.8" y="585.4"/>
+      <point x="330.2" y="631.4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

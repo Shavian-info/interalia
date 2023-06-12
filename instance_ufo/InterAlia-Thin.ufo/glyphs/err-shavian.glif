@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="err-shavian" format="2">
+  <advance height="2479" width="1539"/>
+  <unicode hex="1047B"/>
+  <outline>
+    <contour>
+      <point x="925" y="-15" type="curve" smooth="yes"/>
+      <point x="1215" y="-15"/>
+      <point x="1408" y="217"/>
+      <point x="1408" y="553" type="curve" smooth="yes"/>
+      <point x="1408" y="895"/>
+      <point x="1203" y="1117"/>
+      <point x="899" y="1117" type="curve" smooth="yes"/>
+      <point x="852" y="1117" type="line"/>
+      <point x="852" y="1071" type="line"/>
+      <point x="899" y="1071" type="line" smooth="yes"/>
+      <point x="1174" y="1071"/>
+      <point x="1360" y="868"/>
+      <point x="1361" y="553" type="curve" smooth="yes"/>
+      <point x="1360" y="247"/>
+      <point x="1185" y="31"/>
+      <point x="925" y="32" type="curve" smooth="yes"/>
+      <point x="700" y="31"/>
+      <point x="547" y="190"/>
+      <point x="547" y="416" type="curve" smooth="yes"/>
+      <point x="547" y="489"/>
+      <point x="562" y="558"/>
+      <point x="588" y="579" type="curve"/>
+      <point x="547" y="602" type="line"/>
+      <point x="537" y="591"/>
+      <point x="525" y="569"/>
+      <point x="518" y="550" type="curve"/>
+      <point x="310" y="551"/>
+      <point x="183" y="660"/>
+      <point x="183" y="838" type="curve" smooth="yes"/>
+      <point x="183" y="943"/>
+      <point x="228" y="1030"/>
+      <point x="332" y="1111" type="curve"/>
+      <point x="294" y="1135" type="line"/>
+      <point x="180" y="1047"/>
+      <point x="137" y="963"/>
+      <point x="137" y="844" type="curve" smooth="yes"/>
+      <point x="137" y="629"/>
+      <point x="276" y="503"/>
+      <point x="506" y="503" type="curve"/>
+      <point x="502" y="486"/>
+      <point x="500" y="452"/>
+      <point x="500" y="419" type="curve" smooth="yes"/>
+      <point x="500" y="161"/>
+      <point x="673" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

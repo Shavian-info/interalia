@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <advance height="2479" width="1244"/>
+  <unicode hex="048F"/>
+  <anchor x="49" y="-419" name="bottom"/>
+  <anchor x="965" y="-506" name="bottom0315"/>
+  <anchor x="93" y="-163" name="cross"/>
+  <anchor x="741" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="719" y="257" type="line"/>
+      <point x="685" y="227" type="line"/>
+      <point x="924" y="-48" type="line"/>
+      <point x="956" y="-15" type="line"/>
+    </contour>
+    <component base="p" xOffset="-9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>p</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

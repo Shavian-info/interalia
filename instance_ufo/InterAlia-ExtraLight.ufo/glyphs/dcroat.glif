@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance height="2479.0" width="1240.6666666666667"/>
+  <unicode hex="0111"/>
+  <anchor x="602.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="981.0" y="1280.0" name="cross"/>
+  <anchor x="1159.6666666666667" y="1489.0" name="raccent"/>
+  <anchor x="583.6666666666666" y="1489.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="626.3333333333334" y="1242.6666666666667" type="line"/>
+      <point x="1208.3333333333333" y="1242.6666666666667" type="line"/>
+      <point x="1208.3333333333333" y="1318.3333333333333" type="line"/>
+      <point x="626.3333333333334" y="1318.3333333333333" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

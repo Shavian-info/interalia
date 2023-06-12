@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ucircumflexbelow" format="2">
+  <advance height="2479.0" width="1510.8"/>
+  <unicode hex="1E76"/>
+  <anchor x="755.0" y="-14.2" name="bottom"/>
+  <anchor x="913.6" y="2.0" name="ogonek"/>
+  <anchor x="848.6" y="0.0" name="right"/>
+  <anchor x="755.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="circumflexbelowcomb" xOffset="1355.6" yOffset="-14.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

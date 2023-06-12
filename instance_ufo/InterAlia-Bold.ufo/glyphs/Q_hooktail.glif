@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Qhooktail" format="2">
+  <advance height="2479.0" width="1698.4"/>
+  <unicode hex="024A"/>
+  <outline>
+    <contour>
+      <point x="1466.0" y="1489.0" type="line"/>
+      <point x="1159.0" y="1489.0" type="line"/>
+      <point x="1159.0" y="1272.0" type="line"/>
+      <point x="1145.0" y="1272.0" type="line"/>
+      <point x="1072.6" y="1407.4"/>
+      <point x="929.4" y="1510.0"/>
+      <point x="727.2" y="1510.0" type="curve" smooth="yes"/>
+      <point x="368.4" y="1510.0"/>
+      <point x="102.8" y="1178.6"/>
+      <point x="102.8" y="747.4" type="curve" smooth="yes"/>
+      <point x="102.8" y="311.4"/>
+      <point x="364.2" y="-21.2"/>
+      <point x="727.2" y="-21.2" type="curve" smooth="yes"/>
+      <point x="927.6" y="-21.2"/>
+      <point x="1072.0" y="80.2"/>
+      <point x="1145.0" y="219.8" type="curve"/>
+      <point x="1156.6" y="219.8" type="line"/>
+      <point x="1156.6" y="-68.6" type="line" smooth="yes"/>
+      <point x="1156.6" y="-342.8"/>
+      <point x="1326.6" y="-419.0"/>
+      <point x="1538.2" y="-419.0" type="curve" smooth="yes"/>
+      <point x="1608.0" y="-419.0"/>
+      <point x="1661.6" y="-413.6"/>
+      <point x="1698.4" y="-408.2" type="curve"/>
+      <point x="1698.4" y="-172.60000000000002" type="line"/>
+      <point x="1673.6" y="-175.0"/>
+      <point x="1647.8" y="-178.0"/>
+      <point x="1622.4" y="-178.0" type="curve" smooth="yes"/>
+      <point x="1541.4" y="-178.0"/>
+      <point x="1466.0" y="-155.60000000000002"/>
+      <point x="1466.0" y="-68.6" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="790.2" y="258.4" type="curve" smooth="yes"/>
+      <point x="564.0" y="258.4"/>
+      <point x="423.6" y="437.4"/>
+      <point x="423.6" y="746.2" type="curve" smooth="yes"/>
+      <point x="423.6" y="1044.8"/>
+      <point x="560.4" y="1233.6"/>
+      <point x="791.4" y="1233.6" type="curve" smooth="yes"/>
+      <point x="1035.4" y="1233.6"/>
+      <point x="1157.8" y="1037.6"/>
+      <point x="1157.8" y="746.2" type="curve" smooth="yes"/>
+      <point x="1157.8" y="451.0"/>
+      <point x="1041.4" y="258.4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

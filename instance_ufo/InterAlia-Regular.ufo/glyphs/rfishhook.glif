@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rfishhook" format="2">
+  <advance height="2479" width="625"/>
+  <unicode hex="027E"/>
+  <outline>
+    <contour>
+      <point x="329" y="0" type="line"/>
+      <point x="329" y="823" type="line" smooth="yes"/>
+      <point x="329" y="937"/>
+      <point x="413" y="972"/>
+      <point x="506" y="972" type="curve" smooth="yes"/>
+      <point x="524" y="972"/>
+      <point x="544" y="969"/>
+      <point x="561" y="966" type="curve"/>
+      <point x="561" y="1117" type="line"/>
+      <point x="535" y="1126"/>
+      <point x="492" y="1132"/>
+      <point x="463" y="1132" type="curve" smooth="yes"/>
+      <point x="300" y="1132"/>
+      <point x="157" y="1027"/>
+      <point x="157" y="835" type="curve" smooth="yes"/>
+      <point x="157" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

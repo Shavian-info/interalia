@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Seven-roman" format="2">
+  <advance height="2479.0" width="2609.8"/>
+  <unicode hex="2166"/>
+  <anchor x="741.2" y="0.0" name="bottom_1"/>
+  <anchor x="1764.0" y="0.0" name="bottom_2"/>
+  <anchor x="2327.6" y="0.0" name="bottom_3"/>
+  <anchor x="1764.0" y="776.0" name="cross_1"/>
+  <anchor x="2327.6" y="776.0" name="cross_2"/>
+  <anchor x="1899.2" y="0.0" name="ogonek_1"/>
+  <anchor x="2462.8" y="0.0" name="ogonek_2"/>
+  <anchor x="1918.4" y="0.0" name="right_1"/>
+  <anchor x="2482.0" y="0.0" name="right_2"/>
+  <anchor x="1629.0" y="1489.0" name="tonos_1"/>
+  <anchor x="2192.6" y="1489.0" name="tonos_2"/>
+  <anchor x="741.2" y="1676.0" name="top_1"/>
+  <anchor x="1765.2" y="1676.0" name="top_2"/>
+  <anchor x="2328.8" y="1676.0" name="top_3"/>
+  <outline>
+    <component base="V"/>
+    <component base="I" xOffset="1482.6"/>
+    <component base="I" xOffset="2046.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

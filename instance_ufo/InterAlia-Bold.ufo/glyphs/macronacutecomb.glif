@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacutecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DC4"/>
+  <outline>
+    <contour>
+      <point x="-894.2" y="1225.2" type="line"/>
+      <point x="-339.2" y="1225.2" type="line"/>
+      <point x="-66.2" y="1536.0" type="line"/>
+      <point x="-393.8" y="1536.0" type="line"/>
+      <point x="-478.8" y="1394.0" type="line"/>
+      <point x="-894.2" y="1394.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

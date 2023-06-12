@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonebarlowmod" format="2">
+  <advance height="2479.0" width="714.0"/>
+  <unicode hex="02E8"/>
+  <outline>
+    <contour>
+      <point x="708.6666666666666" y="1457.0" type="line"/>
+      <point x="558.9999999999999" y="1457.0" type="line"/>
+      <point x="318.0" y="0.0" type="line"/>
+      <point x="466.6666666666667" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="499.99999999999994" y="427.0" type="line"/>
+      <point x="123.99999999999999" y="427.0" type="line"/>
+      <point x="101.66666666666666" y="305.0" type="line"/>
+      <point x="477.66666666666663" y="305.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ge-cy" format="2">
+  <advance height="2479" width="1178"/>
+  <unicode hex="0413"/>
+  <anchor x="271" y="768" name="cross"/>
+  <anchor x="442" y="64" name="cyrtic"/>
+  <anchor x="349" y="0" name="right"/>
+  <anchor x="631" y="1676" name="top"/>
+  <outline>
+    <component base="Gamma"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

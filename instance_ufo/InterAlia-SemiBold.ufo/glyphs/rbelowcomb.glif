@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DCA"/>
+  <outline>
+    <contour>
+      <point x="-589.4" y="-259.6" type="line"/>
+      <point x="-615.4" y="-128.0" type="line"/>
+      <point x="-741.2" y="-128.0" type="line"/>
+      <point x="-741.2" y="-550.0" type="line"/>
+      <point x="-589.4" y="-550.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-424.6" y="-126.2" type="line"/>
+      <point x="-435.6" y="-122.0"/>
+      <point x="-453.6" y="-122.0"/>
+      <point x="-470.6" y="-122.0" type="curve" smooth="yes"/>
+      <point x="-590.6" y="-122.0"/>
+      <point x="-659.0" y="-236.0"/>
+      <point x="-659.0" y="-390.0" type="curve"/>
+      <point x="-607.0" y="-390.0" type="line"/>
+      <point x="-607.0" y="-300.2"/>
+      <point x="-562.8" y="-261.0"/>
+      <point x="-487.4" y="-261.0" type="curve" smooth="yes"/>
+      <point x="-463.8" y="-261.0"/>
+      <point x="-442.8" y="-264.8"/>
+      <point x="-424.6" y="-272.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

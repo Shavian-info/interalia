@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lozenge" format="2">
+  <advance height="2479.0" width="1090.0"/>
+  <unicode hex="25CA"/>
+  <outline>
+    <contour>
+      <point x="85.0" y="745.0" type="line"/>
+      <point x="487.6666666666667" y="0.0" type="line"/>
+      <point x="587.6666666666666" y="0.0" type="line"/>
+      <point x="577.6666666666666" y="104.0" type="line"/>
+      <point x="238.33333333333334" y="745.0" type="line"/>
+      <point x="573.6666666666666" y="1385.6666666666667" type="line"/>
+      <point x="585.6666666666666" y="1489.0" type="line"/>
+      <point x="485.6666666666667" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="516.0" y="104.0" type="line"/>
+      <point x="504.0" y="0.0" type="line"/>
+      <point x="604.0" y="0.0" type="line"/>
+      <point x="1005.0" y="745.0" type="line"/>
+      <point x="600.0" y="1489.0" type="line"/>
+      <point x="502.0" y="1489.0" type="line"/>
+      <point x="510.0" y="1385.6666666666667" type="line"/>
+      <point x="851.3333333333334" y="745.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

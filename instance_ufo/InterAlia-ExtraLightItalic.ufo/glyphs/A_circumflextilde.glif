@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Acircumflextilde" format="2">
+  <advance height="2479.0" width="1303.6666666666667"/>
+  <unicode hex="1EAA"/>
+  <anchor x="558.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="1148.3333333333333" y="0.0" name="ogonek"/>
+  <anchor x="670.3333333333334" y="1489.0" name="tonos"/>
+  <anchor x="837.6666666666667" y="1676.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflextildecomb.cn" xOffset="237.33333333333331" yOffset="331.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

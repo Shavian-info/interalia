@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tmod" format="2">
+  <advance height="2479.0" width="545.4"/>
+  <unicode hex="1D57"/>
+  <outline>
+    <contour>
+      <point x="657.4" y="1489.0" type="line"/>
+      <point x="174.2" y="1489.0" type="line"/>
+      <point x="144.6" y="1307.6" type="line"/>
+      <point x="627.8" y="1307.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="305.8" y="1667.0" type="line"/>
+      <point x="187.8" y="957.2" type="line" smooth="yes"/>
+      <point x="159.8" y="793.4"/>
+      <point x="264.2" y="733.0"/>
+      <point x="415.0" y="738.4" type="curve" smooth="yes"/>
+      <point x="474.8" y="741.4"/>
+      <point x="512.8" y="749.1999999999999"/>
+      <point x="542.4" y="757.4" type="curve"/>
+      <point x="533.6" y="939.6" type="line"/>
+      <point x="523.4" y="939.0"/>
+      <point x="501.0" y="933.6"/>
+      <point x="481.4" y="933.6" type="curve" smooth="yes"/>
+      <point x="450.59999999999997" y="933.6"/>
+      <point x="426.40000000000003" y="938.2"/>
+      <point x="436.0" y="994.0" type="curve" smooth="yes"/>
+      <point x="547.8" y="1667.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

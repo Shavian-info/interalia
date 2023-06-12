@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslashacute" format="2">
+  <advance height="2479.0" width="1601.0"/>
+  <unicode hex="01FE"/>
+  <anchor x="711.4" y="1.2000000000000002" name="bottom"/>
+  <anchor x="894.6" y="2.3999999999999995" name="ogonek"/>
+  <anchor x="326.79999999999995" y="1487.8" name="tonos"/>
+  <anchor x="1056.0" y="2047.8" name="top"/>
+  <outline>
+    <component base="Oslash"/>
+    <component base="acute" xOffset="362.0" yOffset="371.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcircumflex.1" format="2">
+  <advance height="2479.0" width="1583.2"/>
+  <anchor x="796.6" y="4.800000000000001" name="bottom"/>
+  <anchor x="799.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="G.1"/>
+    <component base="circumflex" xOffset="189.8" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticallinelowmod" format="2">
+  <advance height="2479.0" width="428.20000000000005"/>
+  <unicode hex="02CC"/>
+  <outline>
+    <contour>
+      <point x="207.0" y="-123.4" type="line"/>
+      <point x="5.329070518200751e-15" y="-123.4" type="line"/>
+      <point x="-72.39999999999999" y="-556.2" type="line"/>
+      <point x="134.6" y="-556.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

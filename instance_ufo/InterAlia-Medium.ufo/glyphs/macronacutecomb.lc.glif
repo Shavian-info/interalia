@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronacutecomb.lc" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="E0F8"/>
+  <anchor x="-395.4" y="1303.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-508.0" y="1610.6" type="line"/>
+      <point x="-324.0" y="1610.6" type="line"/>
+      <point x="-92.6" y="1908.0" type="line"/>
+      <point x="-318.6" y="1908.0" type="line"/>
+    </contour>
+    <component base="macron" xOffset="-895.0" yOffset="-19.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>macron</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

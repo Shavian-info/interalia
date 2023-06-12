@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance height="2479.0" width="1394.2"/>
+  <unicode hex="048B"/>
+  <anchor x="1106.6" y="0.0" name="right"/>
+  <anchor x="620.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="breve" xOffset="137.8"/>
+    <component base="cyrillictail.cn" xOffset="905.0" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ii-cy</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>cyrillictail.cn</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

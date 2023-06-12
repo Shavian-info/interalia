@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oopen" format="2">
+  <advance height="2479.0" width="1523.0"/>
+  <unicode hex="0186"/>
+  <anchor x="735.0" y="1493.8" name="cedilla"/>
+  <anchor x="731.4" y="-187.0" name="top"/>
+  <outline>
+    <component base="C" xScale="-1.0" yScale="-1.0" xOffset="1523.0" yOffset="1489.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

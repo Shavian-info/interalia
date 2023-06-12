@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilipneumatacomb-cy" format="2">
+  <advance height="2479"/>
+  <unicode hex="0486"/>
+  <outline>
+    <contour>
+      <point x="-401" y="1471" type="line"/>
+      <point x="-403" y="1569" type="line"/>
+      <point x="-449" y="1569" type="line"/>
+      <point x="-448" y="1466" type="line"/>
+      <point x="-490" y="1383" type="line"/>
+      <point x="-467" y="1363" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzaltone" format="2">
+  <advance height="2479" width="2368"/>
+  <unicode hex="02A3"/>
+  <anchor x="660" y="0" name="bottom"/>
+  <anchor x="1024" y="1280" name="cross"/>
+  <anchor x="1341" y="1489" name="raccent"/>
+  <anchor x="547" y="1489" name="top"/>
+  <outline>
+    <contour>
+      <point x="1268" y="0" type="line"/>
+      <point x="2249" y="0" type="line"/>
+      <point x="2249" y="305" type="line"/>
+      <point x="1786" y="305" type="line"/>
+      <point x="1786" y="311" type="line"/>
+      <point x="2231" y="873" type="line"/>
+      <point x="2231" y="1117" type="line"/>
+      <point x="1053" y="1117" type="line"/>
+      <point x="1053" y="812" type="line"/>
+      <point x="1757" y="812" type="line"/>
+      <point x="1757" y="806" type="line"/>
+      <point x="1268" y="221" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

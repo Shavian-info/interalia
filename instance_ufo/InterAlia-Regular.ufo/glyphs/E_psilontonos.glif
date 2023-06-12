@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilontonos" format="2">
+  <advance height="2479" width="1414"/>
+  <unicode hex="0388"/>
+  <anchor x="803" y="0" name="bottom"/>
+  <anchor x="806" y="0" name="cedilla"/>
+  <anchor x="1280" y="0" name="ogonek"/>
+  <anchor x="323" y="1489" name="tonos"/>
+  <anchor x="817" y="1676" name="top"/>
+  <outline>
+    <component base="E" xOffset="189"/>
+    <component base="tonos" xOffset="-90"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

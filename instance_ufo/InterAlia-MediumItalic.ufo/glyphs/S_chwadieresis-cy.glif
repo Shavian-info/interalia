@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwadieresis-cy" format="2">
+  <advance height="2479.0" width="1466.6"/>
+  <unicode hex="04DA"/>
+  <anchor x="599.4" y="0.0" name="bottom"/>
+  <anchor x="964.4" y="2048.8" name="top"/>
+  <outline>
+    <component base="Schwa-cy"/>
+    <component base="dieresis" xOffset="192.6" yOffset="372.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

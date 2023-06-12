@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave" format="2">
+  <advance height="2479" width="1018"/>
+  <unicode hex="0060"/>
+  <anchor x="617" y="1303" name="_top"/>
+  <anchor x="617" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="486" y="1257" type="line"/>
+      <point x="751" y="1257" type="line"/>
+      <point x="611" y="1583" type="line"/>
+      <point x="268" y="1583" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

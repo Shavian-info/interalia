@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tshe-cy" format="2">
+  <advance height="2479.0" width="1835.3333333333333"/>
+  <unicode hex="040B"/>
+  <anchor x="587.3333333333334" y="1463.6666666666667" name="cyrtic"/>
+  <anchor x="714.6666666666666" y="1489.0" name="left"/>
+  <anchor x="629.6666666666666" y="1489.0" name="right"/>
+  <anchor x="1132.6666666666667" y="-187.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1240.3333333333333" y="1489.0" type="line"/>
+      <point x="116.33333333333333" y="1489.0" type="line"/>
+      <point x="116.33333333333333" y="1405.0" type="line"/>
+      <point x="1240.3333333333333" y="1405.0" type="line"/>
+    </contour>
+    <component base="Shha-cy" xOffset="413.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

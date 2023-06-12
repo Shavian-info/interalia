@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleftinferior" format="2">
+  <advance height="2479.0" width="467.3333333333333"/>
+  <unicode hex="208D"/>
+  <outline>
+    <component base="parenleftsuperior" xOffset="-166.0" yOffset="-1001.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilioxia" format="2">
+  <advance height="2479.0" width="2133.333333333333"/>
+  <unicode hex="1F2C"/>
+  <anchor x="1282.3333333333335" y="0.0" name="bottom"/>
+  <anchor x="806.0" y="-2.0" name="cedilla"/>
+  <anchor x="1902.0" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="1840.0" y="0.0" name="right"/>
+  <anchor x="933.6666666666667" y="1489.0" name="tonos"/>
+  <anchor x="1567.6666666666667" y="1678.0" name="top"/>
+  <outline>
+    <component base="H" xOffset="620.3333333333333"/>
+    <component base="psilioxia.tonos" xOffset="6.333333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

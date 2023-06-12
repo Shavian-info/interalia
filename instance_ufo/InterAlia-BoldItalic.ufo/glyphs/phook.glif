@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phook" format="2">
+  <advance height="2479.0" width="1295.4"/>
+  <unicode hex="01A5"/>
+  <anchor x="122.59999999999998" y="-408.2" name="bottom"/>
+  <anchor x="1158.4" y="-484.2" name="bottom0315"/>
+  <anchor x="162.00000000000003" y="-163.0" name="cross"/>
+  <anchor x="825.4" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="522.2" y="1117.0" type="line"/>
+      <point x="531.4000000000001" y="1178.0"/>
+      <point x="571.6" y="1205.3999999999999"/>
+      <point x="657.2" y="1203.6" type="curve" smooth="yes"/>
+      <point x="697.4000000000001" y="1201.8000000000002"/>
+      <point x="737.2" y="1193.8"/>
+      <point x="752.8" y="1189.6" type="curve"/>
+      <point x="788.4" y="1395.8" type="line"/>
+      <point x="759.6" y="1403.6000000000001"/>
+      <point x="704.5999999999999" y="1413.2"/>
+      <point x="633.0" y="1413.2" type="curve" smooth="yes"/>
+      <point x="381.0" y="1413.2"/>
+      <point x="250.6" y="1326.6"/>
+      <point x="217.0" y="1117.0" type="curve"/>
+    </contour>
+    <component base="p"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

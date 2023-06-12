@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="istroke" format="2">
+  <advance height="2479.0" width="581.2"/>
+  <unicode hex="0268"/>
+  <anchor x="199.8" y="0.0" name="bottom"/>
+  <anchor x="298.8" y="607.4" name="cross"/>
+  <anchor x="375.20000000000005" y="0.0" name="ogonek"/>
+  <anchor x="413.8" y="1303.6" name="top"/>
+  <outline>
+    <component base="i"/>
+    <component base="crossbar" xOffset="-247.2" yOffset="-181.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

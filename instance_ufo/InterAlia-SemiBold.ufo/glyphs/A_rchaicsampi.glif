@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Archaicsampi" format="2">
+  <advance height="2479.0" width="1361.2"/>
+  <unicode hex="0372"/>
+  <outline>
+    <contour>
+      <point x="1281.2" y="1457.0" type="line" name="hr00"/>
+      <point x="1054.8" y="1457.0" type="line"/>
+      <point x="1054.8" y="902.0" type="line"/>
+      <point x="1281.2" y="902.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="319.2" y="1457.0" type="line"/>
+      <point x="93.4" y="1457.0" type="line"/>
+      <point x="93.4" y="902.0" type="line"/>
+      <point x="319.2" y="902.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="820.6" y="1489.0" type="line"/>
+      <point x="553.4" y="1489.0" type="line"/>
+      <point x="553.4" y="0.0" type="line"/>
+      <point x="820.6" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1281.2" y="1489.0" type="line"/>
+      <point x="93.4" y="1489.0" type="line"/>
+      <point x="93.4" y="1263.0" type="line"/>
+      <point x="1281.2" y="1263.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

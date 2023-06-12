@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotcomb.lc" format="2">
+  <advance height="2479.0" width="8.0"/>
+  <unicode hex="E104"/>
+  <anchor x="-484.40000000000003" y="1292.0" name="_top"/>
+  <anchor x="-369.6" y="1999.0" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-627.8" y="1229.8" type="line"/>
+      <point x="-408.59999999999997" y="1229.8" type="line"/>
+      <point x="-74.60000000000001" y="1536.0" type="line"/>
+      <point x="-375.2" y="1536.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-550.4000000000001" y="1756.6" type="curve" smooth="yes"/>
+      <point x="-562.1999999999999" y="1682.8"/>
+      <point x="-517.4" y="1627.8"/>
+      <point x="-430.00000000000006" y="1627.8" type="curve" smooth="yes"/>
+      <point x="-343.20000000000005" y="1627.8"/>
+      <point x="-278.59999999999997" y="1682.8"/>
+      <point x="-266.8" y="1756.6" type="curve" smooth="yes"/>
+      <point x="-255.0" y="1829.8"/>
+      <point x="-298.0" y="1887.2"/>
+      <point x="-386.40000000000003" y="1887.2" type="curve" smooth="yes"/>
+      <point x="-472.6" y="1887.2"/>
+      <point x="-538.0" y="1831.6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="qmod" format="2">
+  <advance height="2479.0" width="826.3333333333334"/>
+  <unicode hex="107A5"/>
+  <outline>
+    <contour>
+      <point x="720.6666666666666" y="465.0" type="line"/>
+      <point x="720.6666666666666" y="1489.0" type="line"/>
+      <point x="604.6666666666666" y="1489.0" type="line"/>
+      <point x="604.6666666666666" y="1335.3333333333333" type="line"/>
+      <point x="597.6666666666666" y="1335.3333333333333" type="line"/>
+      <point x="565.6666666666666" y="1422.0"/>
+      <point x="490.6666666666667" y="1499.0"/>
+      <point x="367.6666666666667" y="1499.0" type="curve" smooth="yes"/>
+      <point x="196.0" y="1499.0"/>
+      <point x="70.66666666666667" y="1351.0"/>
+      <point x="70.66666666666667" y="1114.0" type="curve" smooth="yes"/>
+      <point x="70.66666666666667" y="881.6666666666666"/>
+      <point x="195.0" y="730.0"/>
+      <point x="367.6666666666667" y="730.0" type="curve" smooth="yes"/>
+      <point x="485.6666666666667" y="730.0"/>
+      <point x="563.6666666666666" y="803.0"/>
+      <point x="597.6666666666666" y="893.6666666666666" type="curve"/>
+      <point x="602.3333333333334" y="893.6666666666666" type="line"/>
+      <point x="602.3333333333334" y="465.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="604.6666666666666" y="1116.0" type="curve" smooth="yes"/>
+      <point x="604.6666666666666" y="949.3333333333334"/>
+      <point x="526.6666666666666" y="829.0"/>
+      <point x="397.3333333333333" y="829.0" type="curve" smooth="yes"/>
+      <point x="268.6666666666667" y="829.0"/>
+      <point x="190.0" y="951.3333333333334"/>
+      <point x="190.0" y="1116.0" type="curve" smooth="yes"/>
+      <point x="190.0" y="1277.3333333333333"/>
+      <point x="265.6666666666667" y="1401.0"/>
+      <point x="397.3333333333333" y="1401.0" type="curve" smooth="yes"/>
+      <point x="528.6666666666666" y="1401.0"/>
+      <point x="604.6666666666666" y="1279.6666666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Modifier</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

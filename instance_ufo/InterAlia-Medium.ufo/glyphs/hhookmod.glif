@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hhookmod" format="2">
+  <advance height="2479.0" width="943.4"/>
+  <unicode hex="02B1"/>
+  <outline>
+    <contour>
+      <point x="337.0" y="1542.8" type="line"/>
+      <point x="336.6" y="1599.8"/>
+      <point x="363.8" y="1620.2"/>
+      <point x="402.4" y="1620.2" type="curve" smooth="yes"/>
+      <point x="427.8" y="1620.2"/>
+      <point x="456.2" y="1615.4"/>
+      <point x="473.0" y="1611.2" type="curve"/>
+      <point x="473.0" y="1789.6" type="line"/>
+      <point x="429.8" y="1799.2"/>
+      <point x="370.8" y="1807.4"/>
+      <point x="321.8" y="1807.4" type="curve" smooth="yes"/>
+      <point x="185.0" y="1807.4"/>
+      <point x="140.8" y="1720.2"/>
+      <point x="141.0" y="1558.8" type="curve" smooth="yes"/>
+      <point x="141.0" y="652.6" type="line"/>
+      <point x="337.0" y="652.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="312.8" y="1079.0" type="line"/>
+      <point x="312.4" y="1203.6"/>
+      <point x="360.4" y="1302.8"/>
+      <point x="475.2" y="1302.8" type="curve" smooth="yes"/>
+      <point x="558.8" y="1302.8"/>
+      <point x="606.8" y="1250.6"/>
+      <point x="607.2" y="1113.8" type="curve" smooth="yes"/>
+      <point x="607.2" y="652.6" type="line"/>
+      <point x="804.4" y="652.6" type="line"/>
+      <point x="804.4" y="1161.0" type="line" smooth="yes"/>
+      <point x="804.0" y="1376.0"/>
+      <point x="703.4" y="1466.0"/>
+      <point x="542.6" y="1466.0" type="curve" smooth="yes"/>
+      <point x="368.6" y="1466.0"/>
+      <point x="265.6" y="1303.0"/>
+      <point x="265.8" y="1076.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

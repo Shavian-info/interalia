@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dollar" format="2">
+  <advance height="2479.0" width="1317.6"/>
+  <unicode hex="0024"/>
+  <anchor x="566.4" y="-20.8" name="bottom"/>
+  <anchor x="569.8" y="0.0" name="cedilla"/>
+  <anchor x="844.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="480.0" y="-186.0" type="line"/>
+      <point x="600.0" y="-186.0" type="line"/>
+      <point x="908.0" y="1676.0" type="line"/>
+      <point x="789.0" y="1676.0" type="line"/>
+    </contour>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nsmall" format="2">
+  <advance height="2479.0" width="1211.3333333333333"/>
+  <unicode hex="0274"/>
+  <outline>
+    <contour>
+      <point x="1040.6666666666667" y="1117.0" type="line"/>
+      <point x="910.3333333333334" y="1117.0" type="line"/>
+      <point x="910.3333333333334" y="240.33333333333334" type="line"/>
+      <point x="899.0" y="240.33333333333334" type="line"/>
+      <point x="296.6666666666667" y="1117.0" type="line"/>
+      <point x="170.66666666666666" y="1117.0" type="line"/>
+      <point x="170.66666666666666" y="0.0" type="line"/>
+      <point x="300.6666666666667" y="0.0" type="line"/>
+      <point x="300.6666666666667" y="874.6666666666666" type="line"/>
+      <point x="312.0" y="874.6666666666666" type="line"/>
+      <point x="912.3333333333334" y="0.0" type="line"/>
+      <point x="1040.6666666666667" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

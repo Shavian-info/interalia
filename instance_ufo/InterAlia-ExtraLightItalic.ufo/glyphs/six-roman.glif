@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six-roman" format="2">
+  <advance height="2479.0" width="1326.6666666666667"/>
+  <unicode hex="2175"/>
+  <anchor x="436.33333333333337" y="0.0" name="bottom_1"/>
+  <anchor x="1016.0" y="0.0" name="bottom_2"/>
+  <anchor x="1113.0" y="585.6666666666666" name="cross"/>
+  <anchor x="1059.6666666666667" y="0.0" name="ogonek"/>
+  <anchor x="651.3333333333334" y="1303.0" name="top_1"/>
+  <anchor x="1232.0" y="1304.0" name="top_2"/>
+  <outline>
+    <component base="v" xOffset="-17.333333333333332"/>
+    <component base="i" xOffset="876.3333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>v</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

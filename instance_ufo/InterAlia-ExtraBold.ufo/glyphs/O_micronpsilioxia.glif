@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsilioxia" format="2">
+  <advance height="2479.0" width="1894.0"/>
+  <unicode hex="1F4C"/>
+  <anchor x="1154.2" y="0.0" name="bottom"/>
+  <anchor x="1347.4" y="3.6000000000000014" name="ogonek"/>
+  <anchor x="523.4" y="1489.0" name="tonos"/>
+  <anchor x="1154.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="O" xOffset="346.2"/>
+    <component base="psilioxia.tonos" xOffset="-227.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>psilioxia.tonos</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

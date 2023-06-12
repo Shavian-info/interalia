@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eturned" format="2">
+  <advance height="2479.0" width="1242.6"/>
+  <unicode hex="01DD"/>
+  <anchor x="517.6" y="0.0" name="bottom"/>
+  <anchor x="521.8" y="0.0" name="cedilla"/>
+  <anchor x="756.6" y="19.6" name="ogonek"/>
+  <anchor x="730.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="e" xScale="-1.0" yScale="-1.0" xOffset="1242.6" yOffset="1117.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

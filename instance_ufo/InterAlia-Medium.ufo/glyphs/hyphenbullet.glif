@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphenbullet" format="2">
+  <advance height="2479.0" width="1084.4"/>
+  <unicode hex="2043"/>
+  <outline>
+    <contour>
+      <point x="817.2" y="687.4" type="line"/>
+      <point x="267.4" y="687.4" type="line"/>
+      <point x="267.4" y="498.8" type="line"/>
+      <point x="817.2" y="498.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

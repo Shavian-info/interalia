@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DDD"/>
+  <outline>
+    <contour>
+      <point x="-762" y="1990" type="line"/>
+      <point x="-762" y="1201" type="line"/>
+      <point x="-579" y="1201" type="line"/>
+      <point x="-579" y="1990" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>58</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

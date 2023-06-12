@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dtail" format="2">
+  <advance height="2479.0" width="1263.8"/>
+  <unicode hex="0256"/>
+  <anchor x="624.0" y="0.0" name="bottom"/>
+  <anchor x="1008.8" y="1280.0" name="cross"/>
+  <anchor x="1254.6" y="1489.0" name="raccent"/>
+  <anchor x="588.6" y="1489.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1221.0" y="-419.0" type="curve" smooth="yes"/>
+      <point x="1267.2" y="-419.0"/>
+      <point x="1311.6" y="-417.2"/>
+      <point x="1340.4" y="-409.4" type="curve"/>
+      <point x="1340.4" y="-234.2" type="line"/>
+      <point x="1323.0" y="-237.0"/>
+      <point x="1300.4" y="-240.0"/>
+      <point x="1278.4" y="-240.0" type="curve" smooth="yes"/>
+      <point x="1190.2" y="-240.0"/>
+      <point x="1117.8" y="-209.2"/>
+      <point x="1117.8" y="-102.2" type="curve" smooth="yes"/>
+      <point x="1117.8" y="219.0" type="line"/>
+      <point x="900.4" y="219.0" type="line"/>
+      <point x="900.4" y="-102.2" type="line" smooth="yes"/>
+      <point x="900.4" y="-321.6"/>
+      <point x="1042.0" y="-419.0"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Otildedieresis" format="2">
+  <advance height="2479.0" width="1615.0"/>
+  <unicode hex="1E4E"/>
+  <anchor x="716.4" y="1.1999999999999993" name="bottom"/>
+  <anchor x="913.0" y="4.800000000000001" name="ogonek"/>
+  <anchor x="326.59999999999997" y="1489.0" name="tonos"/>
+  <anchor x="993.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="tildedieresiscomb.cn" xOffset="1548.3999999999999" yOffset="401.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

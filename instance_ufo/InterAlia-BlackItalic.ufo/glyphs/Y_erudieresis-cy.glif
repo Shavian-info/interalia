@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yerudieresis-cy" format="2">
+  <advance height="2479" width="2086"/>
+  <unicode hex="04F8"/>
+  <anchor x="1522" y="0" name="bottom"/>
+  <anchor x="462" y="1178" name="cross_1"/>
+  <anchor x="1650" y="788" name="cross_2"/>
+  <anchor x="1722" y="0" name="ogonek"/>
+  <anchor x="1748" y="0" name="right"/>
+  <anchor x="1565" y="1489" name="tonos"/>
+  <anchor x="1213" y="1987" name="top"/>
+  <outline>
+    <component base="Yeru-cy" xOffset="20"/>
+    <component base="dieresis" xOffset="518" yOffset="311"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Yeru-cy</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dieresis</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oil-shavian" format="2">
+  <advance width="928.3333333333334"/>
+  <unicode hex="10476"/>
+  <outline>
+    <contour>
+      <point x="92.99999999999999" y="0.0" type="line"/>
+      <point x="282.6666666666667" y="0.0" type="line"/>
+      <point x="801.6666666666666" y="494.3333333333333" type="line"/>
+      <point x="821.6666666666666" y="622.6666666666666" type="line"/>
+      <point x="715.6666666666667" y="622.6666666666666" type="line" smooth="yes"/>
+      <point x="633.3333333333334" y="622.6666666666666"/>
+      <point x="584.3333333333334" y="687.6666666666667"/>
+      <point x="583.0" y="806.6666666666666" type="curve" smooth="yes"/>
+      <point x="582.3333333333334" y="997.6666666666667"/>
+      <point x="470.0" y="1117.0"/>
+      <point x="303.99999999999994" y="1117.0" type="curve" smooth="yes"/>
+      <point x="209.0" y="1117.0" type="line"/>
+      <point x="187.0" y="989.0" type="line"/>
+      <point x="257.6666666666667" y="989.0" type="line" smooth="yes"/>
+      <point x="398.33333333333337" y="989.0"/>
+      <point x="456.0" y="930.6666666666667"/>
+      <point x="465.3333333333333" y="778.3333333333334" type="curve" smooth="yes"/>
+      <point x="469.6666666666667" y="627.0"/>
+      <point x="532.6666666666666" y="523.3333333333334"/>
+      <point x="643.0" y="502.3333333333333" type="curve"/>
+      <point x="643.0" y="492.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

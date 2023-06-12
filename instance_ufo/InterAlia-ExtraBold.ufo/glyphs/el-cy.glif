@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="el-cy" format="2">
+  <advance height="2479.0" width="1248.6"/>
+  <unicode hex="043B"/>
+  <anchor x="605.2" y="0.0" name="bottom"/>
+  <anchor x="1315.8" y="64.0" name="cyrtic"/>
+  <anchor x="1145.2" y="0.0" name="right"/>
+  <anchor x="698.8" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="58.0" y="0.0" type="line"/>
+      <point x="163.2" y="0.0" type="line" smooth="yes"/>
+      <point x="396.0" y="0.0"/>
+      <point x="540.6" y="145.6"/>
+      <point x="560.6" y="523.8" type="curve" smooth="yes"/>
+      <point x="577.6" y="845.0" type="line"/>
+      <point x="808.6" y="845.0" type="line"/>
+      <point x="808.6" y="0.0" type="line"/>
+      <point x="1145.2" y="0.0" type="line"/>
+      <point x="1145.2" y="1117.0" type="line"/>
+      <point x="261.0" y="1117.0" type="line"/>
+      <point x="243.4" y="623.0" type="line" smooth="yes"/>
+      <point x="233.4" y="370.2"/>
+      <point x="188.2" y="274.4"/>
+      <point x="91.8" y="274.4" type="curve" smooth="yes"/>
+      <point x="55.6" y="274.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

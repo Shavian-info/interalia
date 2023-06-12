@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialytikaperispomeni" format="2">
+  <advance height="2479" width="919"/>
+  <unicode hex="1FC1"/>
+  <anchor x="559" y="1181" name="_top"/>
+  <outline>
+    <contour>
+      <point x="241" y="1344" type="curve" smooth="yes"/>
+      <point x="230" y="1286"/>
+      <point x="262" y="1236"/>
+      <point x="340" y="1236" type="curve" smooth="yes"/>
+      <point x="416" y="1236"/>
+      <point x="460" y="1286"/>
+      <point x="471" y="1344" type="curve" smooth="yes"/>
+      <point x="480" y="1408"/>
+      <point x="451" y="1457"/>
+      <point x="375" y="1457" type="curve" smooth="yes"/>
+      <point x="297" y="1457"/>
+      <point x="250" y="1408"/>
+    </contour>
+    <contour>
+      <point x="710" y="1344" type="curve" smooth="yes"/>
+      <point x="698" y="1283"/>
+      <point x="730" y="1233"/>
+      <point x="806" y="1233" type="curve" smooth="yes"/>
+      <point x="881" y="1233"/>
+      <point x="931" y="1283"/>
+      <point x="943" y="1344" type="curve" smooth="yes"/>
+      <point x="951" y="1405"/>
+      <point x="919" y="1455"/>
+      <point x="844" y="1455" type="curve" smooth="yes"/>
+      <point x="768" y="1455"/>
+      <point x="719" y="1405"/>
+    </contour>
+    <contour>
+      <point x="835" y="1716" type="line"/>
+      <point x="826" y="1667"/>
+      <point x="783" y="1629"/>
+      <point x="739" y="1629" type="curve" smooth="yes"/>
+      <point x="655" y="1629"/>
+      <point x="617" y="1705"/>
+      <point x="529" y="1705" type="curve" smooth="yes"/>
+      <point x="431" y="1705"/>
+      <point x="346" y="1615"/>
+      <point x="332" y="1519" type="curve"/>
+      <point x="416" y="1495" type="line"/>
+      <point x="425" y="1545"/>
+      <point x="465" y="1583"/>
+      <point x="509" y="1583" type="curve" smooth="yes"/>
+      <point x="596" y="1583"/>
+      <point x="611" y="1510"/>
+      <point x="719" y="1510" type="curve" smooth="yes"/>
+      <point x="817" y="1510"/>
+      <point x="899" y="1594"/>
+      <point x="913" y="1690" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

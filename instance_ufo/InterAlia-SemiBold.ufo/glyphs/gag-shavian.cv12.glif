@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gag-shavian.cv12" format="2">
+  <advance height="2479.0" width="1234.6"/>
+  <outline>
+    <contour>
+      <point x="545.6" y="1117.0" type="curve" smooth="yes"/>
+      <point x="324.2" y="1117.0" type="line"/>
+      <point x="324.2" y="874.8" type="line"/>
+      <point x="545.6" y="874.8" type="line" smooth="yes"/>
+      <point x="756.0" y="874.8"/>
+      <point x="882.8" y="756.6"/>
+      <point x="883.2" y="563.4" type="curve" smooth="yes"/>
+      <point x="882.8" y="386.4"/>
+      <point x="775.8" y="280.6"/>
+      <point x="599.8" y="280.0" type="curve" smooth="yes"/>
+      <point x="516.4" y="280.6"/>
+      <point x="387.8" y="304.6"/>
+      <point x="335.8" y="343.4" type="curve"/>
+      <point x="324.2" y="343.4" type="line"/>
+      <point x="324.2" y="-419.0" type="line"/>
+      <point x="587.8" y="-419.0" type="line"/>
+      <point x="587.8" y="79.0" type="line"/>
+      <point x="620.6" y="72.8"/>
+      <point x="671.4" y="70.0"/>
+      <point x="703.6" y="70.0" type="curve" smooth="yes"/>
+      <point x="950.6" y="70.0"/>
+      <point x="1146.8" y="263.8"/>
+      <point x="1147.2" y="549.4" type="curve" smooth="yes"/>
+      <point x="1147.2" y="892.0"/>
+      <point x="908.6" y="1117.0"/>
+    </contour>
+    <contour>
+      <point x="587.8" y="1091.4" type="line"/>
+      <point x="324.2" y="1117.0" type="line"/>
+      <point x="324.2" y="372.6" type="line"/>
+      <point x="245.4" y="403.8"/>
+      <point x="170.2" y="442.0"/>
+      <point x="92.2" y="499.8" type="curve"/>
+      <point x="92.2" y="255.8" type="line"/>
+      <point x="236.4" y="158.4"/>
+      <point x="405.4" y="107.8"/>
+      <point x="587.8" y="79.4" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>shavian</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

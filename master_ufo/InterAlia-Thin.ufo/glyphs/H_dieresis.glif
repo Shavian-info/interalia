@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hdieresis" format="2">
+  <advance height="2479" width="1507"/>
+  <unicode hex="1E26"/>
+  <anchor x="753" y="0" name="bottom"/>
+  <anchor x="256" y="-6" name="cedilla"/>
+  <anchor x="1295" y="6" name="cyrtic"/>
+  <anchor x="1274" y="0" name="right"/>
+  <anchor x="198" y="1489" name="tonos"/>
+  <anchor x="753" y="1676" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="casedieresis.cn" xOffset="78" yOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

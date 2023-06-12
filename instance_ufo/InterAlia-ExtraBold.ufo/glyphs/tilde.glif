@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance height="2479.0" width="1024.0"/>
+  <unicode hex="02DC"/>
+  <anchor x="512.0" y="1303.0" name="_top"/>
+  <anchor x="512.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="308.8" y="1255.8" type="line"/>
+      <point x="308.8" y="1325.6"/>
+      <point x="340.2" y="1365.8"/>
+      <point x="388.8" y="1365.8" type="curve" smooth="yes"/>
+      <point x="470.2" y="1365.8"/>
+      <point x="509.4" y="1251.2"/>
+      <point x="657.8" y="1252.0" type="curve" smooth="yes"/>
+      <point x="791.6" y="1252.8"/>
+      <point x="898.0" y="1357.6"/>
+      <point x="900.4" y="1552.8" type="curve"/>
+      <point x="718.2" y="1555.0" type="line"/>
+      <point x="716.6" y="1486.8"/>
+      <point x="691.0" y="1442.6"/>
+      <point x="635.2" y="1442.6" type="curve" smooth="yes"/>
+      <point x="559.0" y="1441.8"/>
+      <point x="508.4" y="1557.2"/>
+      <point x="366.2" y="1556.4" type="curve" smooth="yes"/>
+      <point x="230.8" y="1555.6"/>
+      <point x="123.6" y="1453.8"/>
+      <point x="123.6" y="1257.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

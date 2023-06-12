@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gemiddlehook-cy" format="2">
+  <advance height="2479.0" width="1158.6"/>
+  <unicode hex="0495"/>
+  <anchor x="265.2" y="584.6" name="cross"/>
+  <anchor x="516.0" y="100.0" name="cyrtic"/>
+  <anchor x="503.0" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="253.8" y="448.2" type="line"/>
+      <point x="480.8" y="448.2" type="line" smooth="yes"/>
+      <point x="660.0" y="448.2"/>
+      <point x="788.0" y="349.0"/>
+      <point x="787.2" y="176.4" type="curve" smooth="yes"/>
+      <point x="786.0" y="43.6"/>
+      <point x="686.0" y="-54.599999999999994"/>
+      <point x="559.2" y="-103.6" type="curve"/>
+      <point x="658.2" y="-285.0" type="line"/>
+      <point x="896.2" y="-212.8"/>
+      <point x="1042.2" y="-27.4"/>
+      <point x="1040.2" y="176.4" type="curve"/>
+      <point x="1039.8" y="487.0"/>
+      <point x="809.0" y="661.8"/>
+      <point x="480.8" y="661.8" type="curve" smooth="yes"/>
+      <point x="253.8" y="661.8" type="line"/>
+    </contour>
+    <component base="ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

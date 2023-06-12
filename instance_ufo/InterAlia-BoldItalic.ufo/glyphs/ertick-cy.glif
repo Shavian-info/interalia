@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ertick-cy" format="2">
+  <advance height="2479.0" width="1251.6000000000001"/>
+  <unicode hex="048F"/>
+  <anchor x="128.00000000000003" y="-408.2" name="bottom"/>
+  <anchor x="1163.8000000000002" y="-484.2" name="bottom0315"/>
+  <anchor x="167.4" y="-163.0" name="cross"/>
+  <anchor x="830.8000000000001" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="714.0" y="475.2" type="line"/>
+      <point x="593.8" y="389.4" type="line"/>
+      <point x="912.1999999999999" y="-85.8" type="line"/>
+      <point x="1034.2" y="0.6000000000000014" type="line"/>
+    </contour>
+    <component base="p" xOffset="5.3999999999999995"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

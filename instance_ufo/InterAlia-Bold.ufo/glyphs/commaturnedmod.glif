@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedmod" format="2">
+  <advance height="2479.0" width="606.4"/>
+  <unicode hex="02BB"/>
+  <outline>
+    <contour>
+      <point x="134.0" y="1003.4" type="line"/>
+      <point x="389.0" y="1003.4" type="line"/>
+      <point x="389.0" y="1202.0" type="line" smooth="yes"/>
+      <point x="390.2" y="1337.6"/>
+      <point x="425.2" y="1431.2"/>
+      <point x="472.4" y="1515.2" type="curve"/>
+      <point x="322.4" y="1593.8" type="line"/>
+      <point x="222.6" y="1503.8"/>
+      <point x="134.6" y="1342.6"/>
+      <point x="134.0" y="1200.8" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

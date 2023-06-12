@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="egg-shavian" format="2">
+  <advance width="960.0"/>
+  <unicode hex="10467"/>
+  <outline>
+    <contour>
+      <point x="650.6" y="0.0" type="curve" smooth="yes"/>
+      <point x="788.4" y="0.0" type="line"/>
+      <point x="840.6" y="315.4" type="line"/>
+      <point x="762.1999999999999" y="315.4" type="line" smooth="yes"/>
+      <point x="530.0" y="315.4"/>
+      <point x="442.80000000000007" y="412.2"/>
+      <point x="479.00000000000006" y="634.4" type="curve" smooth="yes"/>
+      <point x="559.8000000000001" y="1117.0" type="line"/>
+      <point x="204.8" y="1117.0" type="line"/>
+      <point x="130.8" y="674.6" type="line" smooth="yes"/>
+      <point x="61.4" y="257.40000000000003"/>
+      <point x="258.20000000000005" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northWestArrow" format="2">
+  <advance height="2479" width="1955"/>
+  <unicode hex="2196"/>
+  <outline>
+    <contour>
+      <point x="436" y="567" type="line"/>
+      <point x="595" y="567" type="line"/>
+      <point x="701" y="1219" type="line"/>
+      <point x="1405" y="374" type="line"/>
+      <point x="1537" y="487" type="line"/>
+      <point x="833" y="1332" type="line"/>
+      <point x="1485" y="1332" type="line"/>
+      <point x="1510" y="1489" type="line"/>
+      <point x="589" y="1489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

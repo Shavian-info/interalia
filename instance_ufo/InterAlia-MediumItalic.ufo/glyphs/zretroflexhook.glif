@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zretroflexhook" format="2">
+  <advance height="2479.0" width="1251.6000000000001"/>
+  <unicode hex="0290"/>
+  <anchor x="466.79999999999995" y="0.0" name="bottom"/>
+  <anchor x="563.4" y="559.0" name="cross"/>
+  <anchor x="686.0" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="740.6" y="0.0" type="line"/>
+      <point x="720.6" y="-123.0" type="line" smooth="yes"/>
+      <point x="687.2" y="-325.0"/>
+      <point x="796.8000000000001" y="-436.0"/>
+      <point x="977.4000000000001" y="-436.0" type="curve" smooth="yes"/>
+      <point x="1013.4000000000001" y="-436.0"/>
+      <point x="1056.6" y="-433.0"/>
+      <point x="1088.6000000000001" y="-424.4" type="curve"/>
+      <point x="1115.2" y="-256.2" type="line"/>
+      <point x="1096.8000000000002" y="-261.6"/>
+      <point x="1071.1999999999998" y="-262.2"/>
+      <point x="1052.6" y="-262.2" type="curve" smooth="yes"/>
+      <point x="963.4000000000001" y="-262.2"/>
+      <point x="888.4" y="-236.6"/>
+      <point x="906.8000000000001" y="-123.0" type="curve" smooth="yes"/>
+      <point x="927.8000000000001" y="0.0" type="line"/>
+    </contour>
+    <component base="z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

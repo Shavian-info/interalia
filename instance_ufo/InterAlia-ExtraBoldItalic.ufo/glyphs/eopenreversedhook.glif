@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenreversedhook" format="2">
+  <advance height="2479.0" width="1729.2"/>
+  <unicode hex="025D"/>
+  <anchor x="712.0" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="989.4" y="662.2" type="line"/>
+      <point x="1149.4" y="701.8" type="line"/>
+      <point x="1163.1999999999998" y="521.6"/>
+      <point x="1182.2" y="379.8"/>
+      <point x="1389.0" y="379.8" type="curve" smooth="yes"/>
+      <point x="1445.6" y="379.8"/>
+      <point x="1513.2" y="394.2"/>
+      <point x="1569.3999999999999" y="421.4" type="curve"/>
+      <point x="1558.6" y="633.8" type="line"/>
+      <point x="1538.2" y="631.0"/>
+      <point x="1521.6" y="632.8"/>
+      <point x="1499.4" y="632.8" type="curve" smooth="yes"/>
+      <point x="1381.0" y="632.8"/>
+      <point x="1400.8" y="755.0"/>
+      <point x="1405.3999999999999" y="966.2" type="curve"/>
+      <point x="1026.6" y="887.6" type="line"/>
+    </contour>
+    <component base="eopenreversed" xOffset="4.800000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

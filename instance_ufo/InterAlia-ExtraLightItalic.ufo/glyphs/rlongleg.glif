@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlongleg" format="2">
+  <advance height="2479.0" width="699.0"/>
+  <unicode hex="027C"/>
+  <anchor x="134.66666666666666" y="0.0" name="bottom"/>
+  <anchor x="225.66666666666666" y="535.0" name="cross"/>
+  <anchor x="548.0" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="23.333333333333343" y="-419.0" type="line"/>
+      <point x="109.33333333333331" y="-419.0" type="line"/>
+      <point x="178.99999999999997" y="0.0" type="line"/>
+      <point x="91.33333333333334" y="0.0" type="line"/>
+    </contour>
+    <component base="r"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wool-shavian" format="2">
+  <advance height="2479.0" width="1117.0"/>
+  <unicode hex="1046B"/>
+  <anchor x="558.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="558.3333333333334" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="489.6666666666667" y="0.0" type="line"/>
+      <point x="627.0" y="0.0" type="line"/>
+      <point x="1036.0" y="1117.0" type="line"/>
+      <point x="894.6666666666666" y="1117.0" type="line"/>
+      <point x="563.3333333333334" y="170.66666666666669" type="line"/>
+      <point x="553.3333333333334" y="170.66666666666669" type="line"/>
+      <point x="222.0" y="1117.0" type="line"/>
+      <point x="81.66666666666667" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

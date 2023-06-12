@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oak-shavian" format="2">
+  <advance height="2479.0" width="1255.6"/>
+  <unicode hex="10474"/>
+  <outline>
+    <contour>
+      <point x="628.4" y="-23.0" type="curve" smooth="yes"/>
+      <point x="966.8" y="-23.0"/>
+      <point x="1177.4" y="183.6"/>
+      <point x="1177.0" y="522.8" type="curve" smooth="yes"/>
+      <point x="1177.4" y="874.2"/>
+      <point x="951.6" y="1131.6"/>
+      <point x="628.4" y="1132.0" type="curve" smooth="yes"/>
+      <point x="305.2" y="1131.6"/>
+      <point x="78.2" y="874.2"/>
+      <point x="78.6" y="522.8" type="curve" smooth="yes"/>
+      <point x="78.2" y="183.6"/>
+      <point x="290.0" y="-23.0"/>
+    </contour>
+    <contour>
+      <point x="625.4" y="218.0" type="curve" smooth="yes"/>
+      <point x="484.6" y="217.6"/>
+      <point x="393.0" y="330.6"/>
+      <point x="393.0" y="530.0" type="curve" smooth="yes"/>
+      <point x="393.0" y="736.6"/>
+      <point x="489.4" y="895.8"/>
+      <point x="626.6" y="895.4" type="curve" smooth="yes"/>
+      <point x="765.0" y="895.8"/>
+      <point x="863.4" y="736.6"/>
+      <point x="863.4" y="530.8" type="curve" smooth="yes"/>
+      <point x="863.4" y="330.6"/>
+      <point x="768.0" y="218.39999999999998"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

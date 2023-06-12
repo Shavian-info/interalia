@@ -1,5 +1,0 @@
-cvParameters { FeatUILabelNameID { name "Open nine"; }; };
-sub nine by nine.ss01;
-sub nine.tf by nine.ss01.tf;
-sub nine.box by nine.ss01.box;
-sub nine.circled by nine.ss01.circled;

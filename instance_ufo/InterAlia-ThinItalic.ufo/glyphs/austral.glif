@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="austral" format="2">
+  <advance height="2479" width="1263"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <contour>
+      <point x="108" y="791" type="line"/>
+      <point x="1231" y="791" type="line"/>
+      <point x="1239" y="838" type="line"/>
+      <point x="116" y="838" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="442" type="line"/>
+      <point x="1172" y="442" type="line"/>
+      <point x="1181" y="489" type="line"/>
+      <point x="58" y="489" type="line"/>
+    </contour>
+    <component base="Lambda"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Lambda</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

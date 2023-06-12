@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia.tonos" format="2">
+  <advance height="2479.0" width="1023.8"/>
+  <unicode hex="E0FD"/>
+  <anchor x="1017.4" y="1489.0" name="_tonos"/>
+  <outline>
+    <component base="psilioxia" xOffset="16.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

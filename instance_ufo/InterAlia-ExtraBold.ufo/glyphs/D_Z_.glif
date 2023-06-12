@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="DZ" format="2">
+  <advance height="2479.0" width="2889.6"/>
+  <unicode hex="01F1"/>
+  <anchor x="664.6" y="0.0" name="bottom_1"/>
+  <anchor x="2192.4" y="0.0" name="bottom_2"/>
+  <anchor x="291.8" y="784.0" name="cross_1"/>
+  <anchor x="2219.8" y="784.0" name="cross_2"/>
+  <anchor x="597.8" y="1676.0" name="top_1"/>
+  <anchor x="2196.0" y="1676.0" name="top_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="Z" xOffset="1495.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

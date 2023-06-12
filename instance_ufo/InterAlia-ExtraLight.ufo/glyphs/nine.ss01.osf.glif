@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.ss01.osf" format="2">
+  <advance height="2479.0" width="1130.6666666666667"/>
+  <outline>
+    <contour>
+      <point x="293.0" y="-419.0" type="line"/>
+      <point x="398.0" y="-419.0" type="line"/>
+      <point x="870.6666666666666" y="284.66666666666663" type="line" smooth="yes"/>
+      <point x="961.3333333333334" y="424.0"/>
+      <point x="1007.6666666666666" y="535.3333333333334"/>
+      <point x="1008.3333333333334" y="657.3333333333334" type="curve" smooth="yes"/>
+      <point x="1009.3333333333334" y="923.0"/>
+      <point x="815.6666666666666" y="1132.0"/>
+      <point x="565.0" y="1132.0" type="curve" smooth="yes"/>
+      <point x="316.3333333333333" y="1132.0"/>
+      <point x="122.33333333333333" y="925.0"/>
+      <point x="122.33333333333333" y="662.3333333333334" type="curve" smooth="yes"/>
+      <point x="122.33333333333333" y="399.3333333333333"/>
+      <point x="317.0" y="192.33333333333334"/>
+      <point x="566.0" y="192.33333333333334" type="curve" smooth="yes"/>
+      <point x="625.3333333333334" y="192.33333333333334"/>
+      <point x="682.6666666666666" y="206.33333333333334"/>
+      <point x="733.0" y="231.66666666666666" type="curve"/>
+    </contour>
+    <contour>
+      <point x="565.0" y="276.3333333333333" type="curve" smooth="yes"/>
+      <point x="365.6666666666667" y="276.3333333333333"/>
+      <point x="210.0" y="443.6666666666667"/>
+      <point x="210.0" y="662.3333333333334" type="curve" smooth="yes"/>
+      <point x="210.0" y="877.6666666666666"/>
+      <point x="365.6666666666667" y="1048.3333333333333"/>
+      <point x="565.0" y="1048.3333333333333" type="curve" smooth="yes"/>
+      <point x="765.3333333333334" y="1048.3333333333333"/>
+      <point x="920.0" y="877.6666666666666"/>
+      <point x="920.0" y="661.3333333333334" type="curve" smooth="yes"/>
+      <point x="920.0" y="443.6666666666667"/>
+      <point x="765.3333333333334" y="276.3333333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

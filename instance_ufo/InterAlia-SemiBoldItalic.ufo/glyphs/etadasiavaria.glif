@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasiavaria" format="2">
+  <advance height="2479.0" width="1249.0"/>
+  <unicode hex="1F23"/>
+  <anchor x="175.40000000000003" y="0.0" name="bottom"/>
+  <anchor x="746.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="dasiavaria" xOffset="170.8" yOffset="126.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

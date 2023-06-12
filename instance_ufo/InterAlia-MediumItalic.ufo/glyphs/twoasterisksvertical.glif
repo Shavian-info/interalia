@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twoasterisksvertical" format="2">
+  <advance height="2479.0" width="1129.0"/>
+  <unicode hex="2051"/>
+  <outline>
+    <component base="asterisk" xOffset="103.2"/>
+    <component base="asterisk" xOffset="104.4" yOffset="-1025.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

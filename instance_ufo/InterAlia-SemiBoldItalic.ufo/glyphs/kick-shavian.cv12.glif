@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kick-shavian.cv12" format="2">
+  <advance height="2479.0" width="1232.1999999999998"/>
+  <outline>
+    <contour>
+      <point x="604.2" y="-0.6" type="curve" smooth="yes"/>
+      <point x="818.0" y="-0.6" type="line"/>
+      <point x="856.8" y="241.0" type="line"/>
+      <point x="630.2" y="241.0" type="line" smooth="yes"/>
+      <point x="429.20000000000005" y="241.0"/>
+      <point x="317.2" y="358.79999999999995"/>
+      <point x="348.8" y="544.4000000000001" type="curve" smooth="yes"/>
+      <point x="377.2" y="725.6"/>
+      <point x="505.40000000000003" y="837.6"/>
+      <point x="692.8000000000001" y="838.2" type="curve" smooth="yes"/>
+      <point x="769.4000000000001" y="837.6"/>
+      <point x="891.4000000000001" y="816.4"/>
+      <point x="938.1999999999999" y="778.0" type="curve"/>
+      <point x="946.8" y="774.8000000000001" type="line"/>
+      <point x="1064.6" y="1490.2" type="line"/>
+      <point x="800.5999999999999" y="1490.2" type="line"/>
+      <point x="722.0" y="1038.2" type="line"/>
+      <point x="688.4" y="1045.2"/>
+      <point x="634.6" y="1048.2"/>
+      <point x="602.6" y="1048.2" type="curve" smooth="yes"/>
+      <point x="351.0" y="1048.2"/>
+      <point x="138.4" y="869.8000000000001"/>
+      <point x="92.60000000000001" y="588.2" type="curve" smooth="yes"/>
+      <point x="31.0" y="229.4"/>
+      <point x="238.8" y="-0.6"/>
+    </contour>
+    <contour>
+      <point x="558.4" y="25.6" type="line"/>
+      <point x="818.0" y="0.0" type="line"/>
+      <point x="944.8" y="748.0" type="line"/>
+      <point x="1019.0" y="716.2"/>
+      <point x="1079.8" y="680.4"/>
+      <point x="1144.8000000000002" y="622.2" type="curve"/>
+      <point x="1189.0" y="856.2" type="line"/>
+      <point x="1060.3999999999999" y="953.4"/>
+      <point x="899.2" y="1009.6"/>
+      <point x="722.0" y="1037.8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>shavian</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

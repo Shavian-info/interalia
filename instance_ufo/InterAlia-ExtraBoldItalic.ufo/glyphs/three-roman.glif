@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three-roman" format="2">
+  <advance height="2479.0" width="1743.6"/>
+  <unicode hex="2172"/>
+  <anchor x="199.8" y="0.0" name="bottom_1"/>
+  <anchor x="781.0" y="0.0" name="bottom_2"/>
+  <anchor x="1362.2" y="0.0" name="bottom_3"/>
+  <anchor x="298.8" y="607.4" name="cross_1"/>
+  <anchor x="880.0" y="607.4" name="cross_2"/>
+  <anchor x="1461.2" y="607.4" name="cross_3"/>
+  <anchor x="375.20000000000005" y="0.0" name="ogonek_1"/>
+  <anchor x="956.4000000000001" y="0.0" name="ogonek_2"/>
+  <anchor x="1537.6" y="0.0" name="ogonek_3"/>
+  <anchor x="413.8" y="1303.6" name="top_1"/>
+  <anchor x="995.0" y="1303.6" name="top_2"/>
+  <anchor x="1576.1999999999998" y="1303.6" name="top_3"/>
+  <outline>
+    <component base="i"/>
+    <component base="i" xOffset="581.2"/>
+    <component base="i" xOffset="1162.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

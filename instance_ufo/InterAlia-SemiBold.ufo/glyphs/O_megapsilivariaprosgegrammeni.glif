@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsilivariaprosgegrammeni" format="2">
+  <advance height="2479.0" width="2072.4"/>
+  <unicode hex="1FAA"/>
+  <anchor x="1283.8" y="0.0" name="bottom"/>
+  <anchor x="662.2" y="1489.0" name="tonos"/>
+  <outline>
+    <component base="Omegapsilivaria"/>
+    <component base="prosgegrammeni" xOffset="1040.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

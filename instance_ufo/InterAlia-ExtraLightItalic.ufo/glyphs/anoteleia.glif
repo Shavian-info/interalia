@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anoteleia" format="2">
+  <advance height="2479.0" width="533.3333333333334"/>
+  <unicode hex="0387"/>
+  <outline>
+    <component base="period" xOffset="162.33333333333334" yOffset="986.3333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

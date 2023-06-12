@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downBlackTriangle" format="2">
+  <advance height="2479.0" width="2118.6"/>
+  <unicode hex="25BC"/>
+  <outline>
+    <contour>
+      <point x="110.0" y="1489.0" type="line"/>
+      <point x="1059.8" y="-93.0" type="line"/>
+      <point x="2009.2" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

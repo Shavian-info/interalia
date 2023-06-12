@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsilioxia" format="2">
+  <advance height="2479.0" width="1090.3333333333333"/>
+  <unicode hex="1F3C"/>
+  <anchor x="733.0" y="0.0" name="bottom"/>
+  <anchor x="860.0" y="768.0" name="cross"/>
+  <anchor x="777.6666666666666" y="0.0" name="ogonek"/>
+  <anchor x="788.3333333333334" y="0.0" name="right"/>
+  <anchor x="934.0" y="1489.0" name="tonos"/>
+  <anchor x="1010.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="I" xOffset="564.3333333333334"/>
+    <component base="psilioxia.tonos" xOffset="27.666666666666664"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

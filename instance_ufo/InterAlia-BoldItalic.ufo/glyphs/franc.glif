@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="franc" format="2">
+  <advance height="2479.0" width="1198.0"/>
+  <unicode hex="20A3"/>
+  <anchor x="519.0" y="12.0" name="bottom"/>
+  <anchor x="240.8" y="289.6" name="cross"/>
+  <anchor x="818.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="F"/>
+    <component base="crossbar" xOffset="-290.2" yOffset="-482.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

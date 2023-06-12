@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowernumeral-greek" format="2">
+  <advance height="2479.0" width="602.8000000000001"/>
+  <unicode hex="0375"/>
+  <outline>
+    <contour>
+      <point x="383.59999999999997" y="-93.4" type="line"/>
+      <point x="227.39999999999998" y="-93.4" type="line"/>
+      <point x="-51.199999999999996" y="-440.6" type="line"/>
+      <point x="233.6" y="-440.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

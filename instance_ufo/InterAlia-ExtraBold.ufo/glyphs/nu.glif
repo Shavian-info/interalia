@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu" format="2">
+  <advance height="2479.0" width="1338.2"/>
+  <unicode hex="03BD"/>
+  <outline>
+    <contour>
+      <point x="467.0" y="0.0" type="line"/>
+      <point x="801.8" y="0.0" type="line"/>
+      <point x="1071.2" y="318.0"/>
+      <point x="1222.2" y="715.4"/>
+      <point x="1233.4" y="1117.0" type="curve"/>
+      <point x="889.4" y="1117.0" type="line"/>
+      <point x="871.2" y="784.2"/>
+      <point x="829.8" y="597.4"/>
+      <point x="676.6" y="343.8" type="curve"/>
+      <point x="665.4" y="343.8" type="line"/>
+      <point x="409.6" y="1117.0" type="line"/>
+      <point x="44.4" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

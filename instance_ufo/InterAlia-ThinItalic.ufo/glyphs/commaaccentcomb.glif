@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0326"/>
+  <anchor x="-685" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-685" y="-145" type="line"/>
+      <point x="-732" y="-145" type="line"/>
+      <point x="-746" y="-228" type="line" smooth="yes"/>
+      <point x="-763" y="-323"/>
+      <point x="-815" y="-401"/>
+      <point x="-877" y="-477" type="curve"/>
+      <point x="-842" y="-503" type="line"/>
+      <point x="-756" y="-399"/>
+      <point x="-715" y="-317"/>
+      <point x="-700" y="-228" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

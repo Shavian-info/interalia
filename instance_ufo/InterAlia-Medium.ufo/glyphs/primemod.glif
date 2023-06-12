@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primemod" format="2">
+  <advance height="2479.0" width="497.0"/>
+  <unicode hex="02B9"/>
+  <outline>
+    <contour>
+      <point x="192.2" y="902.8" type="line"/>
+      <point x="305.4" y="902.8" type="line"/>
+      <point x="366.4" y="1489.0" type="line"/>
+      <point x="130.6" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

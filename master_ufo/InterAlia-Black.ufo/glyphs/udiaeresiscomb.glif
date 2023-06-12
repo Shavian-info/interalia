@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udiaeresiscomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DF4"/>
+  <outline>
+    <contour>
+      <point x="-940" y="1900" type="curve" smooth="yes"/>
+      <point x="-938" y="1847"/>
+      <point x="-897" y="1809"/>
+      <point x="-841" y="1809" type="curve" smooth="yes"/>
+      <point x="-778" y="1809"/>
+      <point x="-737" y="1847"/>
+      <point x="-739" y="1900" type="curve" smooth="yes"/>
+      <point x="-737" y="1952"/>
+      <point x="-781" y="1987"/>
+      <point x="-841" y="1987" type="curve" smooth="yes"/>
+      <point x="-897" y="1987"/>
+      <point x="-938" y="1949"/>
+    </contour>
+    <contour>
+      <point x="-634" y="1900" type="curve" smooth="yes"/>
+      <point x="-633" y="1847"/>
+      <point x="-589" y="1809"/>
+      <point x="-535" y="1809" type="curve" smooth="yes"/>
+      <point x="-473" y="1809"/>
+      <point x="-432" y="1847"/>
+      <point x="-433" y="1900" type="curve" smooth="yes"/>
+      <point x="-432" y="1949"/>
+      <point x="-473" y="1987"/>
+      <point x="-535" y="1987" type="curve" smooth="yes"/>
+      <point x="-589" y="1987"/>
+      <point x="-633" y="1952"/>
+    </contour>
+    <contour>
+      <point x="-611" y="1338" type="line"/>
+      <point x="-591" y="1201" type="line"/>
+      <point x="-425" y="1201" type="line"/>
+      <point x="-425" y="1754" type="line"/>
+      <point x="-611" y="1754" type="line"/>
+    </contour>
+    <contour>
+      <point x="-593" y="1457" type="line"/>
+      <point x="-592" y="1393"/>
+      <point x="-612" y="1335"/>
+      <point x="-698" y="1335" type="curve" smooth="yes"/>
+      <point x="-735" y="1335"/>
+      <point x="-767" y="1359"/>
+      <point x="-768" y="1411" type="curve" smooth="yes"/>
+      <point x="-768" y="1754" type="line"/>
+      <point x="-948" y="1754" type="line"/>
+      <point x="-948" y="1411" type="line" smooth="yes"/>
+      <point x="-947" y="1257"/>
+      <point x="-868" y="1193"/>
+      <point x="-756" y="1193" type="curve" smooth="yes"/>
+      <point x="-612" y="1193"/>
+      <point x="-531" y="1306"/>
+      <point x="-532" y="1460" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>44</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

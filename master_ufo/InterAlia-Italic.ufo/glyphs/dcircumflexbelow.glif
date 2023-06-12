@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcircumflexbelow" format="2">
+  <advance height="2479" width="1274"/>
+  <unicode hex="1E13"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <anchor x="1126" y="1280" name="cross"/>
+  <anchor x="1404" y="1489" name="raccent"/>
+  <anchor x="748" y="1489" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="circumflexbelowcomb" xOffset="1205"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

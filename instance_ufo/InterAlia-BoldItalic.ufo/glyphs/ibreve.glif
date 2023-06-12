@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ibreve" format="2">
+  <advance height="2479.0" width="557.4"/>
+  <unicode hex="012D"/>
+  <anchor x="187.60000000000002" y="0.0" name="bottom"/>
+  <anchor x="286.6" y="603.8" name="cross"/>
+  <anchor x="340.4" y="0.0" name="ogonek"/>
+  <anchor x="402.59999999999997" y="1304.2" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="breve" xOffset="-214.6" yOffset="1.2000000000000002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

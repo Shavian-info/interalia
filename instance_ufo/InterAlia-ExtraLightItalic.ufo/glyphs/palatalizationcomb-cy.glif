@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palatalizationcomb-cy" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0484"/>
+  <outline>
+    <contour>
+      <point x="-660.3333333333334" y="1407.6666666666667" type="line"/>
+      <point x="-672.6666666666667" y="1332.3333333333333" type="line"/>
+      <point x="-650.0" y="1332.3333333333333" type="line" smooth="yes"/>
+      <point x="-436.3333333333333" y="1332.3333333333333"/>
+      <point x="-326.33333333333337" y="1447.0"/>
+      <point x="-201.66666666666666" y="1447.0" type="curve" smooth="yes"/>
+      <point x="-136.00000000000003" y="1447.0"/>
+      <point x="-105.33333333333336" y="1415.0"/>
+      <point x="-116.66666666666669" y="1349.6666666666667" type="curve" smooth="yes"/>
+      <point x="-119.66666666666669" y="1332.3333333333333" type="line"/>
+      <point x="-42.66666666666668" y="1332.3333333333333" type="line"/>
+      <point x="-37.66666666666668" y="1356.3333333333333" type="line" smooth="yes"/>
+      <point x="-20.66666666666668" y="1465.0"/>
+      <point x="-75.66666666666667" y="1522.0"/>
+      <point x="-184.33333333333334" y="1522.0" type="curve" smooth="yes"/>
+      <point x="-324.66666666666663" y="1522.0"/>
+      <point x="-441.99999999999994" y="1407.6666666666667"/>
+      <point x="-639.6666666666666" y="1407.6666666666667" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

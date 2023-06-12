@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="UpsilonhookSymbol" format="2">
+  <advance height="2479.0" width="1386.8"/>
+  <unicode hex="03D2"/>
+  <anchor x="188.6" y="1455.0" name="tonos"/>
+  <anchor x="876.8" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="488.6" y="0.0" type="line"/>
+      <point x="710.4" y="0.0" type="line"/>
+      <point x="798.8" y="544.6" type="line"/>
+      <point x="1226.8" y="1234.4" type="line" smooth="yes"/>
+      <point x="1255.6000000000001" y="1281.3999999999999"/>
+      <point x="1290.2" y="1301.2"/>
+      <point x="1334.6" y="1301.2" type="curve" smooth="yes"/>
+      <point x="1354.2" y="1301.2"/>
+      <point x="1377.8" y="1299.0"/>
+      <point x="1385.4" y="1294.8" type="curve"/>
+      <point x="1453.8" y="1481.6" type="line"/>
+      <point x="1411.0" y="1501.6"/>
+      <point x="1372.0" y="1510.0"/>
+      <point x="1323.2" y="1510.0" type="curve" smooth="yes"/>
+      <point x="1189.6000000000001" y="1510.0"/>
+      <point x="1112.4" y="1436.2"/>
+      <point x="1031.2" y="1295.8" type="curve" smooth="yes"/>
+      <point x="734.0" y="791.8" type="line"/>
+      <point x="602.6" y="1299.4" type="line" smooth="yes"/>
+      <point x="560.6" y="1463.2"/>
+      <point x="489.4" y="1510.0"/>
+      <point x="378.79999999999995" y="1510.0" type="curve" smooth="yes"/>
+      <point x="327.8" y="1510.0"/>
+      <point x="285.20000000000005" y="1501.6"/>
+      <point x="237.8" y="1481.6" type="curve"/>
+      <point x="243.79999999999998" y="1294.8" type="line"/>
+      <point x="251.4" y="1299.0"/>
+      <point x="281.6" y="1301.2"/>
+      <point x="300.0" y="1301.2" type="curve" smooth="yes"/>
+      <point x="345.0" y="1301.2"/>
+      <point x="372.6" y="1281.8"/>
+      <point x="385.8" y="1234.4" type="curve" smooth="yes"/>
+      <point x="579.8000000000001" y="554.1999999999999" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

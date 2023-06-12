@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance height="2479.0" width="1365.8"/>
+  <unicode hex="005A"/>
+  <anchor x="602.4" y="0.0" name="bottom"/>
+  <anchor x="743.6" y="780.0" name="cross"/>
+  <anchor x="877.6" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="20.599999999999994" y="0.0" type="line"/>
+      <point x="1161.0" y="0.0" type="line"/>
+      <point x="1204.4" y="259.6" type="line"/>
+      <point x="457.20000000000005" y="259.6" type="line"/>
+      <point x="1375.4" y="1302.6" type="line"/>
+      <point x="1406.2" y="1489.0" type="line"/>
+      <point x="265.8" y="1489.0" type="line"/>
+      <point x="222.4" y="1230.0" type="line"/>
+      <point x="969.6" y="1230.0" type="line"/>
+      <point x="52.599999999999994" y="186.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

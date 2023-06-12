@@ -1,0 +1,204 @@
+{
+color = 1;
+glyphname = plussuperior;
+kernLeft = hyphen.sups;
+kernRight = hyphen.sups;
+layers = (
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(518,812,l),
+(518,1425,l),
+(384,1425,l),
+(384,812,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(771,1053,l),
+(771,1184,l),
+(128,1184,l),
+(128,1053,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 1024;
+weight = -50;
+width = 66.6;
+};
+};
+width = 899;
+},
+{
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+closed = 1;
+nodes = (
+(564,812,l),
+(663,1425,l),
+(532,1425,l),
+(431,812,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(858,1053,l),
+(881,1184,l),
+(236,1184,l),
+(215,1053,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 1024;
+weight = -50;
+width = 66.6;
+};
+};
+width = 905;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(579,780,l),
+(579,1469,l),
+(355,1469,l),
+(355,780,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(823,1012,l),
+(823,1236,l),
+(108,1236,l),
+(108,1012,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 1024;
+weight = -300;
+width = 66.6;
+};
+};
+width = 931;
+},
+{
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(614,780,l),
+(727,1469,l),
+(503,1469,l),
+(393,780,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(899,1012,l),
+(934,1236,l),
+(218,1236,l),
+(183,1012,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 1024;
+weight = -300;
+width = 66.6;
+};
+};
+width = 928;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(457,841,l),
+(457,1382,l),
+(413,1382,l),
+(413,841,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(719,1091,l),
+(719,1135,l),
+(148,1135,l),
+(148,1091,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 1024;
+width = 66.6;
+};
+};
+width = 867;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(506,841,l),
+(596,1382,l),
+(553,1382,l),
+(463,841,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(812,1091,l),
+(820,1135,l),
+(250,1135,l),
+(241,1091,l)
+);
+}
+);
+userData = {
+RMXScaler = {
+height = 63;
+verticalShift = 1024;
+width = 66.6;
+};
+};
+width = 867;
+}
+);
+unicode = 8314;
+userData = {
+RMXScaler = {
+source = plus;
+};
+};
+}

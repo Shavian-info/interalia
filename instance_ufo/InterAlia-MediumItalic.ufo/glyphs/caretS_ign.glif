@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caretSign" format="2">
+  <advance height="2479.0" width="992.4"/>
+  <unicode hex="2038"/>
+  <outline>
+    <contour>
+      <point x="341.4" y="-267.2" type="line"/>
+      <point x="440.80000000000007" y="-98.4" type="line"/>
+      <point x="308.79999999999995" y="-98.4" type="line"/>
+      <point x="-81.39999999999999" y="-549.4" type="line"/>
+      <point x="113.79999999999998" y="-549.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="511.80000000000007" y="-549.4" type="line"/>
+      <point x="706.4" y="-549.4" type="line"/>
+      <point x="468.6" y="-98.4" type="line"/>
+      <point x="333.0" y="-98.4" type="line"/>
+      <point x="371.4" y="-267.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

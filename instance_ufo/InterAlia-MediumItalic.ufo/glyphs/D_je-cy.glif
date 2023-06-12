@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dje-cy" format="2">
+  <advance height="2479.0" width="1683.4"/>
+  <unicode hex="0402"/>
+  <outline>
+    <contour>
+      <point x="692.6" y="643.8" type="line"/>
+      <point x="807.4" y="686.6"/>
+      <point x="950.1999999999999" y="711.0"/>
+      <point x="1067.0" y="711.0" type="curve"/>
+      <point x="1263.4" y="711.0"/>
+      <point x="1366.8" y="604.8"/>
+      <point x="1340.0" y="433.0" type="curve" smooth="yes"/>
+      <point x="1313.4" y="271.2"/>
+      <point x="1182.2" y="172.0"/>
+      <point x="988.1999999999999" y="172.0" type="curve"/>
+      <point x="960.4" y="-14.2" type="line"/>
+      <point x="1314.6000000000001" y="-17.2"/>
+      <point x="1522.3999999999999" y="167.39999999999998"/>
+      <point x="1567.1999999999998" y="438.4" type="curve"/>
+      <point x="1615.3999999999999" y="731.5999999999999"/>
+      <point x="1429.6" y="893.6"/>
+      <point x="1102.4" y="893.6" type="curve" smooth="yes"/>
+      <point x="985.2" y="893.6"/>
+      <point x="842.4000000000001" y="866.4"/>
+      <point x="722.2" y="824.8" type="curve"/>
+    </contour>
+    <contour>
+      <point x="926.8" y="1457.0" type="line"/>
+      <point x="703.2" y="1457.0" type="line"/>
+      <point x="461.20000000000005" y="0.0" type="line"/>
+      <point x="685.8" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1396.8" y="1489.0" type="line"/>
+      <point x="244.2" y="1489.0" type="line"/>
+      <point x="212.39999999999998" y="1296.0" type="line"/>
+      <point x="1365.0" y="1296.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

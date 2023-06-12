@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftflattenedparenthesis-math" format="2">
+  <advance height="2479" width="546"/>
+  <unicode hex="27EE"/>
+  <outline>
+    <contour>
+      <point x="342" y="-241" type="line"/>
+      <point x="156" y="-20" type="line"/>
+      <point x="392" y="1382" type="line"/>
+      <point x="648" y="1603" type="line"/>
+      <point x="537" y="1728" type="line"/>
+      <point x="220" y="1455" type="line"/>
+      <point x="-33" y="-93" type="line"/>
+      <point x="197" y="-367" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ge-cy" format="2">
+  <advance height="2479.0" width="960.0"/>
+  <unicode hex="0433"/>
+  <anchor x="297.59999999999997" y="610.2" name="cross"/>
+  <anchor x="554.6" y="142.0" name="cyrtic"/>
+  <anchor x="628.8" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="997.6" y="1117.0" type="line"/>
+      <point x="208.4" y="1117.0" type="line"/>
+      <point x="22.4" y="0.0" type="line"/>
+      <point x="366.4" y="0.0" type="line"/>
+      <point x="507.2" y="845.0" type="line"/>
+      <point x="953.0" y="845.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

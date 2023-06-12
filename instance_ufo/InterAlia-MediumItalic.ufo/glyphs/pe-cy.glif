@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <advance height="2479.0" width="1203.4"/>
+  <unicode hex="043F"/>
+  <anchor x="964.4000000000001" y="0.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="53.0" y="0.0" type="line"/>
+      <point x="265.0" y="0.0" type="line"/>
+      <point x="420.4" y="929.0" type="line"/>
+      <point x="906.6" y="929.0" type="line"/>
+      <point x="751.2" y="0.0" type="line"/>
+      <point x="964.4000000000001" y="0.0" type="line"/>
+      <point x="1150.4" y="1117.0" type="line"/>
+      <point x="239.0" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

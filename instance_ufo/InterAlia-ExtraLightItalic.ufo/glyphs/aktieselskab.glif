@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aktieselskab" format="2">
+  <advance height="2479.0" width="2006.0"/>
+  <unicode hex="214D"/>
+  <anchor x="1403.0" y="791.0" name="dnom"/>
+  <anchor x="922.6666666666667" y="698.0" name="numr"/>
+  <outline>
+    <contour>
+      <point x="730.3333333333333" y="1031.6666666666667" type="line"/>
+      <point x="305.66666666666663" y="1031.6666666666667" type="line"/>
+      <point x="296.66666666666663" y="961.6666666666666" type="line"/>
+      <point x="721.6666666666666" y="961.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="751.0" y="745.0" type="line"/>
+      <point x="832.0" y="745.0" type="line"/>
+      <point x="636.3333333333333" y="1489.0" type="line"/>
+      <point x="552.9999999999999" y="1489.0" type="line"/>
+      <point x="111.0" y="745.0" type="line"/>
+      <point x="192.0" y="745.0" type="line"/>
+      <point x="599.3333333333334" y="1429.3333333333333" type="line"/>
+      <point x="574.0" y="1429.3333333333333" type="line"/>
+    </contour>
+    <component base="fraction" xOffset="849.3333333333333"/>
+    <component base="sinferior" xOffset="1349.6666666666667" yOffset="256.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="daggerdbl" format="2">
+  <advance height="2479.0" width="1153.0"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="709.4" y="1457.0" type="line"/>
+      <point x="439.4" y="1457.0" type="line"/>
+      <point x="439.4" y="-416.0" type="line"/>
+      <point x="709.4" y="-416.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1081.0" y="1082.0" type="line"/>
+      <point x="72.0" y="1082.0" type="line"/>
+      <point x="72.0" y="866.4" type="line"/>
+      <point x="1081.0" y="866.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="1081.0" y="217.2" type="line"/>
+      <point x="72.0" y="217.2" type="line"/>
+      <point x="72.0" y="0.0" type="line"/>
+      <point x="1081.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbelt.ss02" format="2">
+  <advance height="2479.0" width="1088.4"/>
+  <anchor x="651.1999999999999" y="0.0" name="bottom"/>
+  <anchor x="715.2" y="784.0" name="cross"/>
+  <anchor x="1130.8" y="1489.0" name="raccent"/>
+  <anchor x="863.2" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1060.6000000000001" y="534.2" type="line"/>
+      <point x="1096.2" y="759.0" type="line"/>
+      <point x="446.0" y="759.0" type="line" smooth="yes"/>
+      <point x="384.8" y="759.0"/>
+      <point x="362.40000000000003" y="792.2"/>
+      <point x="370.20000000000005" y="825.4" type="curve" smooth="yes"/>
+      <point x="373.6" y="858.4"/>
+      <point x="419.79999999999995" y="889.6"/>
+      <point x="472.0" y="889.6" type="curve" smooth="yes"/>
+      <point x="525.1999999999999" y="889.6"/>
+      <point x="537.0" y="851.4"/>
+      <point x="526.1999999999999" y="779.4" type="curve" smooth="yes"/>
+      <point x="494.8" y="582.8" type="line"/>
+      <point x="850.8000000000001" y="582.8" type="line"/>
+      <point x="867.2" y="688.0" type="line" smooth="yes"/>
+      <point x="903.8" y="916.1999999999999"/>
+      <point x="849.0" y="1132.0"/>
+      <point x="517.0" y="1132.0" type="curve" smooth="yes"/>
+      <point x="249.8" y="1132.0"/>
+      <point x="100.4" y="984.6"/>
+      <point x="73.4" y="815.8" type="curve" smooth="yes"/>
+      <point x="46.0" y="652.2"/>
+      <point x="137.0" y="534.2"/>
+      <point x="372.2" y="534.2" type="curve" smooth="yes"/>
+    </contour>
+    <component base="l.ss02" xOffset="385.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

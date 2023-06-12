@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcurl" format="2">
+  <advance height="2479.0" width="2653.4"/>
+  <unicode hex="02A5"/>
+  <anchor x="651.0" y="0.0" name="bottom"/>
+  <anchor x="1020.2" y="1280.0" name="cross"/>
+  <anchor x="1319.4" y="1489.0" name="raccent"/>
+  <anchor x="557.4" y="1489.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1720.2" y="0.0" type="line"/>
+      <point x="2209.0" y="0.0" type="line" smooth="yes"/>
+      <point x="2484.0" y="0.0"/>
+      <point x="2613.4" y="184.8"/>
+      <point x="2615.0" y="353.8" type="curve" smooth="yes"/>
+      <point x="2613.4" y="525.2"/>
+      <point x="2479.0" y="638.6"/>
+      <point x="2323.8" y="638.6" type="curve" smooth="yes"/>
+      <point x="2117.2" y="638.6"/>
+      <point x="1960.4" y="442.2"/>
+      <point x="1661.4" y="13.6" type="curve" smooth="yes"/>
+      <point x="1548.8" y="-148.4" type="line"/>
+      <point x="1761.8" y="-276.0" type="line"/>
+      <point x="1978.6" y="17.6" type="line" smooth="yes"/>
+      <point x="2181.6" y="295.8"/>
+      <point x="2224.6" y="375.0"/>
+      <point x="2288.6" y="375.0" type="curve" smooth="yes"/>
+      <point x="2316.2" y="375.0"/>
+      <point x="2340.4" y="357.8"/>
+      <point x="2341.2" y="339.0" type="curve" smooth="yes"/>
+      <point x="2340.4" y="297.6"/>
+      <point x="2313.4" y="274.4"/>
+      <point x="2230.4" y="274.4" type="curve" smooth="yes"/>
+      <point x="1720.2" y="274.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="2062.2" y="274.4" type="line"/>
+      <point x="1689.6" y="274.4" type="line"/>
+      <point x="2191.4" y="922.4" type="line"/>
+      <point x="2191.4" y="1117.0" type="line"/>
+      <point x="1056.8" y="1117.0" type="line"/>
+      <point x="1056.8" y="843.4" type="line"/>
+      <point x="1754.4" y="843.4" type="line"/>
+      <point x="1251.2" y="194.6" type="line"/>
+      <point x="1251.2" y="0.0" type="line"/>
+      <point x="2062.2" y="0.0" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

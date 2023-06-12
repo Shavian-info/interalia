@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="flowerpunctuationmark" format="2">
+  <advance height="2479.0" width="974.3333333333334"/>
+  <unicode hex="2055"/>
+  <outline>
+    <contour>
+      <point x="861.3333333333334" y="494.3333333333333" type="line"/>
+      <point x="861.3333333333334" y="596.3333333333334" type="line"/>
+      <point x="113.66666666666667" y="596.3333333333334" type="line"/>
+      <point x="113.66666666666667" y="494.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="715.6666666666666" y="233.66666666666666" type="line"/>
+      <point x="785.3333333333334" y="309.3333333333333" type="line"/>
+      <point x="259.6666666666667" y="846.3333333333334" type="line"/>
+      <point x="189.0" y="774.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="540.3333333333334" y="924.0" type="line"/>
+      <point x="439.3333333333333" y="924.0" type="line"/>
+      <point x="434.3333333333333" y="166.66666666666666" type="line"/>
+      <point x="540.3333333333334" y="166.66666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="259.6666666666667" y="233.66666666666666" type="line"/>
+      <point x="785.3333333333334" y="774.6666666666666" type="line"/>
+      <point x="715.6666666666666" y="846.3333333333334" type="line"/>
+      <point x="189.0" y="309.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

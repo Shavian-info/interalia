@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleapostrophemod" format="2">
+  <advance height="2479.0" width="894.6666666666666"/>
+  <unicode hex="02EE"/>
+  <outline>
+    <contour>
+      <point x="411.0" y="1559.0" type="line"/>
+      <point x="263.6666666666667" y="1559.0" type="line"/>
+      <point x="263.6666666666667" y="1368.3333333333333" type="line" smooth="yes"/>
+      <point x="263.6666666666667" y="1252.6666666666667"/>
+      <point x="220.33333333333334" y="1141.0"/>
+      <point x="145.33333333333334" y="1052.3333333333333" type="curve"/>
+      <point x="230.0" y="988.0" type="line"/>
+      <point x="346.0" y="1085.6666666666667"/>
+      <point x="411.0" y="1245.3333333333333"/>
+      <point x="411.0" y="1370.3333333333333" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="735.0" y="1559.0" type="line"/>
+      <point x="587.6666666666666" y="1559.0" type="line"/>
+      <point x="587.6666666666666" y="1368.3333333333333" type="line" smooth="yes"/>
+      <point x="587.6666666666666" y="1252.6666666666667"/>
+      <point x="542.3333333333334" y="1141.0"/>
+      <point x="467.3333333333333" y="1052.3333333333333" type="curve"/>
+      <point x="552.0" y="988.0" type="line"/>
+      <point x="668.3333333333334" y="1085.6666666666667"/>
+      <point x="735.0" y="1245.3333333333333"/>
+      <point x="735.0" y="1370.3333333333333" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

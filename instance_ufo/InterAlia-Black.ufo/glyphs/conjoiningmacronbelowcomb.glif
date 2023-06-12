@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="conjoiningmacronbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="FE2D"/>
+  <outline>
+    <component base="conjoiningmacroncomb" xOffset="-125" yOffset="-1612"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>32</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

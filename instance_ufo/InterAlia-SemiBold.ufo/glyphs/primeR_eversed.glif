@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="primeReversed" format="2">
+  <advance height="2479.0" width="531.4"/>
+  <unicode hex="2035"/>
+  <outline>
+    <contour>
+      <point x="417.8" y="926.0" type="line"/>
+      <point x="365.4" y="1489.0" type="line"/>
+      <point x="113.6" y="1489.0" type="line"/>
+      <point x="235.6" y="926.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

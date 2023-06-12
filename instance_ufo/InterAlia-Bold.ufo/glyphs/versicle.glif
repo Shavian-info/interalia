@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="versicle" format="2">
+  <advance height="2479.0" width="1585.4"/>
+  <unicode hex="2123"/>
+  <outline>
+    <contour>
+      <point x="1023.8" y="1639.8" type="line"/>
+      <point x="660.6" y="1765.6" type="line"/>
+      <point x="596.6" y="1592.4" type="line"/>
+      <point x="798.8" y="1524.6" type="line"/>
+      <point x="128.2" y="-361.0" type="line"/>
+      <point x="299.8" y="-361.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="393.4" y="1489.0" type="line"/>
+      <point x="62.8" y="1489.0" type="line"/>
+      <point x="629.0" y="0.0" type="line"/>
+      <point x="963.2" y="0.0" type="line"/>
+      <point x="1527.6" y="1489.0" type="line"/>
+      <point x="1198.8" y="1489.0" type="line"/>
+      <point x="804.2" y="392.6" type="line"/>
+      <point x="786.6" y="392.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

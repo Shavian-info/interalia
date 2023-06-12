@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equalbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0347"/>
+  <anchor x="-685.6666666666666" y="0.0" name="_bottom"/>
+  <outline>
+    <component base="equalinferior" xOffset="-1128.0" yOffset="-524.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>equalinferior</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

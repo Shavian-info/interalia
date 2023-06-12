@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisacutecomb.cn" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="E121"/>
+  <anchor x="-213.79999999999998" y="1676.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-302.20000000000005" y="1966.2" type="line"/>
+      <point x="-56.00000000000002" y="1966.2" type="line"/>
+      <point x="239.4" y="2235.2" type="line"/>
+      <point x="-63.000000000000014" y="2235.2" type="line"/>
+    </contour>
+    <component base="casedieresis.cn" xScale="0.94768" yScale="0.9222400000000001" xOffset="-902.4" yOffset="108.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softsign-cy" format="2">
+  <advance height="2479" width="1254"/>
+  <unicode hex="044C"/>
+  <anchor x="433" y="934" name="cross"/>
+  <outline>
+    <contour>
+      <point x="372" y="815" type="line"/>
+      <point x="323" y="515" type="line"/>
+      <point x="666" y="515" type="line"/>
+      <point x="747" y="515"/>
+      <point x="799" y="469"/>
+      <point x="788" y="404" type="curve"/>
+      <point x="777" y="343"/>
+      <point x="711" y="300"/>
+      <point x="628" y="300" type="curve"/>
+      <point x="439" y="300" type="line"/>
+      <point x="576" y="1117" type="line"/>
+      <point x="198" y="1117" type="line"/>
+      <point x="12" y="0" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="898" y="0"/>
+      <point x="1118" y="152"/>
+      <point x="1161" y="401" type="curve"/>
+      <point x="1202" y="658"/>
+      <point x="1033" y="815"/>
+      <point x="716" y="815" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

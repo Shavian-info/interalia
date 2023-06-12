@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncurl" format="2">
+  <advance height="2479.0" width="1538.0"/>
+  <unicode hex="0235"/>
+  <anchor x="587.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="589.6666666666666" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="902.6666666666666" y="182.66666666666666" type="line"/>
+      <point x="902.6666666666666" y="21.333333333333336" type="line"/>
+      <point x="902.6666666666666" y="-122.66666666666666"/>
+      <point x="1006.6666666666666" y="-250.0"/>
+      <point x="1178.0" y="-250.0" type="curve" smooth="yes"/>
+      <point x="1333.0" y="-250.0"/>
+      <point x="1444.6666666666667" y="-147.0"/>
+      <point x="1444.6666666666667" y="-10.333333333333332" type="curve" smooth="yes"/>
+      <point x="1444.6666666666667" y="127.0"/>
+      <point x="1331.0" y="229.0"/>
+      <point x="1181.0" y="229.0" type="curve" smooth="yes"/>
+      <point x="1056.6666666666667" y="229.0"/>
+      <point x="947.6666666666666" y="156.0"/>
+      <point x="822.6666666666666" y="-27.333333333333314" type="curve" smooth="yes"/>
+      <point x="703.0" y="-174.33333333333331" type="line"/>
+      <point x="765.6666666666666" y="-228.0" type="line"/>
+      <point x="876.3333333333334" y="-89.33333333333333" type="line" smooth="yes"/>
+      <point x="985.3333333333334" y="73.33333333333333"/>
+      <point x="1066.6666666666667" y="146.33333333333334"/>
+      <point x="1173.0" y="146.33333333333334" type="curve" smooth="yes"/>
+      <point x="1277.0" y="146.33333333333334"/>
+      <point x="1355.0" y="78.66666666666667"/>
+      <point x="1355.0" y="-10.333333333333332" type="curve" smooth="yes"/>
+      <point x="1355.0" y="-99.33333333333333"/>
+      <point x="1279.3333333333333" y="-170.0"/>
+      <point x="1178.0" y="-170.0" type="curve" smooth="yes"/>
+      <point x="1073.0" y="-170.0"/>
+      <point x="991.0" y="-93.0"/>
+      <point x="991.0" y="6.666666666666668" type="curve"/>
+      <point x="991.0" y="182.66666666666666" type="line"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

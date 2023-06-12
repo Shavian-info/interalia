@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhookturned" format="2">
+  <advance height="2479" width="643"/>
+  <unicode hex="027B"/>
+  <anchor x="343" y="0" name="bottom"/>
+  <anchor x="445.0" y="582.0" name="cross"/>
+  <anchor x="444" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="628" y="-393" type="curve" smooth="yes"/>
+      <point x="640" y="-393"/>
+      <point x="655" y="-393"/>
+      <point x="666" y="-393" type="curve"/>
+      <point x="666" y="-346" type="line"/>
+      <point x="655" y="-346"/>
+      <point x="640" y="-346"/>
+      <point x="628" y="-346" type="curve" smooth="yes"/>
+      <point x="535" y="-346"/>
+      <point x="468" y="-280"/>
+      <point x="468" y="-186" type="curve" smooth="yes"/>
+      <point x="468" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+      <point x="422" y="-186" type="line" smooth="yes"/>
+      <point x="422" y="-307"/>
+      <point x="508" y="-393"/>
+    </contour>
+    <component base="rturned"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>rturned</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

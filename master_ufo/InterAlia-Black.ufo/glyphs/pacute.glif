@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pacute" format="2">
+  <advance height="2479" width="1321"/>
+  <unicode hex="1E55"/>
+  <anchor x="305" y="-401" name="bottom"/>
+  <anchor x="1388" y="-477" name="bottom0315"/>
+  <anchor x="300" y="-163" name="cross"/>
+  <anchor x="727" y="1676" name="top"/>
+  <outline>
+    <component base="p"/>
+    <component base="acute" xOffset="218"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

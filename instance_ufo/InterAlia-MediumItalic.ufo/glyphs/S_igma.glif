@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sigma" format="2">
+  <advance height="2479.0" width="1321.4"/>
+  <unicode hex="03A3"/>
+  <outline>
+    <contour>
+      <point x="49.599999999999994" y="0.0" type="line"/>
+      <point x="1086.8" y="0.0" type="line"/>
+      <point x="1120.8" y="199.2" type="line"/>
+      <point x="391.8" y="199.2" type="line"/>
+      <point x="888.2" y="736.6" type="line"/>
+      <point x="888.2" y="755.0" type="line"/>
+      <point x="567.4000000000001" y="1290.2" type="line"/>
+      <point x="1262.6000000000001" y="1290.2" type="line"/>
+      <point x="1295.0" y="1489.0" type="line"/>
+      <point x="296.40000000000003" y="1489.0" type="line"/>
+      <point x="273.6" y="1335.0" type="line"/>
+      <point x="639.1999999999999" y="745.0" type="line"/>
+      <point x="72.19999999999999" y="151.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

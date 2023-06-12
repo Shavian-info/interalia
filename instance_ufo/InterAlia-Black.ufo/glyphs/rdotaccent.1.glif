@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdotaccent.1" format="2">
+  <advance height="2479" width="916"/>
+  <anchor x="305" y="0" name="bottom"/>
+  <anchor x="303" y="535" name="cross"/>
+  <anchor x="486" y="1303" name="top"/>
+  <outline>
+    <component base="r.1"/>
+    <component base="dotaccent" xOffset="151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

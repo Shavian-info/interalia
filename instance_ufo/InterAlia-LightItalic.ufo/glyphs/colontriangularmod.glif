@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colontriangularmod" format="2">
+  <advance height="2479.0" width="527.0"/>
+  <unicode hex="02D0"/>
+  <outline>
+    <contour>
+      <point x="224.0" y="1082.0" type="line"/>
+      <point x="308.3333333333333" y="878.3333333333334" type="line"/>
+      <point x="328.0" y="878.3333333333334" type="line"/>
+      <point x="481.6666666666667" y="1082.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="43.666666666666664" y="0.0" type="line"/>
+      <point x="301.6666666666667" y="0.0" type="line"/>
+      <point x="217.33333333333331" y="204.66666666666666" type="line"/>
+      <point x="197.66666666666666" y="204.66666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

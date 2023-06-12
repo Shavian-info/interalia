@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.osf" format="2">
+  <advance height="2479.0" width="1084.3333333333333"/>
+  <outline>
+    <contour>
+      <point x="120.33333333333333" y="0.0" type="line"/>
+      <point x="962.0" y="0.0" type="line"/>
+      <point x="962.0" y="84.66666666666667" type="line"/>
+      <point x="275.33333333333337" y="84.66666666666667" type="line"/>
+      <point x="275.33333333333337" y="91.33333333333334" type="line"/>
+      <point x="598.6666666666666" y="360.66666666666663" type="line" smooth="yes"/>
+      <point x="830.0" y="545.3333333333334"/>
+      <point x="900.0" y="629.6666666666666"/>
+      <point x="900.0" y="772.3333333333334" type="curve" smooth="yes"/>
+      <point x="900.0" y="988.0"/>
+      <point x="741.3333333333334" y="1132.0"/>
+      <point x="516.0" y="1132.0" type="curve" smooth="yes"/>
+      <point x="287.0" y="1132.0"/>
+      <point x="135.66666666666666" y="983.3333333333334"/>
+      <point x="135.66666666666666" y="758.0" type="curve"/>
+      <point x="224.33333333333334" y="758.0" type="line"/>
+      <point x="224.33333333333334" y="933.6666666666666"/>
+      <point x="339.6666666666667" y="1049.0"/>
+      <point x="515.0" y="1049.0" type="curve" smooth="yes"/>
+      <point x="687.6666666666666" y="1049.0"/>
+      <point x="811.3333333333334" y="938.3333333333334"/>
+      <point x="811.3333333333334" y="771.0" type="curve" smooth="yes"/>
+      <point x="811.3333333333334" y="660.0"/>
+      <point x="755.0" y="590.0"/>
+      <point x="544.0" y="419.3333333333333" type="curve" smooth="yes"/>
+      <point x="120.33333333333333" y="73.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

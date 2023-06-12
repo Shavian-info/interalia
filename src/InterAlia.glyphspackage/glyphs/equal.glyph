@@ -1,0 +1,194 @@
+{
+color = (204,240,242,1);
+glyphname = equal;
+kernLeft = approxequal;
+kernRight = approxequal;
+layers = (
+{
+background = {
+shapes = (
+{
+ref = plus;
+}
+);
+};
+guides = (
+{
+pos = (268,800);
+}
+);
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1123,719,l),
+(1123,876,l),
+(227,876,l),
+(227,719,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1123,288,l),
+(1123,445,l),
+(227,445,l),
+(227,288,l)
+);
+}
+);
+width = 1350;
+},
+{
+guides = (
+{
+orientation = center;
+pos = (408,832);
+}
+);
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1248,701,l),
+(1248,1027,l),
+(172,1027,l),
+(172,701,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1248,183,l),
+(1248,509,l),
+(172,509,l),
+(172,183,l)
+);
+}
+);
+width = 1420;
+},
+{
+guides = (
+{
+pos = (406,896);
+}
+);
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1149,719,l),
+(1175,876,l),
+(279,876,l),
+(253,719,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1078,288,l),
+(1104,445,l),
+(208,445,l),
+(182,288,l)
+);
+}
+);
+width = 1350;
+},
+{
+guides = (
+{
+pos = (724,896);
+}
+);
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1271,701,l),
+(1327,1027,l),
+(250,1027,l),
+(195,701,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1187,183,l),
+(1239,509,l),
+(163,509,l),
+(111,183,l)
+);
+}
+);
+width = 1420;
+},
+{
+guides = (
+{
+pos = (268,800);
+}
+);
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(998,753,l),
+(998,800,l),
+(305,800,l),
+(305,753,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(998,364,l),
+(998,410,l),
+(305,410,l),
+(305,364,l)
+);
+}
+);
+width = 1303;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(1030,753,l),
+(1039,800,l),
+(346,800,l),
+(337,753,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(966,364,l),
+(975,410,l),
+(282,410,l),
+(273,364,l)
+);
+}
+);
+width = 1303;
+}
+);
+metricWidth = plus;
+unicode = 61;
+userData = {
+com.typemytype.robofont.guideline.magnetic.7d4CjnlrzW = 5;
+interface.gridadjust.original = "{'width': 1664, 'leftMargin': 256, 'rightMargin': 256}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

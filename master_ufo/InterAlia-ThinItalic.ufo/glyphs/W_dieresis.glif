@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdieresis" format="2">
+  <advance height="2479" width="1823"/>
+  <unicode hex="1E84"/>
+  <anchor x="819" y="12" name="bottom"/>
+  <anchor x="1092" y="1676" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="casedieresis.cn" xOffset="240" yOffset="47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

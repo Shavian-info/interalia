@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lezh" format="2">
+  <advance height="2479" width="1324"/>
+  <unicode hex="026E"/>
+  <anchor x="256" y="0" name="bottom"/>
+  <anchor x="256" y="768" name="cross"/>
+  <anchor x="416" y="1489" name="raccent"/>
+  <anchor x="256" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="711" y="-442" type="curve" smooth="yes"/>
+      <point x="975" y="-442"/>
+      <point x="1167" y="-244"/>
+      <point x="1167" y="22" type="curve" smooth="yes"/>
+      <point x="1167" y="287"/>
+      <point x="975" y="461"/>
+      <point x="685" y="474" type="curve"/>
+      <point x="685" y="480" type="line"/>
+      <point x="1162" y="1079" type="line"/>
+      <point x="1162" y="1117" type="line"/>
+      <point x="274" y="1117" type="line"/>
+      <point x="274" y="1071" type="line"/>
+      <point x="1092" y="1071" type="line"/>
+      <point x="1092" y="1065" type="line"/>
+      <point x="624" y="477" type="line"/>
+      <point x="624" y="431" type="line"/>
+      <point x="627" y="431" type="line" smooth="yes"/>
+      <point x="924" y="431"/>
+      <point x="1120" y="273"/>
+      <point x="1120" y="20" type="curve" smooth="yes"/>
+      <point x="1120" y="-217"/>
+      <point x="948" y="-396"/>
+      <point x="711" y="-396" type="curve" smooth="yes"/>
+      <point x="543" y="-396"/>
+      <point x="410" y="-332"/>
+      <point x="359" y="-201" type="curve"/>
+      <point x="316" y="-218" type="line"/>
+      <point x="372" y="-367"/>
+      <point x="524" y="-442"/>
+    </contour>
+    <component base="l" xOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict/>
+        <dict>
+          <key>longTopBar</key>
+          <integer>128</integer>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

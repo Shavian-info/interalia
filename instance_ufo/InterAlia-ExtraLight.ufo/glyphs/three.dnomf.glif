@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.dnomf" format="2">
+  <advance height="2479.0" width="771.6666666666666"/>
+  <outline>
+    <contour>
+      <point x="389.0" y="-12.0" type="curve" smooth="yes"/>
+      <point x="559.6666666666666" y="-12.0"/>
+      <point x="679.3333333333334" y="85.0"/>
+      <point x="679.3333333333334" y="213.0" type="curve" smooth="yes"/>
+      <point x="679.3333333333334" y="311.0"/>
+      <point x="607.3333333333334" y="386.0"/>
+      <point x="485.6666666666667" y="407.0" type="curve"/>
+      <point x="485.6666666666667" y="411.0" type="line"/>
+      <point x="586.3333333333334" y="433.3333333333333"/>
+      <point x="652.3333333333334" y="501.3333333333333"/>
+      <point x="652.3333333333334" y="591.3333333333334" type="curve" smooth="yes"/>
+      <point x="652.3333333333334" y="712.0"/>
+      <point x="542.3333333333334" y="803.0"/>
+      <point x="389.0" y="803.0" type="curve" smooth="yes"/>
+      <point x="235.33333333333334" y="803.0"/>
+      <point x="119.33333333333333" y="712.0"/>
+      <point x="118.33333333333333" y="584.3333333333334" type="curve"/>
+      <point x="198.33333333333334" y="584.3333333333334" type="line"/>
+      <point x="198.33333333333334" y="672.6666666666666"/>
+      <point x="280.3333333333333" y="734.0"/>
+      <point x="389.0" y="734.0" type="curve" smooth="yes"/>
+      <point x="497.3333333333333" y="734.0"/>
+      <point x="572.3333333333334" y="670.6666666666666"/>
+      <point x="572.3333333333334" y="587.3333333333334" type="curve" smooth="yes"/>
+      <point x="572.3333333333334" y="497.6666666666667"/>
+      <point x="484.0" y="437.6666666666667"/>
+      <point x="366.6666666666667" y="437.6666666666667" type="curve" smooth="yes"/>
+      <point x="328.0" y="437.6666666666667" type="line"/>
+      <point x="328.0" y="374.3333333333333" type="line"/>
+      <point x="366.6666666666667" y="374.3333333333333" type="line" smooth="yes"/>
+      <point x="502.3333333333333" y="374.3333333333333"/>
+      <point x="597.3333333333334" y="310.3333333333333"/>
+      <point x="597.3333333333334" y="217.0" type="curve" smooth="yes"/>
+      <point x="597.3333333333334" y="129.33333333333334"/>
+      <point x="512.3333333333334" y="59.0"/>
+      <point x="389.0" y="59.0" type="curve" smooth="yes"/>
+      <point x="271.6666666666667" y="59.0"/>
+      <point x="181.33333333333334" y="120.33333333333334"/>
+      <point x="181.33333333333334" y="208.66666666666666" type="curve"/>
+      <point x="99.33333333333333" y="208.66666666666666" type="line"/>
+      <point x="99.33333333333333" y="80.66666666666667"/>
+      <point x="224.0" y="-12.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

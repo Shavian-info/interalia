@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhookleft" format="2">
+  <advance height="2479.0" width="1548.6666666666667"/>
+  <unicode hex="019D"/>
+  <anchor x="677.0" y="0.0" name="bottom"/>
+  <anchor x="1238.0" y="0.0" name="right"/>
+  <anchor x="956.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="96.99999999999999" y="0.0" type="line"/>
+      <point x="73.99999999999999" y="-133.66666666666666" type="line" smooth="yes"/>
+      <point x="51.99999999999999" y="-256.33333333333337"/>
+      <point x="-17.0" y="-301.6666666666667"/>
+      <point x="-115.66666666666667" y="-301.6666666666667" type="curve" smooth="yes"/>
+      <point x="-135.0" y="-301.6666666666667"/>
+      <point x="-153.66666666666669" y="-299.0"/>
+      <point x="-169.33333333333334" y="-296.0" type="curve"/>
+      <point x="-187.33333333333334" y="-410.0" type="line"/>
+      <point x="-162.33333333333334" y="-416.0"/>
+      <point x="-126.33333333333333" y="-420.0"/>
+      <point x="-89.0" y="-420.0" type="curve" smooth="yes"/>
+      <point x="63.33333333333334" y="-420.0"/>
+      <point x="170.66666666666666" y="-328.6666666666667"/>
+      <point x="207.33333333333334" y="-135.66666666666666" type="curve" smooth="yes"/>
+      <point x="232.33333333333334" y="0.0" type="line"/>
+    </contour>
+    <component base="N" xOffset="-7.666666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

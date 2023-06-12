@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sdotbelowdotaccent" format="2">
+  <advance height="2479.0" width="1329.2"/>
+  <unicode hex="1E68"/>
+  <anchor x="573.8000000000001" y="-15.6" name="bottom"/>
+  <anchor x="575.5999999999999" y="0.0" name="cedilla"/>
+  <anchor x="850.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="dotbelowcomb" xOffset="1242.8" yOffset="-15.6"/>
+    <component base="dotaccent" xOffset="446.79999999999995" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

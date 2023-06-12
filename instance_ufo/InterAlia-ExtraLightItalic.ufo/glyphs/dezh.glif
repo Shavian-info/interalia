@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dezh" format="2">
+  <advance height="2479.0" width="2116.6666666666665"/>
+  <unicode hex="02A4"/>
+  <anchor x="510.33333333333337" y="0.0" name="bottom"/>
+  <anchor x="1102.0" y="1280.0" name="cross"/>
+  <anchor x="1320.6666666666667" y="1489.0" name="raccent"/>
+  <anchor x="734.6666666666666" y="1489.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1307.0" y="-442.0" type="curve" smooth="yes"/>
+      <point x="1582.3333333333335" y="-442.0"/>
+      <point x="1814.6666666666667" y="-245.0"/>
+      <point x="1858.6666666666667" y="24.0" type="curve" smooth="yes"/>
+      <point x="1902.6666666666667" y="289.6666666666667"/>
+      <point x="1739.0" y="467.0"/>
+      <point x="1449.6666666666665" y="480.0" type="curve"/>
+      <point x="1451.3333333333333" y="487.6666666666667" type="line"/>
+      <point x="1996.6666666666665" y="1048.0" type="line"/>
+      <point x="2007.3333333333333" y="1117.0" type="line"/>
+      <point x="1111.3958333333333" y="1117.0" type="line"/>
+      <point x="1096.25" y="1033.0" type="line"/>
+      <point x="1863.0" y="1033.0" type="line"/>
+      <point x="1861.3333333333333" y="1025.0" type="line"/>
+      <point x="1335.3333333333333" y="483.6666666666667" type="line"/>
+      <point x="1323.3333333333333" y="404.6666666666667" type="line"/>
+      <point x="1368.0" y="404.6666666666667" type="line" smooth="yes"/>
+      <point x="1649.6666666666665" y="404.6666666666667"/>
+      <point x="1809.6666666666665" y="259.33333333333337"/>
+      <point x="1771.3333333333333" y="29.333333333333336" type="curve" smooth="yes"/>
+      <point x="1734.6666666666665" y="-194.0"/>
+      <point x="1538.6666666666667" y="-358.0"/>
+      <point x="1308.6666666666665" y="-358.0" type="curve" smooth="yes"/>
+      <point x="1156.0" y="-358.0"/>
+      <point x="1050.0" y="-303.0"/>
+      <point x="1007.6666666666666" y="-174.0" type="curve"/>
+      <point x="924.3333333333333" y="-216.0" type="line"/>
+      <point x="963.0000000000001" y="-354.0"/>
+      <point x="1096.0" y="-442.0"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.ezh</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict/>
+        <dict>
+          <key>longTopBar</key>
+          <integer>56</integer>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

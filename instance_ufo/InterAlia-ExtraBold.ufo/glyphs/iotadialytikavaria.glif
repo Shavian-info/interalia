@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadialytikavaria" format="2">
+  <advance height="2479.0" width="695.2"/>
+  <unicode hex="1FD2"/>
+  <anchor x="315.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dialytikavaria" xOffset="-195.4" yOffset="122.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.circled" format="2">
+  <advance height="2479" width="2845"/>
+  <unicode hex="24C1"/>
+  <anchor x="1350" y="0" name="bottom"/>
+  <anchor x="1225" y="788" name="cross"/>
+  <anchor x="1547" y="873" name="dot"/>
+  <anchor x="1751" y="1489" name="raccent"/>
+  <anchor x="1370" y="1676" name="top"/>
+  <outline>
+    <component base="L" xOffset="890"/>
+    <component base="enclosingcirclecomb" xOffset="643"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

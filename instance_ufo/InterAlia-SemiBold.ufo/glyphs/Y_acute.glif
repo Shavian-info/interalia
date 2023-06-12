@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yacute" format="2">
+  <advance height="2479.0" width="1442.6"/>
+  <unicode hex="00DD"/>
+  <anchor x="721.8" y="0.0" name="bottom"/>
+  <anchor x="721.8" y="578.2" name="cross"/>
+  <anchor x="855.8" y="0.0" name="ogonek"/>
+  <anchor x="-29.8" y="1489.0" name="tonos"/>
+  <anchor x="735.6" y="2049.0" name="top"/>
+  <outline>
+    <component base="Y"/>
+    <component base="acute" xOffset="226.6" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

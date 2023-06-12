@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pemiddlehook-cy" format="2">
+  <advance height="2479.0" width="1863.6666666666667"/>
+  <unicode hex="04A7"/>
+  <anchor x="923.3333333333334" y="0.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="956.6666666666666" y="504.3333333333333" type="line"/>
+      <point x="1193.0" y="504.3333333333333" type="line" smooth="yes"/>
+      <point x="1449.6666666666667" y="504.3333333333333"/>
+      <point x="1591.6666666666667" y="381.6666666666667"/>
+      <point x="1558.6666666666667" y="179.66666666666666" type="curve" smooth="yes"/>
+      <point x="1531.6666666666665" y="17.333333333333336"/>
+      <point x="1407.3333333333333" y="-108.33333333333333"/>
+      <point x="1213.0" y="-139.66666666666666" type="curve"/>
+      <point x="1233.0" y="-258.0" type="line"/>
+      <point x="1502.0" y="-225.0"/>
+      <point x="1657.6666666666667" y="2.666666666666669"/>
+      <point x="1687.6666666666667" y="177.33333333333331" type="curve" smooth="yes"/>
+      <point x="1736.3333333333333" y="455.33333333333337"/>
+      <point x="1543.6666666666667" y="626.6666666666666"/>
+      <point x="1212.6666666666667" y="626.6666666666666" type="curve" smooth="yes"/>
+      <point x="976.3333333333333" y="626.6666666666666" type="line"/>
+    </contour>
+    <component base="pe-cy" xOffset="-2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

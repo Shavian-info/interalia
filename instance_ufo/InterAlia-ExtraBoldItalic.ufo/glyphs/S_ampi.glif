@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sampi" format="2">
+  <advance height="2479.0" width="1810.8"/>
+  <unicode hex="03E0"/>
+  <outline>
+    <contour>
+      <point x="579.8" y="836.0" type="line" name="hr00"/>
+      <point x="616.2" y="1047.2"/>
+      <point x="753.4" y="1220.6"/>
+      <point x="971.0" y="1220.6" type="curve" smooth="yes"/>
+      <point x="1228.6" y="1220.6"/>
+      <point x="1328.0" y="988.2"/>
+      <point x="1260.1999999999998" y="576.0" type="curve" smooth="yes"/>
+      <point x="1242.3999999999999" y="465.6" type="line" smooth="yes"/>
+      <point x="1182.6" y="107.0"/>
+      <point x="1043.6" y="-101.19999999999999"/>
+      <point x="774.4000000000001" y="-101.19999999999999" type="curve"/>
+      <point x="718.8000000000001" y="-436.0" type="line"/>
+      <point x="1196.1999999999998" y="-436.0"/>
+      <point x="1507.6000000000001" y="-95.0"/>
+      <point x="1601.8" y="465.6" type="curve" smooth="yes"/>
+      <point x="1618.8" y="573.0" type="line" smooth="yes"/>
+      <point x="1716.2" y="1159.2"/>
+      <point x="1496.1999999999998" y="1510.2"/>
+      <point x="1030.1999999999998" y="1510.2" type="curve" smooth="yes"/>
+      <point x="571.0" y="1510.2"/>
+      <point x="332.4" y="1180.6"/>
+      <point x="253.8" y="836.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="399.2" y="616.0" type="line"/>
+      <point x="497.40000000000003" y="378.4" type="line"/>
+      <point x="1368.0" y="825.2" type="line"/>
+      <point x="1267.6000000000001" y="1060.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="553.0" y="206.2" type="line"/>
+      <point x="653.4000000000001" y="-31.200000000000003" type="line"/>
+      <point x="1526.0" y="418.0" type="line"/>
+      <point x="1423.6" y="650.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevehookcomb.cn" format="2">
+  <advance height="2479.0" width="985.6"/>
+  <unicode hex="E127"/>
+  <anchor x="624.0" y="1300.4" name="_top"/>
+  <outline>
+    <contour>
+      <point x="804.4" y="1457.0" type="line"/>
+      <point x="796.0" y="1399.6"/>
+      <point x="740.6" y="1351.2"/>
+      <point x="624.0" y="1351.2" type="curve" smooth="yes"/>
+      <point x="508.2" y="1351.2"/>
+      <point x="470.8" y="1397.8"/>
+      <point x="478.2" y="1457.0" type="curve"/>
+      <point x="279.2" y="1457.0" type="line"/>
+      <point x="256.2" y="1315.8"/>
+      <point x="379.79999999999995" y="1221.6"/>
+      <point x="603.0" y="1221.6" type="curve" smooth="yes"/>
+      <point x="826.8" y="1221.6"/>
+      <point x="981.8" y="1315.8"/>
+      <point x="1004.6" y="1457.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="736.4" y="1490.0" type="line"/>
+      <point x="746.6" y="1540.2" type="line"/>
+      <point x="823.8" y="1549.2"/>
+      <point x="905.4" y="1580.0"/>
+      <point x="916.2" y="1650.2" type="curve" smooth="yes"/>
+      <point x="933.5999999999999" y="1746.6"/>
+      <point x="821.6" y="1803.4"/>
+      <point x="587.6" y="1803.4" type="curve"/>
+      <point x="561.0" y="1693.8" type="line"/>
+      <point x="643.8" y="1693.8"/>
+      <point x="704.2" y="1685.2"/>
+      <point x="696.1999999999999" y="1640.6" type="curve" smooth="yes"/>
+      <point x="691.4" y="1611.6"/>
+      <point x="647.4" y="1596.4"/>
+      <point x="546.6" y="1593.4" type="curve"/>
+      <point x="547.6" y="1490.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

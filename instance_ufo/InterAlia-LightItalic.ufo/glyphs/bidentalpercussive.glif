@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bidentalpercussive" format="2">
+  <advance height="2479.0" width="1133.3333333333333"/>
+  <unicode hex="02AD"/>
+  <outline>
+    <contour>
+      <point x="871.0" y="582.3333333333334" type="line"/>
+      <point x="267.0" y="582.3333333333334" type="line"/>
+      <point x="251.33333333333334" y="485.6666666666667" type="line"/>
+      <point x="855.3333333333333" y="485.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="288.66666666666663" y="582.3333333333334" type="line"/>
+      <point x="172.0" y="582.3333333333334" type="line"/>
+      <point x="76.00000000000001" y="0.3333333333333333" type="line"/>
+      <point x="192.66666666666666" y="0.3333333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="973.0" y="582.3333333333334" type="line"/>
+      <point x="857.0" y="582.3333333333334" type="line"/>
+      <point x="761.0" y="0.3333333333333333" type="line"/>
+      <point x="877.0" y="0.3333333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="1017.0" y="1455.3333333333333" type="line"/>
+      <point x="413.0" y="1455.3333333333333" type="line"/>
+      <point x="396.0" y="1357.6666666666665" type="line"/>
+      <point x="1000.0" y="1357.6666666666665" type="line"/>
+    </contour>
+    <contour>
+      <point x="434.0" y="1455.3333333333333" type="line"/>
+      <point x="317.6666666666667" y="1455.3333333333333" type="line"/>
+      <point x="221.66666666666669" y="877.3333333333334" type="line"/>
+      <point x="338.0" y="877.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="1118.3333333333333" y="1455.3333333333333" type="line"/>
+      <point x="1002.0" y="1455.3333333333333" type="line"/>
+      <point x="906.0" y="877.3333333333334" type="line"/>
+      <point x="1022.3333333333333" y="877.3333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

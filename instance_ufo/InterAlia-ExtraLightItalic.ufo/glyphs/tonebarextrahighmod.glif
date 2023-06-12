@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonebarextrahighmod" format="2">
+  <advance height="2479.0" width="695.0"/>
+  <unicode hex="02E5"/>
+  <outline>
+    <contour>
+      <point x="681.0" y="1457.0" type="line"/>
+      <point x="582.6666666666667" y="1457.0" type="line"/>
+      <point x="341.6666666666667" y="0.0" type="line"/>
+      <point x="439.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="652.3333333333333" y="1457.0" type="line"/>
+      <point x="310.33333333333337" y="1457.0" type="line"/>
+      <point x="297.00000000000006" y="1373.0" type="line"/>
+      <point x="638.9999999999999" y="1373.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

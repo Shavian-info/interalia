@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.1" format="2">
+  <advance height="2479.0" width="958.6"/>
+  <anchor x="783.2" y="0.0" name="ogonek"/>
+  <anchor x="803.0" y="0.0" name="right"/>
+  <anchor x="236.0" y="1489.0" name="tonos"/>
+  <anchor x="388.4" y="0.0" name="bottom"/>
+  <anchor x="514.6" y="776.0" name="cross"/>
+  <anchor x="664.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="198.4" y="1263.0" type="line"/>
+      <point x="992.6" y="1263.0" type="line"/>
+      <point x="1031.2" y="1489.0" type="line"/>
+      <point x="236.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10.999999999999995" y="0.0" type="line"/>
+      <point x="783.2" y="0.0" type="line"/>
+      <point x="821.8000000000001" y="226.4" type="line"/>
+      <point x="26.60000000000001" y="226.4" type="line"/>
+    </contour>
+    <component base="I" xOffset="197.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

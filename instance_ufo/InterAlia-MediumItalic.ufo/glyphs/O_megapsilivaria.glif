@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsilivaria" format="2">
+  <advance height="2479.0" width="2038.6"/>
+  <unicode hex="1F6A"/>
+  <anchor x="1162.0" y="0.0" name="bottom"/>
+  <anchor x="810.2" y="1489.0" name="tonos"/>
+  <outline>
+    <component base="Omega" xOffset="469.20000000000005"/>
+    <component base="psilivaria.tonos" xOffset="-192.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

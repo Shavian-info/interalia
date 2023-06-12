@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fdotaccent" format="2">
+  <advance height="2479.0" width="1198.0"/>
+  <unicode hex="1E1E"/>
+  <anchor x="609.4" y="12.0" name="bottom"/>
+  <anchor x="286.6" y="289.6" name="cross"/>
+  <anchor x="632.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="F"/>
+    <component base="dotaccent" xOffset="333.6" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

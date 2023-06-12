@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="livreTournois" format="2">
+  <advance height="2479" width="882"/>
+  <unicode hex="20B6"/>
+  <outline>
+    <contour>
+      <point x="823" y="1073" type="line"/>
+      <point x="47" y="1073" type="line"/>
+      <point x="47" y="1027" type="line"/>
+      <point x="823" y="1027" type="line"/>
+    </contour>
+    <contour>
+      <point x="544" y="1385" type="line"/>
+      <point x="544" y="207" type="line" smooth="yes"/>
+      <point x="544" y="65"/>
+      <point x="620" y="-20"/>
+      <point x="746" y="-20" type="curve" smooth="yes"/>
+      <point x="773" y="-20"/>
+      <point x="801" y="-17"/>
+      <point x="825" y="-10" type="curve"/>
+      <point x="825" y="38" type="line"/>
+      <point x="802" y="31"/>
+      <point x="770" y="26"/>
+      <point x="745" y="26" type="curve" smooth="yes"/>
+      <point x="645" y="26"/>
+      <point x="591" y="90"/>
+      <point x="591" y="207" type="curve" smooth="yes"/>
+      <point x="591" y="1385" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="1489" type="line"/>
+      <point x="212" y="1489" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="259" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

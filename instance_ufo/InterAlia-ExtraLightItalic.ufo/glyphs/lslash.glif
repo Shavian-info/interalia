@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash" format="2">
+  <advance height="2479.0" width="431.3333333333333"/>
+  <unicode hex="0142"/>
+  <anchor x="124.0" y="0.0" name="bottom"/>
+  <anchor x="252.33333333333334" y="768.0" name="cross"/>
+  <anchor x="555.6666666666667" y="1489.0" name="raccent"/>
+  <anchor x="402.6666666666667" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="486.6666666666667" y="896.3333333333334" type="line"/>
+      <point x="31.666666666666664" y="711.6666666666666" type="line"/>
+      <point x="13.333333333333332" y="632.3333333333334" type="line"/>
+      <point x="475.0" y="816.3333333333333" type="line"/>
+    </contour>
+    <component base="l" xOffset="-11.333333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

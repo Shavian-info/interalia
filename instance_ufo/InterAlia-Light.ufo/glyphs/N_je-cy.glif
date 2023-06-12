@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nje-cy" format="2">
+  <advance height="2479.0" width="2283.0"/>
+  <unicode hex="040A"/>
+  <anchor x="1220.6666666666667" y="1175.0" name="cross"/>
+  <outline>
+    <contour>
+      <point x="197.66666666666666" y="0.0" type="line"/>
+      <point x="333.6666666666667" y="0.0" type="line"/>
+      <point x="333.6666666666667" y="712.6666666666666" type="line"/>
+      <point x="1217.0" y="712.6666666666666" type="line"/>
+      <point x="1217.0" y="835.0" type="line"/>
+      <point x="333.6666666666667" y="835.0" type="line"/>
+      <point x="333.6666666666667" y="1489.0" type="line"/>
+      <point x="197.66666666666666" y="1489.0" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="945.6666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

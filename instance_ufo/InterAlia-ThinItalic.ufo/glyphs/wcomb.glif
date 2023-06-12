@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DF1"/>
+  <outline>
+    <contour>
+      <point x="-489" y="1439" type="line"/>
+      <point x="-589" y="1201" type="line"/>
+      <point x="-541" y="1201" type="line"/>
+      <point x="-442" y="1434" type="line"/>
+      <point x="-307" y="1754" type="line"/>
+      <point x="-355" y="1754" type="line"/>
+    </contour>
+    <contour>
+      <point x="-639" y="1754" type="line"/>
+      <point x="-687" y="1754" type="line"/>
+      <point x="-596" y="1201" type="line"/>
+      <point x="-548" y="1201" type="line"/>
+      <point x="-586" y="1434" type="line"/>
+    </contour>
+    <contour>
+      <point x="-147" y="1457" type="line"/>
+      <point x="-256" y="1201" type="line"/>
+      <point x="-208" y="1201" type="line"/>
+      <point x="26" y="1754" type="line"/>
+      <point x="-22" y="1754" type="line"/>
+    </contour>
+    <contour>
+      <point x="-305" y="1754" type="line"/>
+      <point x="-353" y="1754" type="line"/>
+      <point x="-304" y="1446" type="line"/>
+      <point x="-263" y="1201" type="line"/>
+      <point x="-215" y="1201" type="line"/>
+      <point x="-256" y="1456" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

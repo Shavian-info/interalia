@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowheadupmod" format="2">
+  <advance height="2479.0" width="873.6666666666666"/>
+  <unicode hex="02C4"/>
+  <outline>
+    <contour>
+      <point x="701.3333333333334" y="592.3333333333334" type="line"/>
+      <point x="793.3333333333334" y="592.3333333333334" type="line"/>
+      <point x="477.0" y="1305.0" type="line"/>
+      <point x="404.3333333333333" y="1305.0" type="line"/>
+      <point x="449.6666666666667" y="1162.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="80.33333333333333" y="592.3333333333334" type="line"/>
+      <point x="172.66666666666669" y="592.3333333333334" type="line"/>
+      <point x="423.0" y="1162.0" type="line"/>
+      <point x="469.3333333333333" y="1305.0" type="line"/>
+      <point x="397.6666666666667" y="1305.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

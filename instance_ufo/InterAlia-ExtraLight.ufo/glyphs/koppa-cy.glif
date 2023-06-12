@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koppa-cy" format="2">
+  <advance height="2479.0" width="1057.6666666666667"/>
+  <unicode hex="0481"/>
+  <outline>
+    <contour>
+      <point x="535.0" y="64.0" type="line"/>
+      <point x="331.6666666666667" y="65.33333333333334"/>
+      <point x="204.33333333333334" y="261.0"/>
+      <point x="204.33333333333334" y="517.0" type="curve" smooth="yes"/>
+      <point x="204.33333333333334" y="567.0" type="line" smooth="yes"/>
+      <point x="204.33333333333334" y="850.6666666666666"/>
+      <point x="333.3333333333333" y="1048.6666666666667"/>
+      <point x="551.6666666666666" y="1049.3333333333333" type="curve"/>
+      <point x="727.6666666666666" y="1050.0"/>
+      <point x="861.0" y="923.3333333333334"/>
+      <point x="861.0" y="733.3333333333334" type="curve"/>
+      <point x="955.3333333333334" y="733.3333333333334" type="line"/>
+      <point x="954.6666666666666" y="971.0"/>
+      <point x="781.3333333333334" y="1134.0"/>
+      <point x="553.6666666666666" y="1134.0" type="curve" smooth="yes"/>
+      <point x="280.6666666666667" y="1134.0"/>
+      <point x="107.0" y="902.3333333333334"/>
+      <point x="107.0" y="567.0" type="curve" smooth="yes"/>
+      <point x="107.0" y="517.0" type="line" smooth="yes"/>
+      <point x="107.0" y="209.66666666666666"/>
+      <point x="277.6666666666667" y="-20.0"/>
+      <point x="535.0" y="-20.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="583.0" y="64.0" type="line"/>
+      <point x="484.6666666666667" y="64.0" type="line"/>
+      <point x="484.6666666666667" y="-399.3333333333333" type="line"/>
+      <point x="583.0" y="-399.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

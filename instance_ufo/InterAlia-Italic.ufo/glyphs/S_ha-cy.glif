@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sha-cy" format="2">
+  <advance height="2479" width="1950"/>
+  <unicode hex="0428"/>
+  <outline>
+    <contour>
+      <point x="335" y="1489" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="1676" y="0" type="line"/>
+      <point x="1923" y="1489" type="line"/>
+      <point x="1743" y="1489" type="line"/>
+      <point x="1524" y="166" type="line"/>
+      <point x="1001" y="166" type="line"/>
+      <point x="1219" y="1489" type="line"/>
+      <point x="1039" y="1489" type="line"/>
+      <point x="820" y="166" type="line"/>
+      <point x="297" y="166" type="line"/>
+      <point x="515" y="1489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tenge" format="2">
+  <advance height="2479.0" width="1389.4"/>
+  <unicode hex="20B8"/>
+  <outline>
+    <contour>
+      <point x="955.0" y="1086.8" type="line"/>
+      <point x="598.2" y="1086.8" type="line"/>
+      <point x="418.0" y="0.0" type="line"/>
+      <point x="775.8" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1412.0" y="1086.8" type="line"/>
+      <point x="153.39999999999998" y="1086.8" type="line"/>
+      <point x="105.6" y="798.8" type="line"/>
+      <point x="1365.0" y="798.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="1479.6" y="1489.0" type="line"/>
+      <point x="220.2" y="1489.0" type="line"/>
+      <point x="173.39999999999998" y="1201.0" type="line"/>
+      <point x="1432.8" y="1201.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

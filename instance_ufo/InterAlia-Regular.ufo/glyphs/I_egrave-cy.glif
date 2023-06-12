@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iegrave-cy" format="2">
+  <advance height="2479" width="1225"/>
+  <unicode hex="0400"/>
+  <anchor x="614" y="0" name="bottom"/>
+  <anchor x="617" y="0" name="cedilla"/>
+  <anchor x="1091" y="0" name="ogonek"/>
+  <anchor x="134" y="1489" name="tonos"/>
+  <anchor x="604" y="2049" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="grave" xOffset="8" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dje-cy" format="2">
+  <advance height="2479.0" width="1301.2"/>
+  <unicode hex="0452"/>
+  <anchor x="650.8" y="0.0" name="bottom"/>
+  <anchor x="287.6" y="0.0" name="cedilla"/>
+  <anchor x="284.0" y="1277.4" name="cross"/>
+  <anchor x="286.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="837.0" y="0.0" type="line"/>
+      <point x="837.0" y="-51.8" type="line" smooth="yes"/>
+      <point x="837.0" y="-128.8"/>
+      <point x="758.4" y="-147.0"/>
+      <point x="683.8" y="-147.0" type="curve" smooth="yes"/>
+      <point x="654.8" y="-147.0"/>
+      <point x="629.2" y="-144.0"/>
+      <point x="600.6" y="-141.8" type="curve"/>
+      <point x="600.6" y="-407.6" type="line"/>
+      <point x="643.4" y="-411.8"/>
+      <point x="695.0" y="-419.0"/>
+      <point x="778.8" y="-419.0" type="curve" smooth="yes"/>
+      <point x="1007.4" y="-419.0"/>
+      <point x="1193.0" y="-353.4"/>
+      <point x="1193.0" y="-51.8" type="curve" smooth="yes"/>
+      <point x="1193.0" y="0.0" type="line"/>
+    </contour>
+    <component base="tshe-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

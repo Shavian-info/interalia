@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa-cy" format="2">
+  <advance height="2479.0" width="1428.0"/>
+  <unicode hex="04D8"/>
+  <anchor x="691.4" y="0.0" name="bottom"/>
+  <anchor x="712.8" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="635.8" y="1510.0" type="curve" smooth="yes"/>
+      <point x="435.4" y="1510.0"/>
+      <point x="276.8" y="1448.2"/>
+      <point x="225.4" y="1420.4" type="curve"/>
+      <point x="276.0" y="1232.6" type="line"/>
+      <point x="359.0" y="1264.0"/>
+      <point x="488.2" y="1302.0"/>
+      <point x="621.0" y="1302.0" type="curve" smooth="yes"/>
+      <point x="962.0" y="1302.0"/>
+      <point x="1087.0" y="1061.8"/>
+      <point x="1086.6" y="780.2" type="curve" smooth="yes"/>
+      <point x="1086.6" y="671.8" type="line" smooth="yes"/>
+      <point x="1087.0" y="397.8"/>
+      <point x="958.2" y="184.2"/>
+      <point x="687.6" y="184.2" type="curve" smooth="yes"/>
+      <point x="446.4" y="184.2"/>
+      <point x="339.2" y="351.6"/>
+      <point x="339.0" y="572.8" type="curve"/>
+      <point x="339.0" y="604.2" type="line"/>
+      <point x="1168.8" y="604.2" type="line"/>
+      <point x="1168.8" y="794.4" type="line"/>
+      <point x="96.2" y="794.4" type="line"/>
+      <point x="96.2" y="654.8" type="line" smooth="yes"/>
+      <point x="96.6" y="238.6"/>
+      <point x="321.8" y="-20.0"/>
+      <point x="691.6" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1071.8" y="-20.0"/>
+      <point x="1332.0" y="264.4"/>
+      <point x="1331.8" y="671.8" type="curve" smooth="yes"/>
+      <point x="1331.8" y="780.2" type="line" smooth="yes"/>
+      <point x="1332.0" y="1196.6"/>
+      <point x="1091.4" y="1510.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dong" format="2">
+  <advance height="2479" width="1272"/>
+  <unicode hex="20AB"/>
+  <anchor x="615" y="0" name="bottom"/>
+  <anchor x="1005" y="1280" name="cross"/>
+  <anchor x="1233" y="1489" name="raccent"/>
+  <anchor x="599" y="1489" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="crossbar" xOffset="545" yOffset="559"/>
+    <component base="underscore" xOffset="155" yOffset="-157"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>underscore</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

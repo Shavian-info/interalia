@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eta" format="2">
+  <advance height="2479.0" width="1520.0"/>
+  <unicode hex="0397"/>
+  <anchor x="758.4" y="0.0" name="bottom"/>
+  <anchor x="292.8" y="-2.4" name="cedilla"/>
+  <anchor x="1448.0" y="83.8" name="cyrtic"/>
+  <anchor x="1356.0" y="0.0" name="right"/>
+  <anchor x="128.2" y="1489.0" name="tonos"/>
+  <anchor x="765.6" y="1678.4" name="top"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

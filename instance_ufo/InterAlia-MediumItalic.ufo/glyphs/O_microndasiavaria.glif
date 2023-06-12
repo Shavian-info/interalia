@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrondasiavaria" format="2">
+  <advance height="2479.0" width="1991.2"/>
+  <unicode hex="1F4B"/>
+  <anchor x="1137.0" y="4.8" name="bottom"/>
+  <anchor x="1293.4" y="1.2000000000000002" name="ogonek"/>
+  <anchor x="762.8" y="1489.0" name="tonos"/>
+  <anchor x="1405.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="O" xOffset="434.40000000000003"/>
+    <component base="dasiavaria.tonos" xOffset="-170.79999999999998"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft.numr" format="2">
+  <advance height="2479.0" width="453.0"/>
+  <unicode hex="E0DA"/>
+  <outline>
+    <contour>
+      <point x="225.0" y="1141.6666666666667" type="curve" smooth="yes"/>
+      <point x="195.66666666666666" y="962.6666666666666"/>
+      <point x="218.0" y="800.0"/>
+      <point x="298.0" y="650.6666666666666" type="curve"/>
+      <point x="411.0" y="650.6666666666666" type="line"/>
+      <point x="343.0" y="780.6666666666666"/>
+      <point x="316.0" y="965.6666666666666"/>
+      <point x="345.0" y="1141.6666666666667" type="curve" smooth="yes"/>
+      <point x="376.0" y="1321.0"/>
+      <point x="463.3333333333333" y="1503.0"/>
+      <point x="573.9999999999999" y="1631.6666666666667" type="curve"/>
+      <point x="461.0" y="1631.6666666666667" type="line"/>
+      <point x="333.66666666666663" y="1484.6666666666667"/>
+      <point x="256.0" y="1321.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Fraction</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

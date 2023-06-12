@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringacute.cn" format="2">
+  <advance height="2479.0" width="574.3333333333334"/>
+  <unicode hex="E115"/>
+  <anchor x="287.0" y="1163.6666666666667" name="_top"/>
+  <outline>
+    <contour>
+      <point x="244.66666666666666" y="1461.3333333333333" type="line"/>
+      <point x="322.3333333333333" y="1461.3333333333333" type="line"/>
+      <point x="470.33333333333337" y="1615.0" type="line"/>
+      <point x="370.3333333333333" y="1615.0" type="line"/>
+    </contour>
+    <component base="ring.uc" yScale="0.95" xOffset="17.666666666666664" yOffset="-433.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

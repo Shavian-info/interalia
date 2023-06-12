@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleapostrophemod" format="2">
+  <advance height="2479" width="846"/>
+  <unicode hex="02EE"/>
+  <outline>
+    <contour>
+      <point x="521" y="1559" type="line"/>
+      <point x="474" y="1559" type="line"/>
+      <point x="442" y="1359" type="line" smooth="yes"/>
+      <point x="423" y="1242"/>
+      <point x="332" y="1105"/>
+      <point x="224" y="1027" type="curve"/>
+      <point x="244" y="992" type="line"/>
+      <point x="375" y="1085"/>
+      <point x="470" y="1239"/>
+      <point x="489" y="1359" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="820" y="1559" type="line"/>
+      <point x="774" y="1559" type="line"/>
+      <point x="742" y="1359" type="line" smooth="yes"/>
+      <point x="723" y="1242"/>
+      <point x="631" y="1105"/>
+      <point x="524" y="1027" type="curve"/>
+      <point x="544" y="992" type="line"/>
+      <point x="675" y="1085"/>
+      <point x="769" y="1239"/>
+      <point x="788" y="1359" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

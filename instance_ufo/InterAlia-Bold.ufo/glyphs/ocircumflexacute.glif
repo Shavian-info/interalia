@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ocircumflexacute" format="2">
+  <advance height="2479.0" width="1256.8"/>
+  <unicode hex="1ED1"/>
+  <anchor x="628.4" y="0.0" name="bottom"/>
+  <anchor x="779.2" y="0.0" name="ogonek"/>
+  <anchor x="628.4" y="1303.0" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="circumflexacutecomb.cn" xOffset="208.2" yOffset="-21.599999999999998"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longsdotaccent" format="2">
+  <advance height="2479.0" width="779.8"/>
+  <unicode hex="1E9B"/>
+  <anchor x="357.6" y="633.4" name="cross"/>
+  <anchor x="627.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="_part.f_base"/>
+    <component base="dotaccent" xOffset="223.20000000000002" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>_part.f_base</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dotaccent</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

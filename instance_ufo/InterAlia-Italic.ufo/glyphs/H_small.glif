@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hsmall" format="2">
+  <advance height="2479" width="1194"/>
+  <unicode hex="029C"/>
+  <anchor x="1036" y="64" name="cyrtic"/>
+  <anchor x="943" y="0" name="right"/>
+  <outline>
+    <component base="en-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

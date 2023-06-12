@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tse-cy" format="2">
+  <advance height="2479" width="1275"/>
+  <unicode hex="0446"/>
+  <anchor x="157.0" y="1117.0" name="right"/>
+  <outline>
+    <component base="pe-cy" xScale="-1.0" yScale="-1.0" xOffset="1193" yOffset="1117"/>
+    <component base="cyrillictic.cn" xOffset="925"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>pe-cy</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

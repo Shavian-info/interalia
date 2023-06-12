@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jmod.ccmp" format="2">
+  <advance height="2479" width="221"/>
+  <unicode hex="E0F5"/>
+  <outline>
+    <contour>
+      <point x="156" y="1440" type="line"/>
+      <point x="156" y="515" type="line" smooth="yes"/>
+      <point x="155" y="394"/>
+      <point x="115" y="364"/>
+      <point x="71" y="364" type="curve" smooth="yes"/>
+      <point x="56" y="364"/>
+      <point x="34" y="367"/>
+      <point x="19" y="371" type="curve"/>
+      <point x="19" y="324" type="line"/>
+      <point x="42" y="319"/>
+      <point x="64" y="317"/>
+      <point x="76" y="317" type="curve" smooth="yes"/>
+      <point x="156" y="317"/>
+      <point x="201" y="391"/>
+      <point x="202" y="515" type="curve" smooth="yes"/>
+      <point x="202" y="1440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

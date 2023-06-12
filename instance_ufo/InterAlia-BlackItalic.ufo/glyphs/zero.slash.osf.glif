@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.slash.osf" format="2">
+  <advance height="2479" width="1280"/>
+  <anchor x="547" y="0" name="bottom"/>
+  <anchor x="713" y="0" name="ogonek"/>
+  <anchor x="762" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="383" y="151" type="line"/>
+      <point x="1044" y="908" type="line"/>
+      <point x="922" y="989" type="line"/>
+      <point x="272" y="246" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fiftyearlyform-roman" format="2">
+  <advance height="2479.0" width="1989.6"/>
+  <unicode hex="2186"/>
+  <outline>
+    <contour>
+      <point x="446.8" y="916.0" type="line"/>
+      <point x="152.2" y="654.2" type="line"/>
+      <point x="731.8" y="0.0" type="line"/>
+      <point x="981.0" y="0.0" type="line"/>
+      <point x="912.5999999999999" y="363.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="1311.8" y="1457.0" type="line"/>
+      <point x="974.2" y="1457.0" type="line"/>
+      <point x="764.8000000000001" y="193.4" type="line"/>
+      <point x="1103.3999999999999" y="193.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="1868.6000000000001" y="654.8" type="line"/>
+      <point x="1666.8" y="916.0" type="line"/>
+      <point x="1018.8" y="363.6" type="line"/>
+      <point x="822.6" y="0.0" type="line"/>
+      <point x="1073.2" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

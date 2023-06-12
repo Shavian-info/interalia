@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zigzagabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="035B"/>
+  <outline>
+    <contour>
+      <point x="-397.3333333333333" y="1661.0" type="line"/>
+      <point x="-525.6666666666667" y="1385.6666666666667" type="line"/>
+      <point x="-318.6666666666667" y="1385.6666666666667" type="line"/>
+      <point x="-413.6666666666667" y="1181.0" type="line"/>
+      <point x="-339.0" y="1181.0" type="line"/>
+      <point x="-211.66666666666666" y="1456.3333333333333" type="line"/>
+      <point x="-417.6666666666667" y="1456.3333333333333" type="line"/>
+      <point x="-322.6666666666667" y="1661.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

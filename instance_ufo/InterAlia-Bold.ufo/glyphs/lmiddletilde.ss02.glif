@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmiddletilde.ss02" format="2">
+  <advance height="2479.0" width="616.6"/>
+  <anchor x="336.8" y="0.0" name="bottom"/>
+  <anchor x="279.4" y="780.0" name="cross"/>
+  <anchor x="560.4" y="1489.0" name="raccent"/>
+  <anchor x="278.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="_tildecross.cn" xOffset="-160.8" yOffset="12.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

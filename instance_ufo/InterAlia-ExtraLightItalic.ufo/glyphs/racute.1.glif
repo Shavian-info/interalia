@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="racute.1" format="2">
+  <advance height="2479.0" width="756.3333333333334"/>
+  <anchor x="134.66666666666666" y="0.0" name="bottom"/>
+  <anchor x="225.66666666666666" y="535.0" name="cross"/>
+  <anchor x="612.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="r.1"/>
+    <component base="acute" xOffset="-81.66666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

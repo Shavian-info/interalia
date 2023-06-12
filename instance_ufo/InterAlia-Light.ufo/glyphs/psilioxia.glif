@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia" format="2">
+  <advance height="2479.0" width="837.6666666666666"/>
+  <unicode hex="1FCE"/>
+  <anchor x="336.0" y="1175.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="391.6666666666667" y="1154.0" type="line"/>
+      <point x="465.0" y="1154.0" type="line"/>
+      <point x="687.3333333333334" y="1473.3333333333333" type="line"/>
+      <point x="687.3333333333334" y="1491.0" type="line"/>
+      <point x="531.6666666666666" y="1491.0" type="line"/>
+      <point x="391.6666666666667" y="1168.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.3333333333333" y="1491.0" type="line"/>
+      <point x="240.33333333333334" y="1491.0" type="line"/>
+      <point x="240.33333333333334" y="1430.3333333333333" type="line" smooth="yes"/>
+      <point x="240.33333333333334" y="1324.6666666666667"/>
+      <point x="213.0" y="1257.0"/>
+      <point x="147.0" y="1179.3333333333333" type="curve"/>
+      <point x="210.66666666666666" y="1133.3333333333333" type="line"/>
+      <point x="322.3333333333333" y="1211.0"/>
+      <point x="376.3333333333333" y="1303.3333333333333"/>
+      <point x="376.3333333333333" y="1424.3333333333333" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

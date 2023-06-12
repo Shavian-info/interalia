@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleapostrophemod" format="2">
+  <advance height="2479.0" width="943.4"/>
+  <unicode hex="02EE"/>
+  <outline>
+    <contour>
+      <point x="456.0" y="1559.0" type="line"/>
+      <point x="238.8" y="1559.0" type="line"/>
+      <point x="238.8" y="1371.2" type="line" smooth="yes"/>
+      <point x="238.6" y="1250.0"/>
+      <point x="207.2" y="1153.4"/>
+      <point x="147.4" y="1061.4" type="curve"/>
+      <point x="273.6" y="982.6" type="line"/>
+      <point x="384.2" y="1078.6"/>
+      <point x="455.8" y="1241.6"/>
+      <point x="456.0" y="1373.6" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="797.8" y="1559.0" type="line"/>
+      <point x="581.2" y="1559.0" type="line"/>
+      <point x="581.2" y="1371.2" type="line" smooth="yes"/>
+      <point x="581.0" y="1248.8"/>
+      <point x="546.6" y="1151.6"/>
+      <point x="487.4" y="1061.4" type="curve"/>
+      <point x="613.6" y="982.6" type="line"/>
+      <point x="724.2" y="1078.6"/>
+      <point x="797.6" y="1241.0"/>
+      <point x="797.8" y="1373.6" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

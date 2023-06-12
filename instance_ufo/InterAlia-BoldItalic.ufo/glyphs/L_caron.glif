@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcaron" format="2">
+  <advance height="2479.0" width="1162.2"/>
+  <unicode hex="013D"/>
+  <anchor x="488.80000000000007" y="0.0" name="bottom"/>
+  <anchor x="323.0" y="780.0" name="cross"/>
+  <anchor x="651.4" y="841.4" name="dot"/>
+  <anchor x="822.6" y="1489.0" name="raccent"/>
+  <anchor x="472.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="commaaccentright.cn" xOffset="513.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

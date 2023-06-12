@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilondasia" format="2">
+  <advance height="2479.0" width="1441.0"/>
+  <unicode hex="1F19"/>
+  <anchor x="834.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="837.6666666666666" y="0.0" name="cedilla"/>
+  <anchor x="1302.0" y="0.0" name="ogonek"/>
+  <anchor x="375.0" y="1489.0" name="tonos"/>
+  <anchor x="855.6666666666666" y="1676.0" name="top"/>
+  <outline>
+    <component base="E" xOffset="225.66666666666666"/>
+    <component base="dasia.tonos" xOffset="-61.333333333333336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

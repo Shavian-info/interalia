@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphadasiaperispomeni" format="2">
+  <advance height="2479.0" width="1334.8"/>
+  <unicode hex="1F07"/>
+  <anchor x="585.8" y="0.0" name="bottom"/>
+  <anchor x="624.8" y="1303.0" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="dasiaperispomeni" xOffset="211.4" yOffset="122.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

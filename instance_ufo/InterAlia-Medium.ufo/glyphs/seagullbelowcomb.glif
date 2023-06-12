@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seagullbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="033C"/>
+  <outline>
+    <contour>
+      <point x="-507.8" y="-369.0" type="line"/>
+      <point x="-507.8" y="-288.0"/>
+      <point x="-460.8" y="-245.0"/>
+      <point x="-379.8" y="-245.0" type="curve" smooth="yes"/>
+      <point x="-298.8" y="-245.0"/>
+      <point x="-251.8" y="-288.0"/>
+      <point x="-251.8" y="-369.0" type="curve"/>
+      <point x="-138.2" y="-369.0" type="line"/>
+      <point x="-138.2" y="-223.0"/>
+      <point x="-234.2" y="-126.2"/>
+      <point x="-379.8" y="-126.2" type="curve" smooth="yes"/>
+      <point x="-524.6" y="-126.2"/>
+      <point x="-621.4" y="-223.0"/>
+      <point x="-621.4" y="-369.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-877.4" y="-369.0" type="line"/>
+      <point x="-877.4" y="-288.0"/>
+      <point x="-829.6" y="-245.0"/>
+      <point x="-749.4" y="-245.0" type="curve" smooth="yes"/>
+      <point x="-668.4" y="-245.0"/>
+      <point x="-621.4" y="-288.0"/>
+      <point x="-621.4" y="-369.0" type="curve"/>
+      <point x="-507.8" y="-369.0" type="line"/>
+      <point x="-507.8" y="-223.0"/>
+      <point x="-603.8" y="-126.2"/>
+      <point x="-749.4" y="-126.2" type="curve" smooth="yes"/>
+      <point x="-894.2" y="-126.2"/>
+      <point x="-990.2" y="-223.0"/>
+      <point x="-990.2" y="-369.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

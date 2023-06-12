@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uk-cy" format="2">
+  <advance height="2479.0" width="2732.8"/>
+  <unicode hex="0478"/>
+  <anchor x="702.6" y="4.8" name="bottom_1"/>
+  <anchor x="2353.4" y="-39.2" name="bottom_2"/>
+  <anchor x="859.0" y="1.2000000000000002" name="ogonek_1"/>
+  <anchor x="2164.8" y="-419.0" name="ogonek_2"/>
+  <anchor x="328.40000000000003" y="1489.0" name="tonos"/>
+  <anchor x="970.6" y="1676.0" name="top_1"/>
+  <anchor x="2276.2000000000003" y="1303.0" name="top_2"/>
+  <outline>
+    <component base="O"/>
+    <component base="u-cy" xOffset="1573.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

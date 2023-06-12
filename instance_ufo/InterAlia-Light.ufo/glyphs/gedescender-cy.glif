@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gedescender-cy" format="2">
+  <advance height="2479.0" width="937.3333333333334"/>
+  <unicode hex="04F7"/>
+  <anchor x="236.33333333333334" y="559.0" name="cross"/>
+  <anchor x="361.6666666666667" y="36.66666666666667" name="cyrtic"/>
+  <anchor x="496.3333333333333" y="1303.0" name="top"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="cyrillictic.cn" xOffset="216.33333333333334" yOffset="-8.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

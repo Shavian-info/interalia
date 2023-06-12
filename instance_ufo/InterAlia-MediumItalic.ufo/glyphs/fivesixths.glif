@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fivesixths" format="2">
+  <advance height="2479.0" width="2068.3999999999996"/>
+  <unicode hex="215A"/>
+  <anchor x="1311.6" y="791.0" name="dnom"/>
+  <anchor x="795.6" y="698.0" name="numr"/>
+  <outline>
+    <component base="fraction" xOffset="742.0"/>
+    <component base="five.numr" xOffset="-8.0" yOffset="-47.0"/>
+    <component base="six.dnomf" xOffset="1269.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

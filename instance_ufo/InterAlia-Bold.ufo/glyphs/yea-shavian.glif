@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yea-shavian" format="2">
+  <advance height="2479.0" width="767.8"/>
+  <unicode hex="10458"/>
+  <outline>
+    <contour>
+      <point x="398.6" y="0.0" type="line"/>
+      <point x="683.0" y="0.0" type="line"/>
+      <point x="349.4" y="1489.0" type="line"/>
+      <point x="27.8" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

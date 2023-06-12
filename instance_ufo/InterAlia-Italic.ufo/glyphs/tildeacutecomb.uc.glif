@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildeacutecomb.uc" format="2">
+  <advance height="2479"/>
+  <unicode hex="E12A"/>
+  <anchor x="-172" y="1676" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-227" y="1943" type="line"/>
+      <point x="-76" y="1943" type="line"/>
+      <point x="209" y="2164" type="line"/>
+      <point x="9" y="2164" type="line"/>
+    </contour>
+    <component base="tilde" xOffset="-806" yOffset="372"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

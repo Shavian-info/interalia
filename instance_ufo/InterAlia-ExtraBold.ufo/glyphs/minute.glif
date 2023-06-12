@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minute" format="2">
+  <advance height="2479.0" width="611.8"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="125.2" y="898.0" type="line"/>
+      <point x="364.6" y="898.0" type="line"/>
+      <point x="486.6" y="1489.0" type="line"/>
+      <point x="177.2" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

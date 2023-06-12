@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ten-roman" format="2">
+  <advance height="2479.0" width="1059.0"/>
+  <unicode hex="2179"/>
+  <anchor x="508.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="508.3333333333333" y="559.0" name="cross"/>
+  <anchor x="905.6666666666666" y="25.333333333333336" name="cyrtic"/>
+  <anchor x="793.0" y="0.0" name="right"/>
+  <anchor x="508.3333333333333" y="1303.0" name="top"/>
+  <outline>
+    <component base="x" xOffset="-17.333333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>x</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

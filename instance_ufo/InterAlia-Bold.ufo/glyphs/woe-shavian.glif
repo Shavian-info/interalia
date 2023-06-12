@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="woe-shavian" format="2">
+  <advance height="2479.0" width="754.8"/>
+  <unicode hex="10462"/>
+  <outline>
+    <contour>
+      <point x="-53.599999999999994" y="-419.0" type="line"/>
+      <point x="268.6" y="-419.0" type="line"/>
+      <point x="670.0" y="1117.0" type="line"/>
+      <point x="381.0" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kmod" format="2">
+  <advance height="2479.0" width="730.0"/>
+  <unicode hex="1D4F"/>
+  <outline>
+    <contour>
+      <point x="286.66666666666663" y="1004.3333333333334" type="line"/>
+      <point x="431.6666666666667" y="1133.6666666666667" type="line"/>
+      <point x="456.0" y="1134.6666666666667" type="line"/>
+      <point x="846.3333333333334" y="1489.0" type="line"/>
+      <point x="705.0" y="1489.0" type="line"/>
+      <point x="331.99999999999994" y="1153.6666666666667" type="line"/>
+      <point x="309.99999999999994" y="1153.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="137.66666666666669" y="745.0" type="line"/>
+      <point x="255.0" y="745.0" type="line"/>
+      <point x="421.0" y="1737.0" type="line"/>
+      <point x="303.6666666666667" y="1737.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="597.6666666666666" y="745.0" type="line"/>
+      <point x="736.0" y="745.0" type="line"/>
+      <point x="475.3333333333333" y="1193.3333333333333" type="line"/>
+      <point x="382.33333333333337" y="1112.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DDE"/>
+  <outline>
+    <contour>
+      <point x="-263.4" y="1323.0" type="line"/>
+      <point x="-564.8000000000001" y="1323.0" type="line"/>
+      <point x="-584.8000000000001" y="1201.0" type="line"/>
+      <point x="-283.4" y="1201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-442.80000000000007" y="1798.0" type="line"/>
+      <point x="-593.8" y="1798.0" type="line"/>
+      <point x="-692.1999999999999" y="1201.0" type="line"/>
+      <point x="-541.8000000000001" y="1201.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

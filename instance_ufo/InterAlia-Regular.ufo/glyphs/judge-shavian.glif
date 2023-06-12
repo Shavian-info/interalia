@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="judge-shavian" format="2">
+  <advance height="2479" width="1040"/>
+  <unicode hex="10461"/>
+  <outline>
+    <contour>
+      <point x="304" y="-431" type="line"/>
+      <point x="371" y="-346" type="line" smooth="yes"/>
+      <point x="547" y="-124"/>
+      <point x="736" y="1"/>
+      <point x="889" y="0" type="curve" smooth="yes"/>
+      <point x="936" y="0" type="line"/>
+      <point x="936" y="169" type="line"/>
+      <point x="889" y="169" type="line" smooth="yes"/>
+      <point x="776" y="167"/>
+      <point x="661" y="119"/>
+      <point x="600" y="47" type="curve"/>
+      <point x="587" y="47" type="line"/>
+      <point x="693" y="258"/>
+      <point x="768" y="491"/>
+      <point x="770" y="692" type="curve" smooth="yes"/>
+      <point x="766" y="980"/>
+      <point x="620" y="1117"/>
+      <point x="325" y="1117" type="curve" smooth="yes"/>
+      <point x="104" y="1117" type="line"/>
+      <point x="104" y="948" type="line"/>
+      <point x="325" y="948" type="line" smooth="yes"/>
+      <point x="514" y="948"/>
+      <point x="601" y="859"/>
+      <point x="601" y="649" type="curve" smooth="yes"/>
+      <point x="601" y="342"/>
+      <point x="421" y="-47"/>
+      <point x="159" y="-346" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

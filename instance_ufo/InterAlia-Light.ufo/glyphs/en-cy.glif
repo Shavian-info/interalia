@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="en-cy" format="2">
+  <advance height="2479.0" width="1193.3333333333333"/>
+  <unicode hex="043D"/>
+  <anchor x="1080.6666666666667" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="1021.0" y="0.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="925.3333333333334" y="618.6666666666666" type="line"/>
+      <point x="268.0" y="618.6666666666666" type="line"/>
+      <point x="268.0" y="496.3333333333333" type="line"/>
+      <point x="925.3333333333334" y="496.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="300.6666666666667" y="1117.0" type="line"/>
+      <point x="170.66666666666666" y="1117.0" type="line"/>
+      <point x="170.66666666666666" y="0.0" type="line"/>
+      <point x="300.6666666666667" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1021.0" y="1117.0" type="line"/>
+      <point x="890.6666666666666" y="1117.0" type="line"/>
+      <point x="890.6666666666666" y="0.0" type="line"/>
+      <point x="1021.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nineinferior" format="2">
+  <advance height="2479.0" width="895.0"/>
+  <unicode hex="2089"/>
+  <outline>
+    <component base="ninesuperior" xOffset="-166.0" yOffset="-1001.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ubar" format="2">
+  <advance height="2479.0" width="1284.6000000000001"/>
+  <unicode hex="0289"/>
+  <anchor x="559.8" y="0.0" name="bottom"/>
+  <anchor x="1011.4000000000001" y="0.0" name="ogonek"/>
+  <anchor x="765.4000000000001" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1311.2" y="719.4" type="line"/>
+      <point x="29.6" y="719.4" type="line"/>
+      <point x="3.5999999999999996" y="570.2" type="line"/>
+      <point x="1285.8000000000002" y="570.2" type="line"/>
+    </contour>
+    <component base="u" xOffset="33.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

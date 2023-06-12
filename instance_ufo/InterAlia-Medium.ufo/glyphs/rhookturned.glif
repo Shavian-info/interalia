@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhookturned" format="2">
+  <advance height="2479.0" width="846.6"/>
+  <unicode hex="027B"/>
+  <anchor x="394.2" y="0.0" name="bottom"/>
+  <anchor x="531.2" y="582.0" name="cross"/>
+  <anchor x="531.6" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="750.2" y="-436.0" type="curve" smooth="yes"/>
+      <point x="792.2" y="-436.0"/>
+      <point x="836.6" y="-432.6"/>
+      <point x="869.6" y="-424.4" type="curve"/>
+      <point x="869.6" y="-267.2" type="line"/>
+      <point x="851.4" y="-272.6"/>
+      <point x="826.6" y="-273.0"/>
+      <point x="807.0" y="-273.0" type="curve" smooth="yes"/>
+      <point x="696.8" y="-273.0"/>
+      <point x="641.0" y="-221.0"/>
+      <point x="641.0" y="-118.4" type="curve" smooth="yes"/>
+      <point x="641.0" y="0.0" type="line"/>
+      <point x="430.4" y="0.0" type="line"/>
+      <point x="430.4" y="-123.0" type="line" smooth="yes"/>
+      <point x="430.4" y="-343.0"/>
+      <point x="570.4" y="-436.0"/>
+    </contour>
+    <component base="rturned"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

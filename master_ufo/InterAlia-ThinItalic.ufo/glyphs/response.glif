@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="response" format="2">
+  <advance height="2479" width="1263"/>
+  <unicode hex="211F"/>
+  <anchor x="547" y="0" name="bottom"/>
+  <anchor x="806" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="1178" y="1654" type="line"/>
+      <point x="822" y="1796" type="line"/>
+      <point x="796" y="1754" type="line"/>
+      <point x="1114" y="1626" type="line"/>
+      <point x="108" y="-317" type="line"/>
+      <point x="151" y="-329" type="line"/>
+    </contour>
+    <component base="R" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

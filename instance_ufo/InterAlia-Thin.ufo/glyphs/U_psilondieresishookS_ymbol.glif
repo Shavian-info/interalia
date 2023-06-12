@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="UpsilondieresishookSymbol" format="2">
+  <advance height="2479" width="1264"/>
+  <unicode hex="03D4"/>
+  <anchor x="67" y="1455" name="tonos"/>
+  <anchor x="631" y="2049" name="top"/>
+  <outline>
+    <component base="UpsilonhookSymbol"/>
+    <component base="dieresis" xOffset="-44" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

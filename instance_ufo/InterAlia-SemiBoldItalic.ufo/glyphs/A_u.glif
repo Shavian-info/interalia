@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Au" format="2">
+  <advance height="2479.0" width="2340.4"/>
+  <unicode hex="A736"/>
+  <anchor x="1494.3999999999999" y="-8.399999999999999" name="bottom"/>
+  <anchor x="1669.4" y="4.0" name="ogonek"/>
+  <anchor x="1597.4" y="0.0" name="right"/>
+  <anchor x="1773.2" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-43.4" y="0.0" type="line"/>
+      <point x="253.8" y="0.0" type="line"/>
+      <point x="991.2" y="1229.0" type="line"/>
+      <point x="1365.6" y="1229.0" type="line"/>
+      <point x="1408.8" y="1489.0" type="line"/>
+      <point x="870.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="352.6" y="367.2" type="line"/>
+      <point x="1103.0" y="367.2" type="line"/>
+      <point x="1139.8" y="584.4" type="line"/>
+      <point x="389.0" y="584.4" type="line"/>
+    </contour>
+    <component base="U" xOffset="838.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

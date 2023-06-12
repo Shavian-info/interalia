@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="egrave" format="2">
+  <advance height="2479.0" width="1224.2"/>
+  <unicode hex="00E8"/>
+  <anchor x="613.4" y="0.0" name="bottom"/>
+  <anchor x="617.6" y="0.0" name="cedilla"/>
+  <anchor x="881.4" y="29.4" name="ogonek"/>
+  <anchor x="603.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="grave" xOffset="-4.800000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

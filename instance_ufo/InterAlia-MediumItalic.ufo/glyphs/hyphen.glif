@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen" format="2">
+  <advance height="2479.0" width="948.8"/>
+  <unicode hex="002D"/>
+  <outline>
+    <contour>
+      <point x="831.4" y="724.2" type="line"/>
+      <point x="171.0" y="724.2" type="line"/>
+      <point x="139.6" y="535.6" type="line"/>
+      <point x="800.8000000000001" y="535.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

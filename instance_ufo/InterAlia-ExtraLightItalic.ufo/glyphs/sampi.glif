@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sampi" format="2">
+  <advance height="2479.0" width="1425.3333333333333"/>
+  <unicode hex="03E1"/>
+  <outline>
+    <contour>
+      <point x="288.66666666666663" y="1496.0" type="line" name="hr00"/>
+      <point x="1071.0" y="1087.6666666666667"/>
+      <point x="1230.3333333333335" y="602.3333333333334"/>
+      <point x="1060.0" y="-422.6666666666667" type="curve"/>
+      <point x="1161.0" y="-372.3333333333333" type="line"/>
+      <point x="1327.0" y="634.0"/>
+      <point x="1137.6666666666667" y="1168.0"/>
+      <point x="388.6666666666667" y="1547.6666666666667" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1001.3333333333334" y="926.6666666666666" type="line"/>
+      <point x="968.6666666666666" y="1000.6666666666666" type="line"/>
+      <point x="118.66666666666666" y="543.3333333333334" type="line"/>
+      <point x="146.33333333333334" y="466.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1167.3333333333333" y="458.33333333333337" type="line"/>
+      <point x="1134.3333333333335" y="533.0" type="line"/>
+      <point x="261.0" y="63.00000000000001" type="line"/>
+      <point x="288.3333333333333" y="-13.333333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

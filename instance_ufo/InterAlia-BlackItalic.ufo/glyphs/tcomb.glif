@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="036D"/>
+  <outline>
+    <contour>
+      <point x="-404" y="1760" type="line"/>
+      <point x="-748" y="1760" type="line"/>
+      <point x="-768" y="1635" type="line"/>
+      <point x="-425" y="1635" type="line"/>
+    </contour>
+    <contour>
+      <point x="-657" y="1894" type="line"/>
+      <point x="-742" y="1382" type="line" smooth="yes"/>
+      <point x="-764" y="1248"/>
+      <point x="-700" y="1190"/>
+      <point x="-588" y="1190" type="curve" smooth="yes"/>
+      <point x="-554" y="1190"/>
+      <point x="-513" y="1196"/>
+      <point x="-480" y="1207" type="curve"/>
+      <point x="-460" y="1338" type="line"/>
+      <point x="-473" y="1335"/>
+      <point x="-479" y="1338"/>
+      <point x="-506" y="1338" type="curve" smooth="yes"/>
+      <point x="-551" y="1338"/>
+      <point x="-563" y="1350"/>
+      <point x="-559" y="1382" type="curve" smooth="yes"/>
+      <point x="-474" y="1894" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>58</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

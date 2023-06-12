@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scircumflex" format="2">
+  <advance height="2479" width="1306"/>
+  <unicode hex="015C"/>
+  <anchor x="559" y="-26" name="bottom"/>
+  <anchor x="564" y="0" name="cedilla"/>
+  <anchor x="838" y="1676" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="circumflex" xOffset="249" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

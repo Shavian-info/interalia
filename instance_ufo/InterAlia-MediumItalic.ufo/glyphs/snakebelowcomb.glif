@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="snakebelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DC2"/>
+  <outline>
+    <contour>
+      <point x="-898.0" y="-137.0" type="curve"/>
+      <point x="-860.8" y="-215.0" type="line"/>
+      <point x="-817.0" y="-195.0"/>
+      <point x="-768.5999999999999" y="-177.6"/>
+      <point x="-722.0" y="-177.6" type="curve" smooth="yes"/>
+      <point x="-702.2" y="-177.6"/>
+      <point x="-685.4" y="-182.4"/>
+      <point x="-688.2" y="-200.4" type="curve" smooth="yes"/>
+      <point x="-693.8" y="-221.6"/>
+      <point x="-851.4" y="-237.2"/>
+      <point x="-861.8" y="-294.6" type="curve" smooth="yes"/>
+      <point x="-871.6" y="-354.4"/>
+      <point x="-719.2" y="-349.2"/>
+      <point x="-721.8" y="-369.2" type="curve" smooth="yes"/>
+      <point x="-727.4000000000001" y="-394.2"/>
+      <point x="-876.1999999999999" y="-379.4"/>
+      <point x="-887.8" y="-449.4" type="curve" smooth="yes"/>
+      <point x="-897.0" y="-507.4"/>
+      <point x="-802.8000000000001" y="-545.2"/>
+      <point x="-664.6" y="-556.0" type="curve"/>
+      <point x="-632.5999999999999" y="-472.4" type="line"/>
+      <point x="-714.2" y="-465.8"/>
+      <point x="-755.8000000000001" y="-455.2"/>
+      <point x="-755.4000000000001" y="-447.0" type="curve" smooth="yes"/>
+      <point x="-750.4" y="-422.8"/>
+      <point x="-601.0" y="-435.8"/>
+      <point x="-589.4" y="-366.2" type="curve" smooth="yes"/>
+      <point x="-577.8" y="-300.6"/>
+      <point x="-732.6" y="-307.6"/>
+      <point x="-727.6" y="-285.2" type="curve" smooth="yes"/>
+      <point x="-725.0" y="-260.2"/>
+      <point x="-582.5999999999999" y="-264.6"/>
+      <point x="-569.4" y="-183.2" type="curve" smooth="yes"/>
+      <point x="-562.5999999999999" y="-130.0"/>
+      <point x="-599.1999999999999" y="-84.2"/>
+      <point x="-689.4" y="-84.2" type="curve" smooth="yes"/>
+      <point x="-756.1999999999999" y="-84.2"/>
+      <point x="-833.8" y="-102.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

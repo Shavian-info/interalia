@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevetilde" format="2">
+  <advance height="2479" width="1629"/>
+  <unicode hex="1EB4"/>
+  <anchor x="815" y="0" name="bottom"/>
+  <anchor x="1583" y="0" name="ogonek"/>
+  <anchor x="460" y="1489" name="tonos"/>
+  <anchor x="815" y="1676" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevetildecomb.cn" xOffset="291" yOffset="364"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

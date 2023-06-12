@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphenbullet.case" format="2">
+  <advance height="2479.0" width="881.5999999999999"/>
+  <outline>
+    <component base="hyphenbullet" yOffset="151.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

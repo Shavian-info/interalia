@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ze-cy" format="2">
+  <advance height="2479" width="1015"/>
+  <unicode hex="0437"/>
+  <anchor x="415" y="0" name="cedilla"/>
+  <anchor x="635" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="85" y="285" type="line"/>
+      <point x="61" y="100"/>
+      <point x="189" y="-23"/>
+      <point x="409" y="-23" type="curve" smooth="yes"/>
+      <point x="641" y="-23"/>
+      <point x="810" y="115"/>
+      <point x="841" y="301" type="curve" smooth="yes"/>
+      <point x="864" y="444"/>
+      <point x="796" y="557"/>
+      <point x="696" y="579" type="curve"/>
+      <point x="697" y="589" type="line"/>
+      <point x="804" y="620"/>
+      <point x="884" y="705"/>
+      <point x="904" y="823" type="curve" smooth="yes"/>
+      <point x="933" y="1001"/>
+      <point x="820" y="1132"/>
+      <point x="612" y="1132" type="curve" smooth="yes"/>
+      <point x="412" y="1132"/>
+      <point x="239" y="1008"/>
+      <point x="200" y="823" type="curve"/>
+      <point x="247" y="823" type="line"/>
+      <point x="281" y="977"/>
+      <point x="432" y="1085"/>
+      <point x="612" y="1085" type="curve" smooth="yes"/>
+      <point x="785" y="1085"/>
+      <point x="884" y="982"/>
+      <point x="857" y="823" type="curve" smooth="yes"/>
+      <point x="836" y="695"/>
+      <point x="744" y="628"/>
+      <point x="615" y="605" type="curve"/>
+      <point x="420" y="605" type="line"/>
+      <point x="412" y="559" type="line"/>
+      <point x="613" y="559" type="line"/>
+      <point x="725" y="553"/>
+      <point x="820" y="454"/>
+      <point x="795" y="301" type="curve" smooth="yes"/>
+      <point x="767" y="138"/>
+      <point x="615" y="23"/>
+      <point x="409" y="23" type="curve" smooth="yes"/>
+      <point x="213" y="23"/>
+      <point x="113" y="129"/>
+      <point x="132" y="285" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

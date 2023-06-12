@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dje-cy" format="2">
+  <advance height="2479.0" width="1194.6666666666667"/>
+  <unicode hex="0452"/>
+  <anchor x="595.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="248.33333333333334" y="-2.0" name="cedilla"/>
+  <anchor x="236.33333333333334" y="1310.0" name="cross"/>
+  <anchor x="236.33333333333334" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="893.6666666666666" y="0.0" type="line"/>
+      <point x="893.6666666666666" y="-135.66666666666666" type="line" smooth="yes"/>
+      <point x="893.6666666666666" y="-259.0"/>
+      <point x="830.3333333333334" y="-303.6666666666667"/>
+      <point x="734.3333333333334" y="-303.6666666666667" type="curve" smooth="yes"/>
+      <point x="711.3333333333334" y="-303.6666666666667"/>
+      <point x="690.0" y="-300.3333333333333"/>
+      <point x="673.6666666666666" y="-297.0" type="curve"/>
+      <point x="673.6666666666666" y="-407.6666666666667" type="line"/>
+      <point x="697.0" y="-416.6666666666667"/>
+      <point x="731.0" y="-418.0"/>
+      <point x="764.0" y="-418.0" type="curve" smooth="yes"/>
+      <point x="915.0" y="-418.0"/>
+      <point x="1024.0" y="-317.3333333333333"/>
+      <point x="1024.0" y="-135.66666666666666" type="curve" smooth="yes"/>
+      <point x="1024.0" y="0.0" type="line"/>
+    </contour>
+    <component base="tshe-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

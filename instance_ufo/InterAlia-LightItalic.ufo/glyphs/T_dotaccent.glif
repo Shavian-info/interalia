@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tdotaccent" format="2">
+  <advance height="2479.0" width="1295.6666666666667"/>
+  <unicode hex="1E6A"/>
+  <anchor x="554.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="568.0" y="-2.0" name="cedilla"/>
+  <anchor x="682.3333333333334" y="768.0" name="cross"/>
+  <anchor x="692.0" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="585.6666666666666" y="0.0" name="right"/>
+  <anchor x="834.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="dotaccent" xOffset="485.6666666666667" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

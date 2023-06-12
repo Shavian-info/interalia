@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0368"/>
+  <outline>
+    <contour>
+      <point x="-532.3333333333334" y="1187.0" type="curve" smooth="yes"/>
+      <point x="-422.6666666666667" y="1187.0"/>
+      <point x="-333.0" y="1254.0"/>
+      <point x="-315.0" y="1361.6666666666667" type="curve"/>
+      <point x="-386.6666666666667" y="1361.6666666666667" type="line"/>
+      <point x="-399.6666666666667" y="1291.6666666666667"/>
+      <point x="-455.3333333333333" y="1253.6666666666667"/>
+      <point x="-530.3333333333334" y="1253.6666666666667" type="curve" smooth="yes"/>
+      <point x="-636.0" y="1253.6666666666667"/>
+      <point x="-693.0" y="1330.3333333333333"/>
+      <point x="-693.0" y="1455.6666666666667" type="curve" smooth="yes"/>
+      <point x="-693.0" y="1478.0" type="line" smooth="yes"/>
+      <point x="-693.0" y="1607.6666666666667"/>
+      <point x="-632.0" y="1692.6666666666667"/>
+      <point x="-527.6666666666666" y="1692.6666666666667" type="curve" smooth="yes"/>
+      <point x="-447.3333333333333" y="1692.6666666666667"/>
+      <point x="-389.0" y="1643.0"/>
+      <point x="-383.33333333333337" y="1571.0" type="curve"/>
+      <point x="-312.3333333333333" y="1571.0" type="line"/>
+      <point x="-321.0" y="1688.3333333333333"/>
+      <point x="-404.6666666666667" y="1760.0"/>
+      <point x="-524.3333333333334" y="1760.0" type="curve" smooth="yes"/>
+      <point x="-681.0" y="1760.0"/>
+      <point x="-768.0" y="1642.6666666666667"/>
+      <point x="-768.0" y="1478.0" type="curve" smooth="yes"/>
+      <point x="-768.0" y="1455.6666666666667" type="line" smooth="yes"/>
+      <point x="-768.0" y="1299.3333333333333"/>
+      <point x="-684.6666666666666" y="1187.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

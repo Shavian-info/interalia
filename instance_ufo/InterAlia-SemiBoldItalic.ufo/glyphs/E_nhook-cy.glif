@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enhook-cy" format="2">
+  <advance height="2479.0" width="1524.0"/>
+  <unicode hex="04C7"/>
+  <anchor x="667.8" y="0.0" name="bottom"/>
+  <anchor x="196.8" y="0.0" name="cedilla"/>
+  <anchor x="1418.6" y="103.6" name="cyrtic"/>
+  <anchor x="1282.2" y="0.0" name="right"/>
+  <anchor x="262.4" y="1489.0" name="tonos"/>
+  <anchor x="952.2" y="1677.8" name="top"/>
+  <outline>
+    <contour>
+      <point x="1014.4000000000001" y="0.0" type="line"/>
+      <point x="1003.6000000000001" y="-71.4" type="line" smooth="yes"/>
+      <point x="993.4000000000001" y="-178.0"/>
+      <point x="893.0" y="-214.4"/>
+      <point x="797.8000000000001" y="-214.4" type="curve" smooth="yes"/>
+      <point x="780.8000000000001" y="-214.4"/>
+      <point x="745.0" y="-213.2"/>
+      <point x="723.8" y="-208.4" type="curve"/>
+      <point x="695.4" y="-423.4" type="line"/>
+      <point x="710.4000000000001" y="-428.8"/>
+      <point x="759.4" y="-434.2"/>
+      <point x="799.2" y="-434.2" type="curve" smooth="yes"/>
+      <point x="1136.6" y="-434.2"/>
+      <point x="1246.2" y="-243.2"/>
+      <point x="1269.6" y="-91.39999999999999" type="curve" smooth="yes"/>
+      <point x="1284.0" y="0.0" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

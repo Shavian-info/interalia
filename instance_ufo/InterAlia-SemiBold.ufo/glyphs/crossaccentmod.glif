@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="crossaccentmod" format="2">
+  <advance height="2479.0" width="772.6"/>
+  <unicode hex="02DF"/>
+  <outline>
+    <contour>
+      <point x="235.0" y="1153.8" type="line"/>
+      <point x="657.4" y="1574.2" type="line"/>
+      <point x="540.0" y="1691.6" type="line"/>
+      <point x="116.4" y="1272.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="537.6" y="1150.8" type="line"/>
+      <point x="656.2" y="1271.6" type="line"/>
+      <point x="236.8" y="1694.6" type="line"/>
+      <point x="118.2" y="1574.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

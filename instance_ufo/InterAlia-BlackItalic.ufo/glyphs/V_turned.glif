@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vturned" format="2">
+  <advance height="2479" width="1629"/>
+  <unicode hex="0245"/>
+  <outline>
+    <contour>
+      <point x="-47" y="0" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="895" y="1050" type="line"/>
+      <point x="906" y="1050" type="line"/>
+      <point x="1039" y="0" type="line"/>
+      <point x="1489" y="0" type="line"/>
+      <point x="1244" y="1489" type="line"/>
+      <point x="691" y="1489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iacute.1" format="2">
+  <advance height="2479" width="716"/>
+  <anchor x="358" y="0" name="bottom"/>
+  <anchor x="358" y="768" name="cross"/>
+  <anchor x="591" y="0" name="ogonek"/>
+  <anchor x="599" y="0" name="right"/>
+  <anchor x="125" y="1489" name="tonos"/>
+  <anchor x="361" y="2049" name="top"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="acute" xOffset="-148" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

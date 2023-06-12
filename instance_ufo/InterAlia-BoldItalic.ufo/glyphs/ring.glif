@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance height="2479.0" width="786.4"/>
+  <unicode hex="02DA"/>
+  <anchor x="515.2" y="1303.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="516.4000000000001" y="1236.6" type="curve" smooth="yes"/>
+      <point x="654.2" y="1236.6"/>
+      <point x="777.4" y="1342.8"/>
+      <point x="791.8" y="1475.2" type="curve" smooth="yes"/>
+      <point x="806.8" y="1608.0"/>
+      <point x="709.6" y="1717.4"/>
+      <point x="571.4000000000001" y="1717.4" type="curve" smooth="yes"/>
+      <point x="433.59999999999997" y="1717.4"/>
+      <point x="309.79999999999995" y="1608.0"/>
+      <point x="294.79999999999995" y="1475.2" type="curve" smooth="yes"/>
+      <point x="280.2" y="1342.8"/>
+      <point x="378.59999999999997" y="1236.6"/>
+    </contour>
+    <contour>
+      <point x="533.2" y="1366.8" type="curve" smooth="yes"/>
+      <point x="467.4" y="1366.8"/>
+      <point x="423.8" y="1418.2"/>
+      <point x="431.0" y="1475.2" type="curve" smooth="yes"/>
+      <point x="437.20000000000005" y="1534.4"/>
+      <point x="491.0" y="1586.4"/>
+      <point x="556.8000000000001" y="1586.4" type="curve" smooth="yes"/>
+      <point x="621.0" y="1586.4"/>
+      <point x="664.4" y="1534.4"/>
+      <point x="657.8" y="1475.2" type="curve" smooth="yes"/>
+      <point x="650.5999999999999" y="1418.2"/>
+      <point x="596.8" y="1366.8000000000002"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

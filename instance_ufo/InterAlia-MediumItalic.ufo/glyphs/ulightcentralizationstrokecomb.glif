@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ulightcentralizationstrokecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DF0"/>
+  <outline>
+    <contour>
+      <point x="-856.8" y="1071.0" type="line"/>
+      <point x="-755.8" y="1007.4" type="line"/>
+      <point x="-544.1999999999999" y="1273.0" type="line"/>
+      <point x="-646.0" y="1338.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-387.20000000000005" y="1330.8" type="line"/>
+      <point x="-375.8" y="1201.0" type="line"/>
+      <point x="-263.4" y="1201.0" type="line"/>
+      <point x="-173.39999999999998" y="1754.0" type="line"/>
+      <point x="-317.20000000000005" y="1754.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-346.8" y="1457.0" type="line"/>
+      <point x="-361.2" y="1365.4"/>
+      <point x="-406.8" y="1304.6"/>
+      <point x="-495.00000000000006" y="1304.6" type="curve" smooth="yes"/>
+      <point x="-561.5999999999999" y="1304.6"/>
+      <point x="-577.6" y="1349.4"/>
+      <point x="-566.8" y="1422.2" type="curve" smooth="yes"/>
+      <point x="-511.8" y="1754.0" type="line"/>
+      <point x="-651.8" y="1754.0" type="line"/>
+      <point x="-707.8" y="1424.6" type="line" smooth="yes"/>
+      <point x="-733.8" y="1259.4"/>
+      <point x="-671.8000000000001" y="1193.0"/>
+      <point x="-555.8" y="1193.0" type="curve" smooth="yes"/>
+      <point x="-406.6" y="1193.0"/>
+      <point x="-324.0" y="1303.0"/>
+      <point x="-297.0" y="1460.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

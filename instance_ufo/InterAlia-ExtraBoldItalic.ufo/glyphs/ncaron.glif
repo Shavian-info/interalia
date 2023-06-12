@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ncaron" format="2">
+  <advance height="2479.0" width="1299.0"/>
+  <unicode hex="0148"/>
+  <anchor x="559.6" y="0.0" name="bottom"/>
+  <anchor x="774.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="caron" xOffset="41.599999999999994"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance height="2479.0" width="1505.4"/>
+  <unicode hex="014A"/>
+  <anchor x="753.6" y="0.0" name="bottom"/>
+  <anchor x="1416.6" y="0.0" name="right"/>
+  <anchor x="753.6" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1103.0" y="0.0" type="line"/>
+      <point x="1103.0" y="-63.800000000000004" type="line" smooth="yes"/>
+      <point x="1103.0" y="-159.8"/>
+      <point x="1034.2" y="-203.2"/>
+      <point x="932.2" y="-203.2" type="curve" smooth="yes"/>
+      <point x="894.2" y="-203.2"/>
+      <point x="853.4" y="-198.4"/>
+      <point x="824.4" y="-191.8" type="curve"/>
+      <point x="824.4" y="-425.6" type="line"/>
+      <point x="858.2" y="-437.0"/>
+      <point x="901.6" y="-441.8"/>
+      <point x="937.2" y="-441.8" type="curve" smooth="yes"/>
+      <point x="1201.0" y="-441.8"/>
+      <point x="1375.4" y="-342.8"/>
+      <point x="1375.4" y="-59.6" type="curve" smooth="yes"/>
+      <point x="1375.4" y="0.0" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

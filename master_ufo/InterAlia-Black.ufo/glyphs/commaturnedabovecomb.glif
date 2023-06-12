@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0312"/>
+  <anchor x="-675" y="1071" name="_marktop"/>
+  <anchor x="-675" y="1684" name="mkmktop"/>
+  <anchor x="-643" y="1315" name="parent_top"/>
+  <outline>
+    <contour>
+      <point x="-826" y="1012" type="line"/>
+      <point x="-532" y="1012" type="line"/>
+      <point x="-532" y="1222" type="line" smooth="yes"/>
+      <point x="-532" y="1361"/>
+      <point x="-500" y="1460"/>
+      <point x="-460" y="1536" type="curve"/>
+      <point x="-634" y="1617" type="line"/>
+      <point x="-727" y="1533"/>
+      <point x="-825" y="1367"/>
+      <point x="-826" y="1222" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>47</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

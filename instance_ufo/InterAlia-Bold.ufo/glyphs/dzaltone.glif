@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzaltone" format="2">
+  <advance height="2479.0" width="2287.6"/>
+  <unicode hex="02A3"/>
+  <anchor x="642.0" y="0.0" name="bottom"/>
+  <anchor x="1016.4" y="1280.0" name="cross"/>
+  <anchor x="1297.8" y="1489.0" name="raccent"/>
+  <anchor x="567.8" y="1489.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1234.4" y="0.0" type="line"/>
+      <point x="2173.4" y="0.0" type="line"/>
+      <point x="2173.4" y="247.0" type="line"/>
+      <point x="1640.8" y="247.0" type="line"/>
+      <point x="1640.8" y="255.39999999999998" type="line"/>
+      <point x="2154.2" y="915.8" type="line"/>
+      <point x="2154.2" y="1117.0" type="line"/>
+      <point x="1043.8" y="1117.0" type="line"/>
+      <point x="1043.8" y="870.0" type="line"/>
+      <point x="1781.4" y="870.0" type="line"/>
+      <point x="1781.4" y="861.6" type="line"/>
+      <point x="1234.4" y="185.0" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

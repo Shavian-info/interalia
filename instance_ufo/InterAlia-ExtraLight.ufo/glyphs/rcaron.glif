@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rcaron" format="2">
+  <advance height="2479.0" width="698.0"/>
+  <unicode hex="0159"/>
+  <anchor x="227.66666666666666" y="0.0" name="bottom"/>
+  <anchor x="228.66666666666666" y="535.0" name="cross"/>
+  <anchor x="426.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="r"/>
+    <component base="caron" xOffset="-16.333333333333336" yOffset="9.333333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

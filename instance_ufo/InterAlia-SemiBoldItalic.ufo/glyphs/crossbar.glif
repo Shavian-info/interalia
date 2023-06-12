@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="crossbar" format="2">
+  <advance height="2479.0" width="967.0"/>
+  <unicode hex="E103"/>
+  <anchor x="516.0" y="755.0" name="_cross"/>
+  <outline>
+    <contour>
+      <point x="152.79999999999998" y="675.8" type="line"/>
+      <point x="850.0" y="675.8" type="line"/>
+      <point x="879.0" y="841.6" type="line"/>
+      <point x="181.79999999999998" y="841.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

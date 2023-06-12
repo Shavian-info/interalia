@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight-roman" format="2">
+  <advance height="2479" width="2598"/>
+  <unicode hex="2177"/>
+  <anchor x="570" y="0" name="bottom_1"/>
+  <anchor x="1384" y="0" name="bottom_2"/>
+  <anchor x="1870" y="0" name="bottom_3"/>
+  <anchor x="2356" y="0" name="bottom_4"/>
+  <anchor x="1384" y="593" name="cross_1"/>
+  <anchor x="1870" y="593" name="cross_2"/>
+  <anchor x="2356" y="593" name="cross_3"/>
+  <anchor x="1469" y="0" name="ogonek_1"/>
+  <anchor x="1955" y="0" name="ogonek_2"/>
+  <anchor x="2441" y="0" name="ogonek_3"/>
+  <anchor x="570" y="1303" name="top_1"/>
+  <anchor x="1384" y="1303" name="top_2"/>
+  <anchor x="1870" y="1303" name="top_3"/>
+  <anchor x="2356" y="1303" name="top_4"/>
+  <outline>
+    <component base="v"/>
+    <component base="i" xOffset="1140"/>
+    <component base="i" xOffset="1626"/>
+    <component base="i" xOffset="2112"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

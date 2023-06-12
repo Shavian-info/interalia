@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="san" format="2">
+  <advance height="2479.0" width="1408.3333333333335"/>
+  <unicode hex="03FB"/>
+  <outline>
+    <contour>
+      <point x="-24.666666666666675" y="-416.3333333333333" type="line"/>
+      <point x="101.66666666666667" y="-416.3333333333333" type="line"/>
+      <point x="315.3333333333333" y="876.0" type="line"/>
+      <point x="327.3333333333333" y="876.0" type="line"/>
+      <point x="564.3333333333333" y="0.0" type="line"/>
+      <point x="666.3333333333333" y="0.0" type="line"/>
+      <point x="1186.6666666666667" y="860.6666666666666" type="line"/>
+      <point x="1198.6666666666667" y="860.6666666666666" type="line"/>
+      <point x="1056.3333333333335" y="0.0" type="line"/>
+      <point x="1185.6666666666667" y="0.0" type="line"/>
+      <point x="1370.6666666666667" y="1117.0" type="line"/>
+      <point x="1209.6666666666667" y="1117.0" type="line"/>
+      <point x="654.6666666666666" y="201.0" type="line"/>
+      <point x="642.0" y="201.0" type="line"/>
+      <point x="393.0" y="1117.0" type="line"/>
+      <point x="229.33333333333331" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

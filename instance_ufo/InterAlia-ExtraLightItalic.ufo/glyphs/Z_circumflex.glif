@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zcircumflex" format="2">
+  <advance height="2479.0" width="1252.6666666666667"/>
+  <unicode hex="1E90"/>
+  <anchor x="543.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="664.3333333333333" y="752.6666666666666" name="cross"/>
+  <anchor x="817.6666666666666" y="1676.0" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="circumflex" xOffset="250.6666666666667" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdblgrave.1" format="2">
+  <advance height="2479.0" width="811.2"/>
+  <anchor x="253.8" y="0.0" name="bottom"/>
+  <anchor x="255.8" y="535.0" name="cross"/>
+  <anchor x="434.8" y="1303.0" name="top"/>
+  <outline>
+    <component base="r.1"/>
+    <component base="dblgravecomb" xOffset="933.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

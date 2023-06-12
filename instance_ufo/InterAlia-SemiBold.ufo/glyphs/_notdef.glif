@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name=".notdef" format="2">
+  <advance height="2479.0" width="2111.6"/>
+  <outline>
+    <contour>
+      <point x="201.2" y="-465.0" type="line"/>
+      <point x="1910.8" y="-465.0" type="line"/>
+      <point x="1910.8" y="-93.0" type="line"/>
+      <point x="201.2" y="-93.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="201.2" y="1071.0" type="line"/>
+      <point x="1910.8" y="1071.0" type="line"/>
+      <point x="1910.8" y="1443.0" type="line"/>
+      <point x="201.2" y="1443.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="201.2" y="1583.0" type="line"/>
+      <point x="1910.8" y="1583.0" type="line"/>
+      <point x="1910.8" y="1955.0" type="line"/>
+      <point x="201.2" y="1955.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="201.2" y="47.0" type="line"/>
+      <point x="1910.8" y="47.0" type="line"/>
+      <point x="1910.8" y="419.0" type="line"/>
+      <point x="201.2" y="419.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="201.2" y="559.0" type="line"/>
+      <point x="1910.8" y="559.0" type="line"/>
+      <point x="1910.8" y="931.0" type="line"/>
+      <point x="201.2" y="931.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

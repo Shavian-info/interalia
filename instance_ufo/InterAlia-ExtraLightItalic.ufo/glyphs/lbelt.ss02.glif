@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbelt.ss02" format="2">
+  <advance height="2479.0" width="742.6666666666666"/>
+  <anchor x="470.0" y="0.0" name="bottom"/>
+  <anchor x="515.3333333333334" y="768.0" name="cross"/>
+  <anchor x="818.6666666666667" y="1489.0" name="raccent"/>
+  <anchor x="666.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="700.3333333333334" y="650.3333333333333" type="line"/>
+      <point x="713.0000000000001" y="735.0" type="line"/>
+      <point x="328.0" y="735.0" type="line" smooth="yes"/>
+      <point x="224.66666666666669" y="735.0"/>
+      <point x="159.33333333333334" y="805.6666666666666"/>
+      <point x="175.66666666666666" y="891.0" type="curve" smooth="yes"/>
+      <point x="190.66666666666666" y="978.6666666666666"/>
+      <point x="273.0" y="1049.3333333333333"/>
+      <point x="358.6666666666667" y="1049.3333333333333" type="curve" smooth="yes"/>
+      <point x="466.66666666666663" y="1049.3333333333333"/>
+      <point x="504.3333333333333" y="972.3333333333334"/>
+      <point x="488.3333333333333" y="873.6666666666666" type="curve" smooth="yes"/>
+      <point x="450.66666666666663" y="640.0" type="line"/>
+      <point x="539.3333333333333" y="641.3333333333334" type="line"/>
+      <point x="576.0" y="868.0" type="line" smooth="yes"/>
+      <point x="600.3333333333333" y="1019.0"/>
+      <point x="527.0" y="1130.6666666666667"/>
+      <point x="368.3333333333333" y="1130.6666666666667" type="curve" smooth="yes"/>
+      <point x="225.66666666666666" y="1130.6666666666667"/>
+      <point x="105.33333333333334" y="1025.6666666666665"/>
+      <point x="84.33333333333334" y="891.0" type="curve" smooth="yes"/>
+      <point x="61.333333333333336" y="752.3333333333333"/>
+      <point x="167.66666666666669" y="650.3333333333334"/>
+      <point x="318.33333333333337" y="650.3333333333334" type="curve" smooth="yes"/>
+    </contour>
+    <component base="l.ss02" xOffset="252.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

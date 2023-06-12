@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eiotified-cy" format="2">
+  <advance height="2479.0" width="2067.2"/>
+  <unicode hex="0464"/>
+  <outline>
+    <contour>
+      <point x="1468.4" y="863.8" type="line"/>
+      <point x="432.4" y="863.8" type="line"/>
+      <point x="392.59999999999997" y="618.6" type="line"/>
+      <point x="1428.6000000000001" y="618.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="2049.6" y="1022.2" type="line"/>
+      <point x="2023.8" y="1334.4"/>
+      <point x="1801.6" y="1510.0"/>
+      <point x="1497.2" y="1510.0" type="curve" smooth="yes"/>
+      <point x="1106.8" y="1510.0"/>
+      <point x="772.8" y="1225.0"/>
+      <point x="693.8" y="743.2" type="curve"/>
+      <point x="614.8" y="261.0"/>
+      <point x="853.8" y="-20.0"/>
+      <point x="1243.8" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1557.6" y="-20.0"/>
+      <point x="1829.2" y="160.0"/>
+      <point x="1956.0" y="460.2" type="curve"/>
+      <point x="1655.3999999999999" y="500.4" type="line"/>
+      <point x="1581.8" y="337.6"/>
+      <point x="1444.4" y="260.2"/>
+      <point x="1290.6" y="260.2" type="curve" smooth="yes"/>
+      <point x="1079.0" y="260.2"/>
+      <point x="952.4" y="404.8"/>
+      <point x="1008.0" y="743.2" type="curve"/>
+      <point x="1064.8" y="1081.0"/>
+      <point x="1240.3999999999999" y="1229.4"/>
+      <point x="1451.6" y="1229.4" type="curve" smooth="yes"/>
+      <point x="1609.3999999999999" y="1229.4"/>
+      <point x="1720.8" y="1147.0"/>
+      <point x="1740.0" y="982.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="599.0" y="1489.0" type="line"/>
+      <point x="284.0" y="1489.0" type="line"/>
+      <point x="36.599999999999994" y="0.0" type="line"/>
+      <point x="351.4" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

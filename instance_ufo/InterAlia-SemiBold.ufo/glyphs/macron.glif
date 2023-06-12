@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macron" format="2">
+  <advance height="2479.0" width="1077.4"/>
+  <unicode hex="00AF"/>
+  <anchor x="538.8" y="1303.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="888.4" y="1489.0" type="line"/>
+      <point x="189.0" y="1489.0" type="line"/>
+      <point x="189.0" y="1328.8" type="line"/>
+      <point x="888.4" y="1328.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilderighthalfbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="FE2A"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="-356.8" type="line"/>
+      <point x="136.2" y="-370.0"/>
+      <point x="300.6" y="-387.0"/>
+      <point x="369.4" y="-394.2" type="curve" smooth="yes"/>
+      <point x="457.8" y="-404.6"/>
+      <point x="577.4" y="-410.6"/>
+      <point x="670.6" y="-410.6" type="curve" smooth="yes"/>
+      <point x="905.6" y="-410.6"/>
+      <point x="1053.4" y="-298.2"/>
+      <point x="1126.2" y="-174.4" type="curve"/>
+      <point x="999.2" y="-109.6" type="line"/>
+      <point x="933.8" y="-182.6"/>
+      <point x="847.0" y="-248.6"/>
+      <point x="648.6" y="-248.6" type="curve" smooth="yes"/>
+      <point x="556.2" y="-248.6"/>
+      <point x="464.0" y="-242.6"/>
+      <point x="354.2" y="-232.4" type="curve" smooth="yes"/>
+      <point x="260.0" y="-223.8"/>
+      <point x="136.8" y="-212.4"/>
+      <point x="0.0" y="-194.8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

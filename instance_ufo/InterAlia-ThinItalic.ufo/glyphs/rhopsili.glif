@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhopsili" format="2">
+  <advance height="2479" width="1127"/>
+  <unicode hex="1FE4"/>
+  <anchor x="68" y="-207" name="cross"/>
+  <anchor x="694" y="1303" name="top"/>
+  <outline>
+    <component base="rho"/>
+    <component base="koronis" xOffset="310" yOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

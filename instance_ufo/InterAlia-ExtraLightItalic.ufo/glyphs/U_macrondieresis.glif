@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacrondieresis" format="2">
+  <advance height="2479.0" width="1530.0"/>
+  <unicode hex="1E7A"/>
+  <anchor x="668.0" y="-22.0" name="bottom"/>
+  <anchor x="761.0" y="0.0" name="ogonek"/>
+  <anchor x="741.6666666666666" y="0.0" name="right"/>
+  <anchor x="949.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="macrondieresiscomb.cn" xOffset="1394.0" yOffset="525.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversed" format="2">
+  <advance height="2479.0" width="1205.6666666666667"/>
+  <unicode hex="018E"/>
+  <anchor x="604.0" y="0.0" name="bottom"/>
+  <anchor x="607.0" y="0.0" name="cedilla"/>
+  <anchor x="632.0" y="1676.0" name="top"/>
+  <anchor x="144.0" y="1489.0" name="ogonek"/>
+  <anchor x="1041.0" y="0.0" name="tonos"/>
+  <outline>
+    <component base="E" xScale="-1.0" yScale="-1.0" xOffset="1205.6666666666667" yOffset="1489.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="telephone" format="2">
+  <advance height="2479.0" width="1354.0"/>
+  <unicode hex="2121"/>
+  <outline>
+    <contour>
+      <point x="581.6666666666666" y="954.0" type="line"/>
+      <point x="876.3333333333334" y="954.0" type="line"/>
+      <point x="876.3333333333334" y="1012.6666666666666" type="line"/>
+      <point x="644.3333333333334" y="1012.6666666666666" type="line"/>
+      <point x="644.3333333333334" y="1431.3333333333333" type="line"/>
+      <point x="876.3333333333334" y="1431.3333333333333" type="line"/>
+      <point x="876.3333333333334" y="1489.0" type="line"/>
+      <point x="581.6666666666666" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="244.0" y="954.0" type="line"/>
+      <point x="306.3333333333333" y="954.0" type="line"/>
+      <point x="306.3333333333333" y="1458.3333333333333" type="line"/>
+      <point x="244.0" y="1458.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="81.0" y="1431.3333333333333" type="line"/>
+      <point x="469.3333333333333" y="1431.3333333333333" type="line"/>
+      <point x="469.3333333333333" y="1489.0" type="line"/>
+      <point x="81.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="615.6666666666666" y="1202.3333333333333" type="line"/>
+      <point x="830.3333333333334" y="1202.3333333333333" type="line"/>
+      <point x="830.3333333333334" y="1260.6666666666667" type="line"/>
+      <point x="615.6666666666666" y="1260.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="988.6666666666666" y="954.0" type="line"/>
+      <point x="1272.0" y="954.0" type="line"/>
+      <point x="1272.0" y="1012.6666666666666" type="line"/>
+      <point x="1051.0" y="1012.6666666666666" type="line"/>
+      <point x="1051.0" y="1489.0" type="line"/>
+      <point x="988.6666666666666" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

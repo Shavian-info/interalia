@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis-cy" format="2">
+  <advance height="2479" width="1263"/>
+  <unicode hex="04D2"/>
+  <anchor x="538" y="0" name="bottom"/>
+  <anchor x="1103" y="0" name="ogonek"/>
+  <anchor x="681" y="1489" name="tonos"/>
+  <anchor x="817" y="1676" name="top"/>
+  <outline>
+    <component base="Adieresis"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

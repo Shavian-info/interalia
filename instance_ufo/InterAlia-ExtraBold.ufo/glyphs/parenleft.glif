@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenleft" format="2">
+  <advance height="2479.0" width="870.0"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="183.6" y="586.4" type="curve" smooth="yes"/>
+      <point x="183.6" y="226.8"/>
+      <point x="277.8" y="-72.0"/>
+      <point x="483.0" y="-330.2" type="curve"/>
+      <point x="827.6" y="-330.2" type="line"/>
+      <point x="671.6" y="-138.2"/>
+      <point x="553.6" y="242.8"/>
+      <point x="553.6" y="586.4" type="curve" smooth="yes"/>
+      <point x="553.6" y="930.2"/>
+      <point x="671.6" y="1311.0"/>
+      <point x="827.6" y="1503.0" type="curve"/>
+      <point x="483.0" y="1503.0" type="line"/>
+      <point x="277.8" y="1244.8"/>
+      <point x="183.6" y="946.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

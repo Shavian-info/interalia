@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Thook" format="2">
+  <advance height="2479.0" width="1412.1999999999998"/>
+  <unicode hex="01AC"/>
+  <outline>
+    <contour>
+      <point x="899.8000000000001" y="1489.0" type="line"/>
+      <point x="580.0" y="1489.0" type="line" smooth="yes"/>
+      <point x="368.8" y="1489.0"/>
+      <point x="223.79999999999998" y="1360.8"/>
+      <point x="191.39999999999998" y="1165.6" type="curve" smooth="yes"/>
+      <point x="173.79999999999998" y="1059.2" type="line"/>
+      <point x="369.40000000000003" y="1059.2" type="line"/>
+      <point x="379.8" y="1125.6" type="line" smooth="yes"/>
+      <point x="393.8" y="1211.4"/>
+      <point x="439.59999999999997" y="1296.0"/>
+      <point x="547.4" y="1296.0" type="curve" smooth="yes"/>
+      <point x="868.0" y="1296.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1476.0" y="1489.0" type="line"/>
+      <point x="671.6" y="1489.0" type="line"/>
+      <point x="639.8" y="1296.0" type="line"/>
+      <point x="755.6" y="1296.0" type="line"/>
+      <point x="540.4" y="0.0" type="line"/>
+      <point x="765.0" y="0.0" type="line"/>
+      <point x="980.1999999999999" y="1296.0" type="line"/>
+      <point x="1444.2" y="1296.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

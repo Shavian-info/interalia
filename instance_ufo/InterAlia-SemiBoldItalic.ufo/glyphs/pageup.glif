@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pageup" format="2">
+  <advance height="2479.0" width="1281.4"/>
+  <unicode hex="21DE"/>
+  <outline>
+    <contour>
+      <point x="252.00000000000003" y="1070.6" type="line"/>
+      <point x="1197.6" y="1070.6" type="line"/>
+      <point x="803.4" y="1549.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="258.59999999999997" y="312.2" type="line"/>
+      <point x="938.6" y="312.2" type="line"/>
+      <point x="971.4000000000001" y="509.6" type="line"/>
+      <point x="292.4" y="509.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="439.59999999999997" y="0.0" type="line"/>
+      <point x="654.6" y="0.0" type="line"/>
+      <point x="860.4000000000001" y="1241.0" type="line"/>
+      <point x="645.0" y="1241.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="317.4" y="660.0" type="line"/>
+      <point x="996.4000000000001" y="660.0" type="line"/>
+      <point x="1028.8" y="858.4" type="line"/>
+      <point x="349.2" y="858.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

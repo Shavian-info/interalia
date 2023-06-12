@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eshcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DEF"/>
+  <outline>
+    <contour>
+      <point x="-588" y="1201" type="line"/>
+      <point x="-588" y="1812" type="line" smooth="yes"/>
+      <point x="-588" y="1841"/>
+      <point x="-561" y="1865"/>
+      <point x="-506" y="1865" type="curve" smooth="yes"/>
+      <point x="-486" y="1865"/>
+      <point x="-471" y="1865"/>
+      <point x="-460" y="1859" type="curve"/>
+      <point x="-465" y="1999" type="line"/>
+      <point x="-483" y="2001"/>
+      <point x="-515" y="2007"/>
+      <point x="-547" y="2007" type="curve" smooth="yes"/>
+      <point x="-687" y="2007"/>
+      <point x="-771" y="1937"/>
+      <point x="-771" y="1812" type="curve" smooth="yes"/>
+      <point x="-771" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-771" y="1754" type="line"/>
+      <point x="-771" y="1146" type="line" smooth="yes"/>
+      <point x="-771" y="1114"/>
+      <point x="-797" y="1091"/>
+      <point x="-852" y="1091" type="curve" smooth="yes"/>
+      <point x="-873" y="1091"/>
+      <point x="-887" y="1091"/>
+      <point x="-899" y="1097" type="curve"/>
+      <point x="-896" y="960" type="line"/>
+      <point x="-870" y="954"/>
+      <point x="-841" y="948"/>
+      <point x="-809" y="948" type="curve" smooth="yes"/>
+      <point x="-669" y="948"/>
+      <point x="-588" y="1021"/>
+      <point x="-588" y="1146" type="curve" smooth="yes"/>
+      <point x="-588" y="1754" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>47</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

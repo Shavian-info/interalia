@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteXWhiteDiamond" format="2">
+  <advance height="2479.0" width="2181.0"/>
+  <unicode hex="E000"/>
+  <outline>
+    <contour>
+      <point x="543.4" y="314.0" type="line"/>
+      <point x="973.6" y="745.0" type="line"/>
+      <point x="543.4" y="1169.0" type="line"/>
+      <point x="112.6" y="745.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="543.4" y="579.4" type="line"/>
+      <point x="382.6" y="745.0" type="line"/>
+      <point x="543.4" y="905.0" type="line"/>
+      <point x="706.6" y="745.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1096.4" y="-233.0" type="line"/>
+      <point x="1520.6" y="192.0" type="line"/>
+      <point x="1096.4" y="623.0" type="line"/>
+      <point x="665.6" y="192.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1096.4" y="32.400000000000006" type="line"/>
+      <point x="935.6" y="192.0" type="line"/>
+      <point x="1096.4" y="352.8" type="line"/>
+      <point x="1255.2" y="192.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1643.4" y="314.0" type="line"/>
+      <point x="2067.6" y="745.0" type="line"/>
+      <point x="1643.4" y="1169.0" type="line"/>
+      <point x="1218.4" y="745.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1643.4" y="579.4" type="line"/>
+      <point x="1480.2" y="745.0" type="line"/>
+      <point x="1643.4" y="905.0" type="line"/>
+      <point x="1803.4" y="745.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1096.4" y="867.0" type="line"/>
+      <point x="1520.6" y="1292.0" type="line"/>
+      <point x="1096.4" y="1722.0" type="line"/>
+      <point x="665.6" y="1292.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1096.4" y="1132.2" type="line"/>
+      <point x="935.6" y="1292.0" type="line"/>
+      <point x="1096.4" y="1456.8" type="line"/>
+      <point x="1255.2" y="1292.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

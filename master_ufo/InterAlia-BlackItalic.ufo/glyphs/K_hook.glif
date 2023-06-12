@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Khook" format="2">
+  <advance height="2479" width="1571"/>
+  <unicode hex="0198"/>
+  <outline>
+    <contour>
+      <point x="3" y="0" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="460" y="320" type="line"/>
+      <point x="669" y="503" type="line"/>
+      <point x="972" y="0" type="line"/>
+      <point x="1455" y="0" type="line"/>
+      <point x="977" y="791" type="line"/>
+      <point x="1332" y="1097" type="line" smooth="yes"/>
+      <point x="1402" y="1156"/>
+      <point x="1452" y="1196"/>
+      <point x="1539" y="1152" type="curve"/>
+      <point x="1705" y="1434" type="line"/>
+      <point x="1492" y="1562"/>
+      <point x="1281" y="1520"/>
+      <point x="1073" y="1341" type="curve" smooth="yes"/>
+      <point x="579" y="913" type="line"/>
+      <point x="559" y="913" type="line"/>
+      <point x="655" y="1489" type="line"/>
+      <point x="250" y="1489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

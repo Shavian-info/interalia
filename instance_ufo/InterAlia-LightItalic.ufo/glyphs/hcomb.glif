@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="036A"/>
+  <outline>
+    <contour>
+      <point x="-426.99999999999994" y="1994.0" type="line"/>
+      <point x="-529.6666666666666" y="1994.0" type="line"/>
+      <point x="-661.0" y="1201.0" type="line"/>
+      <point x="-558.3333333333333" y="1201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-523.0" y="1492.0" type="line"/>
+      <point x="-503.6666666666667" y="1604.6666666666667"/>
+      <point x="-445.3333333333333" y="1673.3333333333333"/>
+      <point x="-348.66666666666663" y="1673.3333333333333" type="curve" smooth="yes"/>
+      <point x="-262.6666666666667" y="1673.3333333333333"/>
+      <point x="-245.0" y="1626.3333333333333"/>
+      <point x="-261.0" y="1523.0" type="curve" smooth="yes"/>
+      <point x="-314.6666666666667" y="1201.0" type="line"/>
+      <point x="-211.33333333333334" y="1201.0" type="line"/>
+      <point x="-157.33333333333334" y="1534.6666666666667" type="line" smooth="yes"/>
+      <point x="-132.0" y="1690.0"/>
+      <point x="-189.66666666666669" y="1761.0"/>
+      <point x="-309.6666666666667" y="1761.0" type="curve" smooth="yes"/>
+      <point x="-450.99999999999994" y="1761.0"/>
+      <point x="-537.3333333333334" y="1650.0"/>
+      <point x="-564.0" y="1491.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enhook-cy" format="2">
+  <advance height="2479.0" width="1212.2"/>
+  <unicode hex="04C8"/>
+  <anchor x="1241.2" y="123.4" name="cyrtic"/>
+  <anchor x="1095.4" y="0.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="1095.4" y="0.0" type="line"/>
+      <point x="801.0" y="0.0" type="line"/>
+      <point x="801.0" y="-45.0" type="line" smooth="yes"/>
+      <point x="801.0" y="-146.4"/>
+      <point x="746.6" y="-192.60000000000002"/>
+      <point x="668.0" y="-192.60000000000002" type="curve" smooth="yes"/>
+      <point x="632.6" y="-192.60000000000002"/>
+      <point x="599.8" y="-191.4"/>
+      <point x="561.8" y="-181.0" type="curve"/>
+      <point x="547.4" y="-422.0" type="line"/>
+      <point x="602.2" y="-433.0"/>
+      <point x="646.2" y="-436.0"/>
+      <point x="701.0" y="-436.0" type="curve" smooth="yes"/>
+      <point x="944.8" y="-436.0"/>
+      <point x="1095.4" y="-304.4"/>
+      <point x="1095.4" y="-45.0" type="curve" smooth="yes"/>
+    </contour>
+    <component base="en-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

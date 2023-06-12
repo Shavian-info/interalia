@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="LL-middleWelsh" format="2">
+  <advance height="2479.0" width="1668.4"/>
+  <unicode hex="1EFA"/>
+  <anchor x="632.6" y="0.0" name="bottom_1"/>
+  <anchor x="1059.4" y="0.0" name="bottom_2"/>
+  <anchor x="295.4" y="772.0" name="cross_1"/>
+  <anchor x="722.2" y="772.0" name="cross_2"/>
+  <anchor x="624.2" y="809.8" name="dot_1"/>
+  <anchor x="1051.0" y="809.8" name="dot_2"/>
+  <anchor x="651.2" y="1489.0" name="raccent_1"/>
+  <anchor x="1078.0" y="1489.0" name="raccent_2"/>
+  <anchor x="294.8" y="1676.0" name="top_1"/>
+  <anchor x="721.6" y="1676.0" name="top_2"/>
+  <outline>
+    <component base="L" xOffset="19.200000000000003"/>
+    <component base="L" xOffset="446.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

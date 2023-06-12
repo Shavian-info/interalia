@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotpunctuation" format="2">
+  <advance height="2479.0" width="408.4"/>
+  <unicode hex="205A"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="812.8" yOffset="335.4"/>
+    <component base="dotbelowcomb" xOffset="812.8" yOffset="1495.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

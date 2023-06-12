@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lzdigraph" format="2">
+  <advance height="2479" width="1722"/>
+  <unicode hex="02AB"/>
+  <outline>
+    <contour>
+      <point x="1603" y="303" type="line"/>
+      <point x="716" y="303" type="line"/>
+      <point x="716" y="0" type="line"/>
+      <point x="1603" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1591" y="908" type="line"/>
+      <point x="1591" y="1117" type="line"/>
+      <point x="1321" y="1117" type="line"/>
+      <point x="628" y="207" type="line"/>
+      <point x="628" y="0" type="line"/>
+      <point x="899" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1472" y="1117" type="line"/>
+      <point x="288" y="1117" type="line"/>
+      <point x="288" y="815" type="line"/>
+      <point x="1472" y="815" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="1489" type="line"/>
+      <point x="102" y="1489" type="line"/>
+      <point x="102" y="0" type="line"/>
+      <point x="503" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

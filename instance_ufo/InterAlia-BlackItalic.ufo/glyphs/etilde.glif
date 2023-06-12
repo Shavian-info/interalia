@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etilde" format="2">
+  <advance height="2479" width="1245"/>
+  <unicode hex="1EBD"/>
+  <anchor x="529" y="0" name="bottom"/>
+  <anchor x="535" y="0" name="cedilla"/>
+  <anchor x="873" y="49" name="ogonek"/>
+  <anchor x="809" y="1676" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="tilde" xOffset="111"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

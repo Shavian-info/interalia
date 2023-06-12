@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gstroke.1" format="2">
+  <advance height="2479" width="1597"/>
+  <anchor x="712" y="6" name="bottom"/>
+  <anchor x="991" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="1542" y="500" type="line"/>
+      <point x="820" y="500" type="line"/>
+      <point x="806" y="410" type="line"/>
+      <point x="1527" y="410" type="line"/>
+    </contour>
+    <component base="G.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

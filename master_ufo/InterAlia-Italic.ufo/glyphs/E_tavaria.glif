@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etavaria" format="2">
+  <advance height="2479" width="1941"/>
+  <unicode hex="1FCA"/>
+  <anchor x="1088" y="0" name="bottom"/>
+  <anchor x="623" y="0" name="cedilla"/>
+  <anchor x="1746" y="64" name="cyrtic"/>
+  <anchor x="1664" y="0" name="right"/>
+  <anchor x="719" y="1489" name="tonos"/>
+  <anchor x="1376" y="1679" name="top"/>
+  <outline>
+    <component base="H" xOffset="425"/>
+    <component base="varia.tonos" xOffset="38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

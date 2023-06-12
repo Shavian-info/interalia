@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w" format="2">
+  <advance height="2479.0" width="1632.6666666666667"/>
+  <unicode hex="0077"/>
+  <anchor x="723.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="938.6666666666666" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="334.3333333333333" y="0.0" type="line"/>
+      <point x="433.33333333333337" y="0.0" type="line"/>
+      <point x="878.3333333333333" y="970.6666666666666" type="line"/>
+      <point x="888.0" y="970.6666666666666" type="line"/>
+      <point x="1013.3333333333333" y="0.0" type="line"/>
+      <point x="1112.3333333333333" y="0.0" type="line"/>
+      <point x="1633.0" y="1117.0" type="line"/>
+      <point x="1537.6666666666667" y="1117.0" type="line"/>
+      <point x="1086.3333333333335" y="131.0" type="line"/>
+      <point x="1078.3333333333333" y="131.0" type="line"/>
+      <point x="954.0" y="1117.0" type="line"/>
+      <point x="862.3333333333333" y="1117.0" type="line"/>
+      <point x="409.33333333333337" y="130.0" type="line"/>
+      <point x="401.3333333333333" y="130.0" type="line"/>
+      <point x="277.0" y="1117.0" type="line"/>
+      <point x="186.33333333333331" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

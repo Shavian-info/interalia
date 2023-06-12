@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="deleterightKey" format="2">
+  <advance height="2479.0" width="2490.0"/>
+  <unicode hex="2326"/>
+  <outline>
+    <contour>
+      <point x="186.0" y="0.0" type="line"/>
+      <point x="1577.0" y="0.0" type="line"/>
+      <point x="2317.0" y="745.0" type="line"/>
+      <point x="1577.0" y="1489.0" type="line"/>
+      <point x="186.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="758.2" y="313.8" type="line"/>
+      <point x="1497.4" y="1047.0" type="line"/>
+      <point x="1371.4" y="1175.2" type="line"/>
+      <point x="632.8" y="442.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1371.4" y="313.8" type="line"/>
+      <point x="1497.4" y="442.2" type="line"/>
+      <point x="758.2" y="1175.2" type="line"/>
+      <point x="632.8" y="1047.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="372.2" y="186.2" type="line"/>
+      <point x="372.2" y="1303.0" type="line"/>
+      <point x="1499.8" y="1303.0" type="line"/>
+      <point x="2056.0" y="745.0" type="line"/>
+      <point x="1499.8" y="186.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

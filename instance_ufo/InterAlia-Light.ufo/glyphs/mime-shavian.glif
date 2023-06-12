@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mime-shavian" format="2">
+  <advance height="2479.0" width="1037.6666666666667"/>
+  <unicode hex="10465"/>
+  <outline>
+    <contour>
+      <point x="115.0" y="0.0" type="line"/>
+      <point x="190.33333333333334" y="0.0" type="line" smooth="yes"/>
+      <point x="406.6666666666667" y="0.0"/>
+      <point x="516.3333333333334" y="154.66666666666666"/>
+      <point x="583.0" y="549.0" type="curve" smooth="yes"/>
+      <point x="635.6666666666666" y="885.6666666666666"/>
+      <point x="712.6666666666666" y="989.0"/>
+      <point x="874.0" y="989.0" type="curve" smooth="yes"/>
+      <point x="922.6666666666666" y="989.0" type="line"/>
+      <point x="922.6666666666666" y="1117.0" type="line"/>
+      <point x="846.6666666666666" y="1117.0" type="line" smooth="yes"/>
+      <point x="623.6666666666666" y="1117.0"/>
+      <point x="516.0" y="962.3333333333334"/>
+      <point x="453.0" y="568.3333333333334" type="curve" smooth="yes"/>
+      <point x="396.6666666666667" y="236.33333333333334"/>
+      <point x="316.6666666666667" y="128.33333333333334"/>
+      <point x="163.0" y="128.33333333333334" type="curve" smooth="yes"/>
+      <point x="115.0" y="128.33333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance height="2479.0" width="1265.0"/>
+  <unicode hex="049D"/>
+  <outline>
+    <contour>
+      <point x="135.0" y="0.0" type="line"/>
+      <point x="398.6" y="0.0" type="line"/>
+      <point x="398.6" y="421.0" type="line"/>
+      <point x="718.4" y="421.0" type="line"/>
+      <point x="946.0" y="0.0" type="line"/>
+      <point x="1251.2" y="0.0" type="line"/>
+      <point x="919.6" y="568.6" type="line"/>
+      <point x="1246.4" y="1117.0" type="line"/>
+      <point x="943.6" y="1117.0" type="line"/>
+      <point x="689.4" y="666.2" type="line"/>
+      <point x="398.6" y="666.2" type="line"/>
+      <point x="398.6" y="1117.0" type="line"/>
+      <point x="135.0" y="1117.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="491.4" y="853.4" type="line"/>
+      <point x="491.4" y="234.0" type="line"/>
+      <point x="647.8" y="234.0" type="line"/>
+      <point x="647.8" y="853.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

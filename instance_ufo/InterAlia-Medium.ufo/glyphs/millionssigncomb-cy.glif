@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="millionssigncomb-cy" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0489"/>
+  <outline>
+    <contour>
+      <point x="-670.6" y="1126.0" type="line"/>
+      <point x="-533.2" y="1126.0" type="line"/>
+      <point x="-462.2" y="1478.0" type="line"/>
+      <point x="-559.2" y="1478.0" type="line"/>
+      <point x="-682.4" y="1140.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-129.6" y="905.0" type="line"/>
+      <point x="167.8" y="1103.0" type="line"/>
+      <point x="99.6" y="1172.0" type="line"/>
+      <point x="-226.8" y="1018.0" type="line"/>
+      <point x="-227.4" y="1004.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="364.6" y="422.0" type="line"/>
+      <point x="364.6" y="521.0" type="line"/>
+      <point x="29.0" y="643.0" type="line"/>
+      <point x="14.2" y="631.0" type="line"/>
+      <point x="14.2" y="492.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="13.0" y="-239.0" type="line"/>
+      <point x="78.8" y="-166.0" type="line"/>
+      <point x="-71.6" y="160.0" type="line"/>
+      <point x="-88.8" y="160.0" type="line"/>
+      <point x="-185.8" y="61.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-682.4" y="-413.0" type="line"/>
+      <point x="-585.8" y="-413.0" type="line"/>
+      <point x="-462.2" y="-76.0" type="line"/>
+      <point x="-473.2" y="-61.0" type="line"/>
+      <point x="-612.0" y="-61.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1244.2" y="-148.0" type="line"/>
+      <point x="-920.8" y="6.0" type="line"/>
+      <point x="-920.2" y="20.0" type="line"/>
+      <point x="-1017.8" y="119.0" type="line"/>
+      <point x="-1314.0" y="-81.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1176.0" y="422.0" type="line"/>
+      <point x="-1161.2" y="433.0" type="line"/>
+      <point x="-1161.2" y="573.0" type="line"/>
+      <point x="-1510.6" y="643.0" type="line"/>
+      <point x="-1510.6" y="544.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1079.0" y="861.0" type="line"/>
+      <point x="-1061.0" y="861.0" type="line"/>
+      <point x="-961.4" y="957.0" type="line"/>
+      <point x="-1161.2" y="1257.0" type="line"/>
+      <point x="-1226.4" y="1190.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

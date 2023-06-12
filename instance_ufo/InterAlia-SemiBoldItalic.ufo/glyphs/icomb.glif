@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0365"/>
+  <outline>
+    <contour>
+      <point x="-334.20000000000005" y="1754.0" type="line"/>
+      <point x="-484.80000000000007" y="1754.0" type="line"/>
+      <point x="-574.8000000000001" y="1201.0" type="line"/>
+      <point x="-424.20000000000005" y="1201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-475.00000000000006" y="1891.0" type="curve" smooth="yes"/>
+      <point x="-482.6" y="1847.0"/>
+      <point x="-453.0" y="1812.6"/>
+      <point x="-400.8" y="1812.6" type="curve" smooth="yes"/>
+      <point x="-347.8" y="1812.6"/>
+      <point x="-311.0" y="1847.0"/>
+      <point x="-304.00000000000006" y="1891.0" type="curve" smooth="yes"/>
+      <point x="-295.8" y="1935.2"/>
+      <point x="-321.40000000000003" y="1969.6"/>
+      <point x="-375.4" y="1969.6" type="curve" smooth="yes"/>
+      <point x="-427.59999999999997" y="1969.6"/>
+      <point x="-466.40000000000003" y="1936.4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gstroke" format="2">
+  <advance height="2479.0" width="1515.6666666666667"/>
+  <unicode hex="01E4"/>
+  <anchor x="761.0" y="0.0" name="bottom"/>
+  <anchor x="762.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1468.3333333333333" y="422.6666666666667" type="line"/>
+      <point x="798.6666666666666" y="422.6666666666667" type="line"/>
+      <point x="798.6666666666666" y="343.3333333333333" type="line"/>
+      <point x="1468.3333333333333" y="343.3333333333333" type="line"/>
+    </contour>
+    <component base="G"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

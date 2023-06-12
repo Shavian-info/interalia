@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="percent" format="2">
+  <advance height="2479.0" width="1637.0"/>
+  <unicode hex="0025"/>
+  <anchor x="1045.3333333333333" y="791.0" name="dnom"/>
+  <anchor x="579.6666666666666" y="698.0" name="numr"/>
+  <outline>
+    <contour>
+      <point x="919.0" y="276.3333333333333" type="line" smooth="yes"/>
+      <point x="919.0" y="109.66666666666667"/>
+      <point x="1022.3333333333334" y="-20.0"/>
+      <point x="1194.3333333333333" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1365.0" y="-20.0"/>
+      <point x="1468.0" y="109.66666666666667"/>
+      <point x="1468.0" y="276.3333333333333" type="curve" smooth="yes"/>
+      <point x="1468.0" y="344.3333333333333" type="line" smooth="yes"/>
+      <point x="1468.0" y="511.0"/>
+      <point x="1366.3333333333333" y="640.6666666666666"/>
+      <point x="1194.3333333333333" y="640.6666666666666" type="curve" smooth="yes"/>
+      <point x="1024.3333333333333" y="640.6666666666666"/>
+      <point x="919.0" y="511.0"/>
+      <point x="919.0" y="344.3333333333333" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1033.6666666666667" y="344.3333333333333" type="line" smooth="yes"/>
+      <point x="1033.6666666666667" y="453.6666666666667"/>
+      <point x="1090.0" y="541.6666666666666"/>
+      <point x="1194.3333333333333" y="541.6666666666666" type="curve" smooth="yes"/>
+      <point x="1301.6666666666667" y="541.6666666666666"/>
+      <point x="1353.6666666666667" y="453.6666666666667"/>
+      <point x="1353.6666666666667" y="344.3333333333333" type="curve" smooth="yes"/>
+      <point x="1353.6666666666667" y="276.3333333333333" type="line" smooth="yes"/>
+      <point x="1353.6666666666667" y="166.66666666666666"/>
+      <point x="1299.6666666666667" y="78.66666666666667"/>
+      <point x="1194.3333333333333" y="78.66666666666667" type="curve" smooth="yes"/>
+      <point x="1088.0" y="78.66666666666667"/>
+      <point x="1033.6666666666667" y="166.66666666666666"/>
+      <point x="1033.6666666666667" y="276.3333333333333" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="169.0" y="1145.3333333333333" type="line" smooth="yes"/>
+      <point x="169.0" y="979.0"/>
+      <point x="271.6666666666667" y="848.3333333333334"/>
+      <point x="444.3333333333333" y="848.3333333333334" type="curve" smooth="yes"/>
+      <point x="614.3333333333334" y="848.3333333333334"/>
+      <point x="718.0" y="979.0"/>
+      <point x="718.0" y="1145.3333333333333" type="curve" smooth="yes"/>
+      <point x="718.0" y="1213.0" type="line" smooth="yes"/>
+      <point x="718.0" y="1379.6666666666667"/>
+      <point x="616.3333333333334" y="1510.0"/>
+      <point x="444.3333333333333" y="1510.0" type="curve" smooth="yes"/>
+      <point x="273.6666666666667" y="1510.0"/>
+      <point x="169.0" y="1379.6666666666667"/>
+      <point x="169.0" y="1213.0" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="283.0" y="1213.0" type="line" smooth="yes"/>
+      <point x="283.0" y="1322.3333333333333"/>
+      <point x="339.3333333333333" y="1411.0"/>
+      <point x="444.3333333333333" y="1411.0" type="curve" smooth="yes"/>
+      <point x="551.0" y="1411.0"/>
+      <point x="603.0" y="1322.3333333333333"/>
+      <point x="603.0" y="1213.0" type="curve" smooth="yes"/>
+      <point x="603.0" y="1145.3333333333333" type="line" smooth="yes"/>
+      <point x="603.0" y="1035.3333333333333"/>
+      <point x="549.0" y="947.3333333333334"/>
+      <point x="444.3333333333333" y="947.3333333333334" type="curve" smooth="yes"/>
+      <point x="337.3333333333333" y="947.3333333333334"/>
+      <point x="283.0" y="1035.3333333333333"/>
+      <point x="283.0" y="1145.3333333333333" type="curve" smooth="yes"/>
+    </contour>
+    <component base="fraction" xOffset="531.3333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

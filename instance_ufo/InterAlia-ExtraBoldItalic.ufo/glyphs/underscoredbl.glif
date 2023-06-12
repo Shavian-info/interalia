@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscoredbl" format="2">
+  <advance height="2479.0" width="997.0"/>
+  <unicode hex="2017"/>
+  <outline>
+    <contour>
+      <point x="834.0" y="-269.6" type="line"/>
+      <point x="-109.0" y="-269.6" type="line"/>
+      <point x="-132.6" y="-416.0" type="line"/>
+      <point x="809.6" y="-416.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="876.6" y="0.0" type="line"/>
+      <point x="-65.6" y="0.0" type="line"/>
+      <point x="-89.19999999999999" y="-150.4" type="line"/>
+      <point x="853.0" y="-150.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lsdigraph" format="2">
+  <advance height="2479" width="1437"/>
+  <unicode hex="02AA"/>
+  <anchor x="212" y="0" name="bottom"/>
+  <anchor x="151" y="768" name="cross"/>
+  <anchor x="378" y="1489" name="raccent"/>
+  <anchor x="148" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="314" y="-9" type="line"/>
+      <point x="493" y="-9"/>
+      <point x="613" y="88"/>
+      <point x="643" y="268" type="curve"/>
+      <point x="474" y="268" type="line"/>
+      <point x="464" y="193"/>
+      <point x="412" y="145"/>
+      <point x="332" y="145" type="curve"/>
+    </contour>
+    <contour>
+      <point x="899" y="-23" type="curve" smooth="yes"/>
+      <point x="1159" y="-23"/>
+      <point x="1335" y="119"/>
+      <point x="1335" y="311" type="curve" smooth="yes"/>
+      <point x="1335" y="467"/>
+      <point x="1238" y="565"/>
+      <point x="1039" y="614" type="curve" smooth="yes"/>
+      <point x="873" y="655" type="line" smooth="yes"/>
+      <point x="740" y="688"/>
+      <point x="681" y="732"/>
+      <point x="681" y="817" type="curve" smooth="yes"/>
+      <point x="681" y="913"/>
+      <point x="783" y="983"/>
+      <point x="919" y="983" type="curve" smooth="yes"/>
+      <point x="1069" y="983"/>
+      <point x="1131" y="900"/>
+      <point x="1161" y="823" type="curve"/>
+      <point x="1315" y="867" type="line"/>
+      <point x="1261" y="1025"/>
+      <point x="1140" y="1132"/>
+      <point x="919" y="1132" type="curve" smooth="yes"/>
+      <point x="684" y="1132"/>
+      <point x="509" y="998"/>
+      <point x="509" y="809" type="curve" smooth="yes"/>
+      <point x="509" y="655"/>
+      <point x="601" y="550"/>
+      <point x="806" y="503" type="curve" smooth="yes"/>
+      <point x="992" y="460" type="line" smooth="yes"/>
+      <point x="1105" y="434"/>
+      <point x="1158" y="380"/>
+      <point x="1158" y="303" type="curve" smooth="yes"/>
+      <point x="1158" y="207"/>
+      <point x="1056" y="128"/>
+      <point x="896" y="128" type="curve" smooth="yes"/>
+      <point x="757" y="128"/>
+      <point x="665" y="179"/>
+      <point x="642" y="268" type="curve"/>
+      <point x="474" y="268" type="line"/>
+      <point x="514" y="78"/>
+      <point x="671" y="-23"/>
+    </contour>
+    <component base="l.ss02" xOffset="-93"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

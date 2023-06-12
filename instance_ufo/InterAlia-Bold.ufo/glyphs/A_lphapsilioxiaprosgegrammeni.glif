@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsilioxiaprosgegrammeni" format="2">
+  <advance height="2479.0" width="1531.4"/>
+  <unicode hex="1F8C"/>
+  <anchor x="765.8" y="0.0" name="bottom"/>
+  <anchor x="1482.6" y="0.0" name="ogonek"/>
+  <anchor x="474.0" y="1489.0" name="tonos"/>
+  <anchor x="765.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="Alphapsilioxia"/>
+    <component base="prosgegrammeni" xOffset="514.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

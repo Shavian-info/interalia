@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildedieresiscomb.lc" format="2">
+  <advance height="2479.0" width="15.6"/>
+  <unicode hex="E105"/>
+  <anchor x="-658.8" y="1293.8" name="_top"/>
+  <anchor x="-658.8" y="1980.4" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-1057.6" y="1739.8" type="curve" smooth="yes"/>
+      <point x="-1057.6" y="1669.8"/>
+      <point x="-997.2" y="1610.6"/>
+      <point x="-913.4" y="1610.6" type="curve" smooth="yes"/>
+      <point x="-829.0" y="1610.6"/>
+      <point x="-768.6" y="1668.6"/>
+      <point x="-768.6" y="1739.8" type="curve" smooth="yes"/>
+      <point x="-768.6" y="1813.4"/>
+      <point x="-832.0" y="1870.0"/>
+      <point x="-913.4" y="1870.0" type="curve" smooth="yes"/>
+      <point x="-994.2" y="1870.0"/>
+      <point x="-1057.6" y="1813.4"/>
+    </contour>
+    <contour>
+      <point x="-550.2" y="1740.4" type="curve" smooth="yes"/>
+      <point x="-550.2" y="1667.4"/>
+      <point x="-488.2" y="1612.4"/>
+      <point x="-405.6" y="1612.4" type="curve" smooth="yes"/>
+      <point x="-322.8" y="1612.4"/>
+      <point x="-261.4" y="1667.4"/>
+      <point x="-261.4" y="1740.4" type="curve" smooth="yes"/>
+      <point x="-261.4" y="1812.6"/>
+      <point x="-322.8" y="1868.8"/>
+      <point x="-405.6" y="1868.8" type="curve" smooth="yes"/>
+      <point x="-488.2" y="1868.8"/>
+      <point x="-550.2" y="1812.6"/>
+    </contour>
+    <contour>
+      <point x="-445.6" y="1538.2" type="line"/>
+      <point x="-445.6" y="1477.2"/>
+      <point x="-485.6" y="1445.2"/>
+      <point x="-532.6" y="1445.2" type="curve" smooth="yes"/>
+      <point x="-635.4" y="1445.2"/>
+      <point x="-705.8" y="1529.8"/>
+      <point x="-814.6" y="1529.8" type="curve" smooth="yes"/>
+      <point x="-948.6" y="1529.8"/>
+      <point x="-1048.2" y="1403.8"/>
+      <point x="-1048.2" y="1260.6" type="curve"/>
+      <point x="-872.6" y="1251.6" type="line"/>
+      <point x="-872.6" y="1311.4"/>
+      <point x="-834.0" y="1344.6"/>
+      <point x="-788.6" y="1344.6" type="curve" smooth="yes"/>
+      <point x="-679.4" y="1344.6"/>
+      <point x="-635.4" y="1258.8"/>
+      <point x="-505.0" y="1258.8" type="curve" smooth="yes"/>
+      <point x="-369.2" y="1258.8"/>
+      <point x="-268.4" y="1380.6"/>
+      <point x="-268.4" y="1528.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

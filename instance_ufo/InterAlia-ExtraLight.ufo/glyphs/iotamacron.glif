@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotamacron" format="2">
+  <advance height="2479.0" width="476.0"/>
+  <unicode hex="1FD1"/>
+  <anchor x="226.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="macron" xOffset="-127.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexacutecomb.cn" format="2">
+  <advance height="2479.0" width="929.0"/>
+  <unicode hex="E164"/>
+  <anchor x="340.33333333333337" y="1284.6666666666667" name="_top"/>
+  <outline>
+    <contour>
+      <point x="34.666666666666664" y="1256.0" type="line"/>
+      <point x="146.66666666666669" y="1256.0" type="line"/>
+      <point x="347.33333333333337" y="1456.6666666666667" type="line"/>
+      <point x="548.0" y="1256.0" type="line"/>
+      <point x="658.3333333333334" y="1256.0" type="line"/>
+      <point x="377.6666666666667" y="1530.3333333333333" type="line"/>
+      <point x="316.3333333333333" y="1530.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="621.0" y="1435.0" type="line"/>
+      <point x="702.0" y="1435.0" type="line"/>
+      <point x="894.0" y="1693.0" type="line"/>
+      <point x="784.3333333333334" y="1693.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

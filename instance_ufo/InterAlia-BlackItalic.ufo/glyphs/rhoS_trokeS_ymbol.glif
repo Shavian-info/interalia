@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhoStrokeSymbol" format="2">
+  <advance height="2479" width="1239"/>
+  <unicode hex="03FC"/>
+  <anchor x="180" y="-154" name="cross"/>
+  <anchor x="756" y="1303" name="top"/>
+  <outline>
+    <component base="rho"/>
+    <component base="crossbar" xOffset="-381" yOffset="-960"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

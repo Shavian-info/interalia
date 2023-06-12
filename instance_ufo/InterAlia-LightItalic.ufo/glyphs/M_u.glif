@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mu" format="2">
+  <advance height="2479.0" width="1804.3333333333333"/>
+  <unicode hex="039C"/>
+  <anchor x="808.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="1499.0" y="0.0" name="right"/>
+  <anchor x="1088.3333333333333" y="1676.0" name="top"/>
+  <outline>
+    <component base="M"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

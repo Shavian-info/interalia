@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondasia" format="2">
+  <advance height="2479.0" width="1879.6000000000001"/>
+  <unicode hex="1F59"/>
+  <anchor x="958.3999999999999" y="0.0" name="bottom"/>
+  <anchor x="1054.3999999999999" y="570.8" name="cross"/>
+  <anchor x="1115.0" y="0.0" name="ogonek"/>
+  <anchor x="416.2" y="1489.0" name="tonos"/>
+  <anchor x="1238.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="Y" xOffset="309.79999999999995"/>
+    <component base="dasia.tonos" xOffset="-115.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dasia.tonos</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

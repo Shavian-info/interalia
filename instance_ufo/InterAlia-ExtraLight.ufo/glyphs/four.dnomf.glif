@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnomf" format="2">
+  <advance height="2479.0" width="766.3333333333334"/>
+  <anchor x="128.0" y="791.0" name="_dnom"/>
+  <outline>
+    <contour>
+      <point x="80.33333333333333" y="165.66666666666666" type="line"/>
+      <point x="687.3333333333334" y="165.66666666666666" type="line"/>
+      <point x="687.3333333333334" y="235.66666666666666" type="line"/>
+      <point x="171.33333333333334" y="235.66666666666666" type="line"/>
+      <point x="171.33333333333334" y="238.66666666666666" type="line"/>
+      <point x="493.0" y="687.6666666666666" type="line"/>
+      <point x="531.6666666666666" y="687.6666666666666" type="line"/>
+      <point x="531.6666666666666" y="791.0" type="line"/>
+      <point x="479.3333333333333" y="791.0" type="line"/>
+      <point x="80.33333333333333" y="230.66666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="497.3333333333333" y="0.0" type="line"/>
+      <point x="575.0" y="0.0" type="line"/>
+      <point x="575.0" y="791.0" type="line"/>
+      <point x="498.3333333333333" y="791.0" type="line"/>
+      <point x="498.3333333333333" y="215.66666666666666" type="line"/>
+      <point x="497.3333333333333" y="188.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twoinferior" format="2">
+  <advance height="2479.0" width="849.6666666666666"/>
+  <unicode hex="2082"/>
+  <anchor x="557.6666666666666" y="202.66666666666666" name="cross"/>
+  <outline>
+    <component base="twosuperior" yOffset="-1001.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

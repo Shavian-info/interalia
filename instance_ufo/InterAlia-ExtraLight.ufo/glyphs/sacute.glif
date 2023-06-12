@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacute" format="2">
+  <advance height="2479.0" width="1029.6666666666667"/>
+  <unicode hex="015B"/>
+  <anchor x="525.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="522.6666666666666" y="0.0" name="cedilla"/>
+  <anchor x="539.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="acute" xOffset="30.333333333333336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

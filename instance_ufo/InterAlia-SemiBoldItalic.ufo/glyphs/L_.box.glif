@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.box" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="1F13B"/>
+  <anchor x="1337.0" y="0.0" name="bottom"/>
+  <anchor x="1150.8" y="776.0" name="cross"/>
+  <anchor x="1482.4" y="825.6" name="dot"/>
+  <anchor x="1637.2" y="1489.0" name="raccent"/>
+  <anchor x="1301.8000000000002" y="1676.0" name="top"/>
+  <outline>
+    <component base="L" xOffset="833.8000000000001"/>
+    <component base="enclosingsquarecomb" xOffset="716.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>L</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingsquarecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

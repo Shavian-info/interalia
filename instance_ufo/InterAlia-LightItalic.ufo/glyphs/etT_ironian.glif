@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etTironian" format="2">
+  <advance height="2479.0" width="843.0"/>
+  <unicode hex="204A"/>
+  <outline>
+    <contour>
+      <point x="167.33333333333334" y="960.0" type="line"/>
+      <point x="663.0" y="960.0" type="line"/>
+      <point x="435.6666666666667" y="-416.0" type="line"/>
+      <point x="585.3333333333333" y="-416.0" type="line"/>
+      <point x="832.3333333333333" y="1082.0" type="line"/>
+      <point x="188.00000000000003" y="1082.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

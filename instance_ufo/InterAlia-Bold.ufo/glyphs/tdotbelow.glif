@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdotbelow" format="2">
+  <advance height="2479.0" width="795.4"/>
+  <unicode hex="1E6D"/>
+  <anchor x="444.8" y="0.0" name="bottom"/>
+  <anchor x="542.0" y="0.0" name="cedilla"/>
+  <anchor x="634.2" y="1562.0" name="raccent"/>
+  <anchor x="353.0" y="1520.8" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="dotbelowcomb" xOffset="1007.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

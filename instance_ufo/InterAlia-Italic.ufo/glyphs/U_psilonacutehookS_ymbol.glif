@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="UpsilonacutehookSymbol" format="2">
+  <advance height="2479" width="1530"/>
+  <unicode hex="03D3"/>
+  <anchor x="373" y="1455" name="tonos"/>
+  <anchor x="1036" y="1676" name="top"/>
+  <outline>
+    <component base="UpsilonhookSymbol" xOffset="175"/>
+    <component base="tonos" xOffset="-191" yOffset="-34"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>UpsilonhookSymbol</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

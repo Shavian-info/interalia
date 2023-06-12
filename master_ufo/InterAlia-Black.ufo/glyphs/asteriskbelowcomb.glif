@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asteriskbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0359"/>
+  <outline>
+    <contour>
+      <point x="-876" y="-492" type="line"/>
+      <point x="-785" y="-553" type="line"/>
+      <point x="-689" y="-401" type="line"/>
+      <point x="-593" y="-559" type="line"/>
+      <point x="-503" y="-495" type="line"/>
+      <point x="-617" y="-352" type="line"/>
+      <point x="-445" y="-305" type="line"/>
+      <point x="-480" y="-198" type="line"/>
+      <point x="-640" y="-271" type="line"/>
+      <point x="-625" y="-79" type="line"/>
+      <point x="-742" y="-79" type="line"/>
+      <point x="-724" y="-265" type="line"/>
+      <point x="-893" y="-192" type="line"/>
+      <point x="-928" y="-300" type="line"/>
+      <point x="-756" y="-346" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>44</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

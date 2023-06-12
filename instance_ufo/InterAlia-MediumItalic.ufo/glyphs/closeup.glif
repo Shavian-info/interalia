@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="closeup" format="2">
+  <advance height="2479.0" width="1686.2"/>
+  <unicode hex="2050"/>
+  <outline>
+    <component base="undertie" xOffset="-16.6"/>
+    <component base="undertie" yScale="-1.0" xOffset="-17.2" yOffset="1069.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

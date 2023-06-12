@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yloop" format="2">
+  <advance height="2479.0" width="1437.8"/>
+  <unicode hex="1EFE"/>
+  <outline>
+    <contour>
+      <point x="581.2" y="307.0" type="line"/>
+      <point x="805.4" y="307.0" type="line"/>
+      <point x="854.1999999999999" y="584.8" type="line"/>
+      <point x="1543.2" y="1489.0" type="line"/>
+      <point x="1284.0" y="1489.0" type="line"/>
+      <point x="783.0" y="812.0" type="line"/>
+      <point x="766.2" y="812.0" type="line"/>
+      <point x="490.20000000000005" y="1489.0" type="line"/>
+      <point x="239.4" y="1489.0" type="line"/>
+      <point x="629.8000000000001" y="584.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="406.4" y="-23.0" type="curve" smooth="yes"/>
+      <point x="601.8" y="-23.0"/>
+      <point x="775.0" y="118.0"/>
+      <point x="805.4" y="307.0" type="curve"/>
+      <point x="581.2" y="307.0" type="line"/>
+      <point x="566.2" y="221.4"/>
+      <point x="496.6" y="166.6"/>
+      <point x="410.4" y="166.6" type="curve" smooth="yes"/>
+      <point x="331.6" y="166.6"/>
+      <point x="289.8" y="217.4"/>
+      <point x="303.8" y="297.6" type="curve" smooth="yes"/>
+      <point x="317.4" y="382.0"/>
+      <point x="388.0" y="443.0"/>
+      <point x="472.59999999999997" y="443.0" type="curve"/>
+      <point x="716.2" y="443.0" type="line"/>
+      <point x="746.0" y="626.2" type="line"/>
+      <point x="495.2" y="626.2" type="line"/>
+      <point x="292.8" y="626.2"/>
+      <point x="123.79999999999998" y="496.2"/>
+      <point x="95.19999999999999" y="321.0" type="curve" smooth="yes"/>
+      <point x="62.59999999999999" y="125.4"/>
+      <point x="197.8" y="-23.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

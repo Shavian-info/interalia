@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kje-cy" format="2">
+  <advance height="2479" width="1100"/>
+  <unicode hex="045C"/>
+  <anchor x="1021" y="64" name="cyrtic"/>
+  <anchor x="573" y="1676" name="top"/>
+  <outline>
+    <component base="ka-cy"/>
+    <component base="acute" xOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

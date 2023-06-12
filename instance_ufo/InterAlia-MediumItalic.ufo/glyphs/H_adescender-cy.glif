@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hadescender-cy" format="2">
+  <advance height="2479.0" width="1364.4"/>
+  <unicode hex="04B2"/>
+  <anchor x="591.0" y="8.4" name="bottom"/>
+  <anchor x="713.6" y="745.0" name="cross"/>
+  <anchor x="1188.6000000000001" y="83.8" name="cyrtic"/>
+  <anchor x="1068.6" y="0.0" name="right"/>
+  <anchor x="868.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="X"/>
+    <component base="cyrillictic.cn" xOffset="1051.8000000000002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

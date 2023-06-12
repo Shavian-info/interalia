@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="koppa" format="2">
+  <advance height="2479.0" width="1181.8"/>
+  <unicode hex="03DF"/>
+  <outline>
+    <contour>
+      <point x="124.0" y="639.2" type="line"/>
+      <point x="319.4" y="639.2" type="line"/>
+      <point x="789.8" y="1489.0" type="line"/>
+      <point x="558.4" y="1489.0" type="line"/>
+      <point x="141.6" y="736.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="463.20000000000005" y="0.0" type="line"/>
+      <point x="694.0" y="0.0" type="line"/>
+      <point x="1100.2" y="734.0" type="line"/>
+      <point x="1117.8" y="826.6" type="line"/>
+      <point x="926.4000000000001" y="826.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="267.2" y="639.2" type="line"/>
+      <point x="939.0" y="639.2" type="line"/>
+      <point x="972.8" y="826.6" type="line"/>
+      <point x="300.2" y="826.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

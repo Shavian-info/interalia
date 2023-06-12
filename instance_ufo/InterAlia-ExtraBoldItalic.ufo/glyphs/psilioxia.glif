@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia" format="2">
+  <advance height="2479.0" width="1026.1999999999998"/>
+  <unicode hex="1FCE"/>
+  <anchor x="550.8" y="1175.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="591.0" y="1149.6" type="line"/>
+      <point x="688.8" y="1149.6" type="line"/>
+      <point x="980.6" y="1469.0" type="line"/>
+      <point x="983.4" y="1489.0" type="line"/>
+      <point x="764.8" y="1489.0" type="line"/>
+      <point x="594.0" y="1175.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="611.1999999999999" y="1489.0" type="line"/>
+      <point x="432.8" y="1489.0" type="line"/>
+      <point x="416.8" y="1395.6" type="line" smooth="yes"/>
+      <point x="405.40000000000003" y="1334.0"/>
+      <point x="385.2" y="1267.0"/>
+      <point x="311.4" y="1229.2" type="curve"/>
+      <point x="380.8" y="1129.0" type="line"/>
+      <point x="481.59999999999997" y="1169.8"/>
+      <point x="572.8000000000001" y="1264.0"/>
+      <point x="593.8" y="1389.6" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

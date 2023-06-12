@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.ss02" format="2">
+  <advance height="2479" width="497"/>
+  <anchor x="215" y="0" name="bottom"/>
+  <anchor x="255" y="768" name="cross"/>
+  <anchor x="537" y="1489" name="raccent"/>
+  <anchor x="407" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="351" y="1489" type="line"/>
+      <point x="136" y="180" type="line" smooth="yes"/>
+      <point x="110" y="25"/>
+      <point x="189" y="-26"/>
+      <point x="334" y="3" type="curve" smooth="yes"/>
+      <point x="338" y="4"/>
+      <point x="351" y="9"/>
+      <point x="351" y="9" type="curve"/>
+      <point x="345" y="52" type="line"/>
+      <point x="346" y="52"/>
+      <point x="343" y="51"/>
+      <point x="337" y="49" type="curve" smooth="yes"/>
+      <point x="227" y="25"/>
+      <point x="160" y="49"/>
+      <point x="183" y="180" type="curve" smooth="yes"/>
+      <point x="398" y="1489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

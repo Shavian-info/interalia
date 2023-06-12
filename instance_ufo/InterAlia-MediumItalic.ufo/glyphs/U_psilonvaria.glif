@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilonvaria" format="2">
+  <advance height="2479.0" width="1799.8"/>
+  <unicode hex="1FEA"/>
+  <anchor x="972.0" y="0.0" name="bottom"/>
+  <anchor x="1070.0" y="585.6" name="cross"/>
+  <anchor x="1084.2" y="0.0" name="ogonek"/>
+  <anchor x="492.59999999999997" y="1489.0" name="tonos"/>
+  <anchor x="1251.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="Y" xOffset="363.8"/>
+    <component base="varia.tonos" xOffset="-58.400000000000006"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>varia.tonos</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

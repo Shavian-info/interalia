@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zmacronbelow" format="2">
+  <advance height="2479" width="1108"/>
+  <unicode hex="1E95"/>
+  <anchor x="454" y="0" name="bottom"/>
+  <anchor x="553" y="559" name="cross"/>
+  <anchor x="675" y="1303" name="top"/>
+  <outline>
+    <component base="z"/>
+    <component base="macronbelowcomb" xOffset="1152"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

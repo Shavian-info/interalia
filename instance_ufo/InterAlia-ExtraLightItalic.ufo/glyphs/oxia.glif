@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oxia" format="2">
+  <advance height="2479.0" width="506.3333333333333"/>
+  <unicode hex="1FFD"/>
+  <anchor x="377.0" y="1303.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="332.3333333333333" y="1257.0" type="line"/>
+      <point x="389.33333333333337" y="1257.0" type="line"/>
+      <point x="653.3333333333334" y="1588.3333333333333" type="line"/>
+      <point x="654.3333333333334" y="1597.0" type="line"/>
+      <point x="542.0000000000001" y="1597.0" type="line"/>
+      <point x="328.0" y="1264.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

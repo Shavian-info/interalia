@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lcircumflexbelow.ss02" format="2">
+  <advance height="2479.0" width="523.0"/>
+  <anchor x="217.66666666666669" y="0.0" name="bottom"/>
+  <anchor x="262.99999999999994" y="768.0" name="cross"/>
+  <anchor x="566.3333333333334" y="1489.0" name="raccent"/>
+  <anchor x="413.66666666666663" y="1676.0" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="circumflexbelowcomb" xOffset="853.6666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

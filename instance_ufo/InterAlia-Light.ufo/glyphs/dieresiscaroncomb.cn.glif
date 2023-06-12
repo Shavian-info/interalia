@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaroncomb.cn" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="E117"/>
+  <anchor x="-564.6666666666666" y="1263.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-873.3333333333334" y="1337.0" type="curve" smooth="yes"/>
+      <point x="-865.0" y="1297.6666666666667"/>
+      <point x="-832.6666666666666" y="1271.3333333333333"/>
+      <point x="-781.3333333333334" y="1279.6666666666667" type="curve" smooth="yes"/>
+      <point x="-732.0" y="1288.3333333333333"/>
+      <point x="-711.6666666666666" y="1326.6666666666667"/>
+      <point x="-720.0" y="1367.3333333333333" type="curve" smooth="yes"/>
+      <point x="-728.6666666666666" y="1410.0"/>
+      <point x="-763.0" y="1435.6666666666667"/>
+      <point x="-813.0" y="1427.0" type="curve" smooth="yes"/>
+      <point x="-861.6666666666666" y="1418.6666666666667"/>
+      <point x="-882.0" y="1379.0"/>
+    </contour>
+    <contour>
+      <point x="-409.3333333333333" y="1335.6666666666667" type="curve" smooth="yes"/>
+      <point x="-401.0" y="1295.6666666666667"/>
+      <point x="-367.3333333333333" y="1269.3333333333333"/>
+      <point x="-316.6666666666667" y="1277.6666666666667" type="curve" smooth="yes"/>
+      <point x="-266.0" y="1286.3333333333333"/>
+      <point x="-248.33333333333334" y="1328.6666666666667"/>
+      <point x="-256.6666666666667" y="1367.3333333333333" type="curve" smooth="yes"/>
+      <point x="-265.3333333333333" y="1408.0"/>
+      <point x="-299.0" y="1434.3333333333333"/>
+      <point x="-347.6666666666667" y="1425.6666666666667" type="curve" smooth="yes"/>
+      <point x="-398.3333333333333" y="1417.3333333333333"/>
+      <point x="-418.0" y="1377.0"/>
+    </contour>
+    <contour>
+      <point x="-737.0" y="1677.0" type="line"/>
+      <point x="-868.0" y="1677.0" type="line"/>
+      <point x="-868.0" y="1661.0" type="line"/>
+      <point x="-610.3333333333334" y="1436.3333333333333" type="line"/>
+      <point x="-524.3333333333334" y="1436.3333333333333" type="line"/>
+      <point x="-264.3333333333333" y="1663.0" type="line"/>
+      <point x="-264.3333333333333" y="1677.0" type="line"/>
+      <point x="-397.6666666666667" y="1677.0" type="line"/>
+      <point x="-567.6666666666666" y="1527.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

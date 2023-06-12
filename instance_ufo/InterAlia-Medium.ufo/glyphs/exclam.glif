@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance height="2479.0" width="601.4"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="420.6" y="1489.0" type="line"/>
+      <point x="180.8" y="1489.0" type="line"/>
+      <point x="200.4" y="428.2" type="line"/>
+      <point x="401.0" y="428.2" type="line"/>
+    </contour>
+    <component base="period" xOffset="11.200000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="triangularbullet" format="2">
+  <advance height="2479" width="1152"/>
+  <unicode hex="2023"/>
+  <outline>
+    <contour>
+      <point x="415" y="396" type="line"/>
+      <point x="775" y="593" type="line"/>
+      <point x="480" y="791" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance height="2479.0" width="1562.4"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <contour>
+      <point x="1593.6" y="1198.4" type="line"/>
+      <point x="215.0" y="1198.4" type="line"/>
+      <point x="188.79999999999998" y="1038.4" type="line"/>
+      <point x="1567.6" y="1038.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="1556.1999999999998" y="966.8" type="line"/>
+      <point x="178.4" y="966.8" type="line"/>
+      <point x="151.4" y="806.8" type="line"/>
+      <point x="1530.1999999999998" y="806.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="809.0" y="521.2" type="line"/>
+      <point x="1159.4" y="521.2"/>
+      <point x="1364.2" y="735.2"/>
+      <point x="1409.0" y="1006.4" type="curve"/>
+      <point x="1453.6" y="1279.6"/>
+      <point x="1319.4" y="1489.0"/>
+      <point x="967.1999999999999" y="1489.0" type="curve"/>
+      <point x="442.6" y="1489.0" type="line"/>
+      <point x="195.4" y="0.0" type="line"/>
+      <point x="419.19999999999993" y="0.0" type="line"/>
+      <point x="635.0" y="1297.0" type="line"/>
+      <point x="936.0" y="1297.0" type="line"/>
+      <point x="1156.3999999999999" y="1297.0"/>
+      <point x="1213.3999999999999" y="1170.8"/>
+      <point x="1184.6" y="1005.8" type="curve"/>
+      <point x="1158.6" y="842.6"/>
+      <point x="1059.0" y="712.0"/>
+      <point x="840.4" y="712.0" type="curve"/>
+      <point x="479.6" y="712.0" type="line"/>
+      <point x="448.2" y="521.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

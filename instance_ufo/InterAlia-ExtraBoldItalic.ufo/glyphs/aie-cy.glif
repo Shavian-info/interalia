@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aie-cy" format="2">
+  <advance height="2479.0" width="1873.1999999999998"/>
+  <unicode hex="04D5"/>
+  <anchor x="1040.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="ae"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

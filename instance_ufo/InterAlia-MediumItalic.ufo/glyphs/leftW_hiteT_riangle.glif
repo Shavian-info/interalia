@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftWhiteTriangle" format="2">
+  <advance height="2479.0" width="1901.0"/>
+  <unicode hex="25C1"/>
+  <outline>
+    <contour>
+      <point x="1578.6000000000001" y="-186.0" type="line"/>
+      <point x="1886.6000000000001" y="1676.0" type="line"/>
+      <point x="134.0" y="745.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1441.0" y="122.60000000000001" type="line"/>
+      <point x="503.4" y="729.8" type="line"/>
+      <point x="1641.6000000000001" y="1335.3999999999999" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

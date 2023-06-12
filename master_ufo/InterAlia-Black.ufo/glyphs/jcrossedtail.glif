@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcrossedtail" format="2">
+  <advance height="2479" width="1137"/>
+  <unicode hex="029D"/>
+  <anchor x="780" y="-460" name="bottom"/>
+  <anchor x="751" y="611" name="cross"/>
+  <anchor x="954" y="0" name="ogonek"/>
+  <anchor x="754" y="1303" name="top"/>
+  <outline>
+    <component base="jcrossedtail.ccmp"/>
+    <component base="dotaccent" xOffset="419"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

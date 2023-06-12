@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oslash" format="2">
+  <advance height="2479.0" width="1199.3333333333335"/>
+  <unicode hex="00F8"/>
+  <anchor x="507.0" y="2.0" name="bottom"/>
+  <anchor x="587.0" y="2.0" name="ogonek"/>
+  <anchor x="723.0" y="1305.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="146.33333333333334" y="-39.66666666666667" type="line"/>
+      <point x="1111.0000000000002" y="1111.3333333333333" type="line"/>
+      <point x="1053.6666666666667" y="1153.6666666666667" type="line"/>
+      <point x="88.00000000000001" y="3.0" type="line"/>
+    </contour>
+    <component base="o" xOffset="0.6666666666666666" yOffset="2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

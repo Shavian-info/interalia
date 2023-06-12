@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance height="2479" width="486"/>
+  <unicode hex="0131"/>
+  <anchor x="151" y="0" name="bottom"/>
+  <anchor x="250" y="593" name="cross"/>
+  <anchor x="236" y="0" name="ogonek"/>
+  <anchor x="369" y="1306" name="top"/>
+  <outline>
+    <contour>
+      <point x="64" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="422" y="1117" type="line"/>
+      <point x="250" y="1117" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

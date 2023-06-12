@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0300"/>
+  <outline>
+    <contour>
+      <point x="-614.6666666666666" y="1536.0" type="line"/>
+      <point x="-742.6666666666666" y="1536.0" type="line"/>
+      <point x="-521.0" y="1249.0" type="line"/>
+      <point x="-428.6666666666667" y="1249.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pamphyliandigamma" format="2">
+  <advance height="2479.0" width="1346.4"/>
+  <unicode hex="0377"/>
+  <outline>
+    <contour>
+      <point x="410.0" y="0.0" type="line"/>
+      <point x="971.0" y="1021.0" type="line"/>
+      <point x="810.8" y="1117.0" type="line"/>
+      <point x="248.6" y="96.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="140.6" y="0.0" type="line"/>
+      <point x="410.0" y="0.0" type="line"/>
+      <point x="410.0" y="1117.0" type="line"/>
+      <point x="140.6" y="1117.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1077.6" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1122.8" y="-20.0"/>
+      <point x="1162.0" y="-17.0"/>
+      <point x="1206.8" y="6.6" type="curve"/>
+      <point x="1179.6" y="207.6" type="line"/>
+      <point x="1174.8" y="204.6"/>
+      <point x="1166.8" y="202.8"/>
+      <point x="1156.2" y="202.8" type="curve" smooth="yes"/>
+      <point x="1110.0" y="202.8"/>
+      <point x="1082.6" y="236.0"/>
+      <point x="1082.6" y="339.6" type="curve" smooth="yes"/>
+      <point x="1082.6" y="1117.0" type="line"/>
+      <point x="810.8" y="1117.0" type="line"/>
+      <point x="810.8" y="339.6" type="line" smooth="yes"/>
+      <point x="810.8" y="90.8"/>
+      <point x="912.4" y="-20.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

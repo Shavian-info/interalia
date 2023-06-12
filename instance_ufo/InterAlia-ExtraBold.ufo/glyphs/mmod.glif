@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mmod" format="2">
+  <advance height="2479.0" width="1264.2"/>
+  <unicode hex="1D50"/>
+  <outline>
+    <contour>
+      <point x="70.4" y="745.0" type="line"/>
+      <point x="313.2" y="745.0" type="line"/>
+      <point x="313.2" y="1179.0" type="line" smooth="yes"/>
+      <point x="313.2" y="1251.8"/>
+      <point x="364.6" y="1297.4"/>
+      <point x="416.8" y="1297.4" type="curve" smooth="yes"/>
+      <point x="468.0" y="1297.4"/>
+      <point x="513.6" y="1262.6"/>
+      <point x="513.6" y="1207.6" type="curve" smooth="yes"/>
+      <point x="513.6" y="745.0" type="line"/>
+      <point x="750.6" y="745.0" type="line"/>
+      <point x="750.6" y="1189.8" type="line" smooth="yes"/>
+      <point x="750.6" y="1253.6"/>
+      <point x="789.0" y="1297.4"/>
+      <point x="851.6" y="1297.4" type="curve" smooth="yes"/>
+      <point x="898.4" y="1297.4"/>
+      <point x="951.0" y="1273.4"/>
+      <point x="951.0" y="1200.6" type="curve" smooth="yes"/>
+      <point x="951.0" y="745.0" type="line"/>
+      <point x="1193.8" y="745.0" type="line"/>
+      <point x="1193.8" y="1245.0" type="line" smooth="yes"/>
+      <point x="1193.8" y="1412.2"/>
+      <point x="1089.4" y="1498.0"/>
+      <point x="957.4" y="1498.0" type="curve" smooth="yes"/>
+      <point x="849.6" y="1498.0"/>
+      <point x="763.0" y="1445.4"/>
+      <point x="729.2" y="1364.8" type="curve"/>
+      <point x="720.2" y="1364.8" type="line"/>
+      <point x="694.8" y="1447.8"/>
+      <point x="614.2" y="1498.0"/>
+      <point x="519.4" y="1498.0" type="curve" smooth="yes"/>
+      <point x="415.8" y="1498.0"/>
+      <point x="342.8" y="1441.2"/>
+      <point x="310.8" y="1355.2" type="curve"/>
+      <point x="300.0" y="1355.2" type="line"/>
+      <point x="300.0" y="1489.0" type="line"/>
+      <point x="70.4" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

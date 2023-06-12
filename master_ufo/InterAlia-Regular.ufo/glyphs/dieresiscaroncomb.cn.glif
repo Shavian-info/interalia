@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaroncomb.cn" format="2">
+  <advance height="2479"/>
+  <unicode hex="E117"/>
+  <anchor x="-588" y="1263" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-937" y="1345" type="curve" smooth="yes"/>
+      <point x="-937" y="1286"/>
+      <point x="-899" y="1236"/>
+      <point x="-822" y="1236" type="curve" smooth="yes"/>
+      <point x="-748" y="1236"/>
+      <point x="-707" y="1283"/>
+      <point x="-707" y="1344" type="curve" smooth="yes"/>
+      <point x="-707" y="1408"/>
+      <point x="-748" y="1457"/>
+      <point x="-823" y="1457" type="curve" smooth="yes"/>
+      <point x="-896" y="1457"/>
+      <point x="-937" y="1408"/>
+    </contour>
+    <contour>
+      <point x="-468" y="1343" type="curve" smooth="yes"/>
+      <point x="-468" y="1283"/>
+      <point x="-428" y="1233"/>
+      <point x="-352" y="1233" type="curve" smooth="yes"/>
+      <point x="-276" y="1233"/>
+      <point x="-239" y="1286"/>
+      <point x="-239" y="1344" type="curve" smooth="yes"/>
+      <point x="-239" y="1405"/>
+      <point x="-279" y="1455"/>
+      <point x="-352" y="1455" type="curve" smooth="yes"/>
+      <point x="-428" y="1455"/>
+      <point x="-468" y="1405"/>
+    </contour>
+    <contour>
+      <point x="-736" y="1679" type="line"/>
+      <point x="-905" y="1679" type="line"/>
+      <point x="-905" y="1658" type="line"/>
+      <point x="-652" y="1443" type="line"/>
+      <point x="-529" y="1443" type="line"/>
+      <point x="-273" y="1661" type="line"/>
+      <point x="-273" y="1679" type="line"/>
+      <point x="-445" y="1679" type="line"/>
+      <point x="-591" y="1553" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

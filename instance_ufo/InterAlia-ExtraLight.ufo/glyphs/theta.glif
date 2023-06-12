@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="theta" format="2">
+  <advance height="2479.0" width="946.3333333333334"/>
+  <unicode hex="03B8"/>
+  <outline>
+    <contour>
+      <point x="852.3333333333334" y="763.3333333333334" type="line"/>
+      <point x="96.33333333333334" y="763.3333333333334" type="line"/>
+      <point x="96.33333333333334" y="678.6666666666666" type="line"/>
+      <point x="852.3333333333334" y="678.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="903.0" y="785.6666666666666" type="line"/>
+      <point x="903.0" y="1238.3333333333333"/>
+      <point x="747.6666666666666" y="1460.6666666666667"/>
+      <point x="473.0" y="1460.6666666666667" type="curve" smooth="yes"/>
+      <point x="198.33333333333334" y="1460.6666666666667"/>
+      <point x="43.333333333333336" y="1238.3333333333333"/>
+      <point x="43.333333333333336" y="785.6666666666666" type="curve"/>
+      <point x="43.333333333333336" y="658.6666666666666" type="line"/>
+      <point x="43.333333333333336" y="204.33333333333334"/>
+      <point x="201.33333333333334" y="-20.0"/>
+      <point x="474.0" y="-20.0" type="curve" smooth="yes"/>
+      <point x="747.0" y="-20.0"/>
+      <point x="903.0" y="204.33333333333334"/>
+      <point x="903.0" y="658.6666666666666" type="curve"/>
+    </contour>
+    <contour>
+      <point x="813.6666666666666" y="648.0" type="line"/>
+      <point x="813.6666666666666" y="264.0"/>
+      <point x="691.0" y="62.0"/>
+      <point x="474.0" y="62.0" type="curve" smooth="yes"/>
+      <point x="258.33333333333337" y="62.0"/>
+      <point x="132.0" y="264.0"/>
+      <point x="132.0" y="648.0" type="curve" smooth="yes"/>
+      <point x="132.0" y="796.3333333333334" type="line" smooth="yes"/>
+      <point x="132.0" y="1180.3333333333333"/>
+      <point x="255.33333333333334" y="1378.0"/>
+      <point x="473.0" y="1378.0" type="curve" smooth="yes"/>
+      <point x="690.6666666666666" y="1378.0"/>
+      <point x="813.6666666666666" y="1180.3333333333333"/>
+      <point x="813.6666666666666" y="796.3333333333334" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

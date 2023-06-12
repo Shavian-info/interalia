@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Stigma" format="2">
+  <advance height="2479.0" width="1507.6"/>
+  <unicode hex="03DA"/>
+  <outline>
+    <contour>
+      <point x="915.6" y="-393.0" type="line" name="hr00"/>
+      <point x="1149.6" y="-380.6"/>
+      <point x="1288.0" y="-268.6"/>
+      <point x="1288.2" y="-98.0" type="curve" smooth="yes"/>
+      <point x="1288.0" y="29.4"/>
+      <point x="1210.2" y="115.0"/>
+      <point x="1053.6" y="166.4" type="curve" smooth="yes"/>
+      <point x="712.4" y="280.6" type="line" smooth="yes"/>
+      <point x="515.2" y="347.0"/>
+      <point x="420.0" y="482.2"/>
+      <point x="420.0" y="696.6" type="curve" smooth="yes"/>
+      <point x="420.0" y="841.4" type="line" smooth="yes"/>
+      <point x="420.0" y="1143.6"/>
+      <point x="545.0" y="1310.8"/>
+      <point x="782.8" y="1310.8" type="curve" smooth="yes"/>
+      <point x="964.8" y="1310.8"/>
+      <point x="1064.6" y="1217.6"/>
+      <point x="1092.2" y="1009.4" type="curve"/>
+      <point x="1334.4" y="1009.4" type="line"/>
+      <point x="1303.4" y="1323.0"/>
+      <point x="1095.8" y="1510.0"/>
+      <point x="779.6" y="1510.0" type="curve" smooth="yes"/>
+      <point x="414.2" y="1510.0"/>
+      <point x="173.2" y="1244.6"/>
+      <point x="173.2" y="840.8" type="curve" smooth="yes"/>
+      <point x="173.2" y="696.6" type="line" smooth="yes"/>
+      <point x="173.2" y="380.4"/>
+      <point x="330.4" y="175.6"/>
+      <point x="641.8" y="77.0" type="curve" smooth="yes"/>
+      <point x="957.4" y="-24.2" type="line" smooth="yes"/>
+      <point x="1020.6" y="-45.0"/>
+      <point x="1042.6" y="-71.6"/>
+      <point x="1042.6" y="-112.2" type="curve" smooth="yes"/>
+      <point x="1042.6" y="-169.8"/>
+      <point x="997.6" y="-196.0"/>
+      <point x="915.0" y="-200.2" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

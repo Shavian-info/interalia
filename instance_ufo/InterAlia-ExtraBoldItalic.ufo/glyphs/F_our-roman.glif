@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Four-roman" format="2">
+  <advance height="2479.0" width="2166.2000000000003"/>
+  <unicode hex="2163"/>
+  <anchor x="201.60000000000002" y="0.0" name="bottom_1"/>
+  <anchor x="1282.0" y="0.0" name="bottom_2"/>
+  <anchor x="329.0" y="784.0" name="cross"/>
+  <anchor x="379.2" y="0.0" name="ogonek"/>
+  <anchor x="402.8" y="0.0" name="right"/>
+  <anchor x="267.0" y="1489.0" name="tonos"/>
+  <anchor x="479.59999999999997" y="1676.0" name="top_1"/>
+  <anchor x="1560.6" y="1676.0" name="top_2"/>
+  <outline>
+    <component base="I"/>
+    <component base="V" xOffset="586.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetse-cy" format="2">
+  <advance height="2479" width="1391"/>
+  <unicode hex="04B5"/>
+  <anchor x="399.0" y="1117.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="785" y="1117" type="line"/>
+      <point x="93" y="1117" type="line"/>
+      <point x="93" y="1071" type="line"/>
+      <point x="785" y="1071" type="line"/>
+    </contour>
+    <contour>
+      <point x="1292" y="47" type="line"/>
+      <point x="1116" y="47" type="line"/>
+      <point x="1116" y="0" type="line"/>
+      <point x="1244" y="0" type="line"/>
+      <point x="1244" y="-323" type="line"/>
+      <point x="1273" y="-323" type="line"/>
+    </contour>
+    <component base="pe-cy" xScale="-1.0" yScale="-1.0" xOffset="1382" yOffset="1117"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>pe-cy</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

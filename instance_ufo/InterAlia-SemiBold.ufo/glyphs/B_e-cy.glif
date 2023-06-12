@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Be-cy" format="2">
+  <advance height="2479.0" width="1338.6"/>
+  <unicode hex="0411"/>
+  <outline>
+    <contour>
+      <point x="146.4" y="0.0" type="line"/>
+      <point x="704.2" y="0.0" type="line" smooth="yes"/>
+      <point x="1046.2" y="0.0"/>
+      <point x="1250.6" y="189.6"/>
+      <point x="1250.6" y="463.4" type="curve" smooth="yes"/>
+      <point x="1250.6" y="737.6"/>
+      <point x="1046.2" y="914.0"/>
+      <point x="704.2" y="914.0" type="curve" smooth="yes"/>
+      <point x="416.6" y="914.0" type="line"/>
+      <point x="416.6" y="1263.0" type="line"/>
+      <point x="1104.6" y="1263.0" type="line"/>
+      <point x="1104.6" y="1489.0" type="line"/>
+      <point x="146.4" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="416.6" y="221.0" type="line"/>
+      <point x="416.6" y="694.8" type="line"/>
+      <point x="704.2" y="694.8" type="line" smooth="yes"/>
+      <point x="884.6" y="694.8"/>
+      <point x="984.0" y="593.0"/>
+      <point x="984.0" y="466.4" type="curve" smooth="yes"/>
+      <point x="984.0" y="336.6"/>
+      <point x="884.6" y="221.0"/>
+      <point x="704.2" y="221.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

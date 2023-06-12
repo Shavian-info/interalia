@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dtopbar" format="2">
+  <advance height="2479.0" width="1354.3333333333333"/>
+  <unicode hex="018B"/>
+  <outline>
+    <contour>
+      <point x="598.3333333333334" y="0.0" type="curve" smooth="yes"/>
+      <point x="1156.6666666666667" y="0.0" type="line"/>
+      <point x="1156.6666666666667" y="1489.0" type="line"/>
+      <point x="288.3333333333333" y="1489.0" type="line"/>
+      <point x="288.3333333333333" y="1367.0" type="line"/>
+      <point x="1021.0" y="1367.0" type="line"/>
+      <point x="1021.0" y="835.0" type="line"/>
+      <point x="598.3333333333334" y="835.0" type="line" smooth="yes"/>
+      <point x="301.0" y="835.0"/>
+      <point x="129.66666666666666" y="675.3333333333334"/>
+      <point x="129.66666666666666" y="427.3333333333333" type="curve" smooth="yes"/>
+      <point x="129.66666666666666" y="172.0"/>
+      <point x="299.3333333333333" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="598.3333333333334" y="120.33333333333334" type="line" smooth="yes"/>
+      <point x="384.6666666666667" y="120.33333333333334"/>
+      <point x="264.0" y="258.0"/>
+      <point x="264.0" y="430.3333333333333" type="curve" smooth="yes"/>
+      <point x="264.0" y="590.6666666666666"/>
+      <point x="387.6666666666667" y="712.6666666666666"/>
+      <point x="598.3333333333334" y="712.6666666666666" type="curve" smooth="yes"/>
+      <point x="1021.0" y="712.6666666666666" type="line"/>
+      <point x="1021.0" y="120.33333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

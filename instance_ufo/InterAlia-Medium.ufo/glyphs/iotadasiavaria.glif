@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadasiavaria" format="2">
+  <advance height="2479.0" width="581.8"/>
+  <unicode hex="1F33"/>
+  <anchor x="255.8" y="1303.0" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="dasiavaria" xOffset="-229.6" yOffset="127.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

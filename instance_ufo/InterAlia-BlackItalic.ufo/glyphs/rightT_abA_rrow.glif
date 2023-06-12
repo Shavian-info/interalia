@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightTabArrow" format="2">
+  <advance height="2479" width="2211"/>
+  <unicode hex="21E5"/>
+  <outline>
+    <contour>
+      <point x="975" y="211" type="line"/>
+      <point x="1612" y="745" type="line"/>
+      <point x="1152" y="1279" type="line"/>
+    </contour>
+    <contour>
+      <point x="192" y="593" type="line"/>
+      <point x="1287" y="593" type="line"/>
+      <point x="1337" y="896" type="line"/>
+      <point x="241" y="896" type="line"/>
+    </contour>
+    <contour>
+      <point x="1671" y="212" type="line"/>
+      <point x="1968" y="212" type="line"/>
+      <point x="2144" y="1277" type="line"/>
+      <point x="1847" y="1277" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

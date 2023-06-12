@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Koppa-cy" format="2">
+  <advance height="2479.0" width="1371.8"/>
+  <unicode hex="0480"/>
+  <outline>
+    <contour>
+      <point x="640.8000000000001" y="232.6" type="line"/>
+      <point x="476.0" y="232.6"/>
+      <point x="399.0" y="360.8"/>
+      <point x="434.6" y="576.8" type="curve" smooth="yes"/>
+      <point x="490.6" y="912.2" type="line" smooth="yes"/>
+      <point x="529.6" y="1151.4"/>
+      <point x="620.5999999999999" y="1255.8"/>
+      <point x="799.0" y="1255.8" type="curve" smooth="yes"/>
+      <point x="959.5999999999999" y="1255.8"/>
+      <point x="1040.0" y="1165.2"/>
+      <point x="1013.4" y="1001.8" type="curve"/>
+      <point x="1329.8" y="1001.8" type="line"/>
+      <point x="1381.3999999999999" y="1316.3999999999999"/>
+      <point x="1192.2" y="1510.0"/>
+      <point x="842.0" y="1510.0" type="curve" smooth="yes"/>
+      <point x="481.2" y="1510.0"/>
+      <point x="236.4" y="1285.6"/>
+      <point x="175.0" y="910.4" type="curve"/>
+      <point x="120.0" y="576.8" type="line"/>
+      <point x="60.2" y="216.79999999999998"/>
+      <point x="250.2" y="-20.0"/>
+      <point x="598.6" y="-20.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="846.8000000000001" y="232.6" type="line"/>
+      <point x="531.8000000000001" y="232.6" type="line"/>
+      <point x="434.0" y="-357.6" type="line"/>
+      <point x="749.0" y="-357.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

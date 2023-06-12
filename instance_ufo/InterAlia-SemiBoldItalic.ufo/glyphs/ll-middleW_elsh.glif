@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ll-middleWelsh" format="2">
+  <advance height="2479.0" width="975.6"/>
+  <unicode hex="1EFB"/>
+  <anchor x="130.2" y="0.0" name="bottom_1"/>
+  <anchor x="665.0" y="0.0" name="bottom_2"/>
+  <anchor x="257.6" y="768.0" name="cross_1"/>
+  <anchor x="792.4" y="768.0" name="cross_2"/>
+  <anchor x="640.0" y="1489.0" name="raccent_1"/>
+  <anchor x="1174.8" y="1489.0" name="raccent_2"/>
+  <anchor x="407.8" y="1676.0" name="top_1"/>
+  <anchor x="942.6" y="1676.0" name="top_2"/>
+  <outline>
+    <contour>
+      <point x="9.199999999999998" y="1117.0" type="line"/>
+      <point x="1151.8" y="1117.0" type="line"/>
+      <point x="1178.3999999999999" y="1283.4" type="line"/>
+      <point x="36.4" y="1283.4" type="line"/>
+    </contour>
+    <component base="l" xOffset="-45.8"/>
+    <component base="l" xOffset="489.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

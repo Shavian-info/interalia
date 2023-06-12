@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hwair" format="2">
+  <advance height="2479.0" width="2277.0"/>
+  <unicode hex="01F6"/>
+  <outline>
+    <contour>
+      <point x="1647.6666666666667" y="-21.0" type="curve" smooth="yes"/>
+      <point x="1916.3333333333333" y="-21.0"/>
+      <point x="2106.3333333333335" y="130.0"/>
+      <point x="2106.3333333333335" y="461.3333333333333" type="curve" smooth="yes"/>
+      <point x="2106.3333333333335" y="1126.6666666666667" type="line"/>
+      <point x="1970.3333333333333" y="1126.6666666666667" type="line"/>
+      <point x="1970.3333333333333" y="461.3333333333333" type="line" smooth="yes"/>
+      <point x="1970.3333333333333" y="217.66666666666666"/>
+      <point x="1859.3333333333333" y="104.33333333333334"/>
+      <point x="1647.6666666666667" y="104.33333333333334" type="curve" smooth="yes"/>
+      <point x="1436.6666666666667" y="104.66666666666667"/>
+      <point x="1314.6666666666667" y="217.66666666666666"/>
+      <point x="1314.6666666666667" y="461.3333333333333" type="curve" smooth="yes"/>
+      <point x="1314.6666666666667" y="1489.0" type="line"/>
+      <point x="1179.3333333333333" y="1489.0" type="line"/>
+      <point x="1179.3333333333333" y="806.6666666666666" type="line"/>
+      <point x="333.6666666666667" y="806.6666666666666" type="line"/>
+      <point x="333.6666666666667" y="1489.0" type="line"/>
+      <point x="197.66666666666666" y="1489.0" type="line"/>
+      <point x="197.66666666666666" y="0.0" type="line"/>
+      <point x="333.6666666666667" y="0.0" type="line"/>
+      <point x="333.6666666666667" y="684.3333333333334" type="line"/>
+      <point x="1179.3333333333333" y="684.3333333333334" type="line"/>
+      <point x="1179.3333333333333" y="461.3333333333333" type="line" smooth="yes"/>
+      <point x="1179.3333333333333" y="138.0"/>
+      <point x="1370.0" y="-21.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

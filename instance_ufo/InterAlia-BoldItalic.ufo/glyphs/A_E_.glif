@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance height="2479.0" width="2109.6"/>
+  <unicode hex="00C6"/>
+  <anchor x="1527.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="-44.6" y="0.0" type="line"/>
+      <point x="302.2" y="0.0" type="line"/>
+      <point x="984.8" y="1179.0" type="line"/>
+      <point x="1088.2" y="1179.0" type="line"/>
+      <point x="891.8" y="0.0" type="line"/>
+      <point x="1898.8" y="0.0" type="line"/>
+      <point x="1942.2" y="259.6" type="line"/>
+      <point x="1250.6000000000001" y="259.6" type="line"/>
+      <point x="1308.2" y="615.6" type="line"/>
+      <point x="1945.3999999999999" y="615.6" type="line"/>
+      <point x="1989.3999999999999" y="875.2" type="line"/>
+      <point x="1352.2" y="875.2" type="line"/>
+      <point x="1410.2" y="1230.0" type="line"/>
+      <point x="2099.4" y="1230.0" type="line"/>
+      <point x="2142.8" y="1489.0" type="line"/>
+      <point x="841.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="354.4" y="339.8" type="line"/>
+      <point x="1128.0" y="339.8" type="line"/>
+      <point x="1170.2" y="585.6" type="line"/>
+      <point x="396.0" y="585.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

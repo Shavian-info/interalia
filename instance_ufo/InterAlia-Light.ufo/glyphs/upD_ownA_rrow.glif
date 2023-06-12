@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upDownArrow" format="2">
+  <advance height="2479.0" width="1955.0"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="977.0" y="-445.0" type="line"/>
+      <point x="1629.0" y="207.0" type="line"/>
+      <point x="1545.0" y="292.6666666666667" type="line"/>
+      <point x="1038.3333333333333" y="-214.0" type="line"/>
+      <point x="1038.3333333333333" y="1491.0" type="line"/>
+      <point x="1545.0" y="985.0" type="line"/>
+      <point x="1629.0" y="1071.0" type="line"/>
+      <point x="977.0" y="1722.0" type="line"/>
+      <point x="326.0" y="1071.0" type="line"/>
+      <point x="411.6666666666667" y="985.0" type="line"/>
+      <point x="916.0" y="1491.0" type="line"/>
+      <point x="916.0" y="-214.0" type="line"/>
+      <point x="411.6666666666667" y="292.6666666666667" type="line"/>
+      <point x="326.0" y="207.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

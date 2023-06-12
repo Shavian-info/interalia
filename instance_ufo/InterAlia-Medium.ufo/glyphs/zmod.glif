@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zmod" format="2">
+  <advance height="2479.0" width="763.6"/>
+  <unicode hex="1DBB"/>
+  <outline>
+    <contour>
+      <point x="80.6" y="745.0" type="line"/>
+      <point x="687.2" y="745.0" type="line"/>
+      <point x="687.2" y="887.4" type="line"/>
+      <point x="313.6" y="887.4" type="line"/>
+      <point x="313.6" y="893.4" type="line"/>
+      <point x="673.4" y="1371.6" type="line"/>
+      <point x="673.4" y="1489.0" type="line"/>
+      <point x="96.2" y="1489.0" type="line"/>
+      <point x="96.2" y="1344.2" type="line"/>
+      <point x="460.6" y="1344.2" type="line"/>
+      <point x="460.6" y="1339.0" type="line"/>
+      <point x="80.6" y="853.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

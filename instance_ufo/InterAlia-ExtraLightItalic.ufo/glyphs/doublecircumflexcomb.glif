@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doublecircumflexcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DCD"/>
+  <outline>
+    <contour>
+      <point x="229.66666666666666" y="1519.0" type="line"/>
+      <point x="163.66666666666666" y="1519.0" type="line"/>
+      <point x="-798.6666666666667" y="1282.0" type="line"/>
+      <point x="-803.6666666666667" y="1254.0" type="line"/>
+      <point x="-699.9999999999999" y="1229.0" type="line"/>
+      <point x="189.33333333333334" y="1450.3333333333335" type="line"/>
+      <point x="1003.6666666666666" y="1229.0" type="line"/>
+      <point x="1109.6666666666667" y="1254.0" type="line"/>
+      <point x="1114.0000000000002" y="1281.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

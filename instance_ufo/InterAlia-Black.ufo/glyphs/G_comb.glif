@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DDB"/>
+  <outline>
+    <contour>
+      <point x="-687" y="1193" type="curve" smooth="yes"/>
+      <point x="-519" y="1193"/>
+      <point x="-452" y="1236"/>
+      <point x="-407" y="1283" type="curve"/>
+      <point x="-407" y="1521" type="line"/>
+      <point x="-692" y="1521" type="line"/>
+      <point x="-692" y="1414" type="line"/>
+      <point x="-588" y="1414" type="line"/>
+      <point x="-588" y="1341" type="line"/>
+      <point x="-604" y="1332"/>
+      <point x="-624" y="1332"/>
+      <point x="-687" y="1332" type="curve" smooth="yes"/>
+      <point x="-749" y="1332"/>
+      <point x="-793" y="1379"/>
+      <point x="-794" y="1428" type="curve" smooth="yes"/>
+      <point x="-794" y="1571" type="line" smooth="yes"/>
+      <point x="-793" y="1615"/>
+      <point x="-755" y="1661"/>
+      <point x="-695" y="1661" type="curve" smooth="yes"/>
+      <point x="-644" y="1661"/>
+      <point x="-615" y="1649"/>
+      <point x="-605" y="1597" type="curve"/>
+      <point x="-419" y="1597" type="line"/>
+      <point x="-435" y="1748"/>
+      <point x="-537" y="1801"/>
+      <point x="-695" y="1801" type="curve" smooth="yes"/>
+      <point x="-860" y="1801"/>
+      <point x="-976" y="1702"/>
+      <point x="-977" y="1559" type="curve" smooth="yes"/>
+      <point x="-977" y="1434" type="line" smooth="yes"/>
+      <point x="-976" y="1292"/>
+      <point x="-857" y="1193"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>41</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

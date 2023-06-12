@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sdotaccent" format="2">
+  <advance height="2479.0" width="1177.4"/>
+  <unicode hex="1E61"/>
+  <anchor x="501.59999999999997" y="0.0" name="bottom"/>
+  <anchor x="508.2" y="0.0" name="cedilla"/>
+  <anchor x="719.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="dotaccent" xOffset="279.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

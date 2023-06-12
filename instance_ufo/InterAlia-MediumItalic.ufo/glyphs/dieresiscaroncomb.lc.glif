@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaroncomb.lc" format="2">
+  <advance height="2479.0" width="4.6000000000000005"/>
+  <unicode hex="E113"/>
+  <anchor x="-491.99999999999994" y="1292.0" name="_top"/>
+  <anchor x="-386.59999999999997" y="1938.2" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-830.5999999999999" y="1366.4" type="curve" smooth="yes"/>
+      <point x="-840.0" y="1302.0"/>
+      <point x="-801.0" y="1252.4"/>
+      <point x="-725.8" y="1252.4" type="curve" smooth="yes"/>
+      <point x="-647.8000000000001" y="1252.4"/>
+      <point x="-590.4" y="1301.4"/>
+      <point x="-580.8" y="1366.4" type="curve" smooth="yes"/>
+      <point x="-571.4" y="1431.0"/>
+      <point x="-609.8" y="1483.8"/>
+      <point x="-688.5999999999999" y="1483.8" type="curve" smooth="yes"/>
+      <point x="-766.2" y="1483.8"/>
+      <point x="-821.1999999999999" y="1428.6"/>
+    </contour>
+    <contour>
+      <point x="-376.59999999999997" y="1364.0" type="curve" smooth="yes"/>
+      <point x="-386.79999999999995" y="1302.0"/>
+      <point x="-347.8" y="1250.0"/>
+      <point x="-269.4" y="1250.0" type="curve" smooth="yes"/>
+      <point x="-190.6" y="1250.0"/>
+      <point x="-134.59999999999997" y="1302.0"/>
+      <point x="-124.39999999999998" y="1364.0" type="curve" smooth="yes"/>
+      <point x="-114.99999999999997" y="1428.6"/>
+      <point x="-153.39999999999998" y="1483.8"/>
+      <point x="-232.0" y="1483.8" type="curve" smooth="yes"/>
+      <point x="-310.40000000000003" y="1483.8"/>
+      <point x="-367.2" y="1428.6"/>
+    </contour>
+    <contour>
+      <point x="-551.4" y="1837.6" type="line"/>
+      <point x="-750.4" y="1837.6" type="line"/>
+      <point x="-750.4" y="1826.2" type="line"/>
+      <point x="-523.8" y="1547.8" type="line"/>
+      <point x="-377.4" y="1547.8" type="line"/>
+      <point x="-55.200000000000024" y="1825.6" type="line"/>
+      <point x="-55.200000000000024" y="1837.6" type="line"/>
+      <point x="-256.20000000000005" y="1837.6" type="line"/>
+      <point x="-427.99999999999994" y="1678.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

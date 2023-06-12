@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Heta" format="2">
+  <advance height="2479" width="1292"/>
+  <unicode hex="0370"/>
+  <outline>
+    <contour>
+      <point x="1164" y="835" type="line" name="hr00"/>
+      <point x="399" y="835" type="line"/>
+      <point x="369" y="669" type="line"/>
+      <point x="1135" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="535" y="1491" type="line"/>
+      <point x="329" y="1491" type="line"/>
+      <point x="81" y="0" type="line"/>
+      <point x="288" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

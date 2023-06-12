@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowasterisk" format="2">
+  <advance height="2479.0" width="1068.2"/>
+  <unicode hex="204E"/>
+  <outline>
+    <component base="asterisk" yOffset="-993.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

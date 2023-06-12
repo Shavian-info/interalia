@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="einvertedbreve" format="2">
+  <advance height="2479" width="1245"/>
+  <unicode hex="0207"/>
+  <anchor x="529" y="0" name="bottom"/>
+  <anchor x="535" y="0" name="cedilla"/>
+  <anchor x="873" y="49" name="ogonek"/>
+  <anchor x="745" y="1303" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="breveinvertedcomb" xOffset="1289" yOffset="157"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

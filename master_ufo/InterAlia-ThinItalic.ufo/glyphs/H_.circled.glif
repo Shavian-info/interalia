@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.circled" format="2">
+  <advance height="2479" width="2845"/>
+  <unicode hex="24BD"/>
+  <anchor x="1329" y="0" name="bottom"/>
+  <anchor x="830" y="-6" name="cedilla"/>
+  <anchor x="1872" y="6" name="cyrtic"/>
+  <anchor x="1850" y="0" name="right"/>
+  <anchor x="1021" y="1489" name="tonos"/>
+  <anchor x="1609" y="1676" name="top"/>
+  <outline>
+    <component base="H" xOffset="669"/>
+    <component base="enclosingcirclecomb" xOffset="823"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

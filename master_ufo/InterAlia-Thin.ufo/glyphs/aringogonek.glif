@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringogonek" format="2">
+  <advance height="2479" width="1108"/>
+  <unicode hex="EE04"/>
+  <anchor x="556" y="0" name="bottom"/>
+  <anchor x="905" y="0" name="ogonek"/>
+  <anchor x="556" y="1303" name="rhalfring"/>
+  <anchor x="553" y="1303" name="top"/>
+  <outline>
+    <component base="aring"/>
+    <component base="ogonek" xOffset="633"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

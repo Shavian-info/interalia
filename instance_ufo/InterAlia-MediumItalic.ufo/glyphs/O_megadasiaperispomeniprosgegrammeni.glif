@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiaperispomeniprosgegrammeni" format="2">
+  <advance height="2479.0" width="1881.4"/>
+  <unicode hex="1FAF"/>
+  <anchor x="1004.8" y="0.0" name="bottom"/>
+  <anchor x="653.0" y="1489.0" name="tonos"/>
+  <outline>
+    <component base="Omega" xOffset="312.0"/>
+    <component base="prosgegrammeni" xOffset="862.6"/>
+    <component base="dasiaperispomeni.tonos" xOffset="-127.4" yOffset="34.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzhe-cy" format="2">
+  <advance height="2479.0" width="1191.0"/>
+  <unicode hex="045F"/>
+  <anchor x="265.66666666666663" y="1117.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="450.33333333333337" y="59.333333333333336" type="line"/>
+      <point x="382.33333333333337" y="-358.0" type="line"/>
+      <point x="511.6666666666667" y="-358.0" type="line"/>
+      <point x="578.6666666666667" y="59.333333333333336" type="line"/>
+    </contour>
+    <component base="pe-cy" xScale="-1.0" yScale="-1.0" xOffset="1191.0" yOffset="1117.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

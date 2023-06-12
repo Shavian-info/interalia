@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="charactertie" format="2">
+  <advance height="2479" width="1584"/>
+  <unicode hex="2040"/>
+  <outline>
+    <contour>
+      <point x="1444" y="1222" type="curve"/>
+      <point x="1481" y="1239" type="line"/>
+      <point x="1290" y="1460"/>
+      <point x="1078" y="1544"/>
+      <point x="791" y="1545" type="curve" smooth="yes"/>
+      <point x="505" y="1545"/>
+      <point x="292" y="1460"/>
+      <point x="102" y="1239" type="curve"/>
+      <point x="138" y="1222" type="line"/>
+      <point x="308" y="1405"/>
+      <point x="512" y="1500"/>
+      <point x="791" y="1498" type="curve" smooth="yes"/>
+      <point x="1071" y="1499"/>
+      <point x="1275" y="1404"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

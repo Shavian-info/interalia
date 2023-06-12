@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotavrachy.1" format="2">
+  <advance height="2479.0" width="844.0"/>
+  <anchor x="422.0" y="0.0" name="bottom"/>
+  <anchor x="422.0" y="768.0" name="cross"/>
+  <anchor x="736.3333333333334" y="0.0" name="ogonek"/>
+  <anchor x="748.3333333333334" y="0.0" name="right"/>
+  <anchor x="107.66666666666667" y="1489.0" name="tonos"/>
+  <anchor x="422.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="breve" xOffset="-26.333333333333332" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

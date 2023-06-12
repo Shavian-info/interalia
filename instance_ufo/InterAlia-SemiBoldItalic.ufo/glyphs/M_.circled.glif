@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.circled" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="24C2"/>
+  <anchor x="1329.0" y="0.0" name="bottom"/>
+  <anchor x="2098.2000000000003" y="0.0" name="right"/>
+  <anchor x="1608.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="M" xOffset="494.4"/>
+    <component base="enclosingcirclecomb" xOffset="716.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>M</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="isbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DD0"/>
+  <outline>
+    <contour>
+      <point x="-633" y="-76" type="line"/>
+      <point x="-838" y="-438" type="line"/>
+      <point x="-816" y="-451" type="line"/>
+      <point x="-745" y="-412"/>
+      <point x="-696" y="-391"/>
+      <point x="-652" y="-391" type="curve" smooth="yes"/>
+      <point x="-564" y="-391"/>
+      <point x="-505" y="-468"/>
+      <point x="-426" y="-468" type="curve" smooth="yes"/>
+      <point x="-361" y="-468"/>
+      <point x="-297" y="-413"/>
+      <point x="-263" y="-346" type="curve"/>
+      <point x="-305" y="-335" type="line"/>
+      <point x="-332" y="-386"/>
+      <point x="-379" y="-422"/>
+      <point x="-420" y="-422" type="curve" smooth="yes"/>
+      <point x="-484" y="-422"/>
+      <point x="-548" y="-345"/>
+      <point x="-646" y="-345" type="curve" smooth="yes"/>
+      <point x="-677" y="-345"/>
+      <point x="-709" y="-352"/>
+      <point x="-748" y="-369" type="curve"/>
+      <point x="-583" y="-76" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

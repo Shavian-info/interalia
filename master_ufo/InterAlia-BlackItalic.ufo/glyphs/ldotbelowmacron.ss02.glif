@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldotbelowmacron.ss02" format="2">
+  <advance height="2479" width="724"/>
+  <anchor x="277" y="0" name="bottom"/>
+  <anchor x="343" y="788" name="cross"/>
+  <anchor x="776" y="1489" name="raccent"/>
+  <anchor x="491" y="1676" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="dotbelowcomb" xOffset="907"/>
+    <component base="macron" xOffset="-292" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

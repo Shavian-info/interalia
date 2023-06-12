@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigmaLunateDottedSymbol" format="2">
+  <advance height="2479" width="1225"/>
+  <unicode hex="037C"/>
+  <outline>
+    <contour>
+      <point x="505" y="544" type="curve" smooth="yes"/>
+      <point x="490" y="465"/>
+      <point x="548" y="401"/>
+      <point x="637" y="401" type="curve" smooth="yes"/>
+      <point x="732" y="401"/>
+      <point x="809" y="463"/>
+      <point x="822" y="544" type="curve" smooth="yes"/>
+      <point x="835" y="628"/>
+      <point x="782" y="687"/>
+      <point x="685" y="687" type="curve" smooth="yes"/>
+      <point x="596" y="687"/>
+      <point x="519" y="628"/>
+    </contour>
+    <contour>
+      <point x="544" y="-20" type="curve" smooth="yes"/>
+      <point x="816" y="-20"/>
+      <point x="1057" y="134"/>
+      <point x="1100" y="419" type="curve"/>
+      <point x="748" y="419" type="line"/>
+      <point x="732" y="320"/>
+      <point x="677" y="282"/>
+      <point x="586" y="282" type="curve" smooth="yes"/>
+      <point x="436" y="282"/>
+      <point x="458" y="422"/>
+      <point x="479" y="547" type="curve" smooth="yes"/>
+      <point x="481" y="564" type="line" smooth="yes"/>
+      <point x="502" y="687"/>
+      <point x="527" y="832"/>
+      <point x="673" y="832" type="curve" smooth="yes"/>
+      <point x="777" y="832"/>
+      <point x="806" y="762"/>
+      <point x="790" y="666" type="curve"/>
+      <point x="1142" y="666" type="line"/>
+      <point x="1196" y="977"/>
+      <point x="1018" y="1132"/>
+      <point x="733" y="1132" type="curve" smooth="yes"/>
+      <point x="381" y="1132"/>
+      <point x="159" y="899"/>
+      <point x="103" y="564" type="curve" smooth="yes"/>
+      <point x="100" y="547" type="line" smooth="yes"/>
+      <point x="44" y="209"/>
+      <point x="191" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

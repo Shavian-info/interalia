@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance height="2479.0" width="1483.6"/>
+  <unicode hex="00D0"/>
+  <anchor x="643.8" y="0.0" name="bottom"/>
+  <anchor x="281.4" y="776.0" name="cross"/>
+  <anchor x="607.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="Dtail"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

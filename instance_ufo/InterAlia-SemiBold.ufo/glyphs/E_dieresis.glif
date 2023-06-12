@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edieresis" format="2">
+  <advance height="2479.0" width="1244.6"/>
+  <unicode hex="00CB"/>
+  <anchor x="623.2" y="0.0" name="bottom"/>
+  <anchor x="626.2" y="0.0" name="cedilla"/>
+  <anchor x="1121.4" y="0.0" name="ogonek"/>
+  <anchor x="102.4" y="1489.0" name="tonos"/>
+  <anchor x="631.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="casedieresis.cn" xOffset="65.0" yOffset="24.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

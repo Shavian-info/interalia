@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.ss01" format="2">
+  <advance height="2479.0" width="1171.3333333333333"/>
+  <outline>
+    <contour>
+      <point x="129.66666666666666" y="462.3333333333333" type="curve" smooth="yes"/>
+      <point x="127.66666666666667" y="186.66666666666666"/>
+      <point x="324.0" y="-20.0"/>
+      <point x="586.0" y="-20.0" type="curve" smooth="yes"/>
+      <point x="845.3333333333334" y="-20.0"/>
+      <point x="1041.3333333333333" y="182.66666666666666"/>
+      <point x="1041.3333333333333" y="453.0" type="curve" smooth="yes"/>
+      <point x="1041.3333333333333" y="722.6666666666666"/>
+      <point x="843.3333333333334" y="928.3333333333334"/>
+      <point x="584.0" y="928.3333333333334" type="curve" smooth="yes"/>
+      <point x="535.0" y="928.3333333333334"/>
+      <point x="487.6666666666667" y="916.0"/>
+      <point x="445.0" y="897.6666666666666" type="curve"/>
+      <point x="851.3333333333334" y="1489.0" type="line"/>
+      <point x="701.0" y="1489.0" type="line"/>
+      <point x="306.6666666666667" y="910.6666666666666" type="line" smooth="yes"/>
+      <point x="179.0" y="721.3333333333334"/>
+      <point x="131.66666666666666" y="593.3333333333334"/>
+    </contour>
+    <contour>
+      <point x="260.0" y="455.0" type="curve" smooth="yes"/>
+      <point x="260.0" y="656.0"/>
+      <point x="398.6666666666667" y="806.0"/>
+      <point x="586.0" y="806.0" type="curve" smooth="yes"/>
+      <point x="772.3333333333334" y="806.0"/>
+      <point x="911.3333333333334" y="656.0"/>
+      <point x="911.3333333333334" y="453.0" type="curve" smooth="yes"/>
+      <point x="911.3333333333334" y="252.0"/>
+      <point x="772.3333333333334" y="100.0"/>
+      <point x="586.0" y="100.0" type="curve" smooth="yes"/>
+      <point x="398.6666666666667" y="100.0"/>
+      <point x="260.0" y="252.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

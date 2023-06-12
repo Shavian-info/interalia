@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threedotsabovecomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="20DB"/>
+  <outline>
+    <component base="period" xOffset="-1548" yOffset="1300"/>
+    <component base="period" xOffset="-1036" yOffset="1300"/>
+    <component base="period" xOffset="-524" yOffset="1300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>3</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

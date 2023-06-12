@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palatalizationcomb-cy" format="2">
+  <advance height="2479"/>
+  <unicode hex="0484"/>
+  <outline>
+    <contour>
+      <point x="-887" y="1437" type="line"/>
+      <point x="-911" y="1303" type="line"/>
+      <point x="-902" y="1303" type="line" smooth="yes"/>
+      <point x="-658" y="1303"/>
+      <point x="-463" y="1423"/>
+      <point x="-343" y="1423" type="curve" smooth="yes"/>
+      <point x="-280" y="1423"/>
+      <point x="-236" y="1393"/>
+      <point x="-250" y="1321" type="curve" smooth="yes"/>
+      <point x="-253" y="1303" type="line"/>
+      <point x="-111" y="1303" type="line"/>
+      <point x="-102" y="1341" type="line" smooth="yes"/>
+      <point x="-79" y="1489"/>
+      <point x="-164" y="1556"/>
+      <point x="-317" y="1556" type="curve" smooth="yes"/>
+      <point x="-484" y="1556"/>
+      <point x="-658" y="1437"/>
+      <point x="-881" y="1437" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>23</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

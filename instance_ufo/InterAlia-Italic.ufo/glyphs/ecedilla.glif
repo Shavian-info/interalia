@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecedilla" format="2">
+  <advance height="2479" width="1241"/>
+  <unicode hex="0229"/>
+  <anchor x="505" y="0" name="bottom"/>
+  <anchor x="508" y="0" name="cedilla"/>
+  <anchor x="674" y="0" name="ogonek"/>
+  <anchor x="721" y="1303" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="cedilla" xOffset="322"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

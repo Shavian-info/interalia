@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lzdigraph" format="2">
+  <advance height="2479.0" width="1329.6666666666667"/>
+  <unicode hex="02AB"/>
+  <outline>
+    <contour>
+      <point x="1158.3333333333333" y="84.66666666666667" type="line"/>
+      <point x="401.6666666666667" y="84.66666666666667" type="line"/>
+      <point x="387.0" y="0.0" type="line"/>
+      <point x="1144.3333333333333" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1292.6666666666665" y="1040.6666666666667" type="line"/>
+      <point x="1305.0" y="1117.0" type="line"/>
+      <point x="1252.6666666666667" y="1117.0" type="line"/>
+      <point x="365.66666666666663" y="79.66666666666667" type="line"/>
+      <point x="351.66666666666663" y="0.0" type="line"/>
+      <point x="406.33333333333337" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1269.3333333333335" y="1117.0" type="line"/>
+      <point x="319.6666666666667" y="1117.0" type="line"/>
+      <point x="306.3333333333333" y="1033.0" type="line"/>
+      <point x="1255.6666666666667" y="1033.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="423.0" y="1489.0" type="line"/>
+      <point x="334.33333333333337" y="1489.0" type="line"/>
+      <point x="87.33333333333334" y="0.0" type="line"/>
+      <point x="175.33333333333334" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

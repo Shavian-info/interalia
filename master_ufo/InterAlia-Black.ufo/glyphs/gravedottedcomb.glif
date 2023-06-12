@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravedottedcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DC0"/>
+  <outline>
+    <contour>
+      <point x="-692" y="1536" type="line"/>
+      <point x="-1085" y="1536" type="line"/>
+      <point x="-785" y="1216" type="line"/>
+      <point x="-480" y="1216" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1408" y="1297" type="curve" smooth="yes"/>
+      <point x="-1408" y="1204"/>
+      <point x="-1324" y="1132"/>
+      <point x="-1201" y="1132" type="curve" smooth="yes"/>
+      <point x="-1079" y="1132"/>
+      <point x="-992" y="1204"/>
+      <point x="-992" y="1297" type="curve" smooth="yes"/>
+      <point x="-992" y="1391"/>
+      <point x="-1079" y="1463"/>
+      <point x="-1201" y="1463" type="curve" smooth="yes"/>
+      <point x="-1324" y="1463"/>
+      <point x="-1408" y="1391"/>
+    </contour>
+    <contour>
+      <point x="-515" y="1396" type="curve" smooth="yes"/>
+      <point x="-515" y="1303"/>
+      <point x="-428" y="1233"/>
+      <point x="-308" y="1233" type="curve" smooth="yes"/>
+      <point x="-186" y="1233"/>
+      <point x="-102" y="1303"/>
+      <point x="-102" y="1396" type="curve" smooth="yes"/>
+      <point x="-102" y="1492"/>
+      <point x="-189" y="1562"/>
+      <point x="-308" y="1562" type="curve" smooth="yes"/>
+      <point x="-428" y="1562"/>
+      <point x="-515" y="1492"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>12</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

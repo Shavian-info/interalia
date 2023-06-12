@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hmod" format="2">
+  <advance height="2479.0" width="849.8"/>
+  <unicode hex="02B0"/>
+  <outline>
+    <contour>
+      <point x="387.20000000000005" y="1174.2" type="line" smooth="yes"/>
+      <point x="403.0" y="1274.4"/>
+      <point x="476.0" y="1332.2"/>
+      <point x="560.4" y="1332.2" type="curve" smooth="yes"/>
+      <point x="643.5999999999999" y="1332.2"/>
+      <point x="688.8000000000001" y="1278.6000000000001"/>
+      <point x="673.0" y="1183.8" type="curve" smooth="yes"/>
+      <point x="599.4000000000001" y="745.0" type="line"/>
+      <point x="797.8000000000001" y="745.0" type="line"/>
+      <point x="877.0" y="1217.8" type="line" smooth="yes"/>
+      <point x="907.2" y="1394.2"/>
+      <point x="817.8" y="1498.0"/>
+      <point x="665.6" y="1498.0" type="curve" smooth="yes"/>
+      <point x="551.6" y="1498.0"/>
+      <point x="467.59999999999997" y="1444.8000000000002"/>
+      <point x="421.20000000000005" y="1359.0" type="curve"/>
+      <point x="411.4" y="1359.0" type="line"/>
+      <point x="475.4" y="1737.0" type="line"/>
+      <point x="282.4" y="1737.0" type="line"/>
+      <point x="116.4" y="745.0" type="line"/>
+      <point x="314.8" y="745.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute" format="2">
+  <advance height="2479.0" width="1268.4"/>
+  <unicode hex="00F3"/>
+  <anchor x="541.4000000000001" y="0.0" name="bottom"/>
+  <anchor x="699.8000000000001" y="0.0" name="ogonek"/>
+  <anchor x="822.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="acute" xOffset="128.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

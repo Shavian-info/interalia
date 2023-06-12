@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lje-cy" format="2">
+  <advance height="2479.0" width="2328.0"/>
+  <unicode hex="0409"/>
+  <anchor x="1314.4" y="1177.4" name="cross"/>
+  <outline>
+    <contour>
+      <point x="115.4" y="0.0" type="line"/>
+      <point x="200.8" y="0.0" type="line" smooth="yes"/>
+      <point x="533.8" y="0.0"/>
+      <point x="695.8" y="148.39999999999998"/>
+      <point x="723.4" y="712.8" type="curve" smooth="yes"/>
+      <point x="747.0" y="1203.4" type="line"/>
+      <point x="1217.8" y="1203.4" type="line"/>
+      <point x="1217.8" y="1489.0" type="line"/>
+      <point x="414.6" y="1489.0" type="line"/>
+      <point x="390.2" y="845.4" type="line" smooth="yes"/>
+      <point x="373.0" y="382.6"/>
+      <point x="289.2" y="294.8"/>
+      <point x="153.8" y="286.8" type="curve" smooth="yes"/>
+      <point x="115.4" y="284.4" type="line"/>
+    </contour>
+    <component base="Softsign-cy" xOffset="985.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhookturnedmod" format="2">
+  <advance height="2479" width="733"/>
+  <unicode hex="02B5"/>
+  <outline>
+    <contour>
+      <point x="99" y="646" type="line"/>
+      <point x="108" y="640"/>
+      <point x="137" y="637"/>
+      <point x="169" y="637" type="curve" smooth="yes"/>
+      <point x="305" y="637"/>
+      <point x="401" y="800"/>
+      <point x="401" y="1024" type="curve"/>
+      <point x="355" y="1024" type="line"/>
+      <point x="352" y="899"/>
+      <point x="308" y="809"/>
+      <point x="201" y="809" type="curve" smooth="yes"/>
+      <point x="163" y="809"/>
+      <point x="131" y="817"/>
+      <point x="99" y="832" type="curve"/>
+    </contour>
+    <contour>
+      <point x="637" y="346" type="curve"/>
+      <point x="637" y="518" type="line"/>
+      <point x="623" y="512"/>
+      <point x="591" y="506"/>
+      <point x="564" y="506" type="curve" smooth="yes"/>
+      <point x="538" y="506"/>
+      <point x="512" y="521"/>
+      <point x="512" y="573" type="curve" smooth="yes"/>
+      <point x="512" y="1452" type="line"/>
+      <point x="329" y="1452" type="line"/>
+      <point x="329" y="561" type="line" smooth="yes"/>
+      <point x="329" y="422"/>
+      <point x="361" y="329"/>
+      <point x="486" y="329" type="curve" smooth="yes"/>
+      <point x="538" y="329"/>
+      <point x="582" y="335"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

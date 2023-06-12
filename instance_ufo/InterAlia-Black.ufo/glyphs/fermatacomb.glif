@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fermatacomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0352"/>
+  <outline>
+    <contour>
+      <point x="-300" y="1519" type="line"/>
+      <point x="-301" y="1708"/>
+      <point x="-458" y="1841"/>
+      <point x="-701" y="1841" type="curve" smooth="yes"/>
+      <point x="-944" y="1841"/>
+      <point x="-1101" y="1708"/>
+      <point x="-1100" y="1519" type="curve"/>
+      <point x="-849" y="1519" type="line"/>
+      <point x="-851" y="1580"/>
+      <point x="-807" y="1638"/>
+      <point x="-701" y="1638" type="curve" smooth="yes"/>
+      <point x="-595" y="1638"/>
+      <point x="-557" y="1580"/>
+      <point x="-556" y="1519" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-908" y="1321" type="curve" smooth="yes"/>
+      <point x="-909" y="1228"/>
+      <point x="-822" y="1158"/>
+      <point x="-701" y="1158" type="curve" smooth="yes"/>
+      <point x="-580" y="1158"/>
+      <point x="-496" y="1228"/>
+      <point x="-495" y="1321" type="curve" smooth="yes"/>
+      <point x="-496" y="1417"/>
+      <point x="-583" y="1487"/>
+      <point x="-701" y="1487" type="curve" smooth="yes"/>
+      <point x="-822" y="1487"/>
+      <point x="-909" y="1417"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>29</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

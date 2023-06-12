@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="carondotaccentcomb.cn" format="2">
+  <advance height="2479" width="26"/>
+  <unicode hex="E119"/>
+  <anchor x="-707" y="1207" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-864" y="1641" type="curve" smooth="yes"/>
+      <point x="-864" y="1571"/>
+      <point x="-797" y="1519"/>
+      <point x="-707" y="1519" type="curve" smooth="yes"/>
+      <point x="-617" y="1519"/>
+      <point x="-550" y="1571"/>
+      <point x="-550" y="1641" type="curve" smooth="yes"/>
+      <point x="-550" y="1711"/>
+      <point x="-617" y="1766"/>
+      <point x="-707" y="1766" type="curve" smooth="yes"/>
+      <point x="-797" y="1766"/>
+      <point x="-864" y="1711"/>
+    </contour>
+    <contour>
+      <point x="-832" y="1463" type="line"/>
+      <point x="-1155" y="1463" type="line"/>
+      <point x="-1155" y="1452" type="line"/>
+      <point x="-838" y="1207" type="line"/>
+      <point x="-567" y="1207" type="line"/>
+      <point x="-256" y="1446" type="line"/>
+      <point x="-256" y="1463" type="line"/>
+      <point x="-576" y="1463" type="line"/>
+      <point x="-704" y="1359" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

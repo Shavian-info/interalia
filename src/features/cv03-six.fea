@@ -1,5 +1,0 @@
-cvParameters { FeatUILabelNameID { name "Open six"; }; };
-sub six by six.ss01;
-sub six.tf by six.ss01.tf;
-sub six.box by six.ss01.box;
-sub six.circled by six.ss01.circled;

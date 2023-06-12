@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fturned" format="2">
+  <advance height="2479.0" width="1031.8"/>
+  <unicode hex="214E"/>
+  <outline>
+    <contour>
+      <point x="-24.000000000000004" y="0.0" type="line"/>
+      <point x="825.4000000000001" y="0.0" type="line"/>
+      <point x="1009.4000000000001" y="1117.0" type="line"/>
+      <point x="654.4000000000001" y="1117.0" type="line"/>
+      <point x="583.0" y="689.4" type="line"/>
+      <point x="135.0" y="689.4" type="line"/>
+      <point x="91.8" y="427.4" type="line"/>
+      <point x="539.8000000000001" y="427.4" type="line"/>
+      <point x="512.6" y="261.8" type="line"/>
+      <point x="19.2" y="261.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

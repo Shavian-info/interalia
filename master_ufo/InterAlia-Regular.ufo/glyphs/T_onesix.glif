@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonesix" format="2">
+  <advance height="2479" width="1463"/>
+  <unicode hex="0184"/>
+  <outline>
+    <contour>
+      <point x="550" y="1489" type="line"/>
+      <point x="20" y="1489" type="line"/>
+      <point x="20" y="1329" type="line"/>
+      <point x="550" y="1329" type="line"/>
+    </contour>
+    <contour>
+      <point x="503" y="864" type="line"/>
+      <point x="503" y="704" type="line"/>
+      <point x="928" y="704" type="line"/>
+      <point x="1132" y="704"/>
+      <point x="1245" y="585"/>
+      <point x="1245" y="442" type="curve"/>
+      <point x="1245" y="297"/>
+      <point x="1132" y="157"/>
+      <point x="928" y="157" type="curve"/>
+      <point x="550" y="157" type="line"/>
+      <point x="550" y="1489" type="line"/>
+      <point x="369" y="1489" type="line"/>
+      <point x="369" y="0" type="line"/>
+      <point x="928" y="0" type="line"/>
+      <point x="1248" y="0"/>
+      <point x="1423" y="180"/>
+      <point x="1423" y="439" type="curve"/>
+      <point x="1423" y="698"/>
+      <point x="1248" y="864"/>
+      <point x="928" y="864" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minusmod" format="2">
+  <advance height="2479.0" width="475.33333333333337"/>
+  <unicode hex="02D7"/>
+  <outline>
+    <contour>
+      <point x="27.666666666666668" y="402.6666666666667" type="line"/>
+      <point x="27.666666666666668" y="293.6666666666667" type="line"/>
+      <point x="446.6666666666667" y="293.6666666666667" type="line"/>
+      <point x="446.6666666666667" y="402.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

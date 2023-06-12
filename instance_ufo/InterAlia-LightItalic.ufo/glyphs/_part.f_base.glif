@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.f_base" format="2">
+  <advance height="2479.0" width="718.6666666666666"/>
+  <anchor x="333.0" y="649.0" name="cross"/>
+  <anchor x="559.6666666666667" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="160.33333333333334" y="0.0" type="line"/>
+      <point x="289.3333333333333" y="0.0" type="line"/>
+      <point x="497.6666666666667" y="1254.0" type="line" smooth="yes"/>
+      <point x="517.6666666666667" y="1371.0"/>
+      <point x="592.6666666666666" y="1436.0"/>
+      <point x="705.0" y="1436.0" type="curve" smooth="yes"/>
+      <point x="747.3333333333334" y="1436.0"/>
+      <point x="772.0" y="1426.6666666666667"/>
+      <point x="791.3333333333334" y="1420.6666666666665" type="curve"/>
+      <point x="846.6666666666667" y="1534.0" type="line"/>
+      <point x="822.6666666666666" y="1545.0"/>
+      <point x="781.6666666666666" y="1558.0"/>
+      <point x="714.0" y="1558.0" type="curve" smooth="yes"/>
+      <point x="560.6666666666666" y="1558.0"/>
+      <point x="401.33333333333337" y="1461.0"/>
+      <point x="373.33333333333337" y="1280.6666666666667" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

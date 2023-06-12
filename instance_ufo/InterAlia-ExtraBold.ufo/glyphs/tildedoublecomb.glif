@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildedoublecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0360"/>
+  <outline>
+    <contour>
+      <point x="-987.4" y="1217.6" type="line"/>
+      <point x="-956.2" y="1292.2"/>
+      <point x="-869.6" y="1315.8"/>
+      <point x="-770.4" y="1315.8" type="curve" smooth="yes"/>
+      <point x="-459.4" y="1315.8"/>
+      <point x="221.4" y="1244.2"/>
+      <point x="649.0" y="1244.2" type="curve" smooth="yes"/>
+      <point x="833.2" y="1244.2"/>
+      <point x="972.0" y="1316.6"/>
+      <point x="990.4" y="1478.4" type="curve"/>
+      <point x="810.0" y="1531.8" type="line"/>
+      <point x="788.6" y="1461.4"/>
+      <point x="711.4" y="1435.4"/>
+      <point x="597.8" y="1435.4" type="curve" smooth="yes"/>
+      <point x="309.6" y="1435.4"/>
+      <point x="-480.4" y="1502.8"/>
+      <point x="-814.4" y="1502.8" type="curve" smooth="yes"/>
+      <point x="-1010.4" y="1502.8"/>
+      <point x="-1124.0" y="1433.6"/>
+      <point x="-1167.2" y="1271.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

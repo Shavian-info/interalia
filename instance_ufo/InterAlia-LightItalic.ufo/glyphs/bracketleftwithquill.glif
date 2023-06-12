@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleftwithquill" format="2">
+  <advance height="2479.0" width="710.0"/>
+  <unicode hex="2045"/>
+  <outline>
+    <contour>
+      <point x="639.0" y="682.6666666666666" type="line"/>
+      <point x="338.66666666666663" y="682.6666666666666" type="line"/>
+      <point x="320.66666666666663" y="574.3333333333334" type="line"/>
+      <point x="621.6666666666666" y="574.3333333333334" type="line"/>
+    </contour>
+    <component base="bracketleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzcaron" format="2">
+  <advance height="2479.0" width="2554.6666666666665"/>
+  <unicode hex="01C5"/>
+  <anchor x="612.3333333333334" y="0.0" name="bottom_1"/>
+  <anchor x="2001.3333333333333" y="0.0" name="bottom_2"/>
+  <anchor x="266.0" y="764.0" name="cross_1"/>
+  <anchor x="2011.3333333333333" y="559.0" name="cross_2"/>
+  <anchor x="621.6666666666666" y="1676.0" name="top_1"/>
+  <anchor x="2011.3333333333333" y="1303.0" name="top_2"/>
+  <outline>
+    <component base="D"/>
+    <component base="zcaron" xOffset="1469.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

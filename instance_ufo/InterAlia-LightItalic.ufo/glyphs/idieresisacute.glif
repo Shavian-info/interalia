@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresisacute" format="2">
+  <advance height="2479.0" width="475.3333333333333"/>
+  <unicode hex="1E2F"/>
+  <anchor x="145.33333333333334" y="0.0" name="bottom"/>
+  <anchor x="243.33333333333334" y="589.3333333333334" name="cross"/>
+  <anchor x="209.66666666666669" y="0.0" name="ogonek"/>
+  <anchor x="362.33333333333337" y="1305.0" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dieresisacutecomb.lc" xOffset="799.0" yOffset="48.666666666666664"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

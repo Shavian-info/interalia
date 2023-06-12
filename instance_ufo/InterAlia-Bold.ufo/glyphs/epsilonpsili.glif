@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilonpsili" format="2">
+  <advance height="2479.0" width="1168.0"/>
+  <unicode hex="1F10"/>
+  <anchor x="585.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="koronis" xOffset="388.6" yOffset="122.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

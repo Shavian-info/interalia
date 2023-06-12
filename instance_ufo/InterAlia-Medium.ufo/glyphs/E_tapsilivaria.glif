@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilivaria" format="2">
+  <advance height="2479.0" width="2238.2"/>
+  <unicode hex="1F2A"/>
+  <anchor x="1476.6" y="0.0" name="bottom"/>
+  <anchor x="1011.0" y="-2.4" name="cedilla"/>
+  <anchor x="2166.2" y="83.8" name="cyrtic"/>
+  <anchor x="2074.2" y="0.0" name="right"/>
+  <anchor x="846.4" y="1489.0" name="tonos"/>
+  <anchor x="1483.8" y="1678.4" name="top"/>
+  <outline>
+    <component base="H" xOffset="718.2"/>
+    <component base="psilivaria.tonos" xOffset="-17.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

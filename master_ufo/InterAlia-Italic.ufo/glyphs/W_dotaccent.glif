@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wdotaccent" format="2">
+  <advance height="2479" width="1945"/>
+  <unicode hex="1E86"/>
+  <anchor x="881" y="12" name="bottom"/>
+  <anchor x="1158" y="1676" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="dotaccent" xOffset="790" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="suspensioncomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DC3"/>
+  <outline>
+    <contour>
+      <point x="-186.33333333333334" y="1499.0" type="line"/>
+      <point x="-535.3333333333334" y="1294.3333333333333" type="line"/>
+      <point x="-494.3333333333333" y="1224.3333333333333" type="line"/>
+      <point x="-145.66666666666666" y="1429.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-744.0" y="1371.3333333333333" type="line"/>
+      <point x="-494.3333333333333" y="1224.3333333333333" type="line"/>
+      <point x="-458.6666666666667" y="1295.6666666666667" type="line"/>
+      <point x="-703.3333333333334" y="1442.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

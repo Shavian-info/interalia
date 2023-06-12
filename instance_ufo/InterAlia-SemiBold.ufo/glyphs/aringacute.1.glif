@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aringacute.1" format="2">
+  <advance height="2479.0" width="1291.6"/>
+  <anchor x="634.2" y="0.0" name="bottom"/>
+  <anchor x="1144.6" y="0.0" name="ogonek"/>
+  <anchor x="642.0" y="1303.0" name="rhalfring"/>
+  <anchor x="645.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="a.1"/>
+    <component base="ringacute.cn" xOffset="323.6" yOffset="92.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

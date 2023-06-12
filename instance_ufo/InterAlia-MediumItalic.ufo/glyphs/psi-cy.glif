@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psi-cy" format="2">
+  <advance height="2479.0" width="1567.6000000000001"/>
+  <unicode hex="0471"/>
+  <outline>
+    <component base="psi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

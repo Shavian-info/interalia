@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mmod" format="2">
+  <advance height="2479.0" width="1239.8"/>
+  <unicode hex="1D50"/>
+  <outline>
+    <contour>
+      <point x="116.4" y="745.0" type="line"/>
+      <point x="314.8" y="745.0" type="line"/>
+      <point x="389.8" y="1193.0" type="line" smooth="yes"/>
+      <point x="404.8" y="1281.0"/>
+      <point x="472.40000000000003" y="1332.2"/>
+      <point x="536.8" y="1332.2" type="curve" smooth="yes"/>
+      <point x="604.2" y="1332.2"/>
+      <point x="646.5999999999999" y="1287.0"/>
+      <point x="635.0" y="1214.8" type="curve" smooth="yes"/>
+      <point x="556.0" y="745.0" type="line"/>
+      <point x="749.0" y="745.0" type="line"/>
+      <point x="825.0" y="1201.4" type="line" smooth="yes"/>
+      <point x="837.1999999999999" y="1273.8"/>
+      <point x="887.2" y="1332.2"/>
+      <point x="968.0" y="1332.2" type="curve" smooth="yes"/>
+      <point x="1037.2" y="1332.2"/>
+      <point x="1081.2" y="1292.4"/>
+      <point x="1067.4" y="1209.8" type="curve" smooth="yes"/>
+      <point x="990.2" y="745.0" type="line"/>
+      <point x="1188.6000000000001" y="745.0" type="line"/>
+      <point x="1272.6000000000001" y="1245.0" type="line" smooth="yes"/>
+      <point x="1300.4" y="1406.8"/>
+      <point x="1217.4" y="1498.0"/>
+      <point x="1079.2" y="1498.0" type="curve" smooth="yes"/>
+      <point x="969.4" y="1498.0"/>
+      <point x="877.6" y="1441.8"/>
+      <point x="833.6" y="1360.4" type="curve"/>
+      <point x="825.0" y="1360.4" type="line"/>
+      <point x="814.1999999999999" y="1445.4"/>
+      <point x="746.0" y="1498.0"/>
+      <point x="646.4000000000001" y="1498.0" type="curve" smooth="yes"/>
+      <point x="549.8" y="1498.0"/>
+      <point x="464.59999999999997" y="1448.3999999999999"/>
+      <point x="417.4" y="1359.6" type="curve"/>
+      <point x="407.2" y="1359.6" type="line"/>
+      <point x="430.2" y="1489.0" type="line"/>
+      <point x="241.39999999999998" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

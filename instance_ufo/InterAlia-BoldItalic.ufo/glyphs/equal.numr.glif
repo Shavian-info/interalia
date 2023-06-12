@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.numr" format="2">
+  <advance height="2479.0" width="824.1999999999999"/>
+  <unicode hex="E0D9"/>
+  <outline>
+    <contour>
+      <point x="215.2" y="1189.0" type="line"/>
+      <point x="821.0" y="1189.0" type="line"/>
+      <point x="843.8" y="1356.4" type="line"/>
+      <point x="239.79999999999998" y="1356.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="172.79999999999998" y="920.4" type="line"/>
+      <point x="778.6" y="920.4" type="line"/>
+      <point x="801.0" y="1087.4" type="line"/>
+      <point x="195.2" y="1087.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Fraction</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

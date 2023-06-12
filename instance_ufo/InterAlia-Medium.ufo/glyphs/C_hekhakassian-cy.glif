@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chekhakassian-cy" format="2">
+  <advance height="2479.0" width="1480.8"/>
+  <unicode hex="04CB"/>
+  <anchor x="1420.6" y="83.8" name="cyrtic"/>
+  <anchor x="1096.0" y="0.0" name="left"/>
+  <anchor x="1312.0" y="0.0" name="right"/>
+  <anchor x="754.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="Che-cy"/>
+    <component base="cyrillictic.cn" xOffset="1205.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

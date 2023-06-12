@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowleftrightbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="034D"/>
+  <outline>
+    <contour>
+      <point x="-365" y="-292" type="line"/>
+      <point x="-927" y="-292" type="line"/>
+      <point x="-934" y="-339" type="line"/>
+      <point x="-372" y="-339" type="line"/>
+    </contour>
+    <contour>
+      <point x="-767" y="-553" type="line"/>
+      <point x="-948" y="-295" type="line"/>
+      <point x="-989" y="-314" type="line"/>
+      <point x="-825" y="-553" type="line"/>
+    </contour>
+    <contour>
+      <point x="-746" y="-81" type="line"/>
+      <point x="-989" y="-314" type="line"/>
+      <point x="-950" y="-340" type="line"/>
+      <point x="-679" y="-81" type="line"/>
+    </contour>
+    <contour>
+      <point x="-566" y="-553" type="line"/>
+      <point x="-320" y="-314" type="line"/>
+      <point x="-358" y="-288" type="line"/>
+      <point x="-636" y="-553" type="line"/>
+    </contour>
+    <contour>
+      <point x="-545" y="-81" type="line"/>
+      <point x="-356" y="-343" type="line"/>
+      <point x="-320" y="-314" type="line"/>
+      <point x="-487" y="-81" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

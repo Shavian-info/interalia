@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="unaspiratedmod" format="2">
+  <advance height="2479.0" width="870.3333333333334"/>
+  <unicode hex="02ED"/>
+  <outline>
+    <contour>
+      <point x="916.0" y="1501.3333333333333" type="line"/>
+      <point x="271.33333333333337" y="1501.3333333333333" type="line"/>
+      <point x="259.0" y="1425.3333333333333" type="line"/>
+      <point x="903.6666666666667" y="1425.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="879.3333333333334" y="1278.6666666666667" type="line"/>
+      <point x="234.66666666666669" y="1278.6666666666667" type="line"/>
+      <point x="222.33333333333334" y="1202.3333333333333" type="line"/>
+      <point x="867.0" y="1202.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

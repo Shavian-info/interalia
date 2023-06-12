@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbrevebelow" format="2">
+  <advance height="2479" width="1536"/>
+  <unicode hex="1E2A"/>
+  <anchor x="675" y="0" name="bottom"/>
+  <anchor x="195" y="0" name="cedilla"/>
+  <anchor x="1565" y="163" name="cyrtic"/>
+  <anchor x="1347" y="0" name="right"/>
+  <anchor x="215" y="1489" name="tonos"/>
+  <anchor x="954" y="1676" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="brevebelowcomb" xOffset="1472" yOffset="3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

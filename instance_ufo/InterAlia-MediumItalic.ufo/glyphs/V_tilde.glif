@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vtilde" format="2">
+  <advance height="2479.0" width="1433.8"/>
+  <unicode hex="1E7C"/>
+  <anchor x="624.0" y="0.0" name="bottom"/>
+  <anchor x="965.4" y="2048.8" name="top"/>
+  <outline>
+    <component base="V"/>
+    <component base="tilde" xOffset="267.40000000000003" yOffset="372.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

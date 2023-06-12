@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DDF"/>
+  <outline>
+    <contour>
+      <point x="-559" y="1411" type="line"/>
+      <point x="-617" y="1798" type="line"/>
+      <point x="-756" y="1798" type="line"/>
+      <point x="-652" y="1201" type="line"/>
+      <point x="-535" y="1201" type="line"/>
+      <point x="-233" y="1798" type="line"/>
+      <point x="-372" y="1798" type="line"/>
+    </contour>
+    <contour>
+      <point x="-660" y="1798" type="line"/>
+      <point x="-841" y="1798" type="line"/>
+      <point x="-940" y="1201" type="line"/>
+      <point x="-759" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-422" y="1201" type="line"/>
+      <point x="-241" y="1201" type="line"/>
+      <point x="-143" y="1798" type="line"/>
+      <point x="-323" y="1798" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>35</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

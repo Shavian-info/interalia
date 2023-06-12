@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsili.1" format="2">
+  <advance height="2479.0" width="1283.0"/>
+  <anchor x="712.8000000000001" y="0.0" name="bottom"/>
+  <anchor x="839.0" y="776.0" name="cross"/>
+  <anchor x="1107.6" y="0.0" name="ogonek"/>
+  <anchor x="1127.4" y="0.0" name="right"/>
+  <anchor x="560.4000000000001" y="1489.0" name="tonos"/>
+  <anchor x="988.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="I.1" xOffset="324.40000000000003"/>
+    <component base="koronisaccentleft.cn" xOffset="-29.8" yOffset="-6.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.1</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

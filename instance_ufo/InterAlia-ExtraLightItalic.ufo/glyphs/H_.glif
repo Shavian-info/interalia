@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance height="2479.0" width="1510.0"/>
+  <unicode hex="0048"/>
+  <anchor x="661.0" y="0.0" name="bottom"/>
+  <anchor x="173.33333333333334" y="-4.0" name="cedilla"/>
+  <anchor x="1242.3333333333335" y="25.333333333333336" name="cyrtic"/>
+  <anchor x="1200.3333333333333" y="0.0" name="right"/>
+  <anchor x="332.66666666666663" y="1489.0" name="tonos"/>
+  <anchor x="943.6666666666666" y="1677.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="122.33333333333331" y="0.0" type="line"/>
+      <point x="213.33333333333331" y="0.0" type="line"/>
+      <point x="329.3333333333333" y="702.6666666666666" type="line"/>
+      <point x="1226.6666666666667" y="702.6666666666666" type="line"/>
+      <point x="1110.6666666666667" y="0.0" type="line"/>
+      <point x="1201.3333333333333" y="0.0" type="line"/>
+      <point x="1448.3333333333333" y="1489.0" type="line"/>
+      <point x="1357.6666666666667" y="1489.0" type="line"/>
+      <point x="1241.6666666666667" y="787.3333333333334" type="line"/>
+      <point x="344.0" y="787.3333333333334" type="line"/>
+      <point x="460.3333333333333" y="1489.0" type="line"/>
+      <point x="369.66666666666663" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

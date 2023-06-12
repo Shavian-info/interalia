@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gacute" format="2">
+  <advance height="2479.0" width="1280.8"/>
+  <unicode hex="01F5"/>
+  <anchor x="629.8" y="-431.6" name="bottom"/>
+  <anchor x="1015.0" y="565.2" name="cross"/>
+  <anchor x="644.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="acute" xOffset="135.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

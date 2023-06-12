@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsili" format="2">
+  <advance height="2479.0" width="1685.8"/>
+  <unicode hex="1F48"/>
+  <anchor x="855.1999999999999" y="1.1999999999999993" name="bottom"/>
+  <anchor x="1051.8" y="4.800000000000001" name="ogonek"/>
+  <anchor x="465.40000000000003" y="1489.0" name="tonos"/>
+  <anchor x="1132.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="O" xOffset="138.8"/>
+    <component base="koronisaccentleft.cn" xOffset="-98.0" yOffset="-6.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

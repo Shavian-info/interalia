@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fhook" format="2">
+  <advance height="2479" width="1272"/>
+  <unicode hex="0191"/>
+  <anchor x="719" y="12" name="bottom"/>
+  <anchor x="373" y="250" name="cross"/>
+  <anchor x="699" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="172" y="0" type="line"/>
+      <point x="172" y="-35" type="line" smooth="yes"/>
+      <point x="172" y="-102"/>
+      <point x="95" y="-116"/>
+      <point x="20" y="-116" type="curve"/>
+      <point x="4" y="-116"/>
+      <point x="-25" y="-119"/>
+      <point x="-47" y="-116" type="curve"/>
+      <point x="-47" y="-413" type="line"/>
+      <point x="-4" y="-419"/>
+      <point x="89" y="-419"/>
+      <point x="128" y="-419" type="curve"/>
+      <point x="339" y="-419"/>
+      <point x="576" y="-387"/>
+      <point x="576" y="-35" type="curve" smooth="yes"/>
+      <point x="576" y="0" type="line"/>
+    </contour>
+    <component base="F" xOffset="76"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

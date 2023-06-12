@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yeru-cy" format="2">
+  <advance height="2479" width="1499"/>
+  <unicode hex="044B"/>
+  <anchor x="870" y="1303" name="top"/>
+  <anchor x="1164" y="0" name="bottom"/>
+  <anchor x="305" y="896" name="cross_1"/>
+  <anchor x="1263" y="593" name="cross_2"/>
+  <anchor x="1249" y="0" name="ogonek"/>
+  <outline>
+    <component base="softsign-cy"/>
+    <component base="idotless" xOffset="1013"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>idotless</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sixlateform-roman" format="2">
+  <advance height="2479.0" width="1507.6"/>
+  <unicode hex="2185"/>
+  <outline>
+    <contour>
+      <point x="1086.0" y="351.2" type="line"/>
+      <point x="1010.6" y="253.4"/>
+      <point x="879.4" y="168.4"/>
+      <point x="711.6" y="168.4" type="curve" smooth="yes"/>
+      <point x="438.2" y="168.4"/>
+      <point x="384.40000000000003" y="384.0"/>
+      <point x="430.8" y="665.2" type="curve" smooth="yes"/>
+      <point x="456.0" y="824.4" type="line" smooth="yes"/>
+      <point x="505.2" y="1123.3999999999999"/>
+      <point x="649.0" y="1321.4"/>
+      <point x="908.6" y="1321.4" type="curve" smooth="yes"/>
+      <point x="1111.6000000000001" y="1321.4"/>
+      <point x="1179.2" y="1204.0"/>
+      <point x="1174.3999999999999" y="1012.2" type="curve"/>
+      <point x="1407.0" y="1012.2" type="line"/>
+      <point x="1425.6" y="1301.4"/>
+      <point x="1273.2" y="1510.0"/>
+      <point x="938.4" y="1510.0" type="curve" smooth="yes"/>
+      <point x="560.1999999999999" y="1510.0"/>
+      <point x="284.79999999999995" y="1239.4"/>
+      <point x="219.8" y="823.8" type="curve" smooth="yes"/>
+      <point x="194.4" y="665.2" type="line" smooth="yes"/>
+      <point x="128.4" y="248.0"/>
+      <point x="305.4" y="-20.0"/>
+      <point x="679.4" y="-20.0" type="curve" smooth="yes"/>
+      <point x="900.8000000000001" y="-20.0"/>
+      <point x="1073.2" y="75.0"/>
+      <point x="1188.3999999999999" y="214.8" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1304.1999999999998" y="470.6" type="line"/>
+      <point x="1068.3999999999999" y="470.6" type="line"/>
+      <point x="931.8" y="-361.0" type="line"/>
+      <point x="1166.8" y="-361.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

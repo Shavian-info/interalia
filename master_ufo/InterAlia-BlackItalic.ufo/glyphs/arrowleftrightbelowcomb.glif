@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowleftrightbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="034D"/>
+  <outline>
+    <contour>
+      <point x="-451" y="-276" type="line"/>
+      <point x="-1283" y="-276" type="line"/>
+      <point x="-1306" y="-428" type="line"/>
+      <point x="-474" y="-428" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1012" y="-553" type="line"/>
+      <point x="-1251" y="-300" type="line"/>
+      <point x="-1385" y="-352" type="line"/>
+      <point x="-1199" y="-553" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1135" y="-154" type="line"/>
+      <point x="-1385" y="-352" type="line"/>
+      <point x="-1263" y="-401" type="line"/>
+      <point x="-948" y="-154" type="line"/>
+    </contour>
+    <contour>
+      <point x="-602" y="-553" type="line"/>
+      <point x="-349" y="-352" type="line"/>
+      <point x="-468" y="-300" type="line"/>
+      <point x="-785" y="-553" type="line"/>
+    </contour>
+    <contour>
+      <point x="-721" y="-154" type="line"/>
+      <point x="-489" y="-401" type="line"/>
+      <point x="-349" y="-352" type="line"/>
+      <point x="-538" y="-154" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>20</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

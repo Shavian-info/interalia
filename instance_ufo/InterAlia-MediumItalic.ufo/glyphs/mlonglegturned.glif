@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mlonglegturned" format="2">
+  <advance height="2479.0" width="1809.2"/>
+  <unicode hex="0270"/>
+  <anchor x="812.8000000000001" y="0.0" name="bottom"/>
+  <anchor x="1028.4" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1291.4" y="-419.0" type="line"/>
+      <point x="1499.6000000000001" y="-419.0" type="line"/>
+      <point x="1569.6000000000001" y="0.0" type="line"/>
+      <point x="1360.6000000000001" y="0.0" type="line"/>
+    </contour>
+    <component base="mturned"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

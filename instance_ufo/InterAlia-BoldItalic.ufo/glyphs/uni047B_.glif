@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni047B" format="2">
+  <advance height="2479.0" width="1255.4"/>
+  <unicode hex="047B"/>
+  <outline>
+    <contour>
+      <point x="804.2" y="1209.4" type="line"/>
+      <point x="639.0" y="1209.4" type="line"/>
+      <point x="564.2" y="748.0" type="line"/>
+      <point x="729.4000000000001" y="748.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="663.4000000000001" y="353.8" type="line"/>
+      <point x="497.6" y="353.8" type="line"/>
+      <point x="419.2" y="-123.2" type="line"/>
+      <point x="584.4000000000001" y="-123.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="522.2" y="-21.2" type="curve" smooth="yes"/>
+      <point x="855.2" y="-21.2"/>
+      <point x="1099.8" y="219.0"/>
+      <point x="1156.0" y="557.8" type="curve" smooth="yes"/>
+      <point x="1213.1999999999998" y="896.6"/>
+      <point x="1047.2" y="1132.0"/>
+      <point x="714.2" y="1132.0" type="curve" smooth="yes"/>
+      <point x="382.8" y="1132.0"/>
+      <point x="137.8" y="896.6"/>
+      <point x="81.0" y="557.8" type="curve" smooth="yes"/>
+      <point x="24.8" y="219.0"/>
+      <point x="190.8" y="-21.2"/>
+    </contour>
+    <contour>
+      <point x="564.4000000000001" y="228.8" type="curve" smooth="yes"/>
+      <point x="393.0" y="228.8"/>
+      <point x="344.59999999999997" y="365.6"/>
+      <point x="376.6" y="557.8" type="curve" smooth="yes"/>
+      <point x="408.59999999999997" y="748.8"/>
+      <point x="500.79999999999995" y="884.6"/>
+      <point x="672.6" y="884.6" type="curve" smooth="yes"/>
+      <point x="845.0" y="884.6"/>
+      <point x="892.1999999999999" y="750.6"/>
+      <point x="860.8" y="557.8" type="curve" smooth="yes"/>
+      <point x="828.1999999999999" y="365.6"/>
+      <point x="736.8000000000001" y="228.8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

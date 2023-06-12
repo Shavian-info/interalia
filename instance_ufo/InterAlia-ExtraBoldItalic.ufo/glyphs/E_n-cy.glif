@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="En-cy" format="2">
+  <advance height="2479.0" width="1532.0"/>
+  <unicode hex="041D"/>
+  <anchor x="672.6" y="0.0" name="bottom"/>
+  <anchor x="195.6" y="0.0" name="cedilla"/>
+  <anchor x="1516.2" y="143.2" name="cyrtic"/>
+  <anchor x="1325.4" y="0.0" name="right"/>
+  <anchor x="230.8" y="1489.0" name="tonos"/>
+  <anchor x="953.4" y="1676.6" name="top"/>
+  <outline>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

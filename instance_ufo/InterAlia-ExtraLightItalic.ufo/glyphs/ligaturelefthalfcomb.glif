@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ligaturelefthalfcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="FE20"/>
+  <outline>
+    <contour>
+      <point x="197.66666666666666" y="1474.0" type="line"/>
+      <point x="-77.00000000000001" y="1474.0"/>
+      <point x="-293.0" y="1362.3333333333333"/>
+      <point x="-355.6666666666667" y="1153.0" type="curve"/>
+      <point x="-259.0" y="1153.0" type="line"/>
+      <point x="-203.33333333333334" y="1308.6666666666667"/>
+      <point x="-35.00000000000001" y="1387.3333333333333"/>
+      <point x="183.66666666666666" y="1389.3333333333333" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

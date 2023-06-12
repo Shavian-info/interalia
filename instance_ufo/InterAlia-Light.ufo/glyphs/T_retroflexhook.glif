@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tretroflexhook" format="2">
+  <advance height="2479.0" width="1295.6666666666667"/>
+  <unicode hex="01AE"/>
+  <anchor x="647.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="663.3333333333334" y="-2.0" name="cedilla"/>
+  <anchor x="647.3333333333334" y="768.0" name="cross"/>
+  <anchor x="776.6666666666666" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="678.6666666666666" y="0.0" name="right"/>
+  <anchor x="647.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="716.0" y="0.0" type="line"/>
+      <point x="579.6666666666666" y="0.0" type="line"/>
+      <point x="579.6666666666666" y="-137.66666666666666" type="line" smooth="yes"/>
+      <point x="579.6666666666666" y="-319.3333333333333"/>
+      <point x="702.6666666666666" y="-418.0"/>
+      <point x="853.6666666666666" y="-418.0" type="curve"/>
+      <point x="935.3333333333334" y="-418.0" type="line"/>
+      <point x="935.3333333333334" y="-295.6666666666667" type="line"/>
+      <point x="883.6666666666666" y="-295.6666666666667" type="line"/>
+      <point x="787.3333333333334" y="-295.6666666666667"/>
+      <point x="716.0" y="-259.0"/>
+      <point x="716.0" y="-135.66666666666666" type="curve" smooth="yes"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

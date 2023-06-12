@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hdotbelow" format="2">
+  <advance height="2479.0" width="1179.3333333333333"/>
+  <unicode hex="1E25"/>
+  <anchor x="495.66666666666663" y="0.0" name="bottom"/>
+  <anchor x="140.0" y="-4.0" name="cedilla"/>
+  <anchor x="354.99999999999994" y="1317.0" name="cross"/>
+  <anchor x="414.99999999999994" y="1676.0" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="dotbelowcomb" xOffset="1162.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

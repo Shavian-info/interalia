@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mdotbelow" format="2">
+  <advance height="2479" width="1822"/>
+  <unicode hex="1E42"/>
+  <anchor x="911" y="0" name="bottom"/>
+  <anchor x="1641" y="0" name="right"/>
+  <anchor x="911" y="1676" name="top"/>
+  <outline>
+    <component base="M"/>
+    <component base="dotbelowcomb" xOffset="1516"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

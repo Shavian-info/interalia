@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sacutedotaccent" format="2">
+  <advance height="2479.0" width="1029.6666666666667"/>
+  <unicode hex="1E65"/>
+  <anchor x="525.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="522.6666666666666" y="0.0" name="cedilla"/>
+  <anchor x="529.6666666666666" y="1303.0" name="top"/>
+  <outline>
+    <component base="s"/>
+    <component base="acutedotcomb.lc" xOffset="1102.6666666666667" yOffset="11.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

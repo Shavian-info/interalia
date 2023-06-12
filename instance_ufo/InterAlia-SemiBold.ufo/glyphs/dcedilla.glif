@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcedilla" format="2">
+  <advance height="2479.0" width="1291.6"/>
+  <unicode hex="1E11"/>
+  <anchor x="633.0" y="0.0" name="bottom"/>
+  <anchor x="1012.6" y="1280.0" name="cross"/>
+  <anchor x="1276.2" y="1489.0" name="raccent"/>
+  <anchor x="578.2" y="1489.0" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="commaaccent" xOffset="354.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexgravecomb.cn" format="2">
+  <advance height="2479.0" width="1150.6"/>
+  <unicode hex="E116"/>
+  <anchor x="734.0" y="1312.2" name="_top"/>
+  <outline>
+    <contour>
+      <point x="815.0" y="1488.8" type="line"/>
+      <point x="650.6" y="1488.8" type="line"/>
+      <point x="357.8" y="1249.4" type="line"/>
+      <point x="575.8" y="1249.4" type="line"/>
+      <point x="734.0" y="1383.2" type="line"/>
+      <point x="892.0" y="1249.4" type="line"/>
+      <point x="1110.8" y="1249.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="273.0" y="1664.4" type="line"/>
+      <point x="42.4" y="1664.4" type="line"/>
+      <point x="268.4" y="1394.6" type="line"/>
+      <point x="433.8" y="1394.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

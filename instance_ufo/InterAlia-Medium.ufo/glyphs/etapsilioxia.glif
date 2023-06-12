@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etapsilioxia" format="2">
+  <advance height="2479.0" width="1224.0"/>
+  <unicode hex="1F24"/>
+  <anchor x="255.8" y="0.0" name="bottom"/>
+  <anchor x="611.8" y="1303.0" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="psilioxia" xOffset="211.6" yOffset="128.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

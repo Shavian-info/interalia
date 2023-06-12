@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cstroke" format="2">
+  <advance height="2479.0" width="1506.0"/>
+  <unicode hex="023B"/>
+  <anchor x="784.0" y="-8.4" name="cedilla"/>
+  <anchor x="785.8" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="350.4" y="-189.0" type="line"/>
+      <point x="524.6" y="-189.0" type="line"/>
+      <point x="1168.6" y="1679.0" type="line"/>
+      <point x="994.6" y="1679.0" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

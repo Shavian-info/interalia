@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fita-cy" format="2">
+  <advance height="2479.0" width="1539.6666666666667"/>
+  <unicode hex="0472"/>
+  <anchor x="770.0" y="0.0" name="bottom"/>
+  <anchor x="840.6666666666666" y="-2.0" name="ogonek"/>
+  <anchor x="213.33333333333334" y="1489.0" name="tonos"/>
+  <anchor x="770.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="ThetaSymbol"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

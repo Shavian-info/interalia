@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lslash.ss02" format="2">
+  <advance height="2479.0" width="463.6666666666667"/>
+  <anchor x="284.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="215.33333333333334" y="768.0" name="cross"/>
+  <anchor x="397.6666666666667" y="1489.0" name="raccent"/>
+  <anchor x="214.33333333333334" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="425.0" y="894.3333333333334" type="line"/>
+      <point x="-3.0" y="709.6666666666666" type="line"/>
+      <point x="-3.0" y="633.0" type="line"/>
+      <point x="425.0" y="817.6666666666666" type="line"/>
+    </contour>
+    <component base="l.ss02" xOffset="-13.333333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteBullet.case" format="2">
+  <advance height="2479" width="814"/>
+  <outline>
+    <component base="whiteBullet" xOffset="25" yOffset="151"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

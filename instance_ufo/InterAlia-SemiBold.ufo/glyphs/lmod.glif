@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmod" format="2">
+  <advance height="2479.0" width="364.8"/>
+  <unicode hex="02E1"/>
+  <outline>
+    <contour>
+      <point x="281.6" y="1737.0" type="line"/>
+      <point x="83.2" y="1737.0" type="line"/>
+      <point x="83.2" y="745.0" type="line"/>
+      <point x="281.6" y="745.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

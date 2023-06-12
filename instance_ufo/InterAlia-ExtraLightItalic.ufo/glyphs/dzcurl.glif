@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcurl" format="2">
+  <advance height="2479.0" width="2193.3333333333335"/>
+  <unicode hex="02A5"/>
+  <anchor x="510.33333333333337" y="0.0" name="bottom"/>
+  <anchor x="1102.0" y="1280.0" name="cross"/>
+  <anchor x="1320.6666666666667" y="1489.0" name="raccent"/>
+  <anchor x="734.6666666666666" y="1489.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1600.0" y="0.0" type="line"/>
+      <point x="1744.6666666666667" y="0.0" type="line" smooth="yes"/>
+      <point x="1946.0" y="0.0"/>
+      <point x="2079.6666666666665" y="134.66666666666666"/>
+      <point x="2099.6666666666665" y="263.6666666666667" type="curve" smooth="yes"/>
+      <point x="2120.3333333333335" y="392.6666666666667"/>
+      <point x="2025.3333333333333" y="493.6666666666667"/>
+      <point x="1882.0" y="493.6666666666667" type="curve" smooth="yes"/>
+      <point x="1727.3333333333335" y="493.6666666666667"/>
+      <point x="1595.0" y="370.0"/>
+      <point x="1373.0" y="102.66666666666667" type="curve" smooth="yes"/>
+      <point x="1198.3333333333333" y="-113.33333333333334" type="line"/>
+      <point x="1263.3333333333335" y="-159.33333333333334" type="line"/>
+      <point x="1464.3333333333333" y="87.33333333333333" type="line" smooth="yes"/>
+      <point x="1648.6666666666665" y="312.0"/>
+      <point x="1753.6666666666667" y="407.0"/>
+      <point x="1868.3333333333333" y="407.0" type="curve" smooth="yes"/>
+      <point x="1963.0" y="407.0"/>
+      <point x="2027.3333333333333" y="344.3333333333333"/>
+      <point x="2012.0" y="259.0" type="curve" smooth="yes"/>
+      <point x="1994.0" y="166.00000000000003"/>
+      <point x="1889.6666666666665" y="84.66666666666667"/>
+      <point x="1754.3333333333335" y="84.66666666666667" type="curve" smooth="yes"/>
+      <point x="1612.0" y="84.66666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="1717.3333333333335" y="84.66666666666667" type="line"/>
+      <point x="1184.3333333333335" y="84.66666666666667" type="line"/>
+      <point x="1996.3333333333333" y="1040.6666666666667" type="line"/>
+      <point x="2010.0" y="1117.0" type="line"/>
+      <point x="1073.6666666666667" y="1117.0" type="line"/>
+      <point x="1058.6666666666667" y="1033.0" type="line"/>
+      <point x="1885.0" y="1033.0" type="line"/>
+      <point x="1069.3333333333333" y="79.66666666666667" type="line"/>
+      <point x="1056.3333333333333" y="0.0" type="line"/>
+      <point x="1702.6666666666667" y="0.0" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

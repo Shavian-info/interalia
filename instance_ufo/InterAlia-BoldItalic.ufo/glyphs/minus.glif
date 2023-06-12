@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minus" format="2">
+  <advance height="2479.0" width="1392.0"/>
+  <unicode hex="2212"/>
+  <outline>
+    <contour>
+      <point x="1233.0" y="726.0" type="line"/>
+      <point x="215.0" y="726.0" type="line"/>
+      <point x="170.20000000000002" y="465.2" type="line"/>
+      <point x="1188.8" y="465.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

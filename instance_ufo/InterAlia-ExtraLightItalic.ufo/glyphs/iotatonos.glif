@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotatonos" format="2">
+  <advance height="2479.0" width="476.0"/>
+  <unicode hex="03AF"/>
+  <anchor x="348.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="tonostop" xOffset="60.0" yOffset="-8.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

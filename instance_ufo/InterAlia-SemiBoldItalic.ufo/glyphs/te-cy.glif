@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="te-cy" format="2">
+  <advance height="2479.0" width="1126.4"/>
+  <unicode hex="0442"/>
+  <anchor x="738.2" y="100.0" name="cyrtic"/>
+  <outline>
+    <contour>
+      <point x="132.0" y="901.0" type="line"/>
+      <point x="493.0" y="901.0" type="line"/>
+      <point x="344.4" y="0.0" type="line"/>
+      <point x="598.8" y="0.0" type="line"/>
+      <point x="747.4" y="901.0" type="line"/>
+      <point x="1109.6000000000001" y="901.0" type="line"/>
+      <point x="1145.2" y="1117.0" type="line"/>
+      <point x="167.6" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

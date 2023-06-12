@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yew-shavian" format="2">
+  <advance width="1618.6"/>
+  <unicode hex="1047F"/>
+  <outline>
+    <contour>
+      <point x="379.2" y="0.0" type="line"/>
+      <point x="751.6" y="0.0" type="line"/>
+      <point x="1050.3999999999999" y="761.6" type="line"/>
+      <point x="1061.8" y="761.6" type="line"/>
+      <point x="1137.3999999999999" y="0.0" type="line"/>
+      <point x="1505.0" y="0.0" type="line"/>
+      <point x="1303.0" y="1117.0" type="line"/>
+      <point x="897.0" y="1117.0" type="line"/>
+      <point x="626.4000000000001" y="546.4000000000001" type="line"/>
+      <point x="614.4" y="546.4000000000001" type="line"/>
+      <point x="544.8" y="1489.0" type="line"/>
+      <point x="179.4" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

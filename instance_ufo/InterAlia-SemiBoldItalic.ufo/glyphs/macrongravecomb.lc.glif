@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongravecomb.lc" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="E0F9"/>
+  <anchor x="-515.4000000000001" y="1289.8" name="_top"/>
+  <anchor x="-401.80000000000007" y="1968.0" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-558.0" y="1537.2" type="line"/>
+      <point x="-335.8" y="1537.2" type="line"/>
+      <point x="-487.4" y="1843.4" type="line"/>
+      <point x="-787.6" y="1843.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="-862.1999999999999" y="1290.2" type="line"/>
+      <point x="-158.59999999999997" y="1290.2" type="line"/>
+      <point x="-133.2" y="1452.8" type="line"/>
+      <point x="-836.8" y="1452.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

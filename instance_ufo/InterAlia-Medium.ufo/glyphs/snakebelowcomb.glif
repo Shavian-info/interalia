@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="snakebelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DC2"/>
+  <outline>
+    <contour>
+      <point x="-782.4" y="-137.0" type="curve"/>
+      <point x="-732.8" y="-215.0" type="line"/>
+      <point x="-692.0" y="-195.0"/>
+      <point x="-645.8" y="-177.6"/>
+      <point x="-600.0" y="-177.6" type="curve" smooth="yes"/>
+      <point x="-580.0" y="-177.6"/>
+      <point x="-563.4" y="-182.4"/>
+      <point x="-563.2" y="-200.4" type="curve" smooth="yes"/>
+      <point x="-563.4" y="-221.6"/>
+      <point x="-720.4" y="-237.2"/>
+      <point x="-720.0" y="-294.6" type="curve" smooth="yes"/>
+      <point x="-720.4" y="-354.4"/>
+      <point x="-569.2" y="-349.2"/>
+      <point x="-569.0" y="-369.2" type="curve" smooth="yes"/>
+      <point x="-569.2" y="-394.2"/>
+      <point x="-720.4" y="-379.4"/>
+      <point x="-720.0" y="-449.4" type="curve" smooth="yes"/>
+      <point x="-720.4" y="-507.4"/>
+      <point x="-619.6" y="-545.2"/>
+      <point x="-481.6" y="-556.0" type="curve"/>
+      <point x="-461.8" y="-472.4" type="line"/>
+      <point x="-544.0" y="-465.8"/>
+      <point x="-588.6" y="-455.2"/>
+      <point x="-588.2" y="-447.0" type="curve" smooth="yes"/>
+      <point x="-588.6" y="-422.8"/>
+      <point x="-436.8" y="-435.8"/>
+      <point x="-436.6" y="-366.2" type="curve" smooth="yes"/>
+      <point x="-436.8" y="-300.6"/>
+      <point x="-588.6" y="-307.6"/>
+      <point x="-588.2" y="-285.2" type="curve" smooth="yes"/>
+      <point x="-588.6" y="-260.2"/>
+      <point x="-446.8" y="-264.6"/>
+      <point x="-446.6" y="-183.2" type="curve" smooth="yes"/>
+      <point x="-446.8" y="-130.0"/>
+      <point x="-492.4" y="-84.2"/>
+      <point x="-582.6" y="-84.2" type="curve" smooth="yes"/>
+      <point x="-649.4" y="-84.2"/>
+      <point x="-724.0" y="-102.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

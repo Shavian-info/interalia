@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ecircumflexgrave" format="2">
+  <advance height="2479.0" width="1242.6"/>
+  <unicode hex="1EC1"/>
+  <anchor x="514.6" y="0.0" name="bottom"/>
+  <anchor x="518.8" y="0.0" name="cedilla"/>
+  <anchor x="753.6" y="19.6" name="ogonek"/>
+  <anchor x="730.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="e"/>
+    <component base="circumflexgravecomb.cn" xOffset="-127.80000000000001" yOffset="-9.200000000000003"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

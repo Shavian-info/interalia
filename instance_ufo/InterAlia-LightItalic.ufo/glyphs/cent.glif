@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance height="2479.0" width="1138.6666666666665"/>
+  <unicode hex="00A2"/>
+  <anchor x="545.3333333333334" y="190.33333333333334" name="cedilla"/>
+  <anchor x="752.3333333333334" y="1493.3333333333333" name="top"/>
+  <outline>
+    <contour>
+      <point x="444.33333333333337" y="0.0" type="line"/>
+      <point x="540.0" y="0.0" type="line"/>
+      <point x="809.3333333333334" y="1489.0" type="line"/>
+      <point x="714.3333333333334" y="1489.0" type="line"/>
+    </contour>
+    <component base="c" xOffset="31.666666666666668" yOffset="190.33333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

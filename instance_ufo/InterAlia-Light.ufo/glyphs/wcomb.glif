@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DF1"/>
+  <outline>
+    <contour>
+      <point x="-713.6666666666666" y="1416.3333333333333" type="line"/>
+      <point x="-755.3333333333334" y="1201.0" type="line"/>
+      <point x="-692.6666666666666" y="1201.0" type="line"/>
+      <point x="-604.3333333333334" y="1494.0" type="line"/>
+      <point x="-530.0" y="1754.0" type="line"/>
+      <point x="-618.0" y="1754.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-838.3333333333334" y="1754.0" type="line"/>
+      <point x="-941.6666666666666" y="1754.0" type="line"/>
+      <point x="-779.0" y="1201.0" type="line"/>
+      <point x="-706.3333333333334" y="1201.0" type="line"/>
+      <point x="-749.0" y="1414.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="-375.3333333333333" y="1422.3333333333333" type="line"/>
+      <point x="-419.0" y="1201.0" type="line"/>
+      <point x="-347.0" y="1201.0" type="line"/>
+      <point x="-196.33333333333334" y="1754.0" type="line"/>
+      <point x="-299.0" y="1754.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-520.0" y="1754.0" type="line"/>
+      <point x="-609.3333333333334" y="1754.0" type="line"/>
+      <point x="-527.3333333333334" y="1498.0" type="line"/>
+      <point x="-433.3333333333333" y="1201.0" type="line"/>
+      <point x="-372.6666666666667" y="1201.0" type="line"/>
+      <point x="-421.6666666666667" y="1422.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

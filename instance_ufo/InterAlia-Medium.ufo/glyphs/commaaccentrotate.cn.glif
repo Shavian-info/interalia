@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentrotate.cn" format="2">
+  <advance height="2479.0" width="568.0"/>
+  <unicode hex="E128"/>
+  <anchor x="255.8" y="1172.2" name="_top"/>
+  <outline>
+    <contour>
+      <point x="146.4" y="1136.6" type="line"/>
+      <point x="357.0" y="1136.6" type="line"/>
+      <point x="358.2" y="1257.8" type="line" smooth="yes"/>
+      <point x="358.2" y="1351.2"/>
+      <point x="379.4" y="1424.6"/>
+      <point x="421.6" y="1498.4" type="curve"/>
+      <point x="294.4" y="1584.2" type="line"/>
+      <point x="224.0" y="1529.2"/>
+      <point x="146.4" y="1400.0"/>
+      <point x="146.4" y="1268.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

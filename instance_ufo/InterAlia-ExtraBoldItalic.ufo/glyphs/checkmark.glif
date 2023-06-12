@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkmark" format="2">
+  <advance height="2479.0" width="1804.0"/>
+  <unicode hex="2713"/>
+  <outline>
+    <contour>
+      <point x="176.2" y="619.0" type="line"/>
+      <point x="653.6" y="56.79999999999999" type="line"/>
+      <point x="1768.6000000000001" y="1014.2" type="line"/>
+      <point x="1552.4" y="1269.0" type="line"/>
+      <point x="691.6" y="530.2" type="line"/>
+      <point x="433.6" y="835.1999999999999" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

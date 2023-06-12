@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrondasiaoxia" format="2">
+  <advance height="2479.0" width="1927.4"/>
+  <unicode hex="1F4D"/>
+  <anchor x="1088.6000000000001" y="2.4000000000000004" name="bottom"/>
+  <anchor x="1271.8" y="3.5999999999999996" name="ogonek"/>
+  <anchor x="704.0" y="1489.0" name="tonos"/>
+  <anchor x="1362.6000000000001" y="1676.0" name="top"/>
+  <outline>
+    <component base="O" xOffset="376.79999999999995"/>
+    <component base="dasiaoxia.tonos" xOffset="-203.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>dasiaoxia.tonos</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

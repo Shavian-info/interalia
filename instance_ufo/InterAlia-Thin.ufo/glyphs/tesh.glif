@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tesh" format="2">
+  <advance height="2479" width="983"/>
+  <unicode hex="02A7"/>
+  <anchor x="436" y="0" name="bottom"/>
+  <anchor x="460" y="0" name="cedilla"/>
+  <anchor x="455" y="1562" name="raccent"/>
+  <anchor x="291" y="1489" name="top"/>
+  <outline>
+    <contour>
+      <point x="532" y="1117" type="line"/>
+      <point x="532" y="1071" type="line"/>
+      <point x="618" y="1071" type="line"/>
+      <point x="618" y="1117" type="line"/>
+    </contour>
+    <contour>
+      <point x="524" y="26" type="curve"/>
+      <point x="524" y="-20" type="line"/>
+      <point x="559" y="-20"/>
+      <point x="585" y="-14"/>
+      <point x="614" y="-3" type="curve"/>
+      <point x="599" y="41" type="line"/>
+      <point x="574" y="31"/>
+      <point x="552" y="26"/>
+    </contour>
+    <component base="t"/>
+    <component base="esh" xOffset="329"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

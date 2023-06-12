@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ystroke" format="2">
+  <advance height="2479.0" width="1446.2"/>
+  <unicode hex="024E"/>
+  <anchor x="721.8" y="0.0" name="bottom"/>
+  <anchor x="721.8" y="578.2" name="cross"/>
+  <anchor x="855.8" y="0.0" name="ogonek"/>
+  <anchor x="-29.8" y="1489.0" name="tonos"/>
+  <anchor x="721.8" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1432.2" y="1180.4" type="line"/>
+      <point x="14.0" y="1180.4" type="line"/>
+      <point x="14.0" y="1033.4" type="line"/>
+      <point x="1432.2" y="1033.4" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

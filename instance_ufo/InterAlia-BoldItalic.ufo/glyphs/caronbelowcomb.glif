@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="032C"/>
+  <outline>
+    <contour>
+      <point x="-909.8000000000001" y="-396.8" type="line"/>
+      <point x="-732.8000000000001" y="-396.8" type="line"/>
+      <point x="-373.2" y="-117.2" type="line"/>
+      <point x="-370.2" y="-103.4" type="line"/>
+      <point x="-613.6" y="-103.4" type="line"/>
+      <point x="-797.8000000000001" y="-244.2" type="line"/>
+      <point x="-932.1999999999999" y="-103.4" type="line"/>
+      <point x="-1169.8" y="-103.4" type="line"/>
+      <point x="-1172.8" y="-120.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

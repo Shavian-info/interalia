@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni047C" format="2">
+  <advance height="2479.0" width="2194.8"/>
+  <unicode hex="047C"/>
+  <outline>
+    <contour>
+      <point x="1748.0" y="1680.8" type="line"/>
+      <point x="1537.6" y="1680.8"/>
+      <point x="1414.8" y="1804.6"/>
+      <point x="1253.0" y="1804.6" type="curve" smooth="yes"/>
+      <point x="1104.8" y="1804.6"/>
+      <point x="1003.0" y="1732.8"/>
+      <point x="977.4" y="1586.6" type="curve" smooth="yes"/>
+      <point x="971.4" y="1546.8" type="line"/>
+      <point x="1108.4" y="1546.8" type="line"/>
+      <point x="1111.4" y="1569.6" type="line" smooth="yes"/>
+      <point x="1122.6" y="1636.8"/>
+      <point x="1174.8000000000002" y="1670.6"/>
+      <point x="1238.2" y="1670.6" type="curve" smooth="yes"/>
+      <point x="1353.8" y="1670.6"/>
+      <point x="1587.2" y="1546.8"/>
+      <point x="1633.8000000000002" y="1546.8" type="curve" smooth="yes"/>
+      <point x="1642.6" y="1546.8" type="line"/>
+      <point x="1758.6" y="1680.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="1162.8" y="1258.4" type="line"/>
+      <point x="1239.8" y="1293.4"/>
+      <point x="1344.2" y="1380.4"/>
+      <point x="1355.8" y="1459.2" type="curve" smooth="yes"/>
+      <point x="1373.8" y="1561.2" type="line"/>
+      <point x="1197.6" y="1561.2" type="line"/>
+      <point x="1183.0" y="1465.2" type="line" smooth="yes"/>
+      <point x="1174.0" y="1417.8"/>
+      <point x="1139.6" y="1369.2"/>
+      <point x="1085.0" y="1313.4" type="curve"/>
+    </contour>
+    <contour>
+      <point x="889.0" y="1457.0" type="line"/>
+      <point x="570.4" y="1457.0"/>
+      <point x="304.6" y="1273.2"/>
+      <point x="250.00000000000003" y="940.8" type="curve"/>
+      <point x="175.4" y="496.2" type="line" smooth="yes"/>
+      <point x="121.0" y="160.8"/>
+      <point x="328.0" y="-20.0"/>
+      <point x="645.0" y="-20.0" type="curve" smooth="yes"/>
+      <point x="919.4" y="-20.0"/>
+      <point x="1156.0" y="164.8"/>
+      <point x="1211.8" y="502.4" type="curve" smooth="yes"/>
+      <point x="1265.8" y="815.4" type="line"/>
+      <point x="974.2" y="815.4" type="line"/>
+      <point x="920.2" y="502.4" type="line" smooth="yes"/>
+      <point x="896.0" y="345.4"/>
+      <point x="824.6" y="261.8"/>
+      <point x="691.8" y="261.8" type="curve" smooth="yes"/>
+      <point x="571.4" y="261.8"/>
+      <point x="502.20000000000005" y="329.4"/>
+      <point x="529.4" y="496.2" type="curve" smooth="yes"/>
+      <point x="604.0" y="940.8" type="line"/>
+      <point x="631.2" y="1103.0"/>
+      <point x="719.4000000000001" y="1172.2"/>
+      <point x="842.2" y="1172.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1555.2" y="1172.2" type="line"/>
+      <point x="1676.0" y="1172.2"/>
+      <point x="1745.3999999999999" y="1103.0"/>
+      <point x="1718.2" y="940.8" type="curve" smooth="yes"/>
+      <point x="1643.6" y="496.2" type="line" smooth="yes"/>
+      <point x="1616.3999999999999" y="331.8"/>
+      <point x="1526.3999999999999" y="261.8"/>
+      <point x="1404.8" y="261.8" type="curve" smooth="yes"/>
+      <point x="1273.3999999999999" y="261.8"/>
+      <point x="1228.6" y="345.4"/>
+      <point x="1252.8" y="502.4" type="curve" smooth="yes"/>
+      <point x="1305.8" y="815.4" type="line"/>
+      <point x="1016.8000000000001" y="815.4" type="line"/>
+      <point x="963.6" y="502.4" type="line" smooth="yes"/>
+      <point x="907.8000000000001" y="164.8"/>
+      <point x="1083.4" y="-20.0"/>
+      <point x="1357.8" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1675.4" y="-20.0"/>
+      <point x="1942.4" y="160.8"/>
+      <point x="1996.8" y="496.2" type="curve" smooth="yes"/>
+      <point x="2071.3999999999996" y="940.8" type="line" smooth="yes"/>
+      <point x="2126.0" y="1273.2"/>
+      <point x="1919.4" y="1457.0"/>
+      <point x="1602.0" y="1457.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>cyrillic</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

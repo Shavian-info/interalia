@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance height="2479.0" width="1388.2"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="49.0" y="261.8" type="line"/>
+      <point x="1249.1999999999998" y="261.8" type="line"/>
+      <point x="1290.8" y="514.2" type="line"/>
+      <point x="408.0" y="514.2" type="line"/>
+      <point x="409.79999999999995" y="526.2" type="line"/>
+      <point x="904.0" y="1146.6" type="line"/>
+      <point x="1031.0" y="1146.6" type="line"/>
+      <point x="1088.2" y="1489.0" type="line"/>
+      <point x="874.0" y="1489.0" type="line"/>
+      <point x="89.4" y="509.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="720.4" y="0.0" type="line"/>
+      <point x="1021.4000000000001" y="0.0" type="line"/>
+      <point x="1268.4" y="1489.0" type="line"/>
+      <point x="973.2" y="1489.0" type="line"/>
+      <point x="800.6" y="446.6" type="line"/>
+      <point x="776.6" y="338.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

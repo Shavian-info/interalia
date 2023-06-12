@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcaron" format="2">
+  <advance height="2479" width="1588"/>
+  <unicode hex="010F"/>
+  <anchor x="569" y="0" name="bottom"/>
+  <anchor x="1143" y="1280" name="cross"/>
+  <anchor x="1495" y="1489" name="raccent"/>
+  <anchor x="710" y="1489" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="commaaccentright.cn" xOffset="1214"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

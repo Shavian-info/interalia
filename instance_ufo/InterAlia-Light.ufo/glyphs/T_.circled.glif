@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.circled" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="24C9"/>
+  <anchor x="1422.0" y="0.0" name="bottom"/>
+  <anchor x="1438.0" y="-2.0" name="cedilla"/>
+  <anchor x="1422.0" y="768.0" name="cross"/>
+  <anchor x="1551.3333333333333" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="1453.3333333333333" y="0.0" name="right"/>
+  <anchor x="1422.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="T" xOffset="774.6666666666666"/>
+    <component base="enclosingcirclecomb" xOffset="784.3333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

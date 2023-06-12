@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nje-cy" format="2">
+  <advance height="2479" width="1908"/>
+  <unicode hex="045A"/>
+  <outline>
+    <contour>
+      <point x="102" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="480" y="413" type="line"/>
+      <point x="899" y="413" type="line"/>
+      <point x="899" y="713" type="line"/>
+      <point x="480" y="713" type="line"/>
+      <point x="480" y="1117" type="line"/>
+      <point x="102" y="1117" type="line"/>
+    </contour>
+    <contour>
+      <point x="983" y="815" type="line"/>
+      <point x="983" y="515" type="line"/>
+      <point x="1327" y="515" type="line" smooth="yes"/>
+      <point x="1409" y="515"/>
+      <point x="1468" y="469"/>
+      <point x="1469" y="404" type="curve" smooth="yes"/>
+      <point x="1468" y="343"/>
+      <point x="1409" y="300"/>
+      <point x="1327" y="300" type="curve" smooth="yes"/>
+      <point x="1137" y="300" type="line"/>
+      <point x="1137" y="1117" type="line"/>
+      <point x="759" y="1117" type="line"/>
+      <point x="759" y="0" type="line"/>
+      <point x="1327" y="0" type="line" smooth="yes"/>
+      <point x="1645" y="0"/>
+      <point x="1840" y="152"/>
+      <point x="1841" y="401" type="curve" smooth="yes"/>
+      <point x="1840" y="658"/>
+      <point x="1645" y="815"/>
+      <point x="1327" y="815" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance height="2479.0" width="1539.4"/>
+  <unicode hex="20A6"/>
+  <anchor x="676.6" y="0.0" name="bottom"/>
+  <anchor x="1363.6" y="0.0" name="right"/>
+  <anchor x="955.6" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1575.6" y="945.0" type="line"/>
+      <point x="91.8" y="945.0" type="line"/>
+      <point x="68.6" y="800.0" type="line"/>
+      <point x="1552.6" y="800.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1523.6" y="631.0" type="line"/>
+      <point x="39.599999999999994" y="631.0" type="line"/>
+      <point x="16.599999999999998" y="486.0" type="line"/>
+      <point x="1499.8" y="486.0" type="line"/>
+    </contour>
+    <component base="N" xOffset="21.799999999999997"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.circled" format="2">
+  <advance height="2479" width="2845"/>
+  <unicode hex="24BE"/>
+  <anchor x="1421" y="0" name="bottom"/>
+  <anchor x="1421" y="788" name="cross"/>
+  <anchor x="1624" y="0" name="ogonek"/>
+  <anchor x="1651" y="0" name="right"/>
+  <anchor x="1220" y="1489" name="tonos"/>
+  <anchor x="1424" y="1676" name="top"/>
+  <outline>
+    <component base="I" xOffset="1124"/>
+    <component base="enclosingcirclecomb" xOffset="643"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

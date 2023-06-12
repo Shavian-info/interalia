@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance height="2479.0" width="1198.0"/>
+  <unicode hex="0046"/>
+  <anchor x="519.0" y="12.0" name="bottom"/>
+  <anchor x="240.8" y="289.6" name="cross"/>
+  <anchor x="818.2" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="36.599999999999994" y="0.0" type="line"/>
+      <point x="351.4" y="0.0" type="line"/>
+      <point x="453.0" y="615.6" type="line"/>
+      <point x="1058.8" y="615.6" type="line"/>
+      <point x="1102.2" y="875.2" type="line"/>
+      <point x="497.0" y="875.2" type="line"/>
+      <point x="555.0" y="1230.0" type="line"/>
+      <point x="1225.6" y="1230.0" type="line"/>
+      <point x="1269.4" y="1489.0" type="line"/>
+      <point x="284.0" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

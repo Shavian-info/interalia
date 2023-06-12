@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonpsilivaria" format="2">
+  <advance height="2479" width="1792"/>
+  <unicode hex="1F1A"/>
+  <anchor x="1102" y="0" name="bottom"/>
+  <anchor x="1105" y="0" name="cedilla"/>
+  <anchor x="1550" y="0" name="ogonek"/>
+  <anchor x="931" y="1489" name="tonos"/>
+  <anchor x="1413" y="1676" name="top"/>
+  <outline>
+    <component base="E" xOffset="596"/>
+    <component base="psilivaria.tonos" xOffset="35"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

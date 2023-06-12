@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rcaron" format="2">
+  <advance height="2479.0" width="1356.3999999999999"/>
+  <unicode hex="0158"/>
+  <anchor x="594.6" y="0.0" name="bottom"/>
+  <anchor x="849.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="caron" xOffset="152.4" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

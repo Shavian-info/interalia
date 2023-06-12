@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnedabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0312"/>
+  <anchor x="-574.3333333333334" y="1064.0" name="_marktop"/>
+  <anchor x="-574.3333333333334" y="1684.0" name="mkmktop"/>
+  <anchor x="-520.6666666666666" y="1262.3333333333333" name="parent_top"/>
+  <outline>
+    <contour>
+      <point x="-648.3333333333334" y="988.3333333333334" type="line"/>
+      <point x="-501.6666666666667" y="988.3333333333334" type="line"/>
+      <point x="-501.6666666666667" y="1164.3333333333333" type="line" smooth="yes"/>
+      <point x="-501.6666666666667" y="1296.0"/>
+      <point x="-456.3333333333333" y="1399.6666666666667"/>
+      <point x="-383.3333333333333" y="1497.3333333333333" type="curve"/>
+      <point x="-467.3333333333333" y="1558.6666666666667" type="line"/>
+      <point x="-582.0" y="1454.6666666666667"/>
+      <point x="-648.3333333333334" y="1305.0"/>
+      <point x="-648.3333333333334" y="1160.3333333333333" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

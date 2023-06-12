@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e-cy" format="2">
+  <advance height="2479.0" width="1053.6666666666667"/>
+  <unicode hex="0454"/>
+  <outline>
+    <contour>
+      <point x="573.0" y="604.3333333333334" type="line"/>
+      <point x="65.66666666666667" y="604.3333333333334" type="line"/>
+      <point x="45.666666666666664" y="482.3333333333333" type="line"/>
+      <point x="552.3333333333334" y="482.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="971.0" y="777.0" type="line"/>
+      <point x="976.6666666666667" y="983.6666666666666"/>
+      <point x="828.6666666666666" y="1131.0"/>
+      <point x="599.6666666666666" y="1131.0" type="curve" smooth="yes"/>
+      <point x="313.0" y="1131.0"/>
+      <point x="86.0" y="895.3333333333333"/>
+      <point x="30.666666666666668" y="556.0" type="curve" smooth="yes"/>
+      <point x="-26.666666666666668" y="213.0"/>
+      <point x="119.66666666666666" y="-22.0"/>
+      <point x="414.0" y="-22.0" type="curve" smooth="yes"/>
+      <point x="647.6666666666667" y="-22.0"/>
+      <point x="833.3333333333334" y="126.66666666666667"/>
+      <point x="896.3333333333334" y="322.0" type="curve"/>
+      <point x="766.0" y="322.0" type="line"/>
+      <point x="712.3333333333334" y="187.33333333333331"/>
+      <point x="582.3333333333334" y="96.0"/>
+      <point x="431.6666666666667" y="96.0" type="curve" smooth="yes"/>
+      <point x="218.66666666666669" y="96.0"/>
+      <point x="113.33333333333334" y="277.6666666666667"/>
+      <point x="160.66666666666669" y="556.0" type="curve" smooth="yes"/>
+      <point x="205.66666666666669" y="831.6666666666666"/>
+      <point x="373.0" y="1012.0"/>
+      <point x="585.3333333333334" y="1012.0" type="curve" smooth="yes"/>
+      <point x="747.6666666666667" y="1012.0"/>
+      <point x="835.3333333333334" y="906.0"/>
+      <point x="841.3333333333334" y="777.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

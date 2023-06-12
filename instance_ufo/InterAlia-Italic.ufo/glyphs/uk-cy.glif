@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uk-cy" format="2">
+  <advance height="2479" width="2321"/>
+  <unicode hex="0479"/>
+  <anchor x="519" y="0" name="bottom_1"/>
+  <anchor x="1927" y="-49" name="bottom_2"/>
+  <anchor x="647" y="0" name="ogonek_1"/>
+  <anchor x="1751" y="-419" name="ogonek_2"/>
+  <anchor x="735" y="1303" name="top_1"/>
+  <anchor x="1875" y="1303" name="top_2"/>
+  <outline>
+    <component base="o"/>
+    <component base="u-cy" xOffset="1181"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

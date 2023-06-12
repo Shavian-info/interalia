@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heta" format="2">
+  <advance height="2479.0" width="1034.3333333333333"/>
+  <unicode hex="0371"/>
+  <outline>
+    <contour>
+      <point x="281.3333333333333" y="0.0" type="line"/>
+      <point x="436.3333333333333" y="929.0" type="line" smooth="yes"/>
+      <point x="457.6666666666667" y="1059.0"/>
+      <point x="387.0" y="1133.3333333333333"/>
+      <point x="268.3333333333333" y="1133.3333333333333" type="curve" smooth="yes"/>
+      <point x="247.66666666666669" y="1133.3333333333333"/>
+      <point x="219.99999999999997" y="1130.0"/>
+      <point x="195.66666666666666" y="1126.3333333333335" type="curve"/>
+      <point x="183.33333333333334" y="1051.0" type="line"/>
+      <point x="204.33333333333334" y="1054.0"/>
+      <point x="226.33333333333334" y="1055.6666666666667"/>
+      <point x="243.33333333333331" y="1055.6666666666667" type="curve" smooth="yes"/>
+      <point x="324.66666666666663" y="1055.6666666666667"/>
+      <point x="353.0" y="1021.6666666666667"/>
+      <point x="336.0" y="919.6666666666667" type="curve" smooth="yes"/>
+      <point x="182.66666666666669" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="919.3333333333334" y="583.0" type="line"/>
+      <point x="353.00000000000006" y="583.0" type="line"/>
+      <point x="338.33333333333337" y="498.3333333333333" type="line"/>
+      <point x="904.6666666666667" y="498.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

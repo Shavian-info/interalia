@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonpsilioxia" format="2">
+  <advance height="2479.0" width="1943.2"/>
+  <unicode hex="1F1C"/>
+  <anchor x="1218.4" y="0.0" name="bottom"/>
+  <anchor x="1221.4" y="0.0" name="cedilla"/>
+  <anchor x="1737.0" y="0.0" name="ogonek"/>
+  <anchor x="903.8" y="1489.0" name="tonos"/>
+  <anchor x="1500.3999999999999" y="1676.0" name="top"/>
+  <outline>
+    <component base="E" xOffset="679.0"/>
+    <component base="psilioxia.tonos" xOffset="-113.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

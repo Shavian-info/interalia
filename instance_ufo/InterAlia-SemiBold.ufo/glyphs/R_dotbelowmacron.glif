@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rdotbelowmacron" format="2">
+  <advance height="2479.0" width="1332.2"/>
+  <unicode hex="1E5C"/>
+  <anchor x="682.4" y="0.0" name="bottom"/>
+  <anchor x="657.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="R"/>
+    <component base="dotbelowcomb" xOffset="1259.4"/>
+    <component base="macron" xOffset="118.8" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

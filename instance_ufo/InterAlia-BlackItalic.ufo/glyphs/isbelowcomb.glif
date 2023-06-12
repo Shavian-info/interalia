@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="isbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DD0"/>
+  <outline>
+    <contour>
+      <point x="-928" y="-55" type="line"/>
+      <point x="-1152" y="-442" type="line"/>
+      <point x="-1021" y="-497" type="line"/>
+      <point x="-953" y="-454"/>
+      <point x="-895" y="-442"/>
+      <point x="-844" y="-442" type="curve" smooth="yes"/>
+      <point x="-738" y="-442"/>
+      <point x="-657" y="-518"/>
+      <point x="-541" y="-518" type="curve" smooth="yes"/>
+      <point x="-407" y="-518"/>
+      <point x="-325" y="-433"/>
+      <point x="-288" y="-294" type="curve"/>
+      <point x="-428" y="-247" type="line"/>
+      <point x="-453" y="-300"/>
+      <point x="-500" y="-314"/>
+      <point x="-532" y="-314" type="curve" smooth="yes"/>
+      <point x="-596" y="-314"/>
+      <point x="-642" y="-247"/>
+      <point x="-721" y="-247" type="curve" smooth="yes"/>
+      <point x="-756" y="-247"/>
+      <point x="-791" y="-247"/>
+      <point x="-858" y="-282" type="curve"/>
+      <point x="-730" y="-55" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>15</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteXBlackDiamond" format="2">
+  <advance height="2479.0" width="2137.0"/>
+  <unicode hex="2756"/>
+  <outline>
+    <contour>
+      <point x="1499.0" y="1292.0" type="line"/>
+      <point x="1074.6666666666667" y="1722.0" type="line"/>
+      <point x="644.0" y="1292.0" type="line"/>
+      <point x="1074.6666666666667" y="867.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2046.0" y="745.0" type="line"/>
+      <point x="1621.0" y="1169.0" type="line"/>
+      <point x="1196.6666666666667" y="745.0" type="line"/>
+      <point x="1621.0" y="314.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="952.0" y="745.0" type="line"/>
+      <point x="521.6666666666666" y="1169.0" type="line"/>
+      <point x="91.0" y="745.0" type="line"/>
+      <point x="521.6666666666666" y="314.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1499.0" y="192.0" type="line"/>
+      <point x="1074.6666666666667" y="623.0" type="line"/>
+      <point x="644.0" y="192.0" type="line"/>
+      <point x="1074.6666666666667" y="-233.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

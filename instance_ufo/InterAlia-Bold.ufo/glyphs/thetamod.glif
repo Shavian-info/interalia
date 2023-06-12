@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thetamod" format="2">
+  <advance height="2479.0" width="985.6"/>
+  <unicode hex="1DBF"/>
+  <outline>
+    <contour>
+      <point x="494.8" y="634.0" type="curve" smooth="yes"/>
+      <point x="708.6" y="634.0"/>
+      <point x="893.8" y="791.0"/>
+      <point x="894.4" y="1126.0" type="curve" smooth="yes"/>
+      <point x="894.4" y="1260.0" type="line" smooth="yes"/>
+      <point x="893.8" y="1594.0"/>
+      <point x="706.8" y="1743.0"/>
+      <point x="493.0" y="1743.0" type="curve" smooth="yes"/>
+      <point x="280.6" y="1743.0"/>
+      <point x="90.6" y="1594.0"/>
+      <point x="91.2" y="1260.0" type="curve" smooth="yes"/>
+      <point x="91.2" y="1126.0" type="line" smooth="yes"/>
+      <point x="90.6" y="791.0"/>
+      <point x="283.6" y="634.0"/>
+    </contour>
+    <contour>
+      <point x="494.8" y="823.4" type="curve" smooth="yes"/>
+      <point x="375.4" y="823.4"/>
+      <point x="312.6" y="909.2"/>
+      <point x="312.6" y="1103.0" type="curve" smooth="yes"/>
+      <point x="312.6" y="1283.0" type="line" smooth="yes"/>
+      <point x="312.6" y="1469.2"/>
+      <point x="365.6" y="1556.2"/>
+      <point x="493.0" y="1556.2" type="curve" smooth="yes"/>
+      <point x="621.0" y="1556.2"/>
+      <point x="674.2" y="1469.2"/>
+      <point x="674.2" y="1283.0" type="curve" smooth="yes"/>
+      <point x="674.2" y="1103.0" type="line" smooth="yes"/>
+      <point x="674.2" y="921.2"/>
+      <point x="625.8" y="823.4"/>
+    </contour>
+    <contour>
+      <point x="794.8" y="1096.6" type="line"/>
+      <point x="794.8" y="1285.4" type="line"/>
+      <point x="157.0" y="1285.4" type="line"/>
+      <point x="157.0" y="1096.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

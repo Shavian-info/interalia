@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ehookabove" format="2">
+  <advance height="2479.0" width="1264.2"/>
+  <unicode hex="1EBA"/>
+  <anchor x="539.4" y="0.0" name="bottom"/>
+  <anchor x="542.4" y="0.0" name="cedilla"/>
+  <anchor x="1058.0" y="0.0" name="ogonek"/>
+  <anchor x="224.8" y="1489.0" name="tonos"/>
+  <anchor x="821.4000000000001" y="1676.0" name="top"/>
+  <outline>
+    <component base="E"/>
+    <component base="hookabovecomb" xOffset="1407.4" yOffset="373.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

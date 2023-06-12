@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OE" format="2">
+  <advance height="2479" width="2173"/>
+  <unicode hex="0152"/>
+  <anchor x="1536" y="0" name="bottom"/>
+  <anchor x="1539" y="0" name="cedilla"/>
+  <anchor x="2066" y="0" name="ogonek"/>
+  <anchor x="954" y="1489" name="tonos"/>
+  <anchor x="1536" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="780" y="0" type="curve"/>
+      <point x="1146" y="0" type="line"/>
+      <point x="1146" y="326" type="line"/>
+      <point x="780" y="326" type="line"/>
+      <point x="619" y="326"/>
+      <point x="500" y="413"/>
+      <point x="500" y="742" type="curve"/>
+      <point x="500" y="1068"/>
+      <point x="619" y="1164"/>
+      <point x="780" y="1164" type="curve"/>
+      <point x="1146" y="1164" type="line"/>
+      <point x="1146" y="1489" type="line"/>
+      <point x="780" y="1489" type="line"/>
+      <point x="395" y="1489"/>
+      <point x="89" y="1251"/>
+      <point x="90" y="742" type="curve"/>
+      <point x="89" y="236"/>
+      <point x="395" y="0"/>
+    </contour>
+    <component base="E" xOffset="899"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

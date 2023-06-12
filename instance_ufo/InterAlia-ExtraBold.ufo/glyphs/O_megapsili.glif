@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsili" format="2">
+  <advance height="2479.0" width="1683.8"/>
+  <unicode hex="1F68"/>
+  <anchor x="885.6" y="0.0" name="bottom"/>
+  <anchor x="218.4" y="1489.0" name="tonos"/>
+  <outline>
+    <component base="Omega" xOffset="82.4"/>
+    <component base="koronisaccentleft.cn" xOffset="-125.4" yOffset="-6.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

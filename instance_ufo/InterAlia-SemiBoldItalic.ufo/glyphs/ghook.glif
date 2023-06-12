@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ghook" format="2">
+  <advance height="2479.0" width="1305.8"/>
+  <unicode hex="0260"/>
+  <anchor x="469.20000000000005" y="-431.6" name="bottom"/>
+  <anchor x="1018.6" y="565.2" name="cross"/>
+  <anchor x="756.6" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1235.6" y="1087.8" type="line"/>
+      <point x="1251.8" y="1176.4" type="line" smooth="yes"/>
+      <point x="1269.8" y="1273.4"/>
+      <point x="1351.4" y="1299.4"/>
+      <point x="1436.0" y="1299.4" type="curve" smooth="yes"/>
+      <point x="1460.6" y="1299.4"/>
+      <point x="1469.6000000000001" y="1298.2"/>
+      <point x="1505.4" y="1294.0" type="curve"/>
+      <point x="1537.6" y="1499.8" type="line"/>
+      <point x="1504.8" y="1506.4"/>
+      <point x="1461.2" y="1510.0"/>
+      <point x="1400.8" y="1510.0" type="curve" smooth="yes"/>
+      <point x="1219.8" y="1510.0"/>
+      <point x="1033.3999999999999" y="1432.2"/>
+      <point x="992.4" y="1176.4" type="curve" smooth="yes"/>
+      <point x="976.8" y="1087.8" type="line"/>
+    </contour>
+    <component base="g" xOffset="2.4000000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

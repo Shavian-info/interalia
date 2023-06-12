@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron-cy" format="2">
+  <advance height="2479.0" width="1270.0"/>
+  <unicode hex="04E3"/>
+  <anchor x="1014.8" y="0.0" name="right"/>
+  <anchor x="743.4000000000001" y="1303.0" name="top"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="macron" xOffset="80.99999999999999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

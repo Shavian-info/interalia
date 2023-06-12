@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scarondotaccent" format="2">
+  <advance height="2479.0" width="1288.6666666666667"/>
+  <unicode hex="1E66"/>
+  <anchor x="646.0" y="-25.0" name="bottom"/>
+  <anchor x="646.0" y="0.0" name="cedilla"/>
+  <anchor x="644.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="carondotaccentcomb.cn" xOffset="1211.6666666666667" yOffset="401.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

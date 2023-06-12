@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncommaaccent" format="2">
+  <advance height="2479.0" width="1555.6666666666667"/>
+  <unicode hex="0145"/>
+  <anchor x="777.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="1339.3333333333333" y="0.0" name="right"/>
+  <anchor x="777.6666666666666" y="1676.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="commaaccent" xOffset="498.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

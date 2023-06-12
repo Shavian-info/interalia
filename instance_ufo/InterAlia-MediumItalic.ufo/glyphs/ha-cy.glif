@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ha-cy" format="2">
+  <advance height="2479.0" width="1128.4"/>
+  <unicode hex="0445"/>
+  <anchor x="471.6" y="0.0" name="bottom"/>
+  <anchor x="564.6" y="559.0" name="cross"/>
+  <anchor x="941.5999999999999" y="83.8" name="cyrtic"/>
+  <anchor x="791.2" y="0.0" name="right"/>
+  <anchor x="686.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="x"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

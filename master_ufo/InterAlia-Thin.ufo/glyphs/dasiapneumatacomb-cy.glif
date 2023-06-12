@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiapneumatacomb-cy" format="2">
+  <advance height="2479"/>
+  <unicode hex="0485"/>
+  <outline>
+    <contour>
+      <point x="-522" y="1363" type="line"/>
+      <point x="-499" y="1383" type="line"/>
+      <point x="-541" y="1466" type="line"/>
+      <point x="-540" y="1569" type="line"/>
+      <point x="-586" y="1569" type="line"/>
+      <point x="-588" y="1471" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

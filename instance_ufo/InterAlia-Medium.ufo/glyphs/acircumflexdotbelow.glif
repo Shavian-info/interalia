@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acircumflexdotbelow" format="2">
+  <advance height="2479.0" width="1166.0"/>
+  <unicode hex="1EAD"/>
+  <anchor x="590.8" y="0.0" name="bottom"/>
+  <anchor x="1022.4" y="0.0" name="ogonek"/>
+  <anchor x="593.0" y="1303.0" name="rhalfring"/>
+  <anchor x="600.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="circumflex" xOffset="99.0"/>
+    <component base="dotbelowcomb" xOffset="1181.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

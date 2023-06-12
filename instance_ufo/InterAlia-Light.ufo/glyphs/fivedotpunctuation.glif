@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fivedotpunctuation" format="2">
+  <advance height="2479.0" width="1086.3333333333333"/>
+  <unicode hex="2059"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="781.6666666666666" yOffset="1143.6666666666667"/>
+    <component base="dotbelowcomb" xOffset="1513.6666666666667" yOffset="335.0"/>
+    <component base="dotbelowcomb" xOffset="781.6666666666666" yOffset="335.0"/>
+    <component base="dotbelowcomb" xOffset="1513.6666666666667" yOffset="1143.6666666666667"/>
+    <component base="dotbelowcomb" xOffset="1149.6666666666667" yOffset="741.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

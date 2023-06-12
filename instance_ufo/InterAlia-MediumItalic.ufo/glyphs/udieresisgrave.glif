@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="udieresisgrave" format="2">
+  <advance height="2479.0" width="1255.0"/>
+  <unicode hex="01DC"/>
+  <anchor x="526.8000000000001" y="0.0" name="bottom"/>
+  <anchor x="978.4" y="0.0" name="ogonek"/>
+  <anchor x="732.4" y="1303.0" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="dieresisgravecomb.lc" xOffset="1223.1999999999998" yOffset="11.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

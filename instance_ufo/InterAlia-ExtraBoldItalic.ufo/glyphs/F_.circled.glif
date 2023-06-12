@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.circled" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="24BB"/>
+  <anchor x="1337.6" y="12.0" name="bottom"/>
+  <anchor x="1044.0" y="269.8" name="cross"/>
+  <anchor x="1615.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="F" xOffset="801.6"/>
+    <component base="enclosingcirclecomb" xOffset="667.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>F</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

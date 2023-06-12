@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender-cy" format="2">
+  <advance height="2479" width="1551"/>
+  <unicode hex="04A2"/>
+  <anchor x="659" y="-3" name="bottom"/>
+  <anchor x="160" y="-9" name="cedilla"/>
+  <anchor x="1202" y="3" name="cyrtic"/>
+  <anchor x="1202" y="3" name="right"/>
+  <anchor x="351" y="1486" name="tonos"/>
+  <anchor x="939" y="1673" name="top"/>
+  <outline>
+    <component base="H" xOffset="-1" yOffset="-3"/>
+    <component base="cyrillictic.cn" xOffset="1217" yOffset="-3"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>anchor</key>
+          <string>right</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cyrillictic.cn</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

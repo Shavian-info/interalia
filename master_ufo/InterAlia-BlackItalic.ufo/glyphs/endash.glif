@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="endash" format="2">
+  <advance height="2479" width="1024"/>
+  <unicode hex="2013"/>
+  <outline>
+    <contour>
+      <point x="1055" y="745" type="line"/>
+      <point x="31" y="745" type="line"/>
+      <point x="-19" y="442" type="line"/>
+      <point x="1005" y="442" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

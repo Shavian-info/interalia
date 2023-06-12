@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance height="2479.0" width="1609.0"/>
+  <unicode hex="0414"/>
+  <outline>
+    <contour>
+      <point x="-103.8" y="-359.2" type="line"/>
+      <point x="199.6" y="-359.2" type="line"/>
+      <point x="257.59999999999997" y="0.0" type="line"/>
+      <point x="1155.8000000000002" y="0.0" type="line"/>
+      <point x="1097.8000000000002" y="-358.0" type="line"/>
+      <point x="1400.6000000000001" y="-358.0" type="line"/>
+      <point x="1500.8" y="250.6" type="line"/>
+      <point x="1337.2" y="250.6" type="line"/>
+      <point x="1542.6000000000001" y="1489.0" type="line"/>
+      <point x="557.1999999999999" y="1489.0" type="line"/>
+      <point x="410.0" y="859.2" type="line" smooth="yes"/>
+      <point x="319.8" y="470.2"/>
+      <point x="212.20000000000002" y="325.0"/>
+      <point x="98.4" y="250.6" type="curve"/>
+      <point x="-3.0" y="250.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="462.0" y="250.6" type="line"/>
+      <point x="556.1999999999999" y="374.4"/>
+      <point x="645.0" y="565.0"/>
+      <point x="712.8" y="859.2" type="curve" smooth="yes"/>
+      <point x="797.4" y="1230.0" type="line"/>
+      <point x="1196.8" y="1230.0" type="line"/>
+      <point x="1035.3999999999999" y="250.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

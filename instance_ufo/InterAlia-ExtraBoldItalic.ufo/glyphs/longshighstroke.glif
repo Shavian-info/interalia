@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longshighstroke" format="2">
+  <advance height="2479.0" width="805.0"/>
+  <unicode hex="1E9D"/>
+  <outline>
+    <contour>
+      <point x="437.20000000000005" y="0.0" type="line"/>
+      <point x="630.4000000000001" y="1167.4" type="line" smooth="yes"/>
+      <point x="643.2" y="1246.6"/>
+      <point x="712.6" y="1286.4"/>
+      <point x="813.4" y="1286.4" type="curve" smooth="yes"/>
+      <point x="849.4" y="1286.4"/>
+      <point x="877.8000000000001" y="1283.4"/>
+      <point x="897.4" y="1277.4" type="curve"/>
+      <point x="940.2" y="1535.0" type="line"/>
+      <point x="899.2" y="1546.4"/>
+      <point x="843.4000000000001" y="1556.4"/>
+      <point x="782.4" y="1556.4" type="curve" smooth="yes"/>
+      <point x="522.6" y="1556.4"/>
+      <point x="329.8" y="1421.6"/>
+      <point x="287.8" y="1167.4" type="curve" smooth="yes"/>
+      <point x="94.60000000000001" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="856.8000000000001" y="1207.6" type="line"/>
+      <point x="133.2" y="1207.6" type="line"/>
+      <point x="100.0" y="1007.0" type="line"/>
+      <point x="823.4000000000001" y="1007.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

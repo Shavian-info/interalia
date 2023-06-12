@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eshsquatreversed" format="2">
+  <advance height="2479.0" width="1010.2"/>
+  <unicode hex="0285"/>
+  <outline>
+    <contour>
+      <point x="677.4" y="0.0" type="line"/>
+      <point x="677.4" y="742.4" type="line" smooth="yes"/>
+      <point x="677.4" y="992.0"/>
+      <point x="512.4" y="1132.0"/>
+      <point x="248.6" y="1132.0" type="curve" smooth="yes"/>
+      <point x="193.2" y="1132.0"/>
+      <point x="138.2" y="1123.6"/>
+      <point x="86.0" y="1111.6" type="curve"/>
+      <point x="85.4" y="849.8" type="line"/>
+      <point x="109.0" y="858.2"/>
+      <point x="132.6" y="861.2"/>
+      <point x="173.0" y="861.2" type="curve" smooth="yes"/>
+      <point x="274.8" y="861.2"/>
+      <point x="335.4" y="818.6"/>
+      <point x="335.4" y="742.4" type="curve" smooth="yes"/>
+      <point x="335.4" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="335.4" y="694.4" type="line"/>
+      <point x="335.4" y="-53.4" type="line" smooth="yes"/>
+      <point x="335.4" y="-306.8"/>
+      <point x="499.4" y="-442.0"/>
+      <point x="759.2" y="-442.0" type="curve" smooth="yes"/>
+      <point x="825.0" y="-442.0"/>
+      <point x="877.8" y="-432.0"/>
+      <point x="924.8" y="-420.8" type="curve"/>
+      <point x="926.6" y="-163.2" type="line"/>
+      <point x="899.8" y="-169.0"/>
+      <point x="876.2" y="-171.2"/>
+      <point x="834.8" y="-171.2" type="curve" smooth="yes"/>
+      <point x="734.4" y="-171.2"/>
+      <point x="677.4" y="-131.8"/>
+      <point x="677.4" y="-53.4" type="curve" smooth="yes"/>
+      <point x="677.4" y="694.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

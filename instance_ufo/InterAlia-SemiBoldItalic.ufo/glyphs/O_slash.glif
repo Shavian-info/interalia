@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance height="2479.0" width="1587.0"/>
+  <unicode hex="00D8"/>
+  <anchor x="706.6" y="1.7999999999999998" name="bottom"/>
+  <anchor x="876.4" y="0.6000000000000005" name="ogonek"/>
+  <anchor x="327.20000000000005" y="1487.2" name="tonos"/>
+  <anchor x="977.6" y="1674.2" name="top"/>
+  <outline>
+    <contour>
+      <point x="307.59999999999997" y="-68.2" type="line"/>
+      <point x="1465.6" y="1465.2" type="line"/>
+      <point x="1341.0" y="1554.8" type="line"/>
+      <point x="183.6" y="21.8" type="line"/>
+    </contour>
+    <component base="O" xOffset="-0.6" yOffset="-1.7999999999999998"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

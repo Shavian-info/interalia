@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dtail" format="2">
+  <advance height="2479" width="1248"/>
+  <unicode hex="0256"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <anchor x="1126" y="1280" name="cross"/>
+  <anchor x="1404" y="1489" name="raccent"/>
+  <anchor x="748" y="1489" name="top"/>
+  <outline>
+    <contour>
+      <point x="1047" y="-419" type="curve" smooth="yes"/>
+      <point x="1082" y="-419"/>
+      <point x="1120" y="-419"/>
+      <point x="1149" y="-410" type="curve"/>
+      <point x="1172" y="-265" type="line"/>
+      <point x="1158" y="-268"/>
+      <point x="1137" y="-271"/>
+      <point x="1117" y="-271" type="curve" smooth="yes"/>
+      <point x="1024" y="-271"/>
+      <point x="956" y="-259"/>
+      <point x="980" y="-108" type="curve" smooth="yes"/>
+      <point x="1033" y="212" type="line"/>
+      <point x="861" y="212" type="line"/>
+      <point x="806" y="-119" type="line" smooth="yes"/>
+      <point x="777" y="-311"/>
+      <point x="884" y="-419"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

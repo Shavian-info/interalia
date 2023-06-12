@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tesh" format="2">
+  <advance height="2479.0" width="1204.2"/>
+  <unicode hex="02A7"/>
+  <anchor x="425.6" y="0.0" name="bottom"/>
+  <anchor x="514.0" y="0.0" name="cedilla"/>
+  <anchor x="563.4" y="1562.0" name="raccent"/>
+  <anchor x="331.0" y="1499.6" name="top"/>
+  <outline>
+    <contour>
+      <point x="557.0" y="1117.0" type="line"/>
+      <point x="557.0" y="942.8" type="line"/>
+      <point x="668.0" y="942.8" type="line"/>
+      <point x="668.0" y="1117.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="572.8" y="178.6" type="curve"/>
+      <point x="546.6" y="-15.2" type="line"/>
+      <point x="638.0" y="-11.8"/>
+      <point x="687.4" y="10.0"/>
+      <point x="713.8" y="19.4" type="curve"/>
+      <point x="675.2" y="193.8" type="line"/>
+      <point x="628.6" y="183.8"/>
+      <point x="601.8" y="179.0"/>
+    </contour>
+    <component base="t"/>
+    <component base="esh" xOffset="407.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>t</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>esh</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

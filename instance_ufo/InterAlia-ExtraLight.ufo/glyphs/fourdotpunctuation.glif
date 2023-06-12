@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourdotpunctuation" format="2">
+  <advance height="2479.0" width="1329.6666666666667"/>
+  <unicode hex="2058"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="818.3333333333334" yOffset="744.0"/>
+    <component base="dotbelowcomb" xOffset="1266.3333333333333" yOffset="335.0"/>
+    <component base="dotbelowcomb" xOffset="1717.6666666666667" yOffset="744.0"/>
+    <component base="dotbelowcomb" xOffset="1266.3333333333333" yOffset="1148.3333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

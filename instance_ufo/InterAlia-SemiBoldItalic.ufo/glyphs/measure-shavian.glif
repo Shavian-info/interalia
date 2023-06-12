@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="measure-shavian" format="2">
+  <advance width="917.6"/>
+  <unicode hex="10460"/>
+  <outline>
+    <contour>
+      <point x="208.20000000000002" y="-435.4" type="line"/>
+      <point x="515.5999999999999" y="-154.0"/>
+      <point x="788.6" y="318.8"/>
+      <point x="845.8000000000001" y="655.6" type="curve" smooth="yes"/>
+      <point x="895.6" y="964.8000000000001"/>
+      <point x="756.8" y="1117.0"/>
+      <point x="450.6" y="1117.0" type="curve"/>
+      <point x="186.6" y="1117.0" type="line"/>
+      <point x="144.2" y="874.8" type="line"/>
+      <point x="390.6" y="874.8" type="line"/>
+      <point x="558.6" y="874.8000000000001"/>
+      <point x="606.4" y="803.8"/>
+      <point x="578.5999999999999" y="627.5999999999999" type="curve" smooth="yes"/>
+      <point x="528.0" y="332.0"/>
+      <point x="300.8" y="-24.4"/>
+      <point x="8.399999999999988" y="-304.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

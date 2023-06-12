@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emtail-cy" format="2">
+  <advance height="2479" width="1769"/>
+  <unicode hex="04CD"/>
+  <anchor x="884" y="0" name="bottom"/>
+  <anchor x="1536" y="0" name="right"/>
+  <anchor x="884" y="1676" name="top"/>
+  <outline>
+    <component base="M"/>
+    <component base="cyrillictail.cn" xOffset="1303" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cyrillictail.cn</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

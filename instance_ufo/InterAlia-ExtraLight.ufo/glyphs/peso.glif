@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance height="2479.0" width="1326.6666666666667"/>
+  <unicode hex="20B1"/>
+  <outline>
+    <contour>
+      <point x="1317.0" y="1211.0" type="line"/>
+      <point x="84.66666666666667" y="1211.0" type="line"/>
+      <point x="84.66666666666667" y="1127.0" type="line"/>
+      <point x="1317.0" y="1127.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1317.0" y="945.6666666666666" type="line"/>
+      <point x="84.66666666666667" y="945.6666666666666" type="line"/>
+      <point x="84.66666666666667" y="861.0" type="line"/>
+      <point x="1317.0" y="861.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="707.6666666666666" y="592.6666666666666" type="line"/>
+      <point x="990.0" y="592.6666666666666"/>
+      <point x="1159.0" y="783.6666666666666"/>
+      <point x="1159.0" y="1041.3333333333333" type="curve"/>
+      <point x="1159.0" y="1301.3333333333333"/>
+      <point x="990.0" y="1489.0"/>
+      <point x="707.0" y="1489.0" type="curve"/>
+      <point x="250.33333333333334" y="1489.0" type="line"/>
+      <point x="250.33333333333334" y="0.0" type="line"/>
+      <point x="341.0" y="0.0" type="line"/>
+      <point x="341.0" y="1405.0" type="line"/>
+      <point x="707.0" y="1405.0" type="line"/>
+      <point x="936.6666666666666" y="1405.0"/>
+      <point x="1068.3333333333333" y="1255.6666666666667"/>
+      <point x="1068.3333333333333" y="1041.3333333333333" type="curve"/>
+      <point x="1068.3333333333333" y="829.0"/>
+      <point x="936.6666666666666" y="676.6666666666666"/>
+      <point x="707.6666666666666" y="676.6666666666666" type="curve"/>
+      <point x="314.33333333333337" y="676.6666666666666" type="line"/>
+      <point x="314.33333333333337" y="592.6666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

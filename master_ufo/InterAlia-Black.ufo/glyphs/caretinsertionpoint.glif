@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caretinsertionpoint" format="2">
+  <advance height="2479" width="1021"/>
+  <unicode hex="2041"/>
+  <outline>
+    <contour>
+      <point x="948" y="524" type="line"/>
+      <point x="663" y="666" type="line"/>
+      <point x="73" y="-332" type="line"/>
+      <point x="352" y="-474" type="line"/>
+    </contour>
+    <contour>
+      <point x="620" y="-474" type="line"/>
+      <point x="893" y="-349" type="line"/>
+      <point x="564" y="175" type="line"/>
+      <point x="381" y="-99" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

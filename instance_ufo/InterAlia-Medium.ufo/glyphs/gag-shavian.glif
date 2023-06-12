@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gag-shavian" format="2">
+  <advance height="2479.0" width="1011.6"/>
+  <unicode hex="1045C"/>
+  <outline>
+    <contour>
+      <point x="146.0" y="-419.0" type="line"/>
+      <point x="363.8" y="-419.0" type="line"/>
+      <point x="363.8" y="80.0" type="line"/>
+      <point x="395.2" y="73.4"/>
+      <point x="440.0" y="70.0"/>
+      <point x="478.4" y="70.0" type="curve" smooth="yes"/>
+      <point x="748.6" y="70.0"/>
+      <point x="912.6" y="250.8"/>
+      <point x="915.4" y="554.2" type="curve" smooth="yes"/>
+      <point x="914.6" y="892.0"/>
+      <point x="677.0" y="1117.0"/>
+      <point x="326.0" y="1117.0" type="curve" smooth="yes"/>
+      <point x="146.0" y="1117.0" type="line"/>
+      <point x="146.0" y="911.4" type="line"/>
+      <point x="326.0" y="911.4" type="line" smooth="yes"/>
+      <point x="550.2" y="911.4"/>
+      <point x="695.6" y="776.8"/>
+      <point x="697.6" y="561.2" type="curve" smooth="yes"/>
+      <point x="695.6" y="367.2"/>
+      <point x="576.6" y="252.8"/>
+      <point x="391.4" y="252.0" type="curve" smooth="yes"/>
+      <point x="301.6" y="252.8"/>
+      <point x="208.0" y="277.8"/>
+      <point x="157.8" y="317.2" type="curve"/>
+      <point x="146.0" y="317.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

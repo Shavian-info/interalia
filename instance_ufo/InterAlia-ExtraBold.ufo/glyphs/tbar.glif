@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance height="2479.0" width="812.2"/>
+  <unicode hex="0167"/>
+  <anchor x="454.4" y="0.0" name="bottom"/>
+  <anchor x="556.0" y="0.0" name="cedilla"/>
+  <anchor x="669.6" y="1562.0" name="raccent"/>
+  <anchor x="364.0" y="1531.4" name="top"/>
+  <outline>
+    <contour>
+      <point x="38.4" y="543.8" type="line"/>
+      <point x="743.0" y="543.8" type="line"/>
+      <point x="743.0" y="696.2" type="line"/>
+      <point x="38.4" y="696.2" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

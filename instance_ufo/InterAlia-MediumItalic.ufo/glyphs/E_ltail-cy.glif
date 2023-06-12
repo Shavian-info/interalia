@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eltail-cy" format="2">
+  <advance height="2479.0" width="1472.6"/>
+  <unicode hex="04C5"/>
+  <anchor x="647.2" y="0.0" name="bottom"/>
+  <anchor x="1212.6" y="0.0" name="right"/>
+  <outline>
+    <component base="El-cy"/>
+    <component base="cyrillictail.cn" xOffset="1083.8" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

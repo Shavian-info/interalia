@@ -15,12 +15,15 @@ _*.ignore
 nohup.out
 .vscode/
 
-build
 /_*
 /githash.txt
 
 /src/FontInspector.html
 /src/svg
 /src/*.ufo
+/src/*.icloud
 /src/*.designspace
 src/InterAlia (Autosaved).glyphs
+
+woff2
+

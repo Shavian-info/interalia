@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="030C"/>
+  <anchor x="-521.4" y="1199.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-602.2" y="1245.0" type="line"/>
+      <point x="-425.6" y="1245.0" type="line"/>
+      <point x="-64.4" y="1523.4" type="line"/>
+      <point x="-62.60000000000001" y="1537.2" type="line"/>
+      <point x="-305.40000000000003" y="1537.2" type="line"/>
+      <point x="-490.59999999999997" y="1394.6" type="line"/>
+      <point x="-624.6" y="1537.2" type="line"/>
+      <point x="-862.6000000000001" y="1537.2" type="line"/>
+      <point x="-865.6000000000001" y="1520.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

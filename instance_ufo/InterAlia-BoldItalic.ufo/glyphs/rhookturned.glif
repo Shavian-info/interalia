@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhookturned" format="2">
+  <advance height="2479.0" width="941.4"/>
+  <unicode hex="027B"/>
+  <anchor x="332.20000000000005" y="0.0" name="bottom"/>
+  <anchor x="561.8000000000001" y="582.0" name="cross"/>
+  <anchor x="683.1999999999999" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="637.8000000000001" y="-436.0" type="curve" smooth="yes"/>
+      <point x="700.4" y="-436.0"/>
+      <point x="754.5999999999999" y="-431.8"/>
+      <point x="801.0" y="-423.2" type="curve"/>
+      <point x="835.1999999999999" y="-219.60000000000002" type="line"/>
+      <point x="807.6" y="-223.8"/>
+      <point x="784.5999999999999" y="-225.0"/>
+      <point x="755.8" y="-225.0" type="curve" smooth="yes"/>
+      <point x="636.0" y="-225.0"/>
+      <point x="590.0" y="-179.4"/>
+      <point x="609.0" y="-75.2" type="curve" smooth="yes"/>
+      <point x="621.2" y="0.0" type="line"/>
+      <point x="321.4" y="0.0" type="line"/>
+      <point x="306.8" y="-89.0" type="line" smooth="yes"/>
+      <point x="262.2" y="-365.2"/>
+      <point x="425.40000000000003" y="-436.0"/>
+    </contour>
+    <component base="rturned"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

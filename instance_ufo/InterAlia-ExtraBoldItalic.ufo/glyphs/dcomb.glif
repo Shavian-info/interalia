@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0369"/>
+  <anchor x="-567.5999999999999" y="1169.0" name="_marktop"/>
+  <anchor x="-427.79999999999995" y="2019.0" name="_mkmktop"/>
+  <outline>
+    <contour>
+      <point x="-453.6" y="1331.0" type="line"/>
+      <point x="-447.40000000000003" y="1201.0" type="line"/>
+      <point x="-295.6" y="1201.0" type="line"/>
+      <point x="-167.00000000000003" y="1990.6" type="line"/>
+      <point x="-345.0" y="1990.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="-588.0" y="1191.8" type="curve" smooth="yes"/>
+      <point x="-468.99999999999994" y="1191.8"/>
+      <point x="-392.00000000000006" y="1307.6000000000001"/>
+      <point x="-346.6" y="1451.0" type="curve"/>
+      <point x="-347.0" y="1470.4" type="line"/>
+      <point x="-341.59999999999997" y="1624.2"/>
+      <point x="-391.4" y="1760.0"/>
+      <point x="-530.5999999999999" y="1760.0" type="curve" smooth="yes"/>
+      <point x="-682.8" y="1760.0"/>
+      <point x="-755.4" y="1637.6"/>
+      <point x="-778.6" y="1499.2" type="curve" smooth="yes"/>
+      <point x="-804.4" y="1338.6000000000001"/>
+      <point x="-753.0" y="1191.8"/>
+    </contour>
+    <contour>
+      <point x="-557.6" y="1327.0" type="curve" smooth="yes"/>
+      <point x="-629.8" y="1327.0"/>
+      <point x="-624.5999999999999" y="1397.0"/>
+      <point x="-615.4" y="1452.0" type="curve" smooth="yes"/>
+      <point x="-601.0" y="1533.6"/>
+      <point x="-559.0" y="1628.8"/>
+      <point x="-471.2" y="1628.8" type="curve" smooth="yes"/>
+      <point x="-408.99999999999994" y="1628.8"/>
+      <point x="-392.6" y="1592.6"/>
+      <point x="-403.6" y="1500.0" type="curve"/>
+      <point x="-408.80000000000007" y="1469.6" type="line"/>
+      <point x="-425.59999999999997" y="1389.4"/>
+      <point x="-478.19999999999993" y="1327.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

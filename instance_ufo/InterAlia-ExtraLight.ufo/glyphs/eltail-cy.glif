@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eltail-cy" format="2">
+  <advance height="2479.0" width="1229.3333333333333"/>
+  <unicode hex="04C6"/>
+  <anchor x="576.0" y="0.0" name="bottom"/>
+  <anchor x="1049.6666666666667" y="64.0" name="cyrtic"/>
+  <anchor x="1009.3333333333334" y="0.0" name="right"/>
+  <anchor x="662.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="el-cy"/>
+    <component base="cyrillictail.cn" xOffset="783.3333333333334" yOffset="-73.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>el-cy</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cyrillictail.cn</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

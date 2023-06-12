@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Shha-cy" format="2">
+  <advance height="2479.0" width="1531.2"/>
+  <unicode hex="04BA"/>
+  <anchor x="-50.20000000000002" y="1345.8" name="cyrtic"/>
+  <anchor x="456.2" y="1489.0" name="left"/>
+  <anchor x="123.19999999999999" y="1489.0" name="right"/>
+  <anchor x="729.8" y="-187.0" name="top"/>
+  <outline>
+    <component base="Che-cy" xScale="-1.0" yScale="-1.0" xOffset="1531.2" yOffset="1489.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

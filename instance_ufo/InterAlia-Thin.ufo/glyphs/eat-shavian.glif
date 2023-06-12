@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eat-shavian" format="2">
+  <advance height="2479" width="1024"/>
+  <unicode hex="10470"/>
+  <outline>
+    <contour>
+      <point x="774" y="0" type="line"/>
+      <point x="820" y="0" type="line"/>
+      <point x="820" y="817" type="line"/>
+      <point x="774" y="817" type="line"/>
+      <point x="256" y="372" type="line"/>
+      <point x="250" y="372" type="line"/>
+      <point x="250" y="1117" type="line"/>
+      <point x="204" y="1117" type="line"/>
+      <point x="204" y="303" type="line"/>
+      <point x="250" y="303" type="line"/>
+      <point x="768" y="748" type="line"/>
+      <point x="774" y="748" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

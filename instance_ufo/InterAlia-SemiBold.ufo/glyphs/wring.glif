@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wring" format="2">
+  <advance height="2479.0" width="1715.2"/>
+  <unicode hex="1E98"/>
+  <anchor x="854.0" y="0.0" name="bottom"/>
+  <anchor x="857.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="w"/>
+    <component base="ring" xOffset="488.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

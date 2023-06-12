@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vrighthook" format="2">
+  <advance height="2479.0" width="1329.3333333333333"/>
+  <unicode hex="2C71"/>
+  <outline>
+    <contour>
+      <point x="489.6666666666667" y="0.0" type="line"/>
+      <point x="627.0" y="0.0" type="line"/>
+      <point x="917.0" y="793.3333333333334" type="line" smooth="yes"/>
+      <point x="975.3333333333334" y="951.0"/>
+      <point x="1017.3333333333334" y="1015.0"/>
+      <point x="1106.0" y="1015.0" type="curve" smooth="yes"/>
+      <point x="1145.0" y="1015.0"/>
+      <point x="1184.3333333333333" y="1002.3333333333334"/>
+      <point x="1217.0" y="985.6666666666666" type="curve"/>
+      <point x="1248.3333333333333" y="1080.3333333333333" type="line"/>
+      <point x="1208.3333333333333" y="1111.0"/>
+      <point x="1152.3333333333333" y="1132.0"/>
+      <point x="1090.3333333333333" y="1132.0" type="curve" smooth="yes"/>
+      <point x="933.6666666666666" y="1132.0"/>
+      <point x="855.3333333333334" y="1002.6666666666666"/>
+      <point x="796.0" y="834.0" type="curve" smooth="yes"/>
+      <point x="563.3333333333334" y="170.66666666666669" type="line"/>
+      <point x="553.3333333333334" y="170.66666666666669" type="line"/>
+      <point x="222.0" y="1117.0" type="line"/>
+      <point x="81.66666666666667" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

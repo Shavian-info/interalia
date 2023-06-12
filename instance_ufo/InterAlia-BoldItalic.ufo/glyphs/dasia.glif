@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasia" format="2">
+  <advance height="2479.0" width="613.0"/>
+  <unicode hex="1FFE"/>
+  <anchor x="439.8" y="1175.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="316.8" y="1394.2" type="line"/>
+      <point x="298.59999999999997" y="1269.2"/>
+      <point x="353.59999999999997" y="1175.6"/>
+      <point x="441.8" y="1129.0" type="curve"/>
+      <point x="543.8" y="1219.4" type="line"/>
+      <point x="490.0" y="1263.0"/>
+      <point x="484.0" y="1330.0"/>
+      <point x="495.0" y="1400.2" type="curve" smooth="yes"/>
+      <point x="510.0" y="1489.0" type="line"/>
+      <point x="333.6" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

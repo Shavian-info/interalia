@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestroke-cy" format="2">
+  <advance height="2479.0" width="960.0"/>
+  <unicode hex="0493"/>
+  <anchor x="297.59999999999997" y="610.2" name="cross"/>
+  <anchor x="554.6" y="142.0" name="cyrtic"/>
+  <anchor x="628.8" y="1303.0" name="top"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="crossbar" xOffset="-248.4" yOffset="-178.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

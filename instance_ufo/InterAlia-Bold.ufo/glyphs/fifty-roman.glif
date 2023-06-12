@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fifty-roman" format="2">
+  <advance height="2479.0" width="557.4"/>
+  <unicode hex="217C"/>
+  <anchor x="279.0" y="0.0" name="bottom"/>
+  <anchor x="279.0" y="768.0" name="cross"/>
+  <anchor x="560.4" y="1489.0" name="raccent"/>
+  <anchor x="278.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

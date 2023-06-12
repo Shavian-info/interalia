@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palatalhookcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0321"/>
+  <outline>
+    <contour>
+      <point x="-471.6666666666667" y="121.0" type="line"/>
+      <point x="-516.3333333333334" y="-148.33333333333331" type="line" smooth="yes"/>
+      <point x="-534.9999999999999" y="-262.6666666666667"/>
+      <point x="-579.3333333333333" y="-317.3333333333333"/>
+      <point x="-666.3333333333334" y="-317.3333333333333" type="curve" smooth="yes"/>
+      <point x="-682.0" y="-317.3333333333333"/>
+      <point x="-703.6666666666666" y="-317.0"/>
+      <point x="-720.3333333333333" y="-312.0" type="curve"/>
+      <point x="-739.6666666666666" y="-430.3333333333333" type="line"/>
+      <point x="-715.6666666666666" y="-437.6666666666667"/>
+      <point x="-674.6666666666667" y="-442.0"/>
+      <point x="-648.9999999999999" y="-442.0" type="curve" smooth="yes"/>
+      <point x="-494.6666666666667" y="-442.0"/>
+      <point x="-399.3333333333333" y="-338.6666666666667"/>
+      <point x="-367.3333333333333" y="-148.33333333333331" type="curve" smooth="yes"/>
+      <point x="-322.66666666666663" y="121.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

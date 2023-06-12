@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde" format="2">
+  <advance height="2479.0" width="1334.3333333333333"/>
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="158.66666666666666" y="457.6666666666667" type="curve"/>
+      <point x="279.0" y="455.6666666666667" type="line"/>
+      <point x="302.6666666666667" y="572.0"/>
+      <point x="377.33333333333337" y="627.6666666666666"/>
+      <point x="468.0" y="627.6666666666666" type="curve" smooth="yes"/>
+      <point x="532.6666666666667" y="627.6666666666667"/>
+      <point x="575.0" y="605.3333333333334"/>
+      <point x="633.0" y="551.0" type="curve" smooth="yes"/>
+      <point x="711.0" y="477.0"/>
+      <point x="770.6666666666666" y="433.6666666666667"/>
+      <point x="865.6666666666667" y="433.66666666666663" type="curve" smooth="yes"/>
+      <point x="1008.6666666666666" y="433.6666666666667"/>
+      <point x="1144.0" y="514.3333333333334"/>
+      <point x="1184.0" y="715.6666666666666" type="curve"/>
+      <point x="1064.6666666666667" y="719.6666666666666" type="line"/>
+      <point x="1039.6666666666667" y="611.0"/>
+      <point x="969.0" y="549.0"/>
+      <point x="878.3333333333334" y="549.0" type="curve" smooth="yes"/>
+      <point x="820.3333333333333" y="549.0"/>
+      <point x="782.6666666666666" y="576.0"/>
+      <point x="724.3333333333333" y="629.3333333333334" type="curve" smooth="yes"/>
+      <point x="645.3333333333334" y="703.6666666666666"/>
+      <point x="582.0" y="747.6666666666666"/>
+      <point x="482.0" y="747.6666666666666" type="curve" smooth="yes"/>
+      <point x="334.33333333333337" y="747.6666666666666"/>
+      <point x="197.33333333333334" y="661.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

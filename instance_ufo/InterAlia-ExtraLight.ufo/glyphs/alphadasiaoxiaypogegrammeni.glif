@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphadasiaoxiaypogegrammeni" format="2">
+  <advance height="2479.0" width="1296.6666666666667"/>
+  <unicode hex="1F85"/>
+  <anchor x="621.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="603.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="prosgegrammeni" xOffset="406.3333333333333"/>
+    <component base="dasiaoxia" xOffset="249.66666666666666" yOffset="128.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

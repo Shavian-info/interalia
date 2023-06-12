@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0369"/>
+  <anchor x="-599.2" y="1169.0" name="_marktop"/>
+  <anchor x="-599.2" y="2019.0" name="_mkmktop"/>
+  <outline>
+    <contour>
+      <point x="-485.4" y="1310.0" type="line"/>
+      <point x="-465.8" y="1201.0" type="line"/>
+      <point x="-343.4" y="1201.0" type="line"/>
+      <point x="-343.4" y="1992.4" type="line"/>
+      <point x="-485.4" y="1992.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="-631.2" y="1188.2" type="curve" smooth="yes"/>
+      <point x="-488.2" y="1188.2"/>
+      <point x="-423.8" y="1289.8"/>
+      <point x="-409.2" y="1443.4" type="curve"/>
+      <point x="-409.2" y="1503.0" type="line"/>
+      <point x="-423.6" y="1659.2"/>
+      <point x="-487.6" y="1760.0"/>
+      <point x="-631.2" y="1760.0" type="curve" smooth="yes"/>
+      <point x="-789.2" y="1760.0"/>
+      <point x="-857.0" y="1623.0"/>
+      <point x="-857.0" y="1472.8" type="curve" smooth="yes"/>
+      <point x="-857.0" y="1324.8"/>
+      <point x="-783.4" y="1188.2"/>
+    </contour>
+    <contour>
+      <point x="-600.6" y="1303.0" type="curve" smooth="yes"/>
+      <point x="-690.6" y="1303.0"/>
+      <point x="-716.2" y="1389.4"/>
+      <point x="-716.2" y="1472.8" type="curve" smooth="yes"/>
+      <point x="-716.2" y="1557.0"/>
+      <point x="-690.2" y="1646.2"/>
+      <point x="-600.6" y="1646.2" type="curve" smooth="yes"/>
+      <point x="-528.2" y="1646.2"/>
+      <point x="-481.4" y="1602.0"/>
+      <point x="-468.8" y="1519.6" type="curve"/>
+      <point x="-468.8" y="1425.0" type="line"/>
+      <point x="-485.6" y="1348.0"/>
+      <point x="-528.2" y="1303.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

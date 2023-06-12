@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kdotbelow" format="2">
+  <advance height="2479.0" width="1411.8"/>
+  <unicode hex="1E32"/>
+  <anchor x="700.2" y="1.7999999999999998" name="bottom"/>
+  <anchor x="704.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="K"/>
+    <component base="dotbelowcomb" xOffset="1263.2" yOffset="1.7999999999999998"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

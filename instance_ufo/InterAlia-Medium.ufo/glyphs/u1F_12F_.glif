@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1F12F" format="2">
+  <advance height="2479.0" width="1873.0"/>
+  <unicode hex="1F12F"/>
+  <outline>
+    <contour>
+      <point x="1354.4" y="745.0" type="curve" smooth="yes"/>
+      <point x="1354.4" y="979.0"/>
+      <point x="1164.6" y="1169.6"/>
+      <point x="929.6" y="1169.6" type="curve" smooth="yes"/>
+      <point x="726.2" y="1169.6"/>
+      <point x="555.2" y="1024.6"/>
+      <point x="529.0" y="833.4" type="curve"/>
+      <point x="718.4" y="833.4" type="line"/>
+      <point x="736.0" y="924.4"/>
+      <point x="827.0" y="988.0"/>
+      <point x="929.6" y="988.0" type="curve" smooth="yes"/>
+      <point x="1064.2" y="988.0"/>
+      <point x="1173.4" y="879.2"/>
+      <point x="1173.4" y="745.2" type="curve" smooth="yes"/>
+      <point x="1173.4" y="610.4"/>
+      <point x="1064.2" y="501.2"/>
+      <point x="929.6" y="501.2" type="curve" smooth="yes"/>
+      <point x="827.0" y="501.2"/>
+      <point x="748.8" y="566.4"/>
+      <point x="730.4" y="656.6" type="curve"/>
+      <point x="541.0" y="656.6" type="line"/>
+      <point x="566.4" y="464.4"/>
+      <point x="726.2" y="320.2"/>
+      <point x="929.6" y="320.2" type="curve" smooth="yes"/>
+      <point x="1164.6" y="320.2"/>
+      <point x="1354.4" y="510.2"/>
+    </contour>
+    <component base="whiteCircle"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>whiteCircle</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

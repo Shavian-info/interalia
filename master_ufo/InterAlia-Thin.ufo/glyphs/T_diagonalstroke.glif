@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tdiagonalstroke" format="2">
+  <advance height="2479" width="1257"/>
+  <unicode hex="023E"/>
+  <unicode hex="2C66"/>
+  <anchor x="628" y="0" name="bottom"/>
+  <anchor x="628" y="-6" name="cedilla"/>
+  <anchor x="628" y="768" name="cross"/>
+  <anchor x="672" y="6" name="cyrtic"/>
+  <anchor x="640" y="0" name="right"/>
+  <anchor x="628" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="256" y="-189" type="line"/>
+      <point x="301" y="-189" type="line"/>
+      <point x="1023" y="1679" type="line"/>
+      <point x="977" y="1679" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

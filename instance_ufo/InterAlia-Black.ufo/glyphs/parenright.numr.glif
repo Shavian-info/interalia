@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.numr" format="2">
+  <advance height="2479" width="538"/>
+  <unicode hex="E0DB"/>
+  <outline>
+    <contour>
+      <point x="431" y="1135" type="curve" smooth="yes"/>
+      <point x="431" y="1353"/>
+      <point x="364" y="1504"/>
+      <point x="233" y="1623" type="curve"/>
+      <point x="17" y="1623" type="line"/>
+      <point x="108" y="1565"/>
+      <point x="189" y="1332"/>
+      <point x="189" y="1135" type="curve" smooth="yes"/>
+      <point x="189" y="934"/>
+      <point x="105" y="701"/>
+      <point x="17" y="646" type="curve"/>
+      <point x="233" y="646" type="line"/>
+      <point x="367" y="768"/>
+      <point x="431" y="925"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Fraction</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

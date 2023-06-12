@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yuslittleiotified-cy" format="2">
+  <advance height="2479.0" width="1762.6666666666667"/>
+  <unicode hex="0468"/>
+  <outline>
+    <contour>
+      <point x="716.3333333333334" y="582.6666666666666" type="line"/>
+      <point x="206.33333333333334" y="582.6666666666666" type="line"/>
+      <point x="206.33333333333334" y="454.6666666666667" type="line"/>
+      <point x="711.6666666666666" y="454.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="256.3333333333333" y="1489.0" type="line"/>
+      <point x="120.0" y="1489.0" type="line"/>
+      <point x="120.0" y="0.0" type="line"/>
+      <point x="256.3333333333333" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1064.3333333333333" y="1359.6666666666667" type="line"/>
+      <point x="1058.3333333333333" y="1489.0" type="line"/>
+      <point x="965.6666666666666" y="1489.0" type="line"/>
+      <point x="443.3333333333333" y="0.0" type="line"/>
+      <point x="601.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1447.6666666666667" y="0.0" type="line"/>
+      <point x="1606.0" y="0.0" type="line"/>
+      <point x="1095.0" y="1489.0" type="line"/>
+      <point x="1002.0" y="1489.0" type="line"/>
+      <point x="994.0" y="1365.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="1365.6666666666667" y="582.6666666666666" type="line"/>
+      <point x="686.6666666666666" y="582.6666666666666" type="line"/>
+      <point x="681.6666666666666" y="452.6666666666667" type="line"/>
+      <point x="1365.6666666666667" y="452.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="1094.0" y="548.0" type="line"/>
+      <point x="944.3333333333334" y="548.0" type="line"/>
+      <point x="944.3333333333334" y="0.0" type="line"/>
+      <point x="1094.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

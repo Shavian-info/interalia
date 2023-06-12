@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bilabialclick" format="2">
+  <advance height="2479" width="1629"/>
+  <unicode hex="0298"/>
+  <anchor x="721" y="0" name="bottom"/>
+  <anchor x="931" y="6" name="ogonek"/>
+  <anchor x="326" y="1489" name="tonos"/>
+  <anchor x="1001" y="1676" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="period" xOffset="588" yOffset="566"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zswashtail" format="2">
+  <advance height="2479.0" width="1086.3333333333335"/>
+  <unicode hex="0240"/>
+  <outline>
+    <contour>
+      <point x="224.33333333333334" y="122.33333333333334" type="line"/>
+      <point x="203.66666666666669" y="0.0" type="line"/>
+      <point x="240.00000000000003" y="0.0" type="line" smooth="yes"/>
+      <point x="554.3333333333334" y="0.0"/>
+      <point x="528.0" y="-418.3333333333333"/>
+      <point x="775.6666666666666" y="-418.3333333333333" type="curve" smooth="yes"/>
+      <point x="848.6666666666666" y="-418.3333333333333"/>
+      <point x="916.6666666666666" y="-380.0"/>
+      <point x="959.9999999999999" y="-345.6666666666667" type="curve"/>
+      <point x="932.0000000000001" y="-254.66666666666666" type="line"/>
+      <point x="891.0000000000001" y="-280.0"/>
+      <point x="851.0" y="-296.3333333333333"/>
+      <point x="807.3333333333334" y="-296.3333333333333" type="curve" smooth="yes"/>
+      <point x="629.3333333333334" y="-296.3333333333333"/>
+      <point x="629.3333333333333" y="122.33333333333334"/>
+      <point x="274.3333333333333" y="122.33333333333334" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="238.0" y="122.33333333333334" type="line"/>
+      <point x="1025.6666666666667" y="1010.3333333333334" type="line"/>
+      <point x="1043.6666666666667" y="1117.0" type="line"/>
+      <point x="242.0" y="1117.0" type="line"/>
+      <point x="221.66666666666669" y="995.0" type="line"/>
+      <point x="857.3333333333334" y="995.0" type="line"/>
+      <point x="66.99999999999999" y="112.33333333333334" type="line"/>
+      <point x="48.66666666666666" y="0.0" type="line"/>
+      <point x="219.33333333333334" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

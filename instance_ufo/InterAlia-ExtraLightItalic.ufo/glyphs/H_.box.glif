@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.box" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="1F137"/>
+  <anchor x="1328.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="841.0" y="-4.0" name="cedilla"/>
+  <anchor x="1910.0" y="25.333333333333336" name="cyrtic"/>
+  <anchor x="1868.0" y="0.0" name="right"/>
+  <anchor x="1000.3333333333334" y="1489.0" name="tonos"/>
+  <anchor x="1611.3333333333335" y="1677.0" name="top"/>
+  <outline>
+    <component base="H" xOffset="667.6666666666666"/>
+    <component base="enclosingsquarecomb" xOffset="803.6666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingsquarecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

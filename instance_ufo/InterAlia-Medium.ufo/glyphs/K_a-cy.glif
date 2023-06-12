@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ka-cy" format="2">
+  <advance height="2479.0" width="1364.8"/>
+  <unicode hex="041A"/>
+  <anchor x="1251.8" y="87.2" name="cyrtic"/>
+  <outline>
+    <contour>
+      <point x="1047.6" y="0.0" type="line"/>
+      <point x="1321.0" y="0.0" type="line"/>
+      <point x="703.6" y="766.0" type="line"/>
+      <point x="1298.6" y="1489.0" type="line"/>
+      <point x="1024.8" y="1489.0" type="line"/>
+      <point x="509.8" y="860.8" type="line"/>
+      <point x="388.8" y="860.8" type="line"/>
+      <point x="388.8" y="1489.0" type="line"/>
+      <point x="163.2" y="1489.0" type="line"/>
+      <point x="163.2" y="0.0" type="line"/>
+      <point x="388.8" y="0.0" type="line"/>
+      <point x="388.8" y="667.6" type="line"/>
+      <point x="510.6" y="667.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

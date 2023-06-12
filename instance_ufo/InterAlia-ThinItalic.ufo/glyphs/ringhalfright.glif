@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfright" format="2">
+  <advance height="2479" width="308"/>
+  <unicode hex="02BE"/>
+  <anchor x="230" y="1187" name="_rhalfring"/>
+  <outline>
+    <contour>
+      <point x="115" y="1111" type="line"/>
+      <point x="239" y="1111"/>
+      <point x="335" y="1191"/>
+      <point x="355" y="1311" type="curve" smooth="yes"/>
+      <point x="374" y="1423"/>
+      <point x="297" y="1510"/>
+      <point x="180" y="1510" type="curve"/>
+      <point x="173" y="1463" type="line"/>
+      <point x="271" y="1463"/>
+      <point x="324" y="1404"/>
+      <point x="308" y="1311" type="curve" smooth="yes"/>
+      <point x="294" y="1223"/>
+      <point x="214" y="1158"/>
+      <point x="122" y="1158" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

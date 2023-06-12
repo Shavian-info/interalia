@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEmacron" format="2">
+  <advance height="2479.0" width="2137.6"/>
+  <unicode hex="01E2"/>
+  <anchor x="1347.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="AE"/>
+    <component base="macron" xOffset="729.6" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

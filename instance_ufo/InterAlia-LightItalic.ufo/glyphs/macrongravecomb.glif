@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrongravecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DC6"/>
+  <outline>
+    <contour>
+      <point x="-652.0" y="1421.6666666666667" type="line"/>
+      <point x="-284.66666666666663" y="1421.6666666666667" type="line"/>
+      <point x="-183.66666666666666" y="1244.0" type="line"/>
+      <point x="-54.66666666666668" y="1244.0" type="line"/>
+      <point x="-187.66666666666666" y="1536.0" type="line"/>
+      <point x="-633.0" y="1536.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

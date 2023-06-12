@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etapsilioxiaprosgegrammeni" format="2">
+  <advance height="2479.0" width="2202.2"/>
+  <unicode hex="1F9C"/>
+  <anchor x="1344.4" y="0.0" name="bottom"/>
+  <anchor x="870.4" y="0.0" name="cedilla"/>
+  <anchor x="2141.6" y="123.4" name="cyrtic"/>
+  <anchor x="1978.0" y="0.0" name="right"/>
+  <anchor x="920.8000000000001" y="1489.0" name="tonos"/>
+  <anchor x="1627.0" y="1677.2" name="top"/>
+  <outline>
+    <component base="H" xOffset="674.2"/>
+    <component base="prosgegrammeni" xOffset="1185.8"/>
+    <component base="psilioxia.tonos" xOffset="-78.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

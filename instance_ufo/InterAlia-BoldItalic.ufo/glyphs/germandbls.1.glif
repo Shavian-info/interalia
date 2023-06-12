@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls.1" format="2">
+  <advance height="2479.0" width="1338.4"/>
+  <outline>
+    <contour>
+      <point x="512.8000000000001" y="1049.4" type="line" name="hr00"/>
+      <point x="537.0" y="1200.6"/>
+      <point x="617.4" y="1254.0"/>
+      <point x="716.0" y="1254.0" type="curve" smooth="yes"/>
+      <point x="815.8" y="1254.0"/>
+      <point x="877.6" y="1200.8"/>
+      <point x="863.6" y="1109.4" type="curve" smooth="yes"/>
+      <point x="840.6" y="979.2"/>
+      <point x="722.0" y="938.4"/>
+      <point x="697.4" y="786.8" type="curve" smooth="yes"/>
+      <point x="655.0" y="532.6"/>
+      <point x="963.2" y="539.0"/>
+      <point x="930.6" y="353.4" type="curve" smooth="yes"/>
+      <point x="918.0" y="267.0"/>
+      <point x="840.0" y="227.0"/>
+      <point x="743.6" y="227.0" type="curve" smooth="yes"/>
+      <point x="634.2" y="227.0"/>
+      <point x="578.8" y="253.2"/>
+      <point x="541.2" y="269.6" type="curve"/>
+      <point x="427.2" y="36.400000000000006" type="line"/>
+      <point x="477.99999999999994" y="2.6000000000000014"/>
+      <point x="592.6" y="-20.0"/>
+      <point x="702.8" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1024.0" y="-20.0"/>
+      <point x="1194.8000000000002" y="136.20000000000002"/>
+      <point x="1228.0" y="337.8" type="curve" smooth="yes"/>
+      <point x="1275.8000000000002" y="623.4"/>
+      <point x="989.2" y="666.8"/>
+      <point x="1011.6" y="800.6" type="curve" smooth="yes"/>
+      <point x="1029.8" y="914.1999999999999"/>
+      <point x="1136.1999999999998" y="962.4"/>
+      <point x="1164.6" y="1128.6" type="curve" smooth="yes"/>
+      <point x="1203.3999999999999" y="1372.0"/>
+      <point x="1024.6" y="1510.0"/>
+      <point x="758.2" y="1510.0" type="curve" smooth="yes"/>
+      <point x="475.4" y="1510.0"/>
+      <point x="262.40000000000003" y="1353.6"/>
+      <point x="212.2" y="1049.4" type="curve" smooth="yes"/>
+      <point x="36.599999999999994" y="0.0" type="line"/>
+      <point x="337.6" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

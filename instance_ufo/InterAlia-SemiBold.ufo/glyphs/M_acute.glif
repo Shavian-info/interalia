@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Macute" format="2">
+  <advance height="2479.0" width="1856.4"/>
+  <unicode hex="1E3E"/>
+  <anchor x="928.2" y="0.0" name="bottom"/>
+  <anchor x="1709.4" y="0.0" name="right"/>
+  <anchor x="942.0" y="2049.0" name="top"/>
+  <outline>
+    <component base="M"/>
+    <component base="acute" xOffset="433.0" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

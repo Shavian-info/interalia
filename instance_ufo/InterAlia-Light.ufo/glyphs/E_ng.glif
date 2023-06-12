@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eng" format="2">
+  <advance height="2479.0" width="1555.6666666666667"/>
+  <unicode hex="014A"/>
+  <anchor x="777.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="1339.3333333333333" y="0.0" name="right"/>
+  <anchor x="777.6666666666666" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1225.6666666666667" y="0.0" type="line"/>
+      <point x="1225.6666666666667" y="-133.66666666666666" type="line" smooth="yes"/>
+      <point x="1225.6666666666667" y="-256.6666666666667"/>
+      <point x="1160.0" y="-301.6666666666667"/>
+      <point x="1063.3333333333333" y="-301.6666666666667" type="curve" smooth="yes"/>
+      <point x="1042.6666666666667" y="-301.6666666666667"/>
+      <point x="1022.6666666666666" y="-299.0"/>
+      <point x="1009.0" y="-296.0" type="curve"/>
+      <point x="1009.0" y="-410.0" type="line"/>
+      <point x="1031.0" y="-417.3333333333333"/>
+      <point x="1063.3333333333333" y="-418.0"/>
+      <point x="1094.0" y="-418.0" type="curve" smooth="yes"/>
+      <point x="1245.3333333333333" y="-418.0"/>
+      <point x="1357.3333333333333" y="-317.0"/>
+      <point x="1357.3333333333333" y="-135.66666666666666" type="curve" smooth="yes"/>
+      <point x="1357.3333333333333" y="0.0" type="line"/>
+    </contour>
+    <component base="N"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

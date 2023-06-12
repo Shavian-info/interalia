@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S.circled" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="24C8"/>
+  <anchor x="1428.0" y="-5.199999999999999" name="bottom"/>
+  <anchor x="1426.4" y="0.0" name="cedilla"/>
+  <anchor x="1423.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="S" xOffset="745.8"/>
+    <component base="enclosingcirclecomb" xOffset="667.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>S</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

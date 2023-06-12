@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ystroke" format="2">
+  <advance height="2479" width="1071"/>
+  <unicode hex="024F"/>
+  <anchor x="739" y="-86" name="bottom"/>
+  <anchor x="560" y="-419" name="ogonek"/>
+  <anchor x="535" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="954" y="809" type="line" name="hr00"/>
+      <point x="131" y="809" type="line"/>
+      <point x="131" y="762" type="line"/>
+      <point x="954" y="762" type="line"/>
+    </contour>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>y</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

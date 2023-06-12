@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onehalf" format="2">
+  <advance height="2479.0" width="1781.6666666666667"/>
+  <unicode hex="00BD"/>
+  <anchor x="1500.6666666666667" y="406.6666666666667" name="cross"/>
+  <anchor x="1065.6666666666665" y="791.0" name="dnom"/>
+  <anchor x="585.3333333333334" y="698.0" name="numr"/>
+  <outline>
+    <component base="fraction" xOffset="512.0"/>
+    <component base="one.numr" xOffset="-8.0" yOffset="-47.0"/>
+    <component base="two.dnomf" xOffset="1015.9999999999999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>two.dnomf</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tmod" format="2">
+  <advance height="2479.0" width="537.8"/>
+  <unicode hex="1D57"/>
+  <outline>
+    <contour>
+      <point x="488.8" y="1489.0" type="line"/>
+      <point x="25.4" y="1489.0" type="line"/>
+      <point x="25.4" y="1323.2" type="line"/>
+      <point x="488.8" y="1323.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="127.6" y="1667.0" type="line"/>
+      <point x="127.6" y="951.4" type="line" smooth="yes"/>
+      <point x="127.6" y="797.0"/>
+      <point x="231.8" y="733.0"/>
+      <point x="381.6" y="737.8" type="curve" smooth="yes"/>
+      <point x="437.0" y="739.6"/>
+      <point x="472.0" y="748.6"/>
+      <point x="496.8" y="755.8" type="curve"/>
+      <point x="461.8" y="922.2" type="line"/>
+      <point x="452.6" y="921.0"/>
+      <point x="431.0" y="916.2"/>
+      <point x="411.0" y="916.2" type="curve" smooth="yes"/>
+      <point x="371.8" y="916.2"/>
+      <point x="348.6" y="929.0"/>
+      <point x="348.6" y="984.0" type="curve" smooth="yes"/>
+      <point x="348.6" y="1667.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

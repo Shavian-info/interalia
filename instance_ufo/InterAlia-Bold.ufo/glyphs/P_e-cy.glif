@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pe-cy" format="2">
+  <advance height="2479.0" width="1566.8"/>
+  <unicode hex="041F"/>
+  <anchor x="1392.8" y="0.0" name="right"/>
+  <outline>
+    <component base="Pi"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

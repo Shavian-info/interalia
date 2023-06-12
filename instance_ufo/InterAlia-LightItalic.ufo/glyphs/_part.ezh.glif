@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.ezh" format="2">
+  <advance height="2479.0" width="1158.6666666666667"/>
+  <outline>
+    <contour>
+      <point x="381.6666666666667" y="-442.0" type="curve" smooth="yes"/>
+      <point x="669.0" y="-442.0"/>
+      <point x="912.3333333333333" y="-246.33333333333334"/>
+      <point x="957.6666666666666" y="25.000000000000004" type="curve" smooth="yes"/>
+      <point x="1001.6666666666666" y="292.0"/>
+      <point x="837.3333333333334" y="473.0"/>
+      <point x="546.6666666666666" y="486.0" type="curve"/>
+      <point x="547.6666666666666" y="495.3333333333333" type="line"/>
+      <point x="1061.6666666666665" y="1017.0" type="line"/>
+      <point x="1076.6666666666665" y="1117.0" type="line"/>
+      <point x="231.66666666666666" y="1117.0" type="line"/>
+      <point x="210.66666666666666" y="995.0" type="line"/>
+      <point x="867.3333333333333" y="995.0" type="line"/>
+      <point x="864.6666666666666" y="985.0" type="line"/>
+      <point x="379.0" y="490.3333333333333" type="line"/>
+      <point x="361.6666666666667" y="378.3333333333333" type="line"/>
+      <point x="447.3333333333333" y="378.3333333333333" type="line" smooth="yes"/>
+      <point x="714.0" y="378.3333333333333"/>
+      <point x="863.3333333333333" y="244.66666666666669"/>
+      <point x="828.6666666666666" y="37.0" type="curve" smooth="yes"/>
+      <point x="794.3333333333333" y="-170.66666666666669"/>
+      <point x="606.3333333333334" y="-320.0"/>
+      <point x="382.99999999999994" y="-320.0" type="curve" smooth="yes"/>
+      <point x="243.66666666666666" y="-320.0"/>
+      <point x="154.66666666666666" y="-272.0"/>
+      <point x="97.99999999999999" y="-146.0" type="curve"/>
+      <point x="-23.66666666666666" y="-215.0" type="line"/>
+      <point x="21.666666666666675" y="-342.0"/>
+      <point x="148.66666666666666" y="-442.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

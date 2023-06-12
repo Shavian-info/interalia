@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kappa" format="2">
+  <advance height="2479.0" width="1437.4"/>
+  <unicode hex="039A"/>
+  <anchor x="710.6" y="2.4000000000000004" name="bottom"/>
+  <anchor x="714.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="K"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

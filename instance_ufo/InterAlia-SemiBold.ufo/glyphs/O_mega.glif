@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omega" format="2">
+  <advance height="2479.0" width="1582.2"/>
+  <unicode hex="03A9"/>
+  <anchor x="791.6" y="0.0" name="bottom"/>
+  <anchor x="170.0" y="1489.0" name="tonos"/>
+  <outline>
+    <contour>
+      <point x="102.4" y="0.0" type="line"/>
+      <point x="672.8" y="0.0" type="line"/>
+      <point x="672.8" y="285.2" type="line"/>
+      <point x="504.0" y="355.0"/>
+      <point x="372.6" y="546.8"/>
+      <point x="372.6" y="784.2" type="curve" smooth="yes"/>
+      <point x="372.6" y="1058.6"/>
+      <point x="546.2" y="1266.6"/>
+      <point x="791.6" y="1266.6" type="curve" smooth="yes"/>
+      <point x="1037.6" y="1266.6"/>
+      <point x="1210.6" y="1058.6"/>
+      <point x="1210.6" y="784.2" type="curve" smooth="yes"/>
+      <point x="1210.6" y="546.8"/>
+      <point x="1078.8" y="355.0"/>
+      <point x="910.0" y="285.2" type="curve"/>
+      <point x="910.0" y="0.0" type="line"/>
+      <point x="1480.2" y="0.0" type="line"/>
+      <point x="1480.2" y="226.4" type="line"/>
+      <point x="1191.2" y="226.4" type="line"/>
+      <point x="1191.2" y="238.0" type="line"/>
+      <point x="1369.2" y="352.6"/>
+      <point x="1480.2" y="540.2"/>
+      <point x="1480.2" y="800.2" type="curve" smooth="yes"/>
+      <point x="1480.2" y="1216.0"/>
+      <point x="1194.0" y="1510.0"/>
+      <point x="791.6" y="1510.0" type="curve" smooth="yes"/>
+      <point x="388.8" y="1510.0"/>
+      <point x="102.4" y="1216.0"/>
+      <point x="102.4" y="800.2" type="curve" smooth="yes"/>
+      <point x="102.4" y="540.2"/>
+      <point x="213.4" y="352.6"/>
+      <point x="391.4" y="238.0" type="curve"/>
+      <point x="391.4" y="226.4" type="line"/>
+      <point x="102.4" y="226.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

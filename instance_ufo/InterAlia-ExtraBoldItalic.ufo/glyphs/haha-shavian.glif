@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="haha-shavian" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="10463"/>
+  <outline>
+    <contour>
+      <point x="442.0" y="-442.0" type="line"/>
+      <point x="731.8000000000001" y="-442.0"/>
+      <point x="971.8" y="-214.6"/>
+      <point x="1026.1999999999998" y="111.8" type="curve" smooth="yes"/>
+      <point x="1110.8" y="623.8000000000001"/>
+      <point x="723.0" y="1117.0"/>
+      <point x="240.79999999999998" y="1117.0" type="curve" smooth="yes"/>
+      <point x="161.20000000000002" y="1117.0" type="line"/>
+      <point x="109.20000000000002" y="801.6" type="line"/>
+      <point x="211.0" y="801.6" type="line" smooth="yes"/>
+      <point x="508.59999999999997" y="801.6"/>
+      <point x="735.0" y="498.0"/>
+      <point x="674.8" y="138.79999999999998" type="curve" smooth="yes"/>
+      <point x="645.8" y="-37.79999999999999"/>
+      <point x="557.4" y="-177.8"/>
+      <point x="466.8" y="-176.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="442.0" y="-442.0" type="curve"/>
+      <point x="466.8" y="-176.0" type="line"/>
+      <point x="377.79999999999995" y="-177.8"/>
+      <point x="348.8" y="-60.99999999999999"/>
+      <point x="374.4" y="92.6" type="curve" smooth="yes"/>
+      <point x="437.8" y="474.79999999999995"/>
+      <point x="787.0" y="801.6"/>
+      <point x="1085.8" y="801.6" type="curve" smooth="yes"/>
+      <point x="1170.0" y="801.6" type="line"/>
+      <point x="1221.8" y="1117.0" type="line"/>
+      <point x="1121.3999999999999" y="1117.0" type="line" smooth="yes"/>
+      <point x="639.8000000000001" y="1117.0"/>
+      <point x="111.19999999999999" y="646.8000000000001"/>
+      <point x="30.999999999999993" y="158.2" type="curve" smooth="yes"/>
+      <point x="-27.600000000000005" y="-191.4"/>
+      <point x="150.99999999999997" y="-442.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

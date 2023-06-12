@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokelongcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0336"/>
+  <outline>
+    <contour>
+      <point x="20.666666666666668" y="594.6666666666666" type="line"/>
+      <point x="-1082.0" y="594.6666666666666" type="line"/>
+      <point x="-1082.0" y="510.0" type="line"/>
+      <point x="20.666666666666668" y="510.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

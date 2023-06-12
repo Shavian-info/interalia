@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tdieresis" format="2">
+  <advance height="2479.0" width="778.6"/>
+  <unicode hex="1E97"/>
+  <anchor x="435.2" y="0.0" name="bottom"/>
+  <anchor x="528.0" y="0.0" name="cedilla"/>
+  <anchor x="598.8" y="1562.0" name="raccent"/>
+  <anchor x="342.0" y="1883.2" name="top"/>
+  <outline>
+    <component base="t"/>
+    <component base="dieresis" xOffset="-224.6" yOffset="207.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

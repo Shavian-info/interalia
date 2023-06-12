@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="won" format="2">
+  <advance height="2479.0" width="1809.6666666666667"/>
+  <unicode hex="20A9"/>
+  <outline>
+    <contour>
+      <point x="1837.3333333333333" y="942.3333333333334" type="line"/>
+      <point x="99.66666666666667" y="942.3333333333334" type="line"/>
+      <point x="85.66666666666667" y="858.3333333333334" type="line"/>
+      <point x="1823.3333333333333" y="858.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="1779.3333333333333" y="595.3333333333334" type="line"/>
+      <point x="41.66666666666667" y="595.3333333333334" type="line"/>
+      <point x="27.000000000000004" y="510.6666666666667" type="line"/>
+      <point x="1765.0" y="510.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="272.33333333333337" y="1489.0" type="line"/>
+      <point x="178.66666666666666" y="1489.0" type="line"/>
+      <point x="340.6666666666667" y="0.0" type="line"/>
+      <point x="445.33333333333337" y="0.0" type="line"/>
+      <point x="1029.6666666666667" y="1340.3333333333333" type="line"/>
+      <point x="1037.3333333333333" y="1340.3333333333333" type="line"/>
+      <point x="1176.3333333333333" y="0.0" type="line"/>
+      <point x="1283.0" y="0.0" type="line"/>
+      <point x="1939.3333333333333" y="1489.0" type="line"/>
+      <point x="1843.6666666666665" y="1489.0" type="line"/>
+      <point x="1255.6666666666667" y="140.66666666666669" type="line"/>
+      <point x="1247.3333333333333" y="140.66666666666669" type="line"/>
+      <point x="1113.3333333333333" y="1489.0" type="line"/>
+      <point x="1002.6666666666666" y="1489.0" type="line"/>
+      <point x="418.6666666666667" y="140.66666666666669" type="line"/>
+      <point x="410.0" y="140.66666666666669" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

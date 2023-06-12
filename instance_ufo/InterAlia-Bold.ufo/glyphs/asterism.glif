@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterism" format="2">
+  <advance height="2479.0" width="1572.2"/>
+  <unicode hex="2042"/>
+  <outline>
+    <contour>
+      <point x="751.4" y="343.2" type="line"/>
+      <point x="751.4" y="487.0" type="line"/>
+      <point x="166.4" y="487.0" type="line"/>
+      <point x="166.4" y="343.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="610.8" y="163.2" type="line"/>
+      <point x="716.2" y="263.2" type="line"/>
+      <point x="303.4" y="666.4" type="line"/>
+      <point x="201.0" y="564.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="384.6" y="131.0" type="line"/>
+      <point x="531.6" y="131.0" type="line"/>
+      <point x="531.6" y="698.0" type="line"/>
+      <point x="384.6" y="698.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="201.0" y="266.8" type="line"/>
+      <point x="303.4" y="163.2" type="line"/>
+      <point x="716.2" y="564.6" type="line"/>
+      <point x="610.8" y="666.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="1079.8" y="962.6" type="line"/>
+      <point x="1079.8" y="1106.6" type="line"/>
+      <point x="497.2" y="1106.6" type="line"/>
+      <point x="497.2" y="962.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="941.6" y="783.2" type="line"/>
+      <point x="1045.2" y="883.2" type="line"/>
+      <point x="632.4" y="1287.2" type="line"/>
+      <point x="531.8" y="1183.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="714.8" y="751.0" type="line"/>
+      <point x="860.6" y="751.0" type="line"/>
+      <point x="860.6" y="1321.0" type="line"/>
+      <point x="714.8" y="1321.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="531.8" y="886.8" type="line"/>
+      <point x="632.4" y="783.2" type="line"/>
+      <point x="1045.2" y="1183.6" type="line"/>
+      <point x="941.6" y="1287.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1410.6" y="343.2" type="line"/>
+      <point x="1410.6" y="487.0" type="line"/>
+      <point x="825.6" y="487.0" type="line"/>
+      <point x="825.6" y="343.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1270.0" y="163.2" type="line"/>
+      <point x="1375.4" y="263.2" type="line"/>
+      <point x="962.6" y="666.4" type="line"/>
+      <point x="860.2" y="564.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="1043.8" y="131.0" type="line"/>
+      <point x="1190.8" y="131.0" type="line"/>
+      <point x="1190.8" y="698.0" type="line"/>
+      <point x="1043.8" y="698.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="860.2" y="266.8" type="line"/>
+      <point x="962.6" y="163.2" type="line"/>
+      <point x="1375.4" y="564.6" type="line"/>
+      <point x="1270.0" y="666.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

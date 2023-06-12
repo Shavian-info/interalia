@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pokrytiecomb-cy" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0487"/>
+  <outline>
+    <contour>
+      <point x="-197.40000000000003" y="1437.0" type="line"/>
+      <point x="-302.2" y="1437.0"/>
+      <point x="-350.20000000000005" y="1556.0"/>
+      <point x="-561.0" y="1556.0" type="curve" smooth="yes"/>
+      <point x="-737.8" y="1556.0"/>
+      <point x="-858.0" y="1472.0"/>
+      <point x="-878.8" y="1341.0" type="curve" smooth="yes"/>
+      <point x="-887.0" y="1303.0" type="line"/>
+      <point x="-749.5999999999999" y="1303.0" type="line"/>
+      <point x="-746.5999999999999" y="1321.0" type="line" smooth="yes"/>
+      <point x="-732.4" y="1392.6"/>
+      <point x="-658.8" y="1423.0"/>
+      <point x="-596.6" y="1423.0" type="curve" smooth="yes"/>
+      <point x="-402.40000000000003" y="1423.0"/>
+      <point x="-372.8" y="1303.0"/>
+      <point x="-235.39999999999998" y="1303.0" type="curve" smooth="yes"/>
+      <point x="-58.19999999999999" y="1303.0" type="line"/>
+      <point x="-35.19999999999999" y="1437.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

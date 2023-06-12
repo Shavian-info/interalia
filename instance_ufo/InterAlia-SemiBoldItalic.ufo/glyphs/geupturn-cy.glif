@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="geupturn-cy" format="2">
+  <advance height="2479.0" width="973.8000000000001"/>
+  <unicode hex="0491"/>
+  <anchor x="270.8" y="584.6" name="cross"/>
+  <anchor x="441.8" y="100.0" name="cyrtic"/>
+  <anchor x="624.4" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1039.0" y="1396.6" type="line"/>
+      <point x="792.6" y="1396.6" type="line"/>
+      <point x="711.0" y="901.0" type="line"/>
+      <point x="956.8" y="901.0" type="line"/>
+    </contour>
+    <component base="ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

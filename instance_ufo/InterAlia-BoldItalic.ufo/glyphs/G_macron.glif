@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gmacron" format="2">
+  <advance height="2479.0" width="1603.8"/>
+  <unicode hex="1E20"/>
+  <anchor x="697.6" y="3.5999999999999996" name="bottom"/>
+  <anchor x="977.8000000000001" y="1676.0" name="top"/>
+  <outline>
+    <component base="G"/>
+    <component base="macron" xOffset="275.2" yOffset="372.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

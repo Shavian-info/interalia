@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotaoxia" format="2">
+  <advance height="2479" width="804"/>
+  <unicode hex="1FDB"/>
+  <anchor x="547" y="0" name="bottom"/>
+  <anchor x="547" y="768" name="cross"/>
+  <anchor x="570" y="0" name="ogonek"/>
+  <anchor x="579" y="0" name="right"/>
+  <anchor x="524" y="1489" name="tonos"/>
+  <anchor x="547" y="1676" name="top"/>
+  <outline>
+    <component base="I" xOffset="291"/>
+    <component base="oxia.tonos" xOffset="64"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

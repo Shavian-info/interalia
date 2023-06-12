@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eopenreversedhook" format="2">
+  <advance height="2479.0" width="1325.3333333333333"/>
+  <unicode hex="025D"/>
+  <anchor x="550.6666666666666" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="894.0" y="790.3333333333334" type="line"/>
+      <point x="1001.6666666666666" y="808.3333333333334" type="line"/>
+      <point x="1021.3333333333334" y="666.0"/>
+      <point x="1082.0" y="574.3333333333334"/>
+      <point x="1200.6666666666667" y="573.0" type="curve" smooth="yes"/>
+      <point x="1236.0" y="572.3333333333334"/>
+      <point x="1268.6666666666667" y="581.0"/>
+      <point x="1299.3333333333333" y="594.3333333333334" type="curve"/>
+      <point x="1283.3333333333333" y="661.0" type="line"/>
+      <point x="1268.0" y="656.3333333333334"/>
+      <point x="1248.3333333333333" y="652.0"/>
+      <point x="1221.0" y="652.6666666666666" type="curve" smooth="yes"/>
+      <point x="1129.0" y="654.6666666666666"/>
+      <point x="1086.3333333333333" y="741.6666666666666"/>
+      <point x="1067.0" y="907.6666666666666" type="curve"/>
+      <point x="894.0" y="875.3333333333334" type="line"/>
+    </contour>
+    <component base="eopenreversed" xOffset="-2.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsilivariaprosgegrammeni" format="2">
+  <advance height="2479.0" width="1303.6666666666667"/>
+  <unicode hex="1F8A"/>
+  <anchor x="651.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="1241.3333333333333" y="0.0" name="ogonek"/>
+  <anchor x="516.3333333333334" y="1489.0" name="tonos"/>
+  <anchor x="651.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="prosgegrammeni" xOffset="436.3333333333333"/>
+    <component base="psilivaria.tonos" xOffset="-252.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

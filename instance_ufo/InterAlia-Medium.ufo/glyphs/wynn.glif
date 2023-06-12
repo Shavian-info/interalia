@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wynn" format="2">
+  <advance height="2479.0" width="1178.8"/>
+  <unicode hex="01BF"/>
+  <outline>
+    <contour>
+      <point x="287.0" y="-216.8" type="line"/>
+      <point x="746.4" y="-84.6"/>
+      <point x="1082.6" y="283.2"/>
+      <point x="1082.6" y="660.4" type="curve" smooth="yes"/>
+      <point x="1082.6" y="944.0"/>
+      <point x="933.0" y="1132.0"/>
+      <point x="700.4" y="1132.0" type="curve" smooth="yes"/>
+      <point x="424.6" y="1132.0"/>
+      <point x="271.8" y="904.2"/>
+      <point x="271.2" y="496.2" type="curve"/>
+      <point x="359.8" y="562.2" type="line"/>
+      <point x="364.6" y="819.0"/>
+      <point x="451.8" y="946.2"/>
+      <point x="623.0" y="946.2" type="curve" smooth="yes"/>
+      <point x="769.0" y="946.2"/>
+      <point x="863.2" y="820.2"/>
+      <point x="863.2" y="626.6" type="curve" smooth="yes"/>
+      <point x="863.2" y="325.4"/>
+      <point x="614.8" y="48.2"/>
+      <point x="278.4" y="-30.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="146.0" y="-419.0" type="line"/>
+      <point x="363.8" y="-419.0" type="line"/>
+      <point x="359.8" y="893.0" type="line"/>
+      <point x="369.8" y="934.0" type="line"/>
+      <point x="358.4" y="934.0" type="line"/>
+      <point x="358.4" y="1117.0" type="line"/>
+      <point x="146.0" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

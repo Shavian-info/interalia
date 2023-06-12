@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhodasia" format="2">
+  <advance height="2479.0" width="1141.0"/>
+  <unicode hex="1FE5"/>
+  <anchor x="202.66666666666666" y="-200.0" name="cross"/>
+  <anchor x="575.6666666666666" y="1303.0" name="top"/>
+  <outline>
+    <component base="rho"/>
+    <component base="dasia" xOffset="345.3333333333333" yOffset="128.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

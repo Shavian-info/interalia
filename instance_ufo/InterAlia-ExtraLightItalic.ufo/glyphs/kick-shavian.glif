@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kick-shavian" format="2">
+  <advance width="975.3333333333334"/>
+  <unicode hex="10452"/>
+  <outline>
+    <contour>
+      <point x="606.6666666666667" y="-1.0" type="curve" smooth="yes"/>
+      <point x="694.3333333333334" y="-1.0" type="line"/>
+      <point x="708.3333333333334" y="86.66666666666667" type="line"/>
+      <point x="614.6666666666667" y="86.66666666666667" type="line" smooth="yes"/>
+      <point x="322.0" y="86.66666666666667"/>
+      <point x="159.0" y="272.3333333333333"/>
+      <point x="210.33333333333334" y="559.0" type="curve" smooth="yes"/>
+      <point x="247.33333333333334" y="808.3333333333333"/>
+      <point x="422.6666666666667" y="964.0"/>
+      <point x="669.6666666666666" y="965.0" type="curve" smooth="yes"/>
+      <point x="740.0" y="964.6666666666666"/>
+      <point x="807.6666666666666" y="949.6666666666666"/>
+      <point x="840.6666666666666" y="925.3333333333334" type="curve"/>
+      <point x="848.6666666666666" y="925.3333333333334" type="line"/>
+      <point x="941.3333333333334" y="1489.0" type="line"/>
+      <point x="853.0" y="1489.0" type="line"/>
+      <point x="777.6666666666667" y="1036.0" type="line"/>
+      <point x="744.3333333333334" y="1042.6666666666667"/>
+      <point x="694.0" y="1047.0"/>
+      <point x="656.0" y="1047.0" type="curve" smooth="yes"/>
+      <point x="373.33333333333337" y="1047.0"/>
+      <point x="168.33333333333331" y="857.0"/>
+      <point x="122.66666666666666" y="563.6666666666666" type="curve" smooth="yes"/>
+      <point x="61.666666666666664" y="222.66666666666666"/>
+      <point x="256.3333333333333" y="-1.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

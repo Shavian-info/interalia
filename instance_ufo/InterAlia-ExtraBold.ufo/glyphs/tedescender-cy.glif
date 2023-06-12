@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tedescender-cy" format="2">
+  <advance height="2479.0" width="1158.8"/>
+  <unicode hex="04AD"/>
+  <anchor x="907.0" y="142.0" name="cyrtic"/>
+  <outline>
+    <component base="te-cy"/>
+    <component base="cyrillictic.cn" xOffset="587.0" yOffset="-1.1999999999999993"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

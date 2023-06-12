@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psili" format="2">
+  <advance height="2479" width="378"/>
+  <unicode hex="1FBF"/>
+  <outline>
+    <contour>
+      <point x="314" y="1495" type="line"/>
+      <point x="143" y="1495" type="line"/>
+      <point x="143" y="1396" type="line" smooth="yes"/>
+      <point x="143" y="1329"/>
+      <point x="128" y="1274"/>
+      <point x="64" y="1245" type="curve"/>
+      <point x="154" y="1135" type="line"/>
+      <point x="239" y="1169"/>
+      <point x="314" y="1260"/>
+      <point x="314" y="1391" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

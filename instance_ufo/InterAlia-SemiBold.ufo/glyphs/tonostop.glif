@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonostop" format="2">
+  <advance height="2479.0" width="694.6"/>
+  <unicode hex="E129"/>
+  <anchor x="281.4" y="1295.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="199.0" y="1248.0" type="line"/>
+      <point x="360.0" y="1248.0" type="line"/>
+      <point x="514.2" y="1592.2" type="line"/>
+      <point x="266.8" y="1592.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

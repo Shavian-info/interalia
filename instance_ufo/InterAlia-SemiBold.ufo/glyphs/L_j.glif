@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lj" format="2">
+  <advance height="2479.0" width="1692.4"/>
+  <unicode hex="01C8"/>
+  <anchor x="609.8" y="0.0" name="bottom"/>
+  <anchor x="281.4" y="776.0" name="cross"/>
+  <anchor x="605.0" y="825.6" name="dot"/>
+  <anchor x="650.0" y="1489.0" name="raccent"/>
+  <anchor x="280.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="j" xOffset="1158.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

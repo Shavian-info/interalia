@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0327"/>
+  <outline>
+    <contour>
+      <point x="-791.4" y="9.0" type="line"/>
+      <point x="-823.4" y="-137.0" type="line"/>
+      <point x="-719.6" y="-142.0"/>
+      <point x="-678.4" y="-161.2"/>
+      <point x="-678.4" y="-212.6" type="curve" smooth="yes"/>
+      <point x="-678.4" y="-268.8"/>
+      <point x="-725.6" y="-291.8"/>
+      <point x="-790.4" y="-291.8" type="curve"/>
+      <point x="-782.6" y="-466.0" type="line"/>
+      <point x="-545.0" y="-466.0"/>
+      <point x="-419.4" y="-368.2"/>
+      <point x="-419.4" y="-224.0" type="curve" smooth="yes"/>
+      <point x="-419.4" y="-109.8"/>
+      <point x="-496.8" y="-64.0"/>
+      <point x="-574.6" y="-52.0" type="curve"/>
+      <point x="-561.4" y="9.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

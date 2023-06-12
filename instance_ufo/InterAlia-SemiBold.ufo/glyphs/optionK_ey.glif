@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="optionKey" format="2">
+  <advance height="2479.0" width="2095.0"/>
+  <unicode hex="2325"/>
+  <outline>
+    <contour>
+      <point x="1212.0" y="1489.0" type="line"/>
+      <point x="1212.0" y="1272.2" type="line"/>
+      <point x="1908.0" y="1272.2" type="line"/>
+      <point x="1908.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="186.0" y="1272.2" type="line"/>
+      <point x="662.6" y="1272.2" type="line"/>
+      <point x="1305.0" y="0.0" type="line"/>
+      <point x="1908.0" y="0.0" type="line"/>
+      <point x="1908.0" y="217.2" type="line"/>
+      <point x="1432.2" y="217.2" type="line"/>
+      <point x="789.4" y="1489.0" type="line"/>
+      <point x="186.0" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

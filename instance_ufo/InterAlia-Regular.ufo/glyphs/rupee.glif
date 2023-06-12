@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupee" format="2">
+  <advance height="2479" width="2284"/>
+  <unicode hex="20A8"/>
+  <anchor x="672" y="0" name="bottom_1"/>
+  <anchor x="1760" y="0" name="bottom_2"/>
+  <anchor x="1757" y="0" name="cedilla"/>
+  <anchor x="646" y="1676" name="top_1"/>
+  <anchor x="1766" y="1303" name="top_2"/>
+  <outline>
+    <component base="R"/>
+    <component base="s" xOffset="1213"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>R</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>s</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

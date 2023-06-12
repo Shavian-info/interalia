@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegavariaypogegrammeni" format="2">
+  <advance height="2479" width="1414"/>
+  <unicode hex="1FF2"/>
+  <anchor x="611" y="0" name="bottom"/>
+  <anchor x="828" y="1303" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="prosgegrammeni" xOffset="495"/>
+    <component base="varia" xOffset="400" yOffset="107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

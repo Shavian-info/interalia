@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="whiteXWhiteDiamond" format="2">
+  <advance height="2479.0" width="2145.0"/>
+  <unicode hex="E000"/>
+  <outline>
+    <contour>
+      <point x="483.00000000000006" y="316.0" type="line"/>
+      <point x="986.0" y="747.0" type="line"/>
+      <point x="625.3333333333334" y="1171.0" type="line"/>
+      <point x="125.0" y="747.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="945.3333333333334" y="-231.0" type="line"/>
+      <point x="1440.0" y="194.0" type="line"/>
+      <point x="1088.0000000000002" y="624.6666666666667" type="line"/>
+      <point x="585.0" y="194.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="966.3333333333333" y="-93.0" type="line"/>
+      <point x="723.3333333333334" y="192.0" type="line"/>
+      <point x="1066.6666666666665" y="485.6666666666667" type="line"/>
+      <point x="1302.0" y="196.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="504.33333333333326" y="455.0" type="line"/>
+      <point x="264.00000000000006" y="745.0" type="line"/>
+      <point x="603.9999999999999" y="1037.6666666666667" type="line"/>
+      <point x="848.6666666666666" y="748.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="1582.3333333333333" y="316.0" type="line"/>
+      <point x="2080.0" y="747.0" type="line"/>
+      <point x="1725.0" y="1171.0" type="line"/>
+      <point x="1230.3333333333333" y="747.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1604.3333333333333" y="455.0" type="line"/>
+      <point x="1364.3333333333333" y="745.0" type="line"/>
+      <point x="1703.6666666666667" y="1036.6666666666667" type="line"/>
+      <point x="1946.0" y="748.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="1129.0" y="869.0" type="line"/>
+      <point x="1623.0" y="1293.6666666666667" type="line"/>
+      <point x="1271.0" y="1724.0" type="line"/>
+      <point x="768.0" y="1293.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="1150.3333333333333" y="1007.3333333333334" type="line"/>
+      <point x="906.3333333333334" y="1292.0" type="line"/>
+      <point x="1250.0" y="1585.6666666666667" type="line"/>
+      <point x="1485.6666666666667" y="1295.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Symbol</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Geometry</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

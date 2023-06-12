@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="OEsmall" format="2">
+  <advance height="2479" width="1760"/>
+  <unicode hex="0276"/>
+  <outline>
+    <contour>
+      <point x="793" y="0" type="line"/>
+      <point x="1695" y="0" type="line"/>
+      <point x="1695" y="294" type="line"/>
+      <point x="1194" y="294" type="line"/>
+      <point x="1194" y="412" type="line"/>
+      <point x="1655" y="412" type="line"/>
+      <point x="1655" y="705" type="line"/>
+      <point x="1194" y="705" type="line"/>
+      <point x="1194" y="823" type="line"/>
+      <point x="1696" y="823" type="line"/>
+      <point x="1696" y="1117" type="line"/>
+      <point x="793" y="1117" type="line"/>
+    </contour>
+    <contour>
+      <point x="630" y="0" type="curve"/>
+      <point x="905" y="0" type="line"/>
+      <point x="905" y="294" type="line"/>
+      <point x="630" y="294" type="line"/>
+      <point x="503" y="294"/>
+      <point x="420" y="399"/>
+      <point x="420" y="557" type="curve"/>
+      <point x="420" y="718"/>
+      <point x="503" y="823"/>
+      <point x="630" y="823" type="curve"/>
+      <point x="905" y="823" type="line"/>
+      <point x="905" y="1117" type="line"/>
+      <point x="630" y="1117" type="line"/>
+      <point x="285" y="1117"/>
+      <point x="59" y="895"/>
+      <point x="61" y="557" type="curve"/>
+      <point x="59" y="221"/>
+      <point x="285" y="0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

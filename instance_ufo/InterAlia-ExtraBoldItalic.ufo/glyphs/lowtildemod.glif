@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowtildemod" format="2">
+  <advance height="2479.0" width="1010.2"/>
+  <unicode hex="02F7"/>
+  <outline>
+    <contour>
+      <point x="602.2" y="-123.6" type="line"/>
+      <point x="591.2" y="-185.4"/>
+      <point x="547.8" y="-211.2"/>
+      <point x="504.0" y="-211.2" type="curve" smooth="yes"/>
+      <point x="404.6" y="-211.2"/>
+      <point x="339.8" y="-127.0"/>
+      <point x="231.4" y="-127.0" type="curve" smooth="yes"/>
+      <point x="92.79999999999998" y="-127.0"/>
+      <point x="-29.999999999999993" y="-261.8"/>
+      <point x="-54.39999999999999" y="-404.0" type="curve"/>
+      <point x="134.8" y="-411.6" type="line"/>
+      <point x="145.0" y="-355.4"/>
+      <point x="188.79999999999998" y="-329.6"/>
+      <point x="231.79999999999998" y="-329.6" type="curve" smooth="yes"/>
+      <point x="338.79999999999995" y="-329.6"/>
+      <point x="376.79999999999995" y="-408.2"/>
+      <point x="506.4" y="-408.2" type="curve" smooth="yes"/>
+      <point x="645.4" y="-408.2"/>
+      <point x="768.0" y="-280.2"/>
+      <point x="791.0" y="-135.4" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

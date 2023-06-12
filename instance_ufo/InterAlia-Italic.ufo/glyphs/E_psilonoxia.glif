@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonoxia" format="2">
+  <advance height="2479" width="1513"/>
+  <unicode hex="1FC9"/>
+  <anchor x="809" y="0" name="bottom"/>
+  <anchor x="812" y="0" name="cedilla"/>
+  <anchor x="1286" y="0" name="ogonek"/>
+  <anchor x="576" y="1489" name="tonos"/>
+  <anchor x="1103" y="1676" name="top"/>
+  <outline>
+    <component base="E" xOffset="288"/>
+    <component base="oxia.tonos" xOffset="-38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

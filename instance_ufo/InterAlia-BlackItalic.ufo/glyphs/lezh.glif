@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lezh" format="2">
+  <advance height="2479" width="1712"/>
+  <unicode hex="026E"/>
+  <anchor x="206" y="0" name="bottom"/>
+  <anchor x="331" y="768" name="cross"/>
+  <anchor x="768" y="1489" name="raccent"/>
+  <anchor x="483" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="907" y="-442" type="curve" smooth="yes"/>
+      <point x="1250" y="-441"/>
+      <point x="1533" y="-247"/>
+      <point x="1578" y="32" type="curve" smooth="yes"/>
+      <point x="1614" y="253"/>
+      <point x="1484" y="422"/>
+      <point x="1172" y="463" type="curve"/>
+      <point x="1173" y="476" type="line"/>
+      <point x="1637" y="823" type="line"/>
+      <point x="1684" y="1117" type="line"/>
+      <point x="578.25" y="1117.0" type="line"/>
+      <point x="523.25" y="791.0" type="line"/>
+      <point x="1149" y="791" type="line"/>
+      <point x="1144" y="783" type="line"/>
+      <point x="797" y="512" type="line"/>
+      <point x="756" y="244" type="line"/>
+      <point x="955" y="244" type="line" smooth="yes"/>
+      <point x="1141" y="244"/>
+      <point x="1211" y="185"/>
+      <point x="1192" y="71" type="curve" smooth="yes"/>
+      <point x="1172" y="-52"/>
+      <point x="1061" y="-139"/>
+      <point x="928" y="-140" type="curve" smooth="yes"/>
+      <point x="837" y="-139"/>
+      <point x="771" y="-99"/>
+      <point x="779" y="-47" type="curve"/>
+      <point x="397" y="-47" type="line"/>
+      <point x="361" y="-271"/>
+      <point x="586" y="-441"/>
+    </contour>
+    <component base="l" xOffset="-9"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict/>
+        <dict>
+          <key>longTopBar</key>
+          <integer>96</integer>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

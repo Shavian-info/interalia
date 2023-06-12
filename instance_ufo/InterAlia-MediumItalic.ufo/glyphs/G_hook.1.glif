@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghook.1" format="2">
+  <advance height="2479.0" width="1643.8000000000002"/>
+  <anchor x="684.0" y="1.2000000000000002" name="bottom"/>
+  <anchor x="964.6" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1494.1999999999998" y="1018.8" type="line"/>
+      <point x="1524.3999999999999" y="1199.0" type="line" smooth="yes"/>
+      <point x="1544.6" y="1316.8"/>
+      <point x="1626.2" y="1348.4"/>
+      <point x="1722.6000000000001" y="1348.4" type="curve" smooth="yes"/>
+      <point x="1745.2" y="1348.4"/>
+      <point x="1767.6000000000001" y="1344.8"/>
+      <point x="1785.2" y="1342.6" type="curve"/>
+      <point x="1815.0" y="1521.4" type="line"/>
+      <point x="1783.2" y="1531.6"/>
+      <point x="1743.2" y="1533.4"/>
+      <point x="1703.2" y="1533.4" type="curve" smooth="yes"/>
+      <point x="1498.2" y="1533.4"/>
+      <point x="1345.4" y="1413.8"/>
+      <point x="1301.2" y="1199.0" type="curve" smooth="yes"/>
+      <point x="1265.2" y="1018.8" type="line"/>
+    </contour>
+    <component base="G.1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

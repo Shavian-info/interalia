@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmacroncomb.cn" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="E122"/>
+  <anchor x="-612.4" y="1676.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-612.4" y="1664.8" type="curve" smooth="yes"/>
+      <point x="-539.2" y="1664.8"/>
+      <point x="-478.4" y="1721.6"/>
+      <point x="-478.4" y="1791.4" type="curve" smooth="yes"/>
+      <point x="-478.4" y="1861.2"/>
+      <point x="-539.2" y="1917.8"/>
+      <point x="-612.4" y="1917.8" type="curve" smooth="yes"/>
+      <point x="-684.8" y="1917.8"/>
+      <point x="-745.4" y="1861.2"/>
+      <point x="-745.4" y="1791.4" type="curve" smooth="yes"/>
+      <point x="-745.4" y="1721.6"/>
+      <point x="-684.8" y="1664.8"/>
+    </contour>
+    <component base="macroncomb" xOffset="11.799999999999999" yOffset="745.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

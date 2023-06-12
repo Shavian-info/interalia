@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tricolon" format="2">
+  <advance height="2479.0" width="501.59999999999997"/>
+  <unicode hex="205D"/>
+  <outline>
+    <component base="dotbelowcomb" xOffset="856.1999999999999" yOffset="1479.6"/>
+    <component base="dotbelowcomb" xOffset="827.4000000000001" yOffset="911.0"/>
+    <component base="dotbelowcomb" xOffset="856.1999999999999" yOffset="335.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

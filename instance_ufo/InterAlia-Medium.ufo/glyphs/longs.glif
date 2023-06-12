@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longs" format="2">
+  <advance height="2479.0" width="759.4"/>
+  <unicode hex="017F"/>
+  <anchor x="332.0" y="641.2" name="cross"/>
+  <anchor x="418.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="_part.f_base"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

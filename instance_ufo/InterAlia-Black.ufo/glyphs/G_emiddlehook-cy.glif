@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gemiddlehook-cy" format="2">
+  <advance height="2479" width="1493"/>
+  <unicode hex="0494"/>
+  <anchor x="297" y="788" name="cross"/>
+  <anchor x="684" y="163" name="cyrtic"/>
+  <anchor x="489" y="0" name="right"/>
+  <anchor x="637" y="1676" name="top"/>
+  <outline>
+    <component base="Gamma"/>
+    <component base="largerighthook" xOffset="422"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Gamma</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>largerighthook</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

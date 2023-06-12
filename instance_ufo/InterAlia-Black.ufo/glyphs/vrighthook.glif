@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vrighthook" format="2">
+  <advance height="2479" width="1284"/>
+  <unicode hex="2C71"/>
+  <outline>
+    <contour>
+      <point x="387" y="0" type="line"/>
+      <point x="852" y="0" type="line"/>
+      <point x="1098" y="735" type="line" smooth="yes"/>
+      <point x="1108" y="765"/>
+      <point x="1120" y="784"/>
+      <point x="1140" y="793" type="curve" smooth="yes"/>
+      <point x="1156" y="800"/>
+      <point x="1178" y="801"/>
+      <point x="1212" y="794" type="curve"/>
+      <point x="1273" y="1110" type="line"/>
+      <point x="1217" y="1124"/>
+      <point x="1148" y="1132"/>
+      <point x="1076" y="1132" type="curve" smooth="yes"/>
+      <point x="895" y="1132"/>
+      <point x="785" y="1018"/>
+      <point x="732" y="812" type="curve" smooth="yes"/>
+      <point x="625" y="378" type="line"/>
+      <point x="614" y="378" type="line"/>
+      <point x="433" y="1117" type="line"/>
+      <point x="12" y="1117" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

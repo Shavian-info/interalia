@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acaron" format="2">
+  <advance height="2479.0" width="1177.0"/>
+  <unicode hex="01CE"/>
+  <anchor x="593.6" y="0.0" name="bottom"/>
+  <anchor x="1046.8" y="0.0" name="ogonek"/>
+  <anchor x="601.0" y="1303.0" name="rhalfring"/>
+  <anchor x="604.4" y="1303.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="caron" xOffset="67.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

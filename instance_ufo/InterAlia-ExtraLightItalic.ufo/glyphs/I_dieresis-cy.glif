@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis-cy" format="2">
+  <advance height="2479.0" width="1569.3333333333333"/>
+  <unicode hex="04E4"/>
+  <anchor x="1262.6666666666667" y="0.0" name="right"/>
+  <anchor x="970.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="casedieresis.cn" xOffset="137.00000000000003" yOffset="36.99999999999999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

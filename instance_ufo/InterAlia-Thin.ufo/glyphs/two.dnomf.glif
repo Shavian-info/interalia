@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.dnomf" format="2">
+  <advance height="2479" width="756"/>
+  <anchor x="492" y="399" name="cross"/>
+  <outline>
+    <contour>
+      <point x="108" y="0" type="line"/>
+      <point x="652" y="0" type="line"/>
+      <point x="652" y="44" type="line"/>
+      <point x="175" y="44" type="line"/>
+      <point x="175" y="47" type="line"/>
+      <point x="425" y="300" type="line" smooth="yes"/>
+      <point x="564" y="442"/>
+      <point x="608" y="506"/>
+      <point x="608" y="593" type="curve" smooth="yes"/>
+      <point x="608" y="713"/>
+      <point x="503" y="803"/>
+      <point x="367" y="803" type="curve" smooth="yes"/>
+      <point x="224" y="803"/>
+      <point x="119" y="710"/>
+      <point x="119" y="588" type="curve"/>
+      <point x="166" y="588" type="line"/>
+      <point x="166" y="684"/>
+      <point x="247" y="759"/>
+      <point x="367" y="759" type="curve" smooth="yes"/>
+      <point x="480" y="759"/>
+      <point x="564" y="689"/>
+      <point x="564" y="593" type="curve" smooth="yes"/>
+      <point x="564" y="518"/>
+      <point x="524" y="463"/>
+      <point x="396" y="332" type="curve" smooth="yes"/>
+      <point x="108" y="35" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

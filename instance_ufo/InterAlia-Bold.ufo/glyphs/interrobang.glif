@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="interrobang" format="2">
+  <advance height="2479.0" width="1152.4"/>
+  <unicode hex="203D"/>
+  <outline>
+    <contour>
+      <point x="425.0" y="446.6" type="line"/>
+      <point x="659.8" y="446.6" type="line"/>
+      <point x="659.8" y="470.0" type="line"/>
+      <point x="659.8" y="598.8"/>
+      <point x="694.6" y="650.0"/>
+      <point x="823.4" y="729.2" type="curve" smooth="yes"/>
+      <point x="959.8" y="811.8"/>
+      <point x="1057.0" y="928.6"/>
+      <point x="1057.0" y="1104.4" type="curve" smooth="yes"/>
+      <point x="1057.0" y="1358.2"/>
+      <point x="852.6" y="1510.0"/>
+      <point x="563.6" y="1510.0" type="curve" smooth="yes"/>
+      <point x="299.4" y="1510.0"/>
+      <point x="84.6" y="1371.2"/>
+      <point x="78.0" y="1080.4" type="curve"/>
+      <point x="374.8" y="1080.4" type="line"/>
+      <point x="379.2" y="1199.6"/>
+      <point x="467.4" y="1263.0"/>
+      <point x="561.8" y="1263.0" type="curve" smooth="yes"/>
+      <point x="656.0" y="1263.0"/>
+      <point x="742.8" y="1199.8"/>
+      <point x="742.8" y="1092.4" type="curve" smooth="yes"/>
+      <point x="742.8" y="993.2"/>
+      <point x="697.4" y="915.8"/>
+      <point x="594.2" y="856.6" type="curve" smooth="yes"/>
+      <point x="464.4" y="781.6"/>
+      <point x="425.4" y="669.2"/>
+      <point x="425.0" y="470.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="426.8" y="446.6" type="line"/>
+      <point x="575.8" y="446.6" type="line"/>
+      <point x="585.0" y="1035.8" type="line"/>
+      <point x="363.0" y="1035.8" type="line"/>
+    </contour>
+    <component base="period" xOffset="237.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

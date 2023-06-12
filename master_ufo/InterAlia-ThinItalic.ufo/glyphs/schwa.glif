@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="schwa" format="2">
+  <advance height="2479" width="1182"/>
+  <unicode hex="0259"/>
+  <anchor x="489" y="0" name="bottom"/>
+  <anchor x="492" y="0" name="cedilla"/>
+  <anchor x="553" y="-29" name="ogonek"/>
+  <anchor x="713" y="1303" name="top"/>
+  <outline>
+    <component base="eturned"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

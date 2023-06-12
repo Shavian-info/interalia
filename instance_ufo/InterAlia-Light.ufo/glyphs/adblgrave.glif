@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adblgrave" format="2">
+  <advance height="2479.0" width="1139.3333333333333"/>
+  <unicode hex="0201"/>
+  <anchor x="577.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="967.0" y="0.0" name="ogonek"/>
+  <anchor x="575.3333333333334" y="1303.0" name="rhalfring"/>
+  <anchor x="581.6666666666666" y="1303.0" name="top"/>
+  <outline>
+    <component base="a"/>
+    <component base="dblgravecomb" xOffset="1082.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaaccentright.cn" format="2">
+  <advance height="2479.0" width="561.6666666666666"/>
+  <anchor x="394.66666666666663" y="1489.0" name="_raccent"/>
+  <outline>
+    <contour>
+      <point x="343.66666666666663" y="1183.0" type="line"/>
+      <point x="410.66666666666663" y="1183.0" type="line"/>
+      <point x="499.3333333333333" y="1559.0" type="line"/>
+      <point x="406.66666666666663" y="1559.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

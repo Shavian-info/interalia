@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis" format="2">
+  <advance height="2479.0" width="1621.0"/>
+  <unicode hex="2026"/>
+  <outline>
+    <component base="period" xOffset="9.600000000000001"/>
+    <component base="period" xOffset="507.8"/>
+    <component base="period" xOffset="1005.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cyrillichookleft" format="2">
+  <advance height="2479.0" width="602.8"/>
+  <unicode hex="E10B"/>
+  <outline>
+    <contour>
+      <point x="202.2" y="0.0" type="line"/>
+      <point x="251.8" y="-52.0"/>
+      <point x="300.2" y="-96.6"/>
+      <point x="300.8" y="-168.0" type="curve" smooth="yes"/>
+      <point x="300.2" y="-181.4"/>
+      <point x="295.8" y="-232.6"/>
+      <point x="210.0" y="-232.6" type="curve" smooth="yes"/>
+      <point x="162.4" y="-232.6"/>
+      <point x="127.8" y="-218.2"/>
+      <point x="109.8" y="-212.8" type="curve"/>
+      <point x="73.0" y="-372.0" type="line"/>
+      <point x="111.6" y="-393.0"/>
+      <point x="175.6" y="-416.0"/>
+      <point x="268.0" y="-416.0" type="curve" smooth="yes"/>
+      <point x="412.2" y="-416.0"/>
+      <point x="531.0" y="-343.0"/>
+      <point x="531.6" y="-204.0" type="curve" smooth="yes"/>
+      <point x="531.0" y="-107.4"/>
+      <point x="473.2" y="-10.2"/>
+      <point x="346.2" y="62.8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

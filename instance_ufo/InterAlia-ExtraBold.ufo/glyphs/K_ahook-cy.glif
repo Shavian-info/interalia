@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kahook-cy" format="2">
+  <advance height="2479.0" width="1429.2"/>
+  <unicode hex="04C3"/>
+  <outline>
+    <contour>
+      <point x="538.4" y="563.6" type="line"/>
+      <point x="735.2" y="563.6" type="line" smooth="yes"/>
+      <point x="913.8" y="563.6"/>
+      <point x="1021.0" y="433.8"/>
+      <point x="1017.8" y="220.2" type="curve" smooth="yes"/>
+      <point x="1013.8" y="15.8"/>
+      <point x="917.2" y="-109.0"/>
+      <point x="760.8" y="-109.0" type="curve"/>
+      <point x="761.4" y="-376.2" type="line"/>
+      <point x="1138.2" y="-376.2"/>
+      <point x="1366.8" y="-142.6"/>
+      <point x="1365.2" y="241.8" type="curve" smooth="yes"/>
+      <point x="1364.4" y="594.6"/>
+      <point x="1126.0" y="810.0"/>
+      <point x="735.2" y="810.0" type="curve" smooth="yes"/>
+      <point x="538.4" y="810.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="112.8" y="0.0" type="line"/>
+      <point x="461.0" y="0.0" type="line"/>
+      <point x="461.0" y="563.6" type="line"/>
+      <point x="718.8" y="563.6" type="line"/>
+      <point x="1348.4" y="1489.0" type="line"/>
+      <point x="928.6" y="1489.0" type="line"/>
+      <point x="541.6" y="889.2" type="line"/>
+      <point x="461.0" y="889.2" type="line"/>
+      <point x="461.0" y="1489.0" type="line"/>
+      <point x="112.8" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

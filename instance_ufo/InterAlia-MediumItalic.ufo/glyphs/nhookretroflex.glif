@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nhookretroflex" format="2">
+  <advance height="2479.0" width="1234.8"/>
+  <unicode hex="0273"/>
+  <anchor x="519.4" y="0.0" name="bottom"/>
+  <anchor x="734.4" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="985.8000000000001" y="0.0" type="line"/>
+      <point x="768.8000000000001" y="0.0" type="line"/>
+      <point x="750.8000000000001" y="-102.2" type="line" smooth="yes"/>
+      <point x="714.4000000000001" y="-321.40000000000003"/>
+      <point x="841.0" y="-419.0"/>
+      <point x="1020.0000000000001" y="-419.0" type="curve" smooth="yes"/>
+      <point x="1068.0" y="-419.0"/>
+      <point x="1109.4" y="-417.2"/>
+      <point x="1142.3999999999999" y="-409.4" type="curve"/>
+      <point x="1170.6" y="-234.2" type="line"/>
+      <point x="1145.3999999999999" y="-237.6"/>
+      <point x="1130.6" y="-240.0"/>
+      <point x="1108.6" y="-240.0" type="curve" smooth="yes"/>
+      <point x="1019.8000000000001" y="-240.0"/>
+      <point x="950.6000000000001" y="-209.0"/>
+      <point x="968.8000000000001" y="-102.2" type="curve" smooth="yes"/>
+    </contour>
+    <component base="n"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

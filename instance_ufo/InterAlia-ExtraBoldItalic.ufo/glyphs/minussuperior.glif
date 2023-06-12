@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="minussuperior" format="2">
+  <advance height="2479.0" width="923.4"/>
+  <unicode hex="207B"/>
+  <outline>
+    <contour>
+      <point x="923.0" y="1223.2" type="line"/>
+      <point x="221.0" y="1223.2" type="line"/>
+      <point x="188.8" y="1020.2" type="line"/>
+      <point x="890.2" y="1020.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

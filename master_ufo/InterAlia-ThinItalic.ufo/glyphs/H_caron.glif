@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hcaron" format="2">
+  <advance height="2479" width="1507"/>
+  <unicode hex="021E"/>
+  <anchor x="660" y="0" name="bottom"/>
+  <anchor x="161" y="-6" name="cedilla"/>
+  <anchor x="1203" y="6" name="cyrtic"/>
+  <anchor x="1181" y="0" name="right"/>
+  <anchor x="352" y="1489" name="tonos"/>
+  <anchor x="940" y="1676" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="caron" xOffset="389" yOffset="389"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

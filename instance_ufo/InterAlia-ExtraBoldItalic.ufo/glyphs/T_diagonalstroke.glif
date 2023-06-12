@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tdiagonalstroke" format="2">
+  <advance height="2479.0" width="1387.0"/>
+  <unicode hex="023E"/>
+  <unicode hex="2C66"/>
+  <anchor x="599.2" y="0.0" name="bottom"/>
+  <anchor x="598.6" y="0.0" name="cedilla"/>
+  <anchor x="713.6" y="686.4" name="cross"/>
+  <anchor x="956.8" y="143.2" name="cyrtic"/>
+  <anchor x="730.6" y="0.0" name="right"/>
+  <anchor x="880.8000000000001" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="204.2" y="-189.0" type="line"/>
+      <point x="403.0" y="-189.0" type="line"/>
+      <point x="1297.8" y="1679.0" type="line"/>
+      <point x="1099.8" y="1679.0" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

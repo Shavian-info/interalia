@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cheabkhasian-cy" format="2">
+  <advance height="2479" width="1575"/>
+  <unicode hex="04BC"/>
+  <anchor x="957" y="-6" name="bottom"/>
+  <anchor x="992" y="0" name="cyrtic"/>
+  <outline>
+    <contour>
+      <point x="148" y="1082" type="line"/>
+      <point x="147" y="879"/>
+      <point x="274" y="759"/>
+      <point x="492" y="761" type="curve"/>
+      <point x="492" y="807" type="line"/>
+      <point x="299" y="807"/>
+      <point x="193" y="905"/>
+      <point x="195" y="1082" type="curve"/>
+    </contour>
+    <contour>
+      <point x="983" y="-20" type="curve" smooth="yes"/>
+      <point x="1104" y="-20"/>
+      <point x="1220" y="13"/>
+      <point x="1335" y="81" type="curve"/>
+      <point x="1316" y="124" type="line"/>
+      <point x="1209" y="60"/>
+      <point x="1105" y="28"/>
+      <point x="993" y="26" type="curve" smooth="yes"/>
+      <point x="685" y="22"/>
+      <point x="505" y="247"/>
+      <point x="505" y="640" type="curve" smooth="yes"/>
+      <point x="505" y="852" type="line" smooth="yes"/>
+      <point x="505" y="1235"/>
+      <point x="670" y="1463"/>
+      <point x="953" y="1463" type="curve" smooth="yes"/>
+      <point x="1220" y="1463"/>
+      <point x="1357" y="1262"/>
+      <point x="1357" y="877" type="curve" smooth="yes"/>
+      <point x="1357" y="807" type="line"/>
+      <point x="499" y="807" type="line"/>
+      <point x="499" y="761" type="line"/>
+      <point x="1404" y="761" type="line"/>
+      <point x="1404" y="873" type="line" smooth="yes"/>
+      <point x="1404" y="1289"/>
+      <point x="1249" y="1510"/>
+      <point x="954" y="1510" type="curve" smooth="yes"/>
+      <point x="644" y="1510"/>
+      <point x="458" y="1263"/>
+      <point x="458" y="855" type="curve" smooth="yes"/>
+      <point x="458" y="634" type="line" smooth="yes"/>
+      <point x="458" y="227"/>
+      <point x="656" y="-20"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

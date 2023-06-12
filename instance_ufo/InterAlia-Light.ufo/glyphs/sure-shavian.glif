@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sure-shavian" format="2">
+  <advance height="2479.0" width="898.6666666666666"/>
+  <unicode hex="10456"/>
+  <outline>
+    <contour>
+      <point x="545.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="783.6666666666666" y="0.0" type="line"/>
+      <point x="783.6666666666666" y="128.33333333333334" type="line"/>
+      <point x="545.0" y="128.33333333333334" type="line" smooth="yes"/>
+      <point x="338.0" y="127.66666666666667"/>
+      <point x="242.33333333333334" y="226.33333333333334"/>
+      <point x="242.33333333333334" y="442.3333333333333" type="curve" smooth="yes"/>
+      <point x="243.66666666666669" y="739.3333333333334"/>
+      <point x="425.6666666666667" y="1153.3333333333333"/>
+      <point x="684.6666666666666" y="1447.6666666666667" type="curve"/>
+      <point x="573.6666666666666" y="1510.0" type="line"/>
+      <point x="320.6666666666667" y="1240.6666666666667"/>
+      <point x="113.33333333333333" y="754.3333333333334"/>
+      <point x="113.66666666666667" y="419.0" type="curve" smooth="yes"/>
+      <point x="113.33333333333333" y="140.33333333333334"/>
+      <point x="257.6666666666667" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

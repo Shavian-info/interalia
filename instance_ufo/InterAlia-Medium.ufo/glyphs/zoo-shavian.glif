@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zoo-shavian" format="2">
+  <advance height="2479.0" width="871.8"/>
+  <unicode hex="1045F"/>
+  <outline>
+    <contour>
+      <point x="525.2" y="-419.0" type="curve"/>
+      <point x="676.0" y="-419.0" type="line"/>
+      <point x="676.0" y="-213.4" type="line"/>
+      <point x="539.6" y="-213.4" type="line"/>
+      <point x="402.4" y="-211.0"/>
+      <point x="335.2" y="-163.0"/>
+      <point x="338.4" y="-58.599999999999994" type="curve" smooth="yes"/>
+      <point x="335.2" y="26.6"/>
+      <point x="384.0" y="85.8"/>
+      <point x="509.0" y="242.6" type="curve" smooth="yes"/>
+      <point x="584.0" y="335.4" type="line" smooth="yes"/>
+      <point x="718.8" y="505.4"/>
+      <point x="772.0" y="611.8"/>
+      <point x="775.6" y="743.2" type="curve" smooth="yes"/>
+      <point x="772.0" y="971.8"/>
+      <point x="624.8" y="1117.0"/>
+      <point x="376.2" y="1117.0" type="curve" smooth="yes"/>
+      <point x="97.6" y="1117.0" type="line"/>
+      <point x="97.6" y="911.4" type="line"/>
+      <point x="325.2" y="911.4" type="line" smooth="yes"/>
+      <point x="473.4" y="911.4"/>
+      <point x="554.4" y="852.8"/>
+      <point x="558.4" y="730.6" type="curve" smooth="yes"/>
+      <point x="554.2" y="652.6"/>
+      <point x="522.4" y="587.6"/>
+      <point x="424.8" y="467.0" type="curve" smooth="yes"/>
+      <point x="337.2" y="359.8" type="line" smooth="yes"/>
+      <point x="183.2" y="171.4"/>
+      <point x="122.6" y="59.0"/>
+      <point x="126.4" y="-67.8" type="curve" smooth="yes"/>
+      <point x="122.6" y="-279.0"/>
+      <point x="282.6" y="-417.4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bidentalpercussive" format="2">
+  <advance height="2479" width="1105"/>
+  <unicode hex="02AD"/>
+  <outline>
+    <contour>
+      <point x="826" y="582" type="line"/>
+      <point x="282" y="582" type="line"/>
+      <point x="262" y="460" type="line"/>
+      <point x="806" y="460" type="line"/>
+    </contour>
+    <contour>
+      <point x="303" y="582" type="line"/>
+      <point x="151" y="582" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="207" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="963" y="582" type="line"/>
+      <point x="812" y="582" type="line"/>
+      <point x="716" y="0" type="line"/>
+      <point x="867" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="972" y="1455" type="line"/>
+      <point x="428" y="1455" type="line"/>
+      <point x="407" y="1332" type="line"/>
+      <point x="951" y="1332" type="line"/>
+    </contour>
+    <contour>
+      <point x="448" y="1455" type="line"/>
+      <point x="297" y="1455" type="line"/>
+      <point x="201" y="876" type="line"/>
+      <point x="352" y="876" type="line"/>
+    </contour>
+    <contour>
+      <point x="1108" y="1455" type="line"/>
+      <point x="957" y="1455" type="line"/>
+      <point x="861" y="876" type="line"/>
+      <point x="1012" y="876" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

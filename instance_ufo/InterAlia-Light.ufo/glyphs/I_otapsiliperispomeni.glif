@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotapsiliperispomeni" format="2">
+  <advance height="2479.0" width="1006.0"/>
+  <unicode hex="1F3E"/>
+  <anchor x="740.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="740.3333333333334" y="768.0" name="cross"/>
+  <anchor x="808.0" y="0.0" name="ogonek"/>
+  <anchor x="820.3333333333334" y="0.0" name="right"/>
+  <anchor x="672.0" y="1489.0" name="tonos"/>
+  <anchor x="740.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="I" xOffset="474.3333333333333"/>
+    <component base="psiliperispomeni.tonos" xOffset="67.66666666666667" yOffset="34.333333333333336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

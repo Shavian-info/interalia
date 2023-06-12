@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eldescender-cy" format="2">
+  <advance height="2479.0" width="1363.4"/>
+  <unicode hex="052F"/>
+  <anchor x="587.8" y="0.0" name="bottom"/>
+  <anchor x="1180.2" y="64.0" name="cyrtic"/>
+  <anchor x="1073.8" y="0.0" name="right"/>
+  <anchor x="674.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="el-cy"/>
+    <component base="cyrillictic.cn" xOffset="965.2" yOffset="-19.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>el-cy</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.circled" format="2">
+  <advance height="2479" width="2845"/>
+  <unicode hex="24CA"/>
+  <anchor x="1422" y="-20" name="bottom"/>
+  <anchor x="1565" y="0" name="ogonek"/>
+  <anchor x="1507" y="0" name="right"/>
+  <anchor x="1422" y="1676" name="top"/>
+  <outline>
+    <component base="U" xOffset="663"/>
+    <component base="enclosingcirclecomb" xOffset="765"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingcirclecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

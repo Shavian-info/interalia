@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hturnedfishhook" format="2">
+  <advance height="2479" width="1495"/>
+  <unicode hex="02AE"/>
+  <outline>
+    <contour>
+      <point x="69" y="823" type="line"/>
+      <point x="101" y="826"/>
+      <point x="130" y="829"/>
+      <point x="159" y="829" type="curve" smooth="yes"/>
+      <point x="229" y="829"/>
+      <point x="308" y="815"/>
+      <point x="299" y="748" type="curve" smooth="yes"/>
+      <point x="241" y="404" type="line" smooth="yes"/>
+      <point x="200" y="160"/>
+      <point x="325" y="-15"/>
+      <point x="561" y="-15" type="curve" smooth="yes"/>
+      <point x="727" y="-15"/>
+      <point x="863" y="70"/>
+      <point x="936" y="212" type="curve"/>
+      <point x="948" y="212" type="line"/>
+      <point x="843" y="-419" type="line"/>
+      <point x="1230" y="-419" type="line"/>
+      <point x="1486" y="1117" type="line"/>
+      <point x="1084" y="1117" type="line"/>
+      <point x="980" y="489" type="line" smooth="yes"/>
+      <point x="962" y="378"/>
+      <point x="887" y="311"/>
+      <point x="788" y="311" type="curve" smooth="yes"/>
+      <point x="686" y="311"/>
+      <point x="639" y="378"/>
+      <point x="657" y="489" type="curve" smooth="yes"/>
+      <point x="700" y="748" type="line" smooth="yes"/>
+      <point x="753" y="1076"/>
+      <point x="561" y="1132"/>
+      <point x="316" y="1132" type="curve" smooth="yes"/>
+      <point x="220" y="1132"/>
+      <point x="165" y="1123"/>
+      <point x="119" y="1120" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

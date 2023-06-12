@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ushort-cy" format="2">
+  <advance height="2479" width="1071"/>
+  <unicode hex="045E"/>
+  <anchor x="739" y="-86" name="bottom"/>
+  <anchor x="560" y="-419" name="ogonek"/>
+  <anchor x="535" y="1303" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="breve" xOffset="110"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

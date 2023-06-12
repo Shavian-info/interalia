@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="EnGe-cy" format="2">
+  <advance height="2479" width="1978"/>
+  <unicode hex="04A4"/>
+  <anchor x="753" y="0" name="bottom"/>
+  <anchor x="256" y="-6" name="cedilla"/>
+  <anchor x="1295" y="6" name="cyrtic"/>
+  <anchor x="1274" y="0" name="right"/>
+  <anchor x="198" y="1489" name="tonos"/>
+  <anchor x="753" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="1853" y="1489" type="line"/>
+      <point x="1231" y="1489" type="line"/>
+      <point x="1231" y="1443" type="line"/>
+      <point x="1853" y="1443" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

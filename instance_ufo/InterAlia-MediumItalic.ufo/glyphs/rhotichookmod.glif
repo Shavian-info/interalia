@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhotichookmod" format="2">
+  <advance height="2479.0" width="576.4"/>
+  <unicode hex="02DE"/>
+  <anchor x="0.20000000000000034" y="642.4" name="_rhotichook"/>
+  <outline>
+    <contour>
+      <point x="-19.400000000000002" y="546.6" type="line"/>
+      <point x="220.20000000000002" y="592.6" type="line"/>
+      <point x="235.6" y="460.2"/>
+      <point x="262.2" y="338.8"/>
+      <point x="421.4" y="338.8" type="curve" smooth="yes"/>
+      <point x="469.8" y="338.8"/>
+      <point x="519.0" y="348.2"/>
+      <point x="562.8000000000001" y="367.8" type="curve"/>
+      <point x="556.2" y="537.4" type="line"/>
+      <point x="540.2" y="534.4"/>
+      <point x="513.0" y="528.6"/>
+      <point x="498.20000000000005" y="528.6" type="curve" smooth="yes"/>
+      <point x="386.20000000000005" y="528.6"/>
+      <point x="399.40000000000003" y="618.4"/>
+      <point x="399.8" y="794.8" type="curve"/>
+      <point x="6.199999999999999" y="717.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

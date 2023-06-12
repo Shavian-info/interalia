@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pemiddlehook-cy" format="2">
+  <advance height="2479.0" width="1898.3999999999999"/>
+  <unicode hex="04A7"/>
+  <anchor x="1009.0" y="0.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="877.8" y="435.0" type="line"/>
+      <point x="1192.2" y="435.0" type="line" smooth="yes"/>
+      <point x="1371.0" y="435.0"/>
+      <point x="1492.3999999999999" y="354.4"/>
+      <point x="1464.0" y="189.4" type="curve" smooth="yes"/>
+      <point x="1438.8" y="59.0"/>
+      <point x="1343.8" y="-16.200000000000003"/>
+      <point x="1201.0" y="-80.6" type="curve"/>
+      <point x="1297.1999999999998" y="-277.8" type="line"/>
+      <point x="1582.8" y="-185.0"/>
+      <point x="1727.8" y="28.4"/>
+      <point x="1755.6" y="189.4" type="curve" smooth="yes"/>
+      <point x="1812.2" y="519.0"/>
+      <point x="1581.8" y="678.4"/>
+      <point x="1232.0" y="678.4" type="curve" smooth="yes"/>
+      <point x="918.2" y="678.4" type="line"/>
+    </contour>
+    <component base="pe-cy" xOffset="1.7999999999999998"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

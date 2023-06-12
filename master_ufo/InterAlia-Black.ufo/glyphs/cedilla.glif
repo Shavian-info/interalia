@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedilla" format="2">
+  <advance height="2479" width="913"/>
+  <unicode hex="00B8"/>
+  <anchor x="457" y="0" name="_cedilla"/>
+  <outline>
+    <contour>
+      <point x="387" y="6" type="line"/>
+      <point x="352" y="-145" type="line"/>
+      <point x="446" y="-160"/>
+      <point x="492" y="-196"/>
+      <point x="489" y="-250" type="curve" smooth="yes"/>
+      <point x="485" y="-309"/>
+      <point x="408" y="-340"/>
+      <point x="265" y="-340" type="curve"/>
+      <point x="265" y="-495" type="line"/>
+      <point x="537" y="-495"/>
+      <point x="703" y="-399"/>
+      <point x="701" y="-241" type="curve" smooth="yes"/>
+      <point x="700" y="-147"/>
+      <point x="633" y="-79"/>
+      <point x="518" y="-61" type="curve"/>
+      <point x="529" y="6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

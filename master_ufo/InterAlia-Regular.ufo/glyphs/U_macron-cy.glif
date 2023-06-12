@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Umacron-cy" format="2">
+  <advance height="2479" width="1277"/>
+  <unicode hex="04EE"/>
+  <anchor x="634" y="1676" name="top"/>
+  <outline>
+    <component base="U-cy"/>
+    <component base="macron" xOffset="174" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

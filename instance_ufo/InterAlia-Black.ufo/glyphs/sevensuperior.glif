@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sevensuperior" format="2">
+  <advance height="2479" width="835"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="111" y="745" type="line"/>
+      <point x="387" y="745" type="line"/>
+      <point x="780" y="1417" type="line"/>
+      <point x="780" y="1638" type="line"/>
+      <point x="44" y="1638" type="line"/>
+      <point x="44" y="1420" type="line"/>
+      <point x="503" y="1420" type="line"/>
+      <point x="503" y="1411" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

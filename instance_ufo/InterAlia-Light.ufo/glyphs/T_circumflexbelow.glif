@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcircumflexbelow" format="2">
+  <advance height="2479.0" width="1295.6666666666667"/>
+  <unicode hex="1E70"/>
+  <anchor x="647.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="663.3333333333334" y="-2.0" name="cedilla"/>
+  <anchor x="647.3333333333334" y="768.0" name="cross"/>
+  <anchor x="776.6666666666666" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="678.6666666666666" y="0.0" name="right"/>
+  <anchor x="647.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="circumflexbelowcomb" xOffset="1206.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gag-shavian.cv12" format="2">
+  <advance height="2479.0" width="1151.3333333333333"/>
+  <outline>
+    <contour>
+      <point x="465.6666666666667" y="1117.0" type="curve" smooth="yes"/>
+      <point x="329.3333333333333" y="1117.0" type="line"/>
+      <point x="329.3333333333333" y="989.0" type="line"/>
+      <point x="465.6666666666667" y="989.0" type="line" smooth="yes"/>
+      <point x="731.6666666666666" y="989.0"/>
+      <point x="907.3333333333334" y="821.6666666666666"/>
+      <point x="907.3333333333334" y="559.0" type="curve" smooth="yes"/>
+      <point x="907.3333333333334" y="327.6666666666667"/>
+      <point x="770.3333333333334" y="189.0"/>
+      <point x="551.3333333333334" y="188.0" type="curve" smooth="yes"/>
+      <point x="468.3333333333333" y="188.66666666666669"/>
+      <point x="382.3333333333333" y="209.66666666666669"/>
+      <point x="339.3333333333333" y="241.66666666666669" type="curve"/>
+      <point x="329.3333333333333" y="241.66666666666669" type="line"/>
+      <point x="329.3333333333333" y="-419.0" type="line"/>
+      <point x="459.6666666666667" y="-419.0" type="line"/>
+      <point x="459.6666666666667" y="81.0" type="line"/>
+      <point x="491.3333333333333" y="74.0"/>
+      <point x="540.6666666666666" y="70.0"/>
+      <point x="581.6666666666666" y="70.0" type="curve" smooth="yes"/>
+      <point x="857.0" y="70.0"/>
+      <point x="1037.6666666666667" y="265.0"/>
+      <point x="1037.6666666666667" y="559.0" type="curve" smooth="yes"/>
+      <point x="1038.0" y="892.0"/>
+      <point x="808.6666666666666" y="1117.0"/>
+    </contour>
+    <contour>
+      <point x="459.6666666666667" y="1117.0" type="line"/>
+      <point x="329.3333333333333" y="1117.0" type="line"/>
+      <point x="329.3333333333333" y="241.0" type="line"/>
+      <point x="262.0" y="261.3333333333333"/>
+      <point x="171.33333333333334" y="303.3333333333333"/>
+      <point x="115.66666666666667" y="340.6666666666667" type="curve"/>
+      <point x="115.66666666666667" y="210.33333333333334" type="line"/>
+      <point x="170.66666666666666" y="170.33333333333334"/>
+      <point x="319.0" y="107.0"/>
+      <point x="459.6666666666667" y="81.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>shavian</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

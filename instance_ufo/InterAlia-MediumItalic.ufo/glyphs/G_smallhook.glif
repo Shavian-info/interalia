@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gsmallhook" format="2">
+  <advance height="2479.0" width="1255.2"/>
+  <unicode hex="029B"/>
+  <outline>
+    <contour>
+      <point x="1098.1999999999998" y="761.2" type="line"/>
+      <point x="1116.1999999999998" y="856.8" type="line" smooth="yes"/>
+      <point x="1135.3999999999999" y="969.0"/>
+      <point x="1197.4" y="1008.0"/>
+      <point x="1288.8000000000002" y="1008.0" type="curve" smooth="yes"/>
+      <point x="1306.8" y="1008.0"/>
+      <point x="1329.8" y="1004.4"/>
+      <point x="1348.6" y="1002.2" type="curve"/>
+      <point x="1375.1999999999998" y="1158.2" type="line"/>
+      <point x="1343.3999999999999" y="1167.6"/>
+      <point x="1303.2" y="1173.6"/>
+      <point x="1269.1999999999998" y="1173.6" type="curve" smooth="yes"/>
+      <point x="1088.3999999999999" y="1173.6"/>
+      <point x="978.2" y="1058.2"/>
+      <point x="943.8" y="856.8" type="curve" smooth="yes"/>
+      <point x="926.4" y="761.2" type="line"/>
+    </contour>
+    <component base="Gsmall"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

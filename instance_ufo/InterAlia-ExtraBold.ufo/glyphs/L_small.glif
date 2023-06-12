@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lsmall" format="2">
+  <advance height="2479.0" width="1007.8"/>
+  <unicode hex="029F"/>
+  <outline>
+    <contour>
+      <point x="113.0" y="0.0" type="line"/>
+      <point x="935.2" y="0.0" type="line"/>
+      <point x="935.2" y="272.0" type="line"/>
+      <point x="469.8" y="272.0" type="line"/>
+      <point x="469.8" y="1117.0" type="line"/>
+      <point x="113.0" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adiaeresiscomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DF2"/>
+  <outline>
+    <contour>
+      <point x="-840.6" y="1891.0" type="curve" smooth="yes"/>
+      <point x="-840.6" y="1847.0"/>
+      <point x="-807.4" y="1812.6"/>
+      <point x="-756.0" y="1812.6" type="curve" smooth="yes"/>
+      <point x="-701.6" y="1812.6"/>
+      <point x="-669.6" y="1847.0"/>
+      <point x="-669.6" y="1891.0" type="curve" smooth="yes"/>
+      <point x="-669.6" y="1935.2"/>
+      <point x="-701.6" y="1969.6"/>
+      <point x="-756.0" y="1969.6" type="curve" smooth="yes"/>
+      <point x="-805.6" y="1969.6"/>
+      <point x="-840.6" y="1936.4"/>
+    </contour>
+    <contour>
+      <point x="-573.6" y="1891.0" type="curve" smooth="yes"/>
+      <point x="-573.6" y="1845.2"/>
+      <point x="-540.8" y="1812.6"/>
+      <point x="-487.6" y="1812.6" type="curve" smooth="yes"/>
+      <point x="-434.6" y="1812.6"/>
+      <point x="-401.8" y="1845.2"/>
+      <point x="-401.8" y="1891.0" type="curve" smooth="yes"/>
+      <point x="-401.8" y="1936.4"/>
+      <point x="-434.6" y="1969.6"/>
+      <point x="-487.6" y="1969.6" type="curve" smooth="yes"/>
+      <point x="-540.8" y="1969.6"/>
+      <point x="-573.6" y="1935.2"/>
+    </contour>
+    <contour>
+      <point x="-536.8" y="1329.0" type="line"/>
+      <point x="-536.8" y="1278.2"/>
+      <point x="-528.4" y="1234.8"/>
+      <point x="-516.2" y="1201.0" type="curve"/>
+      <point x="-363.4" y="1201.0" type="line"/>
+      <point x="-379.6" y="1245.6"/>
+      <point x="-383.8" y="1289.0"/>
+      <point x="-383.8" y="1336.8" type="curve" smooth="yes"/>
+      <point x="-383.8" y="1562.6" type="line" smooth="yes"/>
+      <point x="-383.8" y="1693.6"/>
+      <point x="-480.6" y="1762.4"/>
+      <point x="-612.2" y="1762.4" type="curve" smooth="yes"/>
+      <point x="-753.0" y="1762.4"/>
+      <point x="-847.8" y="1685.8"/>
+      <point x="-847.8" y="1586.6" type="curve"/>
+      <point x="-699.6" y="1583.8" type="line"/>
+      <point x="-699.6" y="1623.6"/>
+      <point x="-669.6" y="1645.2"/>
+      <point x="-617.0" y="1645.2" type="curve" smooth="yes"/>
+      <point x="-563.4" y="1645.2"/>
+      <point x="-536.8" y="1616.8"/>
+      <point x="-536.8" y="1565.6" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-519.2" y="1532.4" type="line"/>
+      <point x="-615.0" y="1532.4" type="line" smooth="yes"/>
+      <point x="-783.0" y="1532.4"/>
+      <point x="-871.2" y="1466.6"/>
+      <point x="-871.2" y="1359.0" type="curve" smooth="yes"/>
+      <point x="-871.2" y="1257.0"/>
+      <point x="-797.0" y="1191.8"/>
+      <point x="-687.0" y="1191.8" type="curve" smooth="yes"/>
+      <point x="-583.8" y="1191.8"/>
+      <point x="-527.0" y="1252.8"/>
+      <point x="-504.6" y="1303.0" type="curve"/>
+      <point x="-531.4" y="1380.2" type="line"/>
+      <point x="-531.4" y="1348.8"/>
+      <point x="-585.0" y="1306.6"/>
+      <point x="-645.4" y="1306.6" type="curve" smooth="yes"/>
+      <point x="-691.6" y="1306.6"/>
+      <point x="-720.6" y="1329.0"/>
+      <point x="-720.6" y="1363.4" type="curve" smooth="yes"/>
+      <point x="-720.6" y="1404.4"/>
+      <point x="-684.6" y="1444.8"/>
+      <point x="-615.0" y="1444.8" type="curve" smooth="yes"/>
+      <point x="-518.0" y="1444.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

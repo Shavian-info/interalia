@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash" format="2">
+  <advance height="2479.0" width="752.8"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="878.8000000000001" y="1559.0" type="line"/>
+      <point x="685.0" y="1559.0" type="line"/>
+      <point x="-88.0" y="-224.0" type="line"/>
+      <point x="105.6" y="-224.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance height="2479.0" width="1205.6666666666667"/>
+  <unicode hex="0045"/>
+  <anchor x="604.0" y="0.0" name="bottom"/>
+  <anchor x="607.0" y="0.0" name="cedilla"/>
+  <anchor x="1061.6666666666667" y="0.0" name="ogonek"/>
+  <anchor x="164.66666666666666" y="1489.0" name="tonos"/>
+  <anchor x="632.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="215.33333333333331" y="0.0" type="line"/>
+      <point x="1061.6666666666667" y="0.0" type="line"/>
+      <point x="1061.6666666666667" y="84.66666666666667" type="line"/>
+      <point x="306.3333333333333" y="84.66666666666667" type="line"/>
+      <point x="306.3333333333333" y="702.6666666666666" type="line"/>
+      <point x="999.6666666666666" y="702.6666666666666" type="line"/>
+      <point x="999.6666666666666" y="787.3333333333334" type="line"/>
+      <point x="306.3333333333333" y="787.3333333333334" type="line"/>
+      <point x="306.3333333333333" y="1405.0" type="line"/>
+      <point x="1044.3333333333333" y="1405.0" type="line"/>
+      <point x="1044.3333333333333" y="1489.0" type="line"/>
+      <point x="215.33333333333331" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="openshelfmod" format="2">
+  <advance height="2479.0" width="995.8"/>
+  <unicode hex="02FE"/>
+  <outline>
+    <contour>
+      <point x="691.0" y="-281.8" type="line"/>
+      <point x="164.99999999999997" y="-281.8" type="line"/>
+      <point x="135.59999999999997" y="-459.6" type="line"/>
+      <point x="661.6" y="-459.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="260.79999999999995" y="-55.2" type="line"/>
+      <point x="64.2" y="-55.2" type="line"/>
+      <point x="-1.5999999999999943" y="-459.6" type="line"/>
+      <point x="194.99999999999997" y="-459.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gje-cy" format="2">
+  <advance height="2479" width="965"/>
+  <unicode hex="0453"/>
+  <anchor x="311" y="623" name="cross"/>
+  <anchor x="611" y="163" name="cyrtic"/>
+  <anchor x="692" y="1676" name="top"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="acute" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

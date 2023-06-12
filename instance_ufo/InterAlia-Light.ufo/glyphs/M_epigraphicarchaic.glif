@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mepigraphicarchaic" format="2">
+  <advance height="2479.0" width="2370.6666666666665"/>
+  <unicode hex="A7FF"/>
+  <outline>
+    <contour>
+      <point x="1137.0" y="118.0" type="line"/>
+      <point x="397.6666666666667" y="1457.0" type="line"/>
+      <point x="300.6666666666667" y="1342.0" type="line"/>
+      <point x="1041.6666666666667" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="397.6666666666667" y="1457.0" type="line"/>
+      <point x="242.33333333333334" y="1457.0" type="line"/>
+      <point x="104.0" y="0.0" type="line"/>
+      <point x="259.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1333.3333333333333" y="1457.0" type="line"/>
+      <point x="1182.0" y="1457.0" type="line"/>
+      <point x="1043.6666666666667" y="0.0" type="line"/>
+      <point x="1194.3333333333333" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2073.3333333333335" y="114.66666666666667" type="line"/>
+      <point x="1333.3333333333333" y="1457.0" type="line"/>
+      <point x="1234.3333333333333" y="1345.6666666666667" type="line"/>
+      <point x="1973.3333333333333" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2266.0" y="1457.0" type="line"/>
+      <point x="2115.6666666666665" y="1457.0" type="line"/>
+      <point x="1977.3333333333333" y="0.0" type="line"/>
+      <point x="2128.3333333333335" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

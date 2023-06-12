@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="church-shavian" format="2">
+  <advance height="2479.0" width="1029.0"/>
+  <unicode hex="10457"/>
+  <outline>
+    <contour>
+      <point x="693.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="914.0" y="0.0" type="line"/>
+      <point x="914.0" y="128.33333333333334" type="line"/>
+      <point x="693.0" y="128.33333333333334" type="line" smooth="yes"/>
+      <point x="483.0" y="128.33333333333334"/>
+      <point x="390.3333333333333" y="226.33333333333334"/>
+      <point x="390.0" y="437.3333333333333" type="curve" smooth="yes"/>
+      <point x="390.3333333333333" y="738.0"/>
+      <point x="578.3333333333334" y="1138.0"/>
+      <point x="850.0" y="1442.3333333333333" type="curve"/>
+      <point x="741.0" y="1506.0" type="line"/>
+      <point x="671.3333333333334" y="1423.3333333333333" type="line" smooth="yes"/>
+      <point x="505.3333333333333" y="1231.6666666666667"/>
+      <point x="312.3333333333333" y="1116.0"/>
+      <point x="153.33333333333334" y="1117.0" type="curve" smooth="yes"/>
+      <point x="115.0" y="1117.0" type="line"/>
+      <point x="115.0" y="989.0" type="line"/>
+      <point x="153.33333333333334" y="989.0" type="line" smooth="yes"/>
+      <point x="253.0" y="988.6666666666666"/>
+      <point x="388.3333333333333" y="1043.6666666666667"/>
+      <point x="474.6666666666667" y="1121.3333333333333" type="curve"/>
+      <point x="484.3333333333333" y="1121.3333333333333" type="line"/>
+      <point x="350.3333333333333" y="890.0"/>
+      <point x="259.3333333333333" y="630.3333333333334"/>
+      <point x="261.3333333333333" y="414.0" type="curve" smooth="yes"/>
+      <point x="258.6666666666667" y="140.33333333333334"/>
+      <point x="403.0" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

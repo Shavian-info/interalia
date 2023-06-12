@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhungarumlaut-cy" format="2">
+  <advance height="2479.0" width="1219.2"/>
+  <unicode hex="04F3"/>
+  <anchor x="883.6" y="-9.799999999999997" name="bottom"/>
+  <anchor x="657.2" y="-419.0" name="ogonek"/>
+  <anchor x="730.8000000000001" y="1303.0" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="hungarumlaut" xOffset="226.39999999999998" yOffset="11.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

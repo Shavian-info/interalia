@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="insulardcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DD8"/>
+  <outline>
+    <contour>
+      <point x="-486" y="1894" type="line"/>
+      <point x="-369" y="1853"/>
+      <point x="-256" y="1740"/>
+      <point x="-291" y="1527" type="curve" smooth="yes"/>
+      <point x="-300" y="1478" type="line" smooth="yes"/>
+      <point x="-317" y="1361"/>
+      <point x="-381" y="1300"/>
+      <point x="-463" y="1300" type="curve" smooth="yes"/>
+      <point x="-553" y="1300"/>
+      <point x="-585" y="1361"/>
+      <point x="-573" y="1443" type="curve" smooth="yes"/>
+      <point x="-559" y="1530"/>
+      <point x="-506" y="1597"/>
+      <point x="-419" y="1597" type="curve" smooth="yes"/>
+      <point x="-305" y="1597"/>
+      <point x="-268" y="1553"/>
+      <point x="-276" y="1510" type="curve"/>
+      <point x="-204" y="1519" type="line"/>
+      <point x="-189" y="1606"/>
+      <point x="-285" y="1705"/>
+      <point x="-401" y="1705" type="curve" smooth="yes"/>
+      <point x="-541" y="1705"/>
+      <point x="-678" y="1600"/>
+      <point x="-704" y="1443" type="curve" smooth="yes"/>
+      <point x="-727" y="1303"/>
+      <point x="-628" y="1193"/>
+      <point x="-480" y="1193" type="curve" smooth="yes"/>
+      <point x="-335" y="1193"/>
+      <point x="-195" y="1309"/>
+      <point x="-169" y="1478" type="curve" smooth="yes"/>
+      <point x="-160" y="1527" type="line" smooth="yes"/>
+      <point x="-119" y="1763"/>
+      <point x="-259" y="1949"/>
+      <point x="-425" y="1996" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

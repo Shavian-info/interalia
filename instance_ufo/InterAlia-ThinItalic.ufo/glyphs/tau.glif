@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tau" format="2">
+  <advance height="2479" width="784"/>
+  <unicode hex="03C4"/>
+  <outline>
+    <contour>
+      <point x="886" y="1117" type="line"/>
+      <point x="83" y="1117" type="line"/>
+      <point x="74" y="1071" type="line"/>
+      <point x="877" y="1071" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="1117" type="line"/>
+      <point x="295" y="143" type="line" smooth="yes"/>
+      <point x="280" y="47"/>
+      <point x="327" y="-17"/>
+      <point x="406" y="-17" type="curve" smooth="yes"/>
+      <point x="443" y="-17"/>
+      <point x="489" y="-4"/>
+      <point x="528" y="17" type="curve"/>
+      <point x="522" y="58" type="line"/>
+      <point x="488" y="39"/>
+      <point x="448" y="29"/>
+      <point x="415" y="29" type="curve" smooth="yes"/>
+      <point x="350" y="29"/>
+      <point x="330" y="67"/>
+      <point x="345" y="154" type="curve" smooth="yes"/>
+      <point x="506" y="1117" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

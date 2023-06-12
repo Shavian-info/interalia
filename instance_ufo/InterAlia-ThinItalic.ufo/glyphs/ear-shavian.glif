@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ear-shavian" format="2">
+  <advance width="1524"/>
+  <unicode hex="1047D"/>
+  <outline>
+    <contour>
+      <point x="672" y="0" type="line"/>
+      <point x="759" y="0" type="line" smooth="yes"/>
+      <point x="1081" y="0"/>
+      <point x="1335" y="217"/>
+      <point x="1393" y="561" type="curve" smooth="yes"/>
+      <point x="1449" y="904"/>
+      <point x="1272" y="1132"/>
+      <point x="972" y="1132" type="curve" smooth="yes"/>
+      <point x="695" y="1132"/>
+      <point x="425" y="938"/>
+      <point x="278" y="669" type="curve"/>
+      <point x="272" y="669" type="line"/>
+      <point x="346" y="1117" type="line"/>
+      <point x="297" y="1117" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="160" y="0" type="line"/>
+      <point x="226" y="399" type="line"/>
+      <point x="302" y="774"/>
+      <point x="633" y="1085"/>
+      <point x="966" y="1085" type="curve" smooth="yes"/>
+      <point x="1238" y="1086"/>
+      <point x="1400" y="880"/>
+      <point x="1347" y="564" type="curve" smooth="yes"/>
+      <point x="1295" y="249"/>
+      <point x="1062" y="47"/>
+      <point x="768" y="47" type="curve" smooth="yes"/>
+      <point x="681" y="47" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

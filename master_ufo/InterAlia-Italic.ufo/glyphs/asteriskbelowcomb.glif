@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asteriskbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0359"/>
+  <outline>
+    <contour>
+      <point x="-928" y="-471" type="line"/>
+      <point x="-864" y="-521" type="line"/>
+      <point x="-748" y="-375" type="line"/>
+      <point x="-678" y="-527" type="line"/>
+      <point x="-599" y="-474" type="line"/>
+      <point x="-678" y="-332" type="line"/>
+      <point x="-509" y="-285" type="line"/>
+      <point x="-521" y="-201" type="line"/>
+      <point x="-684" y="-256" type="line"/>
+      <point x="-649" y="-73" type="line"/>
+      <point x="-736" y="-73" type="line"/>
+      <point x="-759" y="-253" type="line"/>
+      <point x="-908" y="-195" type="line"/>
+      <point x="-948" y="-279" type="line"/>
+      <point x="-797" y="-326" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

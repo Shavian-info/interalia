@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphavrachy" format="2">
+  <advance height="2479" width="1309"/>
+  <unicode hex="1FB0"/>
+  <anchor x="500" y="0" name="bottom"/>
+  <anchor x="733" y="1303" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="breve" xOffset="150"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

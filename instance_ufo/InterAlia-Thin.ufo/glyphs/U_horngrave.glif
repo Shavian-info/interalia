@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorngrave" format="2">
+  <advance height="2479" width="1670"/>
+  <unicode hex="1EEA"/>
+  <anchor x="768" y="-23" name="bottom"/>
+  <anchor x="831" y="0" name="ogonek"/>
+  <anchor x="829" y="0" name="right"/>
+  <anchor x="765" y="2049" name="top"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="grave" xOffset="163" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

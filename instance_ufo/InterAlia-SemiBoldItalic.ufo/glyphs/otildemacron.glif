@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildemacron" format="2">
+  <advance height="2479.0" width="1245.2"/>
+  <unicode hex="022D"/>
+  <anchor x="530.2" y="0.0" name="bottom"/>
+  <anchor x="673.4" y="0.0" name="ogonek"/>
+  <anchor x="745.8000000000001" y="1303.0" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="tildemacroncomb.lc" xOffset="1258.1999999999998" yOffset="10.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

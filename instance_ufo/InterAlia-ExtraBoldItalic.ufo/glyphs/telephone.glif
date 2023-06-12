@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="telephone" format="2">
+  <advance height="2479.0" width="1568.8"/>
+  <unicode hex="2121"/>
+  <outline>
+    <contour>
+      <point x="715.0" y="954.0" type="line"/>
+      <point x="1096.2" y="954.0" type="line"/>
+      <point x="1116.4" y="1075.2" type="line"/>
+      <point x="883.4000000000001" y="1075.2" type="line"/>
+      <point x="932.4000000000001" y="1368.8" type="line"/>
+      <point x="1164.6" y="1368.8" type="line"/>
+      <point x="1185.0" y="1489.0" type="line"/>
+      <point x="803.2" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="310.0" y="954.0" type="line"/>
+      <point x="459.0" y="954.0" type="line"/>
+      <point x="539.0" y="1443.0" type="line"/>
+      <point x="390.0" y="1443.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="215.4" y="1368.8" type="line"/>
+      <point x="690.4" y="1368.8" type="line"/>
+      <point x="710.2" y="1489.0" type="line"/>
+      <point x="236.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="861.6" y="1169.4" type="line"/>
+      <point x="1085.6000000000001" y="1169.4" type="line"/>
+      <point x="1104.6000000000001" y="1283.2" type="line"/>
+      <point x="880.6" y="1283.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1189.2" y="954.0" type="line"/>
+      <point x="1552.8" y="954.0" type="line"/>
+      <point x="1573.0" y="1075.2" type="line"/>
+      <point x="1358.4" y="1075.2" type="line"/>
+      <point x="1427.2" y="1489.0" type="line"/>
+      <point x="1278.2" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

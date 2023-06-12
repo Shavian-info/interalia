@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zdotbelow" format="2">
+  <advance height="2479" width="1280"/>
+  <unicode hex="1E92"/>
+  <anchor x="576" y="0" name="bottom"/>
+  <anchor x="689" y="768" name="cross"/>
+  <anchor x="841" y="1676" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="dotbelowcomb" xOffset="1271"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

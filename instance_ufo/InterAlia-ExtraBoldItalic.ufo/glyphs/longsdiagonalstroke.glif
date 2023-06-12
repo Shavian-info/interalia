@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longsdiagonalstroke" format="2">
+  <advance height="2479.0" width="799.0"/>
+  <unicode hex="1E9C"/>
+  <anchor x="358.8" y="617.8" name="cross"/>
+  <anchor x="650.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="39.599999999999994" y="610.2" type="line"/>
+      <point x="774.6" y="841.0" type="line"/>
+      <point x="819.6" y="1117.0" type="line"/>
+      <point x="84.6" y="889.4" type="line"/>
+    </contour>
+    <component base="_part.f_base" xOffset="-22.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

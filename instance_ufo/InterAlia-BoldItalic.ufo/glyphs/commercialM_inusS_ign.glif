@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commercialMinusSign" format="2">
+  <advance height="2479.0" width="1144.6"/>
+  <unicode hex="2052"/>
+  <outline>
+    <contour>
+      <point x="1104.2" y="1457.0" type="line"/>
+      <point x="878.2" y="1457.0" type="line"/>
+      <point x="70.6" y="-125.0" type="line"/>
+      <point x="295.4" y="-125.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="209.8" y="1069.8" type="curve" smooth="yes"/>
+      <point x="196.60000000000002" y="989.0"/>
+      <point x="256.20000000000005" y="927.6"/>
+      <point x="356.8" y="927.6" type="curve" smooth="yes"/>
+      <point x="458.6" y="927.6"/>
+      <point x="538.2" y="989.0"/>
+      <point x="551.4" y="1069.8" type="curve" smooth="yes"/>
+      <point x="563.6" y="1150.0"/>
+      <point x="506.99999999999994" y="1212.8"/>
+      <point x="403.8" y="1212.8" type="curve" smooth="yes"/>
+      <point x="302.0" y="1212.8"/>
+      <point x="222.4" y="1150.0"/>
+    </contour>
+    <contour>
+      <point x="634.0" y="278.2" type="curve" smooth="yes"/>
+      <point x="621.4000000000001" y="198.0"/>
+      <point x="675.0" y="134.2"/>
+      <point x="778.5999999999999" y="134.2" type="curve" smooth="yes"/>
+      <point x="881.1999999999999" y="134.2"/>
+      <point x="961.2" y="196.2"/>
+      <point x="973.4" y="278.2" type="curve" smooth="yes"/>
+      <point x="988.4" y="360.2"/>
+      <point x="931.8000000000001" y="421.8"/>
+      <point x="826.4" y="421.8" type="curve" smooth="yes"/>
+      <point x="723.2" y="421.8"/>
+      <point x="648.6" y="360.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oil-shavian" format="2">
+  <advance height="1487.3999999999999" width="957.4000000000001"/>
+  <unicode hex="10476"/>
+  <outline>
+    <contour>
+      <point x="15.00000000000001" y="0.0" type="line"/>
+      <point x="429.0" y="0.0" type="line"/>
+      <point x="854.6" y="454.8" type="line"/>
+      <point x="893.8" y="697.0" type="line"/>
+      <point x="782.6" y="697.0" type="line" smooth="yes"/>
+      <point x="666.0" y="697.0"/>
+      <point x="626.5999999999999" y="725.6"/>
+      <point x="621.0" y="830.0" type="curve" smooth="yes"/>
+      <point x="620.4" y="1017.6000000000001"/>
+      <point x="523.1999999999999" y="1117.0"/>
+      <point x="271.8" y="1117.0" type="curve" smooth="yes"/>
+      <point x="181.20000000000002" y="1117.0" type="line"/>
+      <point x="134.8" y="838.2" type="line"/>
+      <point x="201.8" y="838.2" type="line" smooth="yes"/>
+      <point x="314.2" y="838.2"/>
+      <point x="342.0" y="820.4"/>
+      <point x="352.2" y="724.2" type="curve" smooth="yes"/>
+      <point x="358.4" y="583.2"/>
+      <point x="425.0" y="497.79999999999995"/>
+      <point x="554.6" y="469.2" type="curve"/>
+      <point x="554.6" y="457.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

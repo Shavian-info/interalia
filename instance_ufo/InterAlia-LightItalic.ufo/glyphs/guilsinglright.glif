@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guilsinglright" format="2">
+  <advance height="2479.0" width="723.3333333333334"/>
+  <unicode hex="203A"/>
+  <outline>
+    <contour>
+      <point x="86.33333333333334" y="160.0" type="line"/>
+      <point x="206.33333333333331" y="160.0" type="line"/>
+      <point x="572.3333333333334" y="596.0" type="line"/>
+      <point x="575.3333333333334" y="611.0" type="line"/>
+      <point x="449.0" y="612.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="234.66666666666669" y="1053.0" type="line"/>
+      <point x="448.0" y="602.0" type="line"/>
+      <point x="572.3333333333334" y="602.0" type="line"/>
+      <point x="575.3333333333334" y="617.0" type="line"/>
+      <point x="352.66666666666663" y="1053.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

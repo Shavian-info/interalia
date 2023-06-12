@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="err-shavian.cv12" format="2">
+  <advance height="2479.0" width="1120.6666666666667"/>
+  <outline>
+    <contour>
+      <point x="932.3333333333334" y="0.0" type="curve" smooth="yes"/>
+      <point x="994.6666666666666" y="0.0" type="line"/>
+      <point x="994.6666666666666" y="82.66666666666667" type="line"/>
+      <point x="932.3333333333334" y="82.66666666666667" type="line" smooth="yes"/>
+      <point x="722.6666666666666" y="82.33333333333334"/>
+      <point x="581.6666666666666" y="218.0"/>
+      <point x="581.6666666666666" y="424.0" type="curve" smooth="yes"/>
+      <point x="581.6666666666666" y="494.3333333333333"/>
+      <point x="596.0" y="566.0"/>
+      <point x="627.3333333333334" y="598.6666666666666" type="curve"/>
+      <point x="555.3333333333334" y="639.3333333333334" type="line"/>
+      <point x="542.3333333333334" y="627.0"/>
+      <point x="528.6666666666666" y="603.6666666666666"/>
+      <point x="522.3333333333334" y="583.3333333333334" type="curve"/>
+      <point x="330.6666666666667" y="584.0"/>
+      <point x="213.66666666666669" y="679.6666666666666"/>
+      <point x="213.66666666666669" y="845.6666666666666" type="curve" smooth="yes"/>
+      <point x="213.66666666666669" y="939.0"/>
+      <point x="250.33333333333334" y="1014.3333333333334"/>
+      <point x="344.0" y="1089.6666666666667" type="curve"/>
+      <point x="270.3333333333333" y="1134.0" type="line"/>
+      <point x="166.0" y="1050.0"/>
+      <point x="126.0" y="963.3333333333334"/>
+      <point x="126.0" y="845.6666666666666" type="curve" smooth="yes"/>
+      <point x="126.0" y="629.6666666666666"/>
+      <point x="266.6666666666667" y="506.0"/>
+      <point x="498.0" y="506.0" type="curve"/>
+      <point x="494.0" y="484.6666666666667"/>
+      <point x="493.0" y="453.0"/>
+      <point x="493.0" y="424.0" type="curve" smooth="yes"/>
+      <point x="493.0" y="168.33333333333334"/>
+      <point x="671.0" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>shavian</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

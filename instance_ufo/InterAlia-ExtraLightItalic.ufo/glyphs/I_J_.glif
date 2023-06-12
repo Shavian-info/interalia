@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="IJ" format="2">
+  <advance height="2479.0" width="1603.3333333333335"/>
+  <unicode hex="0132"/>
+  <anchor x="168.66666666666666" y="0.0" name="bottom"/>
+  <anchor x="295.6666666666667" y="768.0" name="cross_1"/>
+  <anchor x="1396.6666666666667" y="884.0" name="cross_2"/>
+  <anchor x="213.33333333333331" y="0.0" name="ogonek"/>
+  <anchor x="224.0" y="0.0" name="right"/>
+  <anchor x="369.66666666666663" y="1489.0" name="tonos"/>
+  <anchor x="446.0" y="1676.0" name="top_1"/>
+  <anchor x="1527.6666666666667" y="1676.0" name="top_2"/>
+  <outline>
+    <component base="I"/>
+    <component base="J" xOffset="522.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

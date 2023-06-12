@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tretroflexhook" format="2">
+  <advance height="2479.0" width="1351.0"/>
+  <unicode hex="01AE"/>
+  <anchor x="674.6" y="0.0" name="bottom"/>
+  <anchor x="686.6" y="0.0" name="cedilla"/>
+  <anchor x="674.6" y="727.2" name="cross"/>
+  <anchor x="927.8" y="103.6" name="cyrtic"/>
+  <anchor x="760.8" y="0.0" name="right"/>
+  <anchor x="675.8" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="809.6" y="0.0" type="line"/>
+      <point x="541.4" y="0.0" type="line"/>
+      <point x="541.4" y="-86.0" type="line" smooth="yes"/>
+      <point x="541.4" y="-342.0"/>
+      <point x="721.2" y="-419.0"/>
+      <point x="904.6" y="-419.0" type="curve"/>
+      <point x="1033.0" y="-419.0" type="line"/>
+      <point x="1033.0" y="-203.0" type="line"/>
+      <point x="973.2" y="-203.0" type="line"/>
+      <point x="889.0" y="-203.0"/>
+      <point x="809.6" y="-182.4"/>
+      <point x="809.6" y="-85.4" type="curve" smooth="yes"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

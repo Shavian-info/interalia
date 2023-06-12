@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance height="2479.0" width="1334.3333333333333"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="1112.0" y="535.6666666666666" type="line"/>
+      <point x="1112.0" y="628.3333333333334" type="line"/>
+      <point x="222.33333333333334" y="1119.0" type="line"/>
+      <point x="222.33333333333334" y="976.6666666666666" type="line"/>
+      <point x="952.3333333333334" y="583.0" type="line"/>
+      <point x="945.3333333333334" y="595.0" type="line"/>
+      <point x="945.3333333333334" y="568.0" type="line"/>
+      <point x="952.3333333333334" y="581.0" type="line"/>
+      <point x="222.33333333333334" y="187.33333333333334" type="line"/>
+      <point x="222.33333333333334" y="45.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

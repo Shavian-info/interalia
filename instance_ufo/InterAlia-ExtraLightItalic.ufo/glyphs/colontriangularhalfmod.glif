@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colontriangularhalfmod" format="2">
+  <advance height="2479.0" width="507.0"/>
+  <unicode hex="02D1"/>
+  <outline>
+    <contour>
+      <point x="227.0" y="1082.0" type="line"/>
+      <point x="302.66666666666663" y="895.6666666666666" type="line"/>
+      <point x="321.0" y="895.6666666666666" type="line"/>
+      <point x="460.3333333333333" y="1082.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="voicingmod" format="2">
+  <advance height="2479.0" width="844.0"/>
+  <unicode hex="02EC"/>
+  <outline>
+    <contour>
+      <point x="153.0" y="-131.0" type="line"/>
+      <point x="26.666666666666675" y="-131.0" type="line"/>
+      <point x="24.333333333333343" y="-140.0" type="line"/>
+      <point x="212.33333333333334" y="-413.0" type="line"/>
+      <point x="307.0" y="-413.0" type="line"/>
+      <point x="591.3333333333334" y="-140.0" type="line"/>
+      <point x="593.6666666666666" y="-131.0" type="line"/>
+      <point x="461.00000000000006" y="-131.0" type="line"/>
+      <point x="273.3333333333333" y="-318.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

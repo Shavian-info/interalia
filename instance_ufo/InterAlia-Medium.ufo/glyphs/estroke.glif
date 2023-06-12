@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="estroke" format="2">
+  <advance height="2479.0" width="1203.4"/>
+  <unicode hex="0247"/>
+  <anchor x="603.8" y="0.0" name="bottom"/>
+  <anchor x="607.2" y="0.0" name="cedilla"/>
+  <anchor x="805.8" y="9.8" name="ogonek"/>
+  <anchor x="603.8" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1033.6" y="1489.0" type="line"/>
+      <point x="882.6" y="1489.0" type="line"/>
+      <point x="154.4" y="-419.0" type="line"/>
+      <point x="306.2" y="-419.0" type="line"/>
+    </contour>
+    <component base="e"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

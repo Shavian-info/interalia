@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflextildecomb.cn" format="2">
+  <advance height="2479.0" width="1165.8"/>
+  <unicode hex="E126"/>
+  <anchor x="584.8" y="1337.4" name="_top"/>
+  <outline>
+    <contour>
+      <point x="662.2" y="1488.8" type="line"/>
+      <point x="505.0" y="1488.8" type="line"/>
+      <point x="206.2" y="1258.4" type="line"/>
+      <point x="411.6" y="1258.4" type="line"/>
+      <point x="583.0" y="1391.6" type="line"/>
+      <point x="757.2" y="1258.4" type="line"/>
+      <point x="959.6" y="1258.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="749.4" y="1738.8" type="line"/>
+      <point x="749.0" y="1703.0"/>
+      <point x="720.2" y="1664.4"/>
+      <point x="687.4" y="1664.4" type="curve" smooth="yes"/>
+      <point x="614.6" y="1664.4"/>
+      <point x="551.0" y="1727.8"/>
+      <point x="474.8" y="1727.8" type="curve" smooth="yes"/>
+      <point x="387.4" y="1727.8"/>
+      <point x="329.0" y="1648.0"/>
+      <point x="329.4" y="1571.4" type="curve"/>
+      <point x="425.6" y="1545.4" type="line"/>
+      <point x="425.2" y="1581.6"/>
+      <point x="453.4" y="1616.0"/>
+      <point x="488.8" y="1616.0" type="curve" smooth="yes"/>
+      <point x="563.8" y="1616.0"/>
+      <point x="606.8" y="1549.6"/>
+      <point x="701.4" y="1549.6" type="curve" smooth="yes"/>
+      <point x="788.0" y="1549.6"/>
+      <point x="848.2" y="1627.6"/>
+      <point x="848.6" y="1706.6" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

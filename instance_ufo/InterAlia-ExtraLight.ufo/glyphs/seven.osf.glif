@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven.osf" format="2">
+  <advance height="2479.0" width="1017.6666666666666"/>
+  <outline>
+    <contour>
+      <point x="147.0" y="-419.0" type="line"/>
+      <point x="240.0" y="-419.0" type="line"/>
+      <point x="899.3333333333334" y="1030.0" type="line"/>
+      <point x="899.3333333333334" y="1117.0" type="line"/>
+      <point x="54.0" y="1117.0" type="line"/>
+      <point x="54.0" y="1033.0" type="line"/>
+      <point x="805.0" y="1033.0" type="line"/>
+      <point x="805.0" y="1025.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

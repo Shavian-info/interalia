@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gestrokehook-cy" format="2">
+  <advance height="2479" width="940"/>
+  <unicode hex="04FB"/>
+  <anchor x="244" y="559" name="cross"/>
+  <anchor x="329" y="58" name="cyrtic"/>
+  <anchor x="620" y="1303" name="top"/>
+  <outline>
+    <component base="ge-cy"/>
+    <component base="crossbar" xOffset="-242" yOffset="-162"/>
+    <component base="cyrillichook" xOffset="-148"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>cyrillichook</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

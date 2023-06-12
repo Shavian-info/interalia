@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="030F"/>
+  <anchor x="-529.6666666666666" y="1303.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-665.0" y="1276.0" type="line"/>
+      <point x="-583.0" y="1276.0" type="line"/>
+      <point x="-787.0" y="1598.0" type="line"/>
+      <point x="-898.3333333333334" y="1598.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-455.3333333333333" y="1276.0" type="line"/>
+      <point x="-374.3333333333333" y="1276.0" type="line"/>
+      <point x="-527.3333333333333" y="1598.0" type="line"/>
+      <point x="-637.3333333333334" y="1598.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

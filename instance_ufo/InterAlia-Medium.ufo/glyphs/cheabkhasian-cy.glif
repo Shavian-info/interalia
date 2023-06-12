@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cheabkhasian-cy" format="2">
+  <advance height="2479.0" width="1515.0"/>
+  <unicode hex="04BD"/>
+  <anchor x="915.4" y="0.0" name="bottom"/>
+  <anchor x="918.8" y="0.0" name="cedilla"/>
+  <anchor x="1117.4" y="9.8" name="ogonek"/>
+  <anchor x="915.4" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="46.2" y="868.6" type="line"/>
+      <point x="46.4" y="633.2"/>
+      <point x="175.4" y="493.0"/>
+      <point x="427.0" y="493.0" type="curve"/>
+      <point x="427.0" y="656.6" type="line"/>
+      <point x="283.8" y="656.6"/>
+      <point x="225.6" y="734.4"/>
+      <point x="225.4" y="868.6" type="curve"/>
+    </contour>
+    <component base="e" xOffset="311.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

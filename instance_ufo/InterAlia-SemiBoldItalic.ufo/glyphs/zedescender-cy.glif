@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedescender-cy" format="2">
+  <advance height="2479.0" width="1053.8000000000002"/>
+  <unicode hex="0499"/>
+  <anchor x="442.40000000000003" y="0.0" name="cedilla"/>
+  <anchor x="662.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="ze-cy"/>
+    <component base="cedilla" xOffset="179.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

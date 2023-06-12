@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DDF"/>
+  <outline>
+    <contour>
+      <point x="-477.40000000000003" y="1357.4" type="line"/>
+      <point x="-572.2" y="1798.0" type="line"/>
+      <point x="-693.5999999999999" y="1798.0" type="line"/>
+      <point x="-558.4000000000001" y="1201.0" type="line"/>
+      <point x="-447.00000000000006" y="1201.0" type="line"/>
+      <point x="-113.80000000000003" y="1798.0" type="line"/>
+      <point x="-235.2" y="1798.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-604.8" y="1798.0" type="line"/>
+      <point x="-745.0" y="1798.0" type="line"/>
+      <point x="-844.0" y="1201.0" type="line"/>
+      <point x="-703.0" y="1201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-302.8" y="1201.0" type="line"/>
+      <point x="-160.2" y="1201.0" type="line"/>
+      <point x="-61.39999999999998" y="1798.0" type="line"/>
+      <point x="-204.60000000000002" y="1798.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asteriskbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0359"/>
+  <outline>
+    <contour>
+      <point x="-874.6666666666666" y="-468.3333333333333" type="line"/>
+      <point x="-829.3333333333333" y="-503.66666666666663" type="line"/>
+      <point x="-703.3333333333334" y="-347.0" type="line"/>
+      <point x="-627.3333333333334" y="-507.0" type="line"/>
+      <point x="-575.0000000000001" y="-471.3333333333333" type="line"/>
+      <point x="-652.6666666666666" y="-318.0" type="line"/>
+      <point x="-479.0" y="-268.3333333333333" type="line"/>
+      <point x="-487.0" y="-211.66666666666669" type="line"/>
+      <point x="-657.3333333333333" y="-262.0" type="line"/>
+      <point x="-621.6666666666666" y="-71.0" type="line"/>
+      <point x="-682.6666666666666" y="-71.0" type="line"/>
+      <point x="-715.6666666666666" y="-261.6666666666667" type="line"/>
+      <point x="-867.3333333333334" y="-205.66666666666669" type="line"/>
+      <point x="-894.6666666666666" y="-261.6666666666667" type="line"/>
+      <point x="-743.0" y="-313.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

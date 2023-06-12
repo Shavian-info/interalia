@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="titlocomb-cy" format="2">
+  <advance height="2479"/>
+  <unicode hex="0483"/>
+  <outline>
+    <contour>
+      <point x="-307" y="1345" type="line"/>
+      <point x="-307" y="1500" type="line"/>
+      <point x="-352" y="1500" type="line"/>
+      <point x="-353" y="1392" type="line"/>
+      <point x="-756" y="1392" type="line"/>
+      <point x="-756" y="1220" type="line"/>
+      <point x="-710" y="1220" type="line"/>
+      <point x="-710" y="1345" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

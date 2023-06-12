@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegravecomb.cn" format="2">
+  <advance height="2479.0" width="943.0"/>
+  <unicode hex="E11C"/>
+  <anchor x="598.4000000000001" y="1298.4" name="_top"/>
+  <outline>
+    <contour>
+      <point x="769.0" y="1457.6" type="line"/>
+      <point x="759.8" y="1397.8"/>
+      <point x="708.2" y="1344.6"/>
+      <point x="602.6" y="1344.6" type="curve" smooth="yes"/>
+      <point x="493.4" y="1344.6"/>
+      <point x="462.0" y="1397.8"/>
+      <point x="470.4" y="1457.6" type="curve"/>
+      <point x="296.6" y="1457.6" type="line"/>
+      <point x="275.0" y="1330.4"/>
+      <point x="383.8" y="1239.2"/>
+      <point x="583.4" y="1239.2" type="curve" smooth="yes"/>
+      <point x="784.0" y="1239.2"/>
+      <point x="923.1999999999999" y="1330.4"/>
+      <point x="944.0" y="1457.6" type="curve"/>
+    </contour>
+    <contour>
+      <point x="576.6" y="1472.8" type="line"/>
+      <point x="701.4" y="1472.8" type="line"/>
+      <point x="620.8000000000001" y="1666.6" type="line"/>
+      <point x="441.0" y="1666.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

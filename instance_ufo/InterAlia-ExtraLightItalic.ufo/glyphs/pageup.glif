@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pageup" format="2">
+  <advance height="2479.0" width="1139.6666666666667"/>
+  <unicode hex="21DE"/>
+  <outline>
+    <contour>
+      <point x="278.0" y="1117.0" type="line"/>
+      <point x="1045.3333333333335" y="1117.0" type="line"/>
+      <point x="728.3333333333334" y="1519.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="231.66666666666666" y="403.0" type="line"/>
+      <point x="854.3333333333334" y="403.0" type="line"/>
+      <point x="867.0" y="482.0" type="line"/>
+      <point x="244.66666666666666" y="482.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="434.0" y="0.0" type="line"/>
+      <point x="517.6666666666666" y="0.0" type="line"/>
+      <point x="725.3333333333333" y="1249.0" type="line"/>
+      <point x="641.6666666666666" y="1249.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="285.0" y="727.3333333333334" type="line"/>
+      <point x="908.0" y="727.3333333333334" type="line"/>
+      <point x="920.6666666666666" y="806.6666666666666" type="line"/>
+      <point x="298.0" y="806.6666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

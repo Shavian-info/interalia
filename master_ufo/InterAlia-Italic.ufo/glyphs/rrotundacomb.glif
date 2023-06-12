@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rrotundacomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DE3"/>
+  <outline>
+    <contour>
+      <point x="-532" y="1620" type="line"/>
+      <point x="-497" y="1638"/>
+      <point x="-454" y="1655"/>
+      <point x="-407" y="1655" type="curve" smooth="yes"/>
+      <point x="-367" y="1655"/>
+      <point x="-343" y="1629"/>
+      <point x="-352" y="1580" type="curve" smooth="yes"/>
+      <point x="-364" y="1510"/>
+      <point x="-413" y="1478"/>
+      <point x="-515" y="1425" type="curve"/>
+      <point x="-451" y="1356" type="line"/>
+      <point x="-372" y="1396"/>
+      <point x="-236" y="1469"/>
+      <point x="-215" y="1588" type="curve" smooth="yes"/>
+      <point x="-198" y="1696"/>
+      <point x="-271" y="1763"/>
+      <point x="-378" y="1763" type="curve" smooth="yes"/>
+      <point x="-442" y="1763"/>
+      <point x="-521" y="1737"/>
+      <point x="-576" y="1693" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-404" y="1201" type="line"/>
+      <point x="-265" y="1201" type="line"/>
+      <point x="-265" y="1204" type="line"/>
+      <point x="-369" y="1437" type="line"/>
+      <point x="-515" y="1425" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

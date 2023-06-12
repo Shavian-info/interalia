@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance height="2479.0" width="1360.6"/>
+  <unicode hex="004B"/>
+  <anchor x="679.4" y="0.6000000000000001" name="bottom"/>
+  <anchor x="684.8" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="163.2" y="0.0" type="line"/>
+      <point x="388.8" y="0.0" type="line"/>
+      <point x="388.8" y="463.2" type="line"/>
+      <point x="564.4" y="665.4" type="line"/>
+      <point x="1045.8" y="0.0" type="line"/>
+      <point x="1316.8" y="0.0" type="line"/>
+      <point x="713.0" y="818.8" type="line"/>
+      <point x="1314.4" y="1489.0" type="line"/>
+      <point x="1031.4" y="1489.0" type="line"/>
+      <point x="406.6" y="778.2" type="line"/>
+      <point x="388.8" y="778.2" type="line"/>
+      <point x="388.8" y="1489.0" type="line"/>
+      <point x="163.2" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

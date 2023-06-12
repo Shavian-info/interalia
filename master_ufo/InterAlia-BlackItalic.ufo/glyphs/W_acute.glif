@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wacute" format="2">
+  <advance height="2479" width="2232"/>
+  <unicode hex="1E82"/>
+  <anchor x="1021" y="0" name="bottom"/>
+  <anchor x="1361" y="2049" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="acute" xOffset="667" yOffset="373"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

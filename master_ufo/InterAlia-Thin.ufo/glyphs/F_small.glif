@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fsmall" format="2">
+  <advance height="2479" width="940"/>
+  <unicode hex="A730"/>
+  <outline>
+    <contour>
+      <point x="198" y="0" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="244" y="535" type="line"/>
+      <point x="757" y="535" type="line"/>
+      <point x="757" y="582" type="line"/>
+      <point x="244" y="582" type="line"/>
+      <point x="244" y="1071" type="line"/>
+      <point x="809" y="1071" type="line"/>
+      <point x="809" y="1117" type="line"/>
+      <point x="198" y="1117" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

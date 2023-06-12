@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fmiddletilde" format="2">
+  <advance height="2479.0" width="756.1999999999999"/>
+  <unicode hex="1D6E"/>
+  <anchor x="236.0" y="0.0" name="bottom"/>
+  <anchor x="342.40000000000003" y="641.2" name="cross"/>
+  <anchor x="601.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="f"/>
+    <component base="_tildecross.cn" xOffset="-77.39999999999999" yOffset="-126.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

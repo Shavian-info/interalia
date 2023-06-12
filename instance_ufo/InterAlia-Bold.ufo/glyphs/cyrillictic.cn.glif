@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cyrillictic.cn" format="2">
+  <advance height="2479.0" width="570.4"/>
+  <anchor x="285.0" y="123.4" name="_cyrtic"/>
+  <outline>
+    <contour>
+      <point x="437.2" y="214.0" type="line"/>
+      <point x="136.2" y="214.0" type="line"/>
+      <point x="136.2" y="-359.2" type="line"/>
+      <point x="437.2" y="-359.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

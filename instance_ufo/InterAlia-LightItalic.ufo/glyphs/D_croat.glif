@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dcroat" format="2">
+  <advance height="2479.0" width="1469.6666666666667"/>
+  <unicode hex="0110"/>
+  <anchor x="456.33333333333337" y="0.0" name="bottom"/>
+  <anchor x="322.6666666666667" y="764.0" name="cross"/>
+  <anchor x="931.6666666666666" y="1676.0" name="top"/>
+  <outline>
+    <component base="Dtail"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

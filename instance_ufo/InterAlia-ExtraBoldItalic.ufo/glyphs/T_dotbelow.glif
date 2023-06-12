@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tdotbelow" format="2">
+  <advance height="2479.0" width="1387.0"/>
+  <unicode hex="1E6C"/>
+  <anchor x="599.2" y="0.0" name="bottom"/>
+  <anchor x="598.6" y="0.0" name="cedilla"/>
+  <anchor x="713.6" y="686.4" name="cross"/>
+  <anchor x="956.8" y="143.2" name="cyrtic"/>
+  <anchor x="730.6" y="0.0" name="right"/>
+  <anchor x="880.8000000000001" y="1676.0" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="dotbelowcomb" xOffset="1242.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

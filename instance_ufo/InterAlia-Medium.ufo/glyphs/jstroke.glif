@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jstroke" format="2">
+  <advance height="2479.0" width="509.8"/>
+  <unicode hex="0249"/>
+  <outline>
+    <component base="jstroke.ccmp"/>
+    <component base="dotaccent" xOffset="-8.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

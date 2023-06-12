@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicronpsilioxia" format="2">
+  <advance height="2479" width="1280"/>
+  <unicode hex="1F44"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="806" y="0" name="ogonek"/>
+  <anchor x="640" y="1303" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="psilioxia" xOffset="175" yOffset="128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

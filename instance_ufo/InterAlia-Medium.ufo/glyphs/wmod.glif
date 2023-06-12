@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wmod" format="2">
+  <advance height="2479.0" width="1142.4"/>
+  <unicode hex="02B7"/>
+  <outline>
+    <contour>
+      <point x="240.0" y="745.0" type="line"/>
+      <point x="427.0" y="745.0" type="line"/>
+      <point x="565.8" y="1249.0" type="line"/>
+      <point x="575.8" y="1249.0" type="line"/>
+      <point x="715.4" y="745.0" type="line"/>
+      <point x="901.6" y="745.0" type="line"/>
+      <point x="1109.6" y="1489.0" type="line"/>
+      <point x="930.6" y="1489.0" type="line"/>
+      <point x="802.2" y="960.8" type="line"/>
+      <point x="795.8" y="960.8" type="line"/>
+      <point x="659.2" y="1489.0" type="line"/>
+      <point x="483.2" y="1489.0" type="line"/>
+      <point x="348.8" y="960.2" type="line"/>
+      <point x="342.4" y="960.2" type="line"/>
+      <point x="211.8" y="1489.0" type="line"/>
+      <point x="32.8" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bridgebelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="032A"/>
+  <anchor x="-695" y="0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="-1008" y="-465" type="line"/>
+      <point x="-961" y="-465" type="line"/>
+      <point x="-902" y="-111" type="line"/>
+      <point x="-948" y="-111" type="line"/>
+    </contour>
+    <contour>
+      <point x="-929" y="-157" type="line"/>
+      <point x="-516" y="-157" type="line"/>
+      <point x="-509" y="-111" type="line"/>
+      <point x="-922" y="-111" type="line"/>
+    </contour>
+    <contour>
+      <point x="-583" y="-465" type="line"/>
+      <point x="-537" y="-465" type="line"/>
+      <point x="-477" y="-111" type="line"/>
+      <point x="-524" y="-111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

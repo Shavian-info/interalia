@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bitcoin" format="2">
+  <advance height="2479.0" width="1353.0"/>
+  <unicode hex="20BF"/>
+  <anchor x="563.2" y="0.0" name="bottom"/>
+  <anchor x="840.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="562.8" y="1414.0" type="line"/>
+      <point x="682.4" y="1414.0" type="line"/>
+      <point x="725.8" y="1676.0" type="line"/>
+      <point x="606.4" y="1676.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="833.4" y="1414.0" type="line"/>
+      <point x="952.4" y="1414.0" type="line"/>
+      <point x="996.4" y="1676.0" type="line"/>
+      <point x="877.4" y="1676.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="298.40000000000003" y="-186.0" type="line"/>
+      <point x="417.4" y="-186.0" type="line"/>
+      <point x="461.4" y="76.0" type="line"/>
+      <point x="341.8" y="76.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="568.4" y="-186.0" type="line"/>
+      <point x="688.4" y="-186.0" type="line"/>
+      <point x="731.4" y="76.0" type="line"/>
+      <point x="612.4" y="76.0" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

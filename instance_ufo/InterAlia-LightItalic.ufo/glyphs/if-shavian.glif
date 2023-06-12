@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="if-shavian" format="2">
+  <advance height="2479.0" width="475.3333333333333"/>
+  <unicode hex="10466"/>
+  <outline>
+    <contour>
+      <point x="79.66666666666666" y="0.0" type="line"/>
+      <point x="209.66666666666669" y="0.0" type="line"/>
+      <point x="395.6666666666667" y="1117.0" type="line"/>
+      <point x="265.66666666666663" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="austral" format="2">
+  <advance height="2479.0" width="1580.2"/>
+  <unicode hex="20B3"/>
+  <outline>
+    <contour>
+      <point x="53.4" y="637.8" type="line"/>
+      <point x="1527.6" y="637.8" type="line"/>
+      <point x="1527.6" y="783.0" type="line"/>
+      <point x="53.4" y="783.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="53.4" y="338.2" type="line"/>
+      <point x="1527.6" y="338.2" type="line"/>
+      <point x="1527.6" y="483.2" type="line"/>
+      <point x="53.4" y="483.2" type="line"/>
+    </contour>
+    <component base="Lambda"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

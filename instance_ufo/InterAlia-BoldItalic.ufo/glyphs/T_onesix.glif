@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonesix" format="2">
+  <advance height="2479.0" width="1606.4"/>
+  <unicode hex="0184"/>
+  <outline>
+    <contour>
+      <point x="801.8" y="1489.0" type="line"/>
+      <point x="179.8" y="1489.0" type="line"/>
+      <point x="136.0" y="1230.0" type="line"/>
+      <point x="758.4" y="1230.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="650.8" y="939.0" type="line"/>
+      <point x="608.6" y="690.2" type="line"/>
+      <point x="963.5999999999999" y="690.2" type="line"/>
+      <point x="1131.6" y="690.2"/>
+      <point x="1209.0" y="597.0"/>
+      <point x="1190.2" y="478.6" type="curve"/>
+      <point x="1169.2" y="356.4"/>
+      <point x="1059.0" y="253.0"/>
+      <point x="891.0" y="253.0" type="curve"/>
+      <point x="648.6" y="253.0" type="line"/>
+      <point x="854.0" y="1489.0" type="line"/>
+      <point x="539.6" y="1489.0" type="line"/>
+      <point x="292.2" y="0.0" type="line"/>
+      <point x="848.8" y="0.0" type="line"/>
+      <point x="1201.8000000000002" y="0.0"/>
+      <point x="1454.4" y="194.4"/>
+      <point x="1501.6000000000001" y="475.6" type="curve"/>
+      <point x="1548.6000000000001" y="757.4"/>
+      <point x="1358.2" y="939.0"/>
+      <point x="1005.1999999999999" y="939.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

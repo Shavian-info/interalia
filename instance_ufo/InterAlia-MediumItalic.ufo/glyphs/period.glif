@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period" format="2">
+  <advance height="2479.0" width="579.2"/>
+  <unicode hex="002E"/>
+  <outline>
+    <contour>
+      <point x="214.40000000000003" y="-14.2" type="curve" smooth="yes"/>
+      <point x="292.8" y="-14.2"/>
+      <point x="360.8" y="51.0"/>
+      <point x="364.0" y="131.2" type="curve" smooth="yes"/>
+      <point x="367.8" y="209.4"/>
+      <point x="302.20000000000005" y="273.8"/>
+      <point x="223.00000000000003" y="273.8" type="curve" smooth="yes"/>
+      <point x="143.6" y="273.8"/>
+      <point x="74.4" y="211.8"/>
+      <point x="73.6" y="131.2" type="curve" smooth="yes"/>
+      <point x="72.20000000000002" y="51.0"/>
+      <point x="132.4" y="-14.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

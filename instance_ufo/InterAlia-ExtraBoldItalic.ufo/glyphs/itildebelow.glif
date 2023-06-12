@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="itildebelow" format="2">
+  <advance height="2479.0" width="581.2"/>
+  <unicode hex="1E2D"/>
+  <anchor x="199.8" y="0.0" name="bottom"/>
+  <anchor x="298.8" y="607.4" name="cross"/>
+  <anchor x="375.20000000000005" y="0.0" name="ogonek"/>
+  <anchor x="413.8" y="1303.6" name="top"/>
+  <outline>
+    <component base="i"/>
+    <component base="tildebelowcomb" xOffset="755.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

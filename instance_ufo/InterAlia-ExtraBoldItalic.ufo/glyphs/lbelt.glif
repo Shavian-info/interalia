@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbelt" format="2">
+  <advance height="2479.0" width="1088.4"/>
+  <unicode hex="026C"/>
+  <outline>
+    <contour>
+      <point x="1060.6000000000001" y="534.2" type="line"/>
+      <point x="1096.2" y="759.0" type="line"/>
+      <point x="446.0" y="759.0" type="line" smooth="yes"/>
+      <point x="384.8" y="759.0"/>
+      <point x="362.40000000000003" y="792.2"/>
+      <point x="370.20000000000005" y="825.4" type="curve" smooth="yes"/>
+      <point x="373.6" y="858.4"/>
+      <point x="419.79999999999995" y="889.6"/>
+      <point x="472.0" y="889.6" type="curve" smooth="yes"/>
+      <point x="525.1999999999999" y="889.6"/>
+      <point x="539.8" y="850.6"/>
+      <point x="526.1999999999999" y="779.4" type="curve" smooth="yes"/>
+      <point x="467.0" y="412.8" type="line"/>
+      <point x="823.0" y="412.8" type="line"/>
+      <point x="867.2" y="688.0" type="line" smooth="yes"/>
+      <point x="905.0" y="914.4"/>
+      <point x="849.0" y="1132.0"/>
+      <point x="517.0" y="1132.0" type="curve" smooth="yes"/>
+      <point x="249.8" y="1132.0"/>
+      <point x="100.4" y="984.6"/>
+      <point x="73.4" y="815.8" type="curve" smooth="yes"/>
+      <point x="46.0" y="652.2"/>
+      <point x="137.0" y="534.2"/>
+      <point x="372.2" y="534.2" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1000.8000000000001" y="1489.0" type="line"/>
+      <point x="645.5999999999999" y="1489.0" type="line"/>
+      <point x="397.8" y="0.0" type="line"/>
+      <point x="753.6" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

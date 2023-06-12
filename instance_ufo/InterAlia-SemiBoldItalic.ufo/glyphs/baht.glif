@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="baht" format="2">
+  <advance height="2479.0" width="1346.0"/>
+  <unicode hex="0E3F"/>
+  <anchor x="559.8" y="0.0" name="bottom"/>
+  <anchor x="834.6" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="479.4" y="-186.0" type="line"/>
+      <point x="599.0" y="-186.0" type="line"/>
+      <point x="907.0" y="1676.0" type="line"/>
+      <point x="788.0" y="1676.0" type="line"/>
+    </contour>
+    <component base="B"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rstroke" format="2">
+  <advance height="2479.0" width="1348.0"/>
+  <unicode hex="024C"/>
+  <anchor x="616.0" y="0.0" name="bottom"/>
+  <anchor x="870.1999999999999" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="334.2" y="560.0" type="line"/>
+      <point x="369.2" y="771.8" type="line"/>
+      <point x="55.0" y="771.8" type="line"/>
+      <point x="21.0" y="560.0" type="line"/>
+    </contour>
+    <component base="R" xOffset="26.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

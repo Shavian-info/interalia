@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraight-cy" format="2">
+  <advance height="2479.0" width="1326.3333333333333"/>
+  <unicode hex="04AE"/>
+  <anchor x="570.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="670.3333333333334" y="597.0" name="cross"/>
+  <anchor x="638.3333333333334" y="0.0" name="ogonek"/>
+  <anchor x="160.33333333333331" y="1489.0" name="tonos"/>
+  <anchor x="849.6666666666667" y="1676.0" name="top"/>
+  <outline>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

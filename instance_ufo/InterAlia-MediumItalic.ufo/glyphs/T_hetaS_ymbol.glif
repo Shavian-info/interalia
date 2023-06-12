@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ThetaSymbol" format="2">
+  <advance height="2479.0" width="1573.0"/>
+  <unicode hex="03F4"/>
+  <anchor x="702.6" y="4.8" name="bottom"/>
+  <anchor x="859.0" y="1.2000000000000002" name="ogonek"/>
+  <anchor x="328.40000000000003" y="1489.0" name="tonos"/>
+  <anchor x="970.6" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1321.0" y="832.2" type="line"/>
+      <point x="319.0" y="832.2" type="line"/>
+      <point x="311.4" y="657.6" type="line"/>
+      <point x="1313.3999999999999" y="657.6" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

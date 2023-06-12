@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance height="2479.0" width="1325.2"/>
+  <unicode hex="0050"/>
+  <anchor x="258.0" y="1489.0" name="tonos"/>
+  <anchor x="840.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="36.599999999999994" y="0.0" type="line"/>
+      <point x="351.4" y="0.0" type="line"/>
+      <point x="556.8" y="1231.8" type="line"/>
+      <point x="769.4" y="1231.8" type="line" smooth="yes"/>
+      <point x="951.0" y="1231.8"/>
+      <point x="1021.0" y="1134.2"/>
+      <point x="997.4" y="985.0" type="curve" smooth="yes"/>
+      <point x="973.1999999999999" y="837.4000000000001"/>
+      <point x="869.2" y="735.2"/>
+      <point x="686.6" y="735.2" type="curve" smooth="yes"/>
+      <point x="362.79999999999995" y="735.2" type="line"/>
+      <point x="321.2" y="482.8" type="line"/>
+      <point x="696.0" y="482.8" type="line" smooth="yes"/>
+      <point x="1040.1999999999998" y="482.8"/>
+      <point x="1272.4" y="686.4000000000001"/>
+      <point x="1321.4" y="985.0" type="curve" smooth="yes"/>
+      <point x="1370.2" y="1281.2"/>
+      <point x="1209.8" y="1489.0"/>
+      <point x="871.0" y="1489.0" type="curve" smooth="yes"/>
+      <point x="284.0" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

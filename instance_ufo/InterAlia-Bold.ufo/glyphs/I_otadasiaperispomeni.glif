@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasiaperispomeni" format="2">
+  <advance height="2479.0" width="1094.2"/>
+  <unicode hex="1F3F"/>
+  <anchor x="812.2" y="0.0" name="bottom"/>
+  <anchor x="812.2" y="780.0" name="cross"/>
+  <anchor x="970.0" y="0.0" name="ogonek"/>
+  <anchor x="991.8" y="0.0" name="right"/>
+  <anchor x="655.2" y="1489.0" name="tonos"/>
+  <anchor x="814.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="I" xOffset="525.6"/>
+    <component base="dasiaperispomeni.tonos" xOffset="16.6" yOffset="34.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance height="2479.0" width="1223.6666666666667"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="834.3333333333334" y="954.0" type="line"/>
+      <point x="883.6666666666666" y="954.0" type="line"/>
+      <point x="1117.0" y="1489.0" type="line"/>
+      <point x="1036.0" y="1489.0" type="line"/>
+      <point x="859.3333333333334" y="1069.6666666666667" type="line"/>
+      <point x="682.6666666666666" y="1489.0" type="line"/>
+      <point x="601.6666666666666" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="587.3333333333334" y="954.0" type="line"/>
+      <point x="665.6666666666666" y="954.0" type="line"/>
+      <point x="665.6666666666666" y="1489.0" type="line"/>
+      <point x="587.3333333333334" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1053.0" y="954.0" type="line"/>
+      <point x="1130.6666666666667" y="954.0" type="line"/>
+      <point x="1130.6666666666667" y="1489.0" type="line"/>
+      <point x="1053.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="244.0" y="954.0" type="line"/>
+      <point x="321.6666666666667" y="954.0" type="line"/>
+      <point x="321.6666666666667" y="1450.6666666666667" type="line"/>
+      <point x="244.0" y="1450.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="81.0" y="1419.6666666666667" type="line"/>
+      <point x="484.6666666666667" y="1419.6666666666667" type="line"/>
+      <point x="484.6666666666667" y="1489.0" type="line"/>
+      <point x="81.0" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

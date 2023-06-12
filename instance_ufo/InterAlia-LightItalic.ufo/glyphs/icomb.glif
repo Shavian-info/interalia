@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0365"/>
+  <outline>
+    <contour>
+      <point x="-287.33333333333337" y="1754.0" type="line"/>
+      <point x="-389.99999999999994" y="1754.0" type="line"/>
+      <point x="-480.66666666666663" y="1201.0" type="line"/>
+      <point x="-377.6666666666667" y="1201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-384.66666666666663" y="1885.6666666666667" type="curve" smooth="yes"/>
+      <point x="-390.3333333333333" y="1851.3333333333333"/>
+      <point x="-367.6666666666667" y="1821.3333333333333"/>
+      <point x="-325.33333333333337" y="1821.3333333333333" type="curve" smooth="yes"/>
+      <point x="-285.0" y="1821.3333333333333"/>
+      <point x="-258.0" y="1848.6666666666667"/>
+      <point x="-253.0" y="1881.6666666666667" type="curve" smooth="yes"/>
+      <point x="-244.33333333333334" y="1918.3333333333335"/>
+      <point x="-265.0" y="1947.6666666666667"/>
+      <point x="-308.00000000000006" y="1947.6666666666667" type="curve" smooth="yes"/>
+      <point x="-348.33333333333337" y="1947.6666666666667"/>
+      <point x="-376.99999999999994" y="1919.6666666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

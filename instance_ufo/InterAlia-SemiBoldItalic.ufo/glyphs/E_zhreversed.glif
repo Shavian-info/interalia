@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ezhreversed" format="2">
+  <advance height="2479.0" width="1401.0"/>
+  <unicode hex="01B8"/>
+  <anchor x="884.2" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1242.8" y="93.2" type="curve"/>
+      <point x="970.2" y="93.2" type="line"/>
+      <point x="929.4" y="-87.0"/>
+      <point x="762.6" y="-210.0"/>
+      <point x="581.0" y="-210.0" type="curve" smooth="yes"/>
+      <point x="367.2" y="-210.0"/>
+      <point x="265.4" y="-37.599999999999994"/>
+      <point x="304.0" y="191.8" type="curve" smooth="yes"/>
+      <point x="345.79999999999995" y="450.8"/>
+      <point x="540.5999999999999" y="612.4"/>
+      <point x="777.6" y="612.4" type="curve" smooth="yes"/>
+      <point x="921.2" y="612.4" type="line"/>
+      <point x="955.0" y="814.6" type="line"/>
+      <point x="584.0" y="1247.4" type="line"/>
+      <point x="585.0" y="1259.4" type="line"/>
+      <point x="1352.0" y="1259.4" type="line"/>
+      <point x="1390.8" y="1489.0" type="line"/>
+      <point x="279.8" y="1489.0" type="line"/>
+      <point x="247.40000000000003" y="1295.0" type="line"/>
+      <point x="664.8000000000001" y="807.8" type="line"/>
+      <point x="662.4" y="792.8" type="line"/>
+      <point x="340.0" y="771.6"/>
+      <point x="82.8" y="532.2"/>
+      <point x="27.6" y="196.4" type="curve" smooth="yes"/>
+      <point x="-34.0" y="-173.6"/>
+      <point x="175.8" y="-441.4"/>
+      <point x="541.6" y="-441.4" type="curve" smooth="yes"/>
+      <point x="882.0" y="-441.4"/>
+      <point x="1177.8" y="-220.6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

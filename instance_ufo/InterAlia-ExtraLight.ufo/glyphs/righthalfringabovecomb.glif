@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="righthalfringabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0357"/>
+  <outline>
+    <component base="ringhalfright" xOffset="-670.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

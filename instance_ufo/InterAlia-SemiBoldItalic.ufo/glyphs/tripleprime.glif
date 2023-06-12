@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tripleprime" format="2">
+  <advance height="2479.0" width="1357.4"/>
+  <unicode hex="2034"/>
+  <outline>
+    <component base="minute"/>
+    <component base="minute" xOffset="412.8"/>
+    <component base="minute" xOffset="826.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

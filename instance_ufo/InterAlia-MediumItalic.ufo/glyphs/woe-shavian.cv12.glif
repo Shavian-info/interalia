@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="woe-shavian.cv12" format="2">
+  <advance height="2479.0" width="1154.1999999999998"/>
+  <outline>
+    <contour>
+      <point x="255.20000000000002" y="-419.0" type="line"/>
+      <point x="429.79999999999995" y="-419.0" type="line"/>
+      <point x="407.59999999999997" y="-81.4" type="line"/>
+      <point x="394.4" y="-81.4" type="line"/>
+      <point x="394.59999999999997" y="91.80000000000001"/>
+      <point x="283.59999999999997" y="205.6"/>
+      <point x="127.80000000000001" y="205.6" type="curve" smooth="yes"/>
+      <point x="87.8" y="205.6" type="line"/>
+      <point x="53.0" y="0.0" type="line"/>
+      <point x="106.20000000000002" y="0.0" type="line" smooth="yes"/>
+      <point x="188.2" y="0.0"/>
+      <point x="241.2" y="-105.39999999999999"/>
+      <point x="249.6" y="-295.4" type="curve" smooth="yes"/>
+    </contour>
+    <component base="woe-shavian" xOffset="449.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>shavian</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

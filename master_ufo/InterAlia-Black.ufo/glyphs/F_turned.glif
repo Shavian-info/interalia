@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fturned" format="2">
+  <advance height="2479" width="1196"/>
+  <unicode hex="2132"/>
+  <anchor x="576" y="0" name="bottom"/>
+  <anchor x="896" y="1676" name="top"/>
+  <anchor x="899.0" y="1239.0" name="cross"/>
+  <outline>
+    <component base="F" xScale="-1.0" yScale="-1.0" xOffset="1196" yOffset="1489"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

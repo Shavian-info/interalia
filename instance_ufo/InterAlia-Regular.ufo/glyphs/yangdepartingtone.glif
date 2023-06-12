@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yangdepartingtone" format="2">
+  <advance height="2479" width="733"/>
+  <unicode hex="02EB"/>
+  <outline>
+    <contour>
+      <point x="620" y="538" type="line"/>
+      <point x="230" y="538" type="line"/>
+      <point x="230" y="378" type="line"/>
+      <point x="620" y="378" type="line"/>
+    </contour>
+    <contour>
+      <point x="314" y="908" type="line"/>
+      <point x="113" y="908" type="line"/>
+      <point x="113" y="0" type="line"/>
+      <point x="314" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilonoxia" format="2">
+  <advance height="2479" width="2022"/>
+  <unicode hex="1FEB"/>
+  <anchor x="1003" y="0" name="bottom"/>
+  <anchor x="1097" y="556" name="cross"/>
+  <anchor x="1204" y="0" name="ogonek"/>
+  <anchor x="398" y="1489" name="tonos"/>
+  <anchor x="1283" y="1676" name="top"/>
+  <outline>
+    <component base="Y" xOffset="314"/>
+    <component base="oxia.tonos" xOffset="-367"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Y</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

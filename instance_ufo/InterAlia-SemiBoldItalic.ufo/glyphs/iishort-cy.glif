@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishort-cy" format="2">
+  <advance height="2479.0" width="1270.0"/>
+  <unicode hex="0439"/>
+  <anchor x="1014.8" y="0.0" name="right"/>
+  <anchor x="743.4000000000001" y="1303.0" name="top"/>
+  <outline>
+    <component base="ii-cy"/>
+    <component base="breve" xOffset="137.60000000000002"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

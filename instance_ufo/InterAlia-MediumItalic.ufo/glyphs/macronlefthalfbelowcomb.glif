@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronlefthalfbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="FE2B"/>
+  <outline>
+    <component base="macronlefthalfcomb" xOffset="-8.2" yOffset="-1603.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

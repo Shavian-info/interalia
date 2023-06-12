@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Itilde" format="2">
+  <advance height="2479.0" width="902.6"/>
+  <unicode hex="0128"/>
+  <anchor x="357.59999999999997" y="0.0" name="bottom"/>
+  <anchor x="484.4" y="780.0" name="cross"/>
+  <anchor x="512.8000000000001" y="0.0" name="ogonek"/>
+  <anchor x="534.0" y="0.0" name="right"/>
+  <anchor x="445.4" y="1489.0" name="tonos"/>
+  <anchor x="698.6" y="2049.0" name="top"/>
+  <outline>
+    <component base="I" xOffset="161.4"/>
+    <component base="tilde" xOffset="0.6000000000000029" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

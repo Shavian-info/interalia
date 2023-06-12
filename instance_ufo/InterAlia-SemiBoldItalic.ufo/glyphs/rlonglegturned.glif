@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlonglegturned" format="2">
+  <advance height="2479.0" width="818.8"/>
+  <unicode hex="027A"/>
+  <outline>
+    <contour>
+      <point x="61.4" y="-16.2" type="curve" smooth="yes"/>
+      <point x="182.8" y="-16.2"/>
+      <point x="294.8" y="49.0"/>
+      <point x="357.2" y="177.39999999999998" type="curve"/>
+      <point x="370.2" y="186.2" type="line"/>
+      <point x="337.2" y="0.0" type="line"/>
+      <point x="592.8" y="0.0" type="line"/>
+      <point x="842.8" y="1510.0" type="line"/>
+      <point x="579.8" y="1510.0" type="line"/>
+      <point x="406.6" y="468.8" type="line" smooth="yes"/>
+      <point x="383.2" y="327.0"/>
+      <point x="250.79999999999998" y="218.0"/>
+      <point x="99.4" y="218.0" type="curve" smooth="yes"/>
+      <point x="61.4" y="218.0"/>
+      <point x="7.399999999999999" y="223.60000000000002"/>
+      <point x="-13.999999999999996" y="231.0" type="curve"/>
+      <point x="-38.8" y="-6.6" type="line"/>
+      <point x="-15.200000000000001" y="-11.0"/>
+      <point x="24.800000000000004" y="-16.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="mturned" format="2">
+  <advance height="2479.0" width="1757.0"/>
+  <unicode hex="026F"/>
+  <anchor x="878.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="878.3333333333334" y="1303.0" name="top"/>
+  <outline>
+    <component base="m" xScale="-1.0" yScale="-1.0" xOffset="1757.0" yOffset="1117.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

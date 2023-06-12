@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzhe-cy" format="2">
+  <advance height="2479.0" width="1468.0"/>
+  <unicode hex="040F"/>
+  <outline>
+    <contour>
+      <point x="197.66666666666666" y="0.0" type="line"/>
+      <point x="1269.6666666666667" y="0.0" type="line"/>
+      <point x="1269.6666666666667" y="1489.0" type="line"/>
+      <point x="1133.3333333333333" y="1489.0" type="line"/>
+      <point x="1133.3333333333333" y="126.33333333333334" type="line"/>
+      <point x="333.6666666666667" y="126.33333333333334" type="line"/>
+      <point x="333.6666666666667" y="1489.0" type="line"/>
+      <point x="197.66666666666666" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="801.3333333333334" y="108.33333333333334" type="line"/>
+      <point x="665.6666666666666" y="108.33333333333334" type="line"/>
+      <point x="665.6666666666666" y="-361.0" type="line"/>
+      <point x="801.3333333333334" y="-361.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

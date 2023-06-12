@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmiddletilde" format="2">
+  <advance height="2479" width="623"/>
+  <unicode hex="026B"/>
+  <anchor x="313" y="0" name="bottom"/>
+  <anchor x="313" y="768" name="cross"/>
+  <anchor x="541" y="1489" name="raccent"/>
+  <anchor x="311" y="1676" name="top"/>
+  <outline>
+    <component base="l" xOffset="70"/>
+    <component base="_tildecross.cn" xOffset="-45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>l</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

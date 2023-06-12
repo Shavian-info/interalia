@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dezh" format="2">
+  <advance height="2479.0" width="2326.0"/>
+  <unicode hex="02A4"/>
+  <anchor x="540.2" y="0.0" name="bottom"/>
+  <anchor x="1132.8" y="1280.0" name="cross"/>
+  <anchor x="1440.4" y="1489.0" name="raccent"/>
+  <anchor x="732.8000000000001" y="1489.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1492.2" y="-442.0" type="curve" smooth="yes"/>
+      <point x="1809.3999999999999" y="-441.6"/>
+      <point x="2074.4" y="-247.0"/>
+      <point x="2120.0" y="29.599999999999998" type="curve" smooth="yes"/>
+      <point x="2160.7999999999997" y="278.2"/>
+      <point x="2009.8" y="456.2"/>
+      <point x="1709.8" y="480.4" type="curve"/>
+      <point x="1710.8" y="492.2" type="line"/>
+      <point x="2185.6" y="920.8" type="line"/>
+      <point x="2216.4" y="1117.0" type="line"/>
+      <point x="1228.2125" y="1117.0" type="line"/>
+      <point x="1189.75" y="890.6" type="line"/>
+      <point x="1837.3999999999999" y="890.6" type="line"/>
+      <point x="1833.6" y="880.2" type="line"/>
+      <point x="1427.2" y="503.0" type="line"/>
+      <point x="1397.6" y="308.8" type="line"/>
+      <point x="1552.8" y="308.8" type="line" smooth="yes"/>
+      <point x="1777.8" y="308.8"/>
+      <point x="1889.8" y="212.0"/>
+      <point x="1863.6" y="54.800000000000004" type="curve" smooth="yes"/>
+      <point x="1836.4" y="-109.6"/>
+      <point x="1684.0" y="-224.8"/>
+      <point x="1501.2" y="-225.2" type="curve" smooth="yes"/>
+      <point x="1389.2" y="-224.8"/>
+      <point x="1319.6000000000001" y="-184.20000000000002"/>
+      <point x="1280.1999999999998" y="-89.6" type="curve"/>
+      <point x="1031.4" y="-147.2" type="line"/>
+      <point x="1048.2" y="-306.4"/>
+      <point x="1210.8" y="-441.6"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>_part.ezh</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.componentsSmartComponentValues</key>
+      <array>
+        <dict/>
+        <dict>
+          <key>longTopBar</key>
+          <integer>56</integer>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Idieresis.1" format="2">
+  <advance height="2479.0" width="983.4"/>
+  <anchor x="400.6" y="0.0" name="bottom"/>
+  <anchor x="527.4" y="780.0" name="cross"/>
+  <anchor x="816.8" y="0.0" name="ogonek"/>
+  <anchor x="839.0" y="0.0" name="right"/>
+  <anchor x="227.0" y="1489.0" name="tonos"/>
+  <anchor x="677.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="I.1"/>
+    <component base="casedieresis.cn" xOffset="-48.0" yOffset="27.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

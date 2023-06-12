@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threeeighths" format="2">
+  <advance height="2479.0" width="2020.3333333333333"/>
+  <unicode hex="215C"/>
+  <anchor x="1240.6666666666667" y="791.0" name="dnom"/>
+  <anchor x="775.0" y="698.0" name="numr"/>
+  <outline>
+    <component base="fraction" xOffset="726.6666666666666"/>
+    <component base="three.numr" yOffset="-47.0"/>
+    <component base="eight.dnomf" xOffset="1239.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

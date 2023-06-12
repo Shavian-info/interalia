@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblrightreversed" format="2">
+  <advance height="2479.0" width="922.3333333333334"/>
+  <unicode hex="201F"/>
+  <outline>
+    <component base="quotereversed" xOffset="32.0"/>
+    <component base="quotereversed" xOffset="404.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jstroke.ccmp" format="2">
+  <advance height="2479.0" width="509.8"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="crossbar" xOffset="-231.60000000000002" yOffset="-81.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

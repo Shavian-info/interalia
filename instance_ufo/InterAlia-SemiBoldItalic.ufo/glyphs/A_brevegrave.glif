@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abrevegrave" format="2">
+  <advance height="2479.0" width="1482.6"/>
+  <unicode hex="1EB0"/>
+  <anchor x="647.8000000000001" y="0.0" name="bottom"/>
+  <anchor x="1339.0" y="0.0" name="ogonek"/>
+  <anchor x="635.0" y="1489.0" name="tonos"/>
+  <anchor x="927.8000000000001" y="1676.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="brevegravecomb.cn" xOffset="319.0" yOffset="382.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

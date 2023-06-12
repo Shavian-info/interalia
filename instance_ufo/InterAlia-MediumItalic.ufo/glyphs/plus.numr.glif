@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.numr" format="2">
+  <advance height="2479.0" width="820.0"/>
+  <unicode hex="E0D7"/>
+  <outline>
+    <contour>
+      <point x="392.0" y="867.8" type="line"/>
+      <point x="532.0" y="867.8" type="line"/>
+      <point x="620.2" y="1410.8" type="line"/>
+      <point x="477.8" y="1410.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="195.8" y="1069.0" type="line"/>
+      <point x="793.8" y="1069.0" type="line"/>
+      <point x="814.1999999999999" y="1208.6" type="line"/>
+      <point x="215.20000000000002" y="1208.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Punctuation</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Fraction</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

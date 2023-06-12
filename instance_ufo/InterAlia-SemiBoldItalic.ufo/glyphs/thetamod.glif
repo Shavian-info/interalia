@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thetamod" format="2">
+  <advance height="2479.0" width="963.4"/>
+  <unicode hex="1DBF"/>
+  <outline>
+    <contour>
+      <point x="494.2" y="634.0" type="curve" smooth="yes"/>
+      <point x="707.4" y="634.0"/>
+      <point x="909.2" y="791.0"/>
+      <point x="964.6" y="1126.0" type="curve" smooth="yes"/>
+      <point x="988.2" y="1260.0" type="line" smooth="yes"/>
+      <point x="1043.2" y="1594.0"/>
+      <point x="889.2" y="1743.0"/>
+      <point x="677.0" y="1743.0" type="curve" smooth="yes"/>
+      <point x="466.4" y="1743.0"/>
+      <point x="263.4" y="1594.0"/>
+      <point x="208.20000000000002" y="1260.0" type="curve" smooth="yes"/>
+      <point x="184.8" y="1126.0" type="line" smooth="yes"/>
+      <point x="129.4" y="791.0"/>
+      <point x="286.0" y="634.0"/>
+    </contour>
+    <contour>
+      <point x="523.8000000000001" y="811.6" type="curve" smooth="yes"/>
+      <point x="403.8" y="811.6"/>
+      <point x="356.59999999999997" y="899.8"/>
+      <point x="391.4" y="1103.0" type="curve" smooth="yes"/>
+      <point x="420.4" y="1283.0" type="line" smooth="yes"/>
+      <point x="452.59999999999997" y="1480.8"/>
+      <point x="522.0" y="1567.8"/>
+      <point x="648.6" y="1567.8" type="curve" smooth="yes"/>
+      <point x="775.6" y="1567.8"/>
+      <point x="816.0" y="1480.8"/>
+      <point x="783.1999999999999" y="1283.0" type="curve" smooth="yes"/>
+      <point x="753.8" y="1103.0" type="line" smooth="yes"/>
+      <point x="720.5999999999999" y="907.8"/>
+      <point x="653.8000000000001" y="811.6"/>
+    </contour>
+    <contour>
+      <point x="863.8000000000001" y="1102.4" type="line"/>
+      <point x="892.2" y="1279.6" type="line"/>
+      <point x="275.4" y="1279.6" type="line"/>
+      <point x="247.6" y="1102.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

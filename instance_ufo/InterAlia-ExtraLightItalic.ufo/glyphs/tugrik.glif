@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tugrik" format="2">
+  <advance height="2479.0" width="1276.3333333333333"/>
+  <unicode hex="20AE"/>
+  <anchor x="544.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="551.0" y="-4.0" name="cedilla"/>
+  <anchor x="672.6666666666666" y="768.0" name="cross"/>
+  <anchor x="636.0" y="25.333333333333336" name="cyrtic"/>
+  <anchor x="566.3333333333334" y="0.0" name="right"/>
+  <anchor x="824.6666666666666" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1076.6666666666665" y="1063.6666666666667" type="line"/>
+      <point x="319.6666666666667" y="778.6666666666666" type="line"/>
+      <point x="305.6666666666667" y="698.0" type="line"/>
+      <point x="1061.6666666666665" y="977.6666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="1024.6666666666665" y="754.6666666666666" type="line"/>
+      <point x="267.6666666666667" y="469.6666666666667" type="line"/>
+      <point x="256.0" y="388.6666666666667" type="line"/>
+      <point x="1010.6666666666666" y="667.6666666666666" type="line"/>
+    </contour>
+    <component base="T"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

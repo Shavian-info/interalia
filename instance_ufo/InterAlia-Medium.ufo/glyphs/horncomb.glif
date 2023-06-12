@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horncomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="031B"/>
+  <outline>
+    <contour>
+      <point x="-112.8" y="1445.0" type="curve" smooth="yes"/>
+      <point x="-330.0" y="1445.0" type="line"/>
+      <point x="-330.0" y="1269.2"/>
+      <point x="-359.2" y="1176.6"/>
+      <point x="-421.4" y="1069.0" type="curve"/>
+      <point x="-295.2" y="991.2" type="line"/>
+      <point x="-166.4" y="1104.2"/>
+      <point x="-112.8" y="1378.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

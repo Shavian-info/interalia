@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="shelfmod" format="2">
+  <advance height="2479.0" width="871.6666666666666"/>
+  <unicode hex="02FD"/>
+  <outline>
+    <contour>
+      <point x="494.3333333333333" y="-393.0" type="line"/>
+      <point x="67.00000000000001" y="-393.0" type="line"/>
+      <point x="55.33333333333334" y="-464.3333333333333" type="line"/>
+      <point x="482.99999999999994" y="-464.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="119.33333333333336" y="-125.33333333333333" type="line"/>
+      <point x="37.66666666666665" y="-125.33333333333333" type="line"/>
+      <point x="-16.333333333333353" y="-464.3333333333333" type="line"/>
+      <point x="65.33333333333336" y="-464.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="603.6666666666666" y="-125.33333333333333" type="line"/>
+      <point x="522.6666666666666" y="-125.33333333333333" type="line"/>
+      <point x="468.6666666666667" y="-464.3333333333333" type="line"/>
+      <point x="549.6666666666666" y="-464.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

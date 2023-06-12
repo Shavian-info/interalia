@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U-cy" format="2">
+  <advance height="2479.0" width="1309.6"/>
+  <unicode hex="0423"/>
+  <anchor x="836.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="173.39999999999998" y="-20.0" type="line"/>
+      <point x="274.6" y="-20.0" type="line" smooth="yes"/>
+      <point x="507.4" y="-20.0"/>
+      <point x="606.2" y="110.2"/>
+      <point x="696.6" y="258.0" type="curve" smooth="yes"/>
+      <point x="1415.0" y="1489.0" type="line"/>
+      <point x="1180.0" y="1489.0" type="line"/>
+      <point x="688.6" y="628.0" type="line"/>
+      <point x="441.2" y="1489.0" type="line"/>
+      <point x="203.4" y="1489.0" type="line"/>
+      <point x="541.4000000000001" y="371.8" type="line"/>
+      <point x="511.2" y="319.0" type="line" smooth="yes"/>
+      <point x="467.40000000000003" y="240.8"/>
+      <point x="408.0" y="177.2"/>
+      <point x="296.0" y="177.2" type="curve" smooth="yes"/>
+      <point x="207.2" y="177.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

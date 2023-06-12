@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fraction" format="2">
+  <advance height="2479.0" width="559.6666666666666"/>
+  <unicode hex="2044"/>
+  <anchor x="513.0" y="791.0" name="dnom"/>
+  <anchor x="47.666666666666664" y="698.0" name="numr"/>
+  <outline>
+    <contour>
+      <point x="-277.3333333333333" y="0.0" type="line"/>
+      <point x="-185.33333333333331" y="0.0" type="line"/>
+      <point x="836.6666666666666" y="1489.0" type="line"/>
+      <point x="744.6666666666666" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

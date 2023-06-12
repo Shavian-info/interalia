@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedi" format="2">
+  <advance height="2479.0" width="1515.2"/>
+  <unicode hex="20B5"/>
+  <anchor x="697.2" y="-8.4" name="cedilla"/>
+  <anchor x="974.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1039.6" y="1676.0" type="line"/>
+      <point x="883.8" y="1676.0" type="line"/>
+      <point x="575.8" y="-186.0" type="line"/>
+      <point x="731.4" y="-186.0" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

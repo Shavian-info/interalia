@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asteriskabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="20F0"/>
+  <anchor x="-515.0" y="1303.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-557.6666666666666" y="1270.3333333333333" type="line"/>
+      <point x="-472.0" y="1270.3333333333333" type="line"/>
+      <point x="-474.0" y="1571.6666666666667" type="line"/>
+      <point x="-220.0" y="1423.6666666666667" type="line"/>
+      <point x="-177.66666666666666" y="1498.0" type="line"/>
+      <point x="-433.3333333333333" y="1642.6666666666667" type="line"/>
+      <point x="-180.33333333333334" y="1785.3333333333333" type="line"/>
+      <point x="-222.66666666666669" y="1859.6666666666667" type="line"/>
+      <point x="-474.0" y="1712.6666666666667" type="line"/>
+      <point x="-472.0" y="2009.0" type="line"/>
+      <point x="-557.6666666666666" y="2009.0" type="line"/>
+      <point x="-555.6666666666666" y="1712.6666666666667" type="line"/>
+      <point x="-807.3333333333334" y="1861.6666666666667" type="line"/>
+      <point x="-850.6666666666666" y="1787.3333333333333" type="line"/>
+      <point x="-595.3333333333334" y="1642.6666666666667" type="line"/>
+      <point x="-855.3333333333334" y="1496.3333333333333" type="line"/>
+      <point x="-812.6666666666666" y="1422.3333333333333" type="line"/>
+      <point x="-554.6666666666666" y="1571.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

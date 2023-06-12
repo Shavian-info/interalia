@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigmaLunateSymbol" format="2">
+  <advance height="2479.0" width="1202.0"/>
+  <unicode hex="03F2"/>
+  <anchor x="539.1999999999999" y="0.0" name="cedilla"/>
+  <anchor x="749.4" y="1303.0" name="top"/>
+  <outline>
+    <component base="c"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

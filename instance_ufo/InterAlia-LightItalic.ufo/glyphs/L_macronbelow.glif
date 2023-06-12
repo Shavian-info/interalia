@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lmacronbelow" format="2">
+  <advance height="2479.0" width="1152.0"/>
+  <unicode hex="1E3A"/>
+  <anchor x="533.0" y="0.0" name="bottom"/>
+  <anchor x="300.3333333333333" y="768.0" name="cross"/>
+  <anchor x="641.0" y="778.6666666666666" name="dot"/>
+  <anchor x="770.0" y="1489.0" name="raccent"/>
+  <anchor x="454.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="macronbelowcomb" xOffset="1231.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

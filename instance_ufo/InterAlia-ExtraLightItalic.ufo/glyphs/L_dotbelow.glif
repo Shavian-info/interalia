@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ldotbelow" format="2">
+  <advance height="2479.0" width="1152.0"/>
+  <unicode hex="1E36"/>
+  <anchor x="534.0" y="0.0" name="bottom"/>
+  <anchor x="295.6666666666667" y="768.0" name="cross"/>
+  <anchor x="639.0" y="763.3333333333334" name="dot"/>
+  <anchor x="775.0" y="1489.0" name="raccent"/>
+  <anchor x="448.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="L"/>
+    <component base="dotbelowcomb" xOffset="1200.3333333333335"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

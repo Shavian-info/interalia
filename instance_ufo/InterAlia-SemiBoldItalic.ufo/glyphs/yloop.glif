@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yloop" format="2">
+  <advance height="2479.0" width="1288.6"/>
+  <unicode hex="1EFF"/>
+  <anchor x="923.8000000000001" y="-29.4" name="bottom"/>
+  <anchor x="722.5999999999999" y="-419.0" name="ogonek"/>
+  <anchor x="821.4" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="229.59999999999997" y="-419.0" type="curve"/>
+      <point x="265.59999999999997" y="-203.6" type="line"/>
+      <point x="207.40000000000003" y="-204.0"/>
+      <point x="169.6" y="-177.6"/>
+      <point x="176.79999999999998" y="-134.6" type="curve" smooth="yes"/>
+      <point x="183.79999999999998" y="-93.6"/>
+      <point x="227.0" y="-65.80000000000001"/>
+      <point x="288.2" y="-65.8" type="curve"/>
+      <point x="586.6" y="-65.8" type="line"/>
+      <point x="619.0" y="137.0" type="line"/>
+      <point x="307.4" y="137.0" type="line"/>
+      <point x="104.0" y="137.0"/>
+      <point x="-38.6" y="38.2"/>
+      <point x="-66.60000000000001" y="-130.8" type="curve" smooth="yes"/>
+      <point x="-95.8" y="-305.6"/>
+      <point x="16.999999999999993" y="-419.0"/>
+    </contour>
+    <component base="y" xOffset="109.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

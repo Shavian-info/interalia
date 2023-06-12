@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uptackmod" format="2">
+  <advance height="2479" width="665"/>
+  <unicode hex="02D4"/>
+  <outline>
+    <contour>
+      <point x="252" y="192" type="line"/>
+      <point x="298" y="192" type="line"/>
+      <point x="349" y="497" type="line"/>
+      <point x="303" y="497" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="192" type="line"/>
+      <point x="433" y="192" type="line"/>
+      <point x="441" y="239" type="line"/>
+      <point x="124" y="239" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

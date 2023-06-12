@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fourdotsabovecomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="20DC"/>
+  <outline>
+    <component base="period" xOffset="-2060" yOffset="1300"/>
+    <component base="period" xOffset="-1548" yOffset="1300"/>
+    <component base="period" xOffset="-1036" yOffset="1300"/>
+    <component base="period" xOffset="-524" yOffset="1300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

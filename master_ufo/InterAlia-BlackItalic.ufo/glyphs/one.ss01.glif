@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.ss01" format="2">
+  <advance height="2479" width="1016"/>
+  <outline>
+    <contour>
+      <point x="963" y="1489" type="line"/>
+      <point x="556" y="1489" type="line"/>
+      <point x="532" y="1350"/>
+      <point x="369" y="1228"/>
+      <point x="204" y="1228" type="curve"/>
+      <point x="151" y="911" type="line"/>
+      <point x="311" y="911"/>
+      <point x="416" y="966"/>
+      <point x="465" y="1021" type="curve"/>
+      <point x="480" y="1021" type="line"/>
+      <point x="311" y="0" type="line"/>
+      <point x="716" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal Digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

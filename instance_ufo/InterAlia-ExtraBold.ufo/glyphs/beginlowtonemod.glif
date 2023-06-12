@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="beginlowtonemod" format="2">
+  <advance height="2479.0" width="842.2"/>
+  <unicode hex="02FB"/>
+  <outline>
+    <contour>
+      <point x="204.0" y="-453.8" type="line"/>
+      <point x="415.20000000000005" y="-453.8" type="line"/>
+      <point x="415.20000000000005" y="-43.599999999999994" type="line"/>
+      <point x="204.0" y="-43.599999999999994" type="line"/>
+    </contour>
+    <contour>
+      <point x="204.0" y="-453.8" type="line"/>
+      <point x="639.6" y="-453.8" type="line"/>
+      <point x="639.6" y="-258.6" type="line"/>
+      <point x="204.0" y="-258.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

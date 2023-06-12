@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ringhalfleftcentered" format="2">
+  <advance height="2479.0" width="354.4"/>
+  <unicode hex="02D3"/>
+  <outline>
+    <component base="ringhalfleft" xOffset="-124.8" yOffset="-751.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

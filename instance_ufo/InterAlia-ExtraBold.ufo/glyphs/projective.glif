@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="projective" format="2">
+  <advance height="2479.0" width="1629.0"/>
+  <unicode hex="2305"/>
+  <outline>
+    <contour>
+      <point x="184.2" y="1215.4" type="line"/>
+      <point x="1445.6" y="1215.4" type="line"/>
+      <point x="1445.6" y="1489.0" type="line"/>
+      <point x="184.2" y="1489.0" type="line"/>
+    </contour>
+    <component base="control" yOffset="-372.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

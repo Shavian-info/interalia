@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zigzagbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DCF"/>
+  <outline>
+    <contour>
+      <point x="-774" y="-113" type="line"/>
+      <point x="-954" y="-113" type="line"/>
+      <point x="-1091" y="-393" type="line"/>
+      <point x="-911" y="-393" type="line"/>
+    </contour>
+    <contour>
+      <point x="-567" y="-276" type="line"/>
+      <point x="-751" y="-276" type="line"/>
+      <point x="-884" y="-556" type="line"/>
+      <point x="-707" y="-556" type="line"/>
+    </contour>
+    <contour>
+      <point x="-975" y="-393" type="line"/>
+      <point x="-707" y="-393" type="line"/>
+      <point x="-689" y="-276" type="line"/>
+      <point x="-957" y="-276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>44</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

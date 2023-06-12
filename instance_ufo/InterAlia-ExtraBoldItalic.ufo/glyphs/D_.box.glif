@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.box" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="1F133"/>
+  <anchor x="1261.2" y="0.0" name="bottom"/>
+  <anchor x="1044.4" y="784.0" name="cross"/>
+  <anchor x="1530.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="D" xOffset="708.4"/>
+    <component base="enclosingsquarecomb" xOffset="667.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>D</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingsquarecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

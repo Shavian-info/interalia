@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tonefive" format="2">
+  <advance height="2479" width="1356"/>
+  <unicode hex="01BC"/>
+  <outline>
+    <contour>
+      <point x="399" y="1489" type="line"/>
+      <point x="76" y="1489" type="line"/>
+      <point x="76" y="1167" type="line"/>
+      <point x="399" y="1167" type="line"/>
+    </contour>
+    <component base="five" xOffset="58"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

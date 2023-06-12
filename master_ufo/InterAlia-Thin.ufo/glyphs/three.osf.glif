@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.osf" format="2">
+  <advance height="2479" width="1095"/>
+  <outline>
+    <contour>
+      <point x="527" y="-442" type="curve" smooth="yes"/>
+      <point x="782" y="-442"/>
+      <point x="964" y="-267"/>
+      <point x="964" y="-38" type="curve" smooth="yes"/>
+      <point x="964" y="160"/>
+      <point x="828" y="332"/>
+      <point x="662" y="361" type="curve"/>
+      <point x="662" y="367" type="line"/>
+      <point x="815" y="441"/>
+      <point x="903" y="572"/>
+      <point x="903" y="756" type="curve" smooth="yes"/>
+      <point x="903" y="993"/>
+      <point x="758" y="1132"/>
+      <point x="547" y="1132" type="curve" smooth="yes"/>
+      <point x="332" y="1132"/>
+      <point x="191" y="990"/>
+      <point x="191" y="775" type="curve"/>
+      <point x="237" y="775" type="line"/>
+      <point x="237" y="962"/>
+      <point x="360" y="1085"/>
+      <point x="545" y="1085" type="curve" smooth="yes"/>
+      <point x="729" y="1085"/>
+      <point x="857" y="965"/>
+      <point x="857" y="755" type="curve" smooth="yes"/>
+      <point x="857" y="536"/>
+      <point x="718" y="387"/>
+      <point x="508" y="387" type="curve" smooth="yes"/>
+      <point x="484" y="387" type="line"/>
+      <point x="484" y="340" type="line"/>
+      <point x="508" y="340" type="line" smooth="yes"/>
+      <point x="755" y="340"/>
+      <point x="918" y="184"/>
+      <point x="918" y="-28" type="curve" smooth="yes"/>
+      <point x="918" y="-238"/>
+      <point x="756" y="-396"/>
+      <point x="527" y="-396" type="curve" smooth="yes"/>
+      <point x="359" y="-396"/>
+      <point x="225" y="-332"/>
+      <point x="175" y="-201" type="curve"/>
+      <point x="131" y="-218" type="line"/>
+      <point x="188" y="-367"/>
+      <point x="339" y="-442"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

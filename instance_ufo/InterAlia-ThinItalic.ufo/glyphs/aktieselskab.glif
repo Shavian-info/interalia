@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="aktieselskab" format="2">
+  <advance height="2479" width="1916"/>
+  <unicode hex="214D"/>
+  <anchor x="1351" y="791" name="dnom"/>
+  <anchor x="885" y="698" name="numr"/>
+  <outline>
+    <contour>
+      <point x="723" y="1024" type="line"/>
+      <point x="298" y="1024" type="line"/>
+      <point x="292" y="977" type="line"/>
+      <point x="717" y="977" type="line"/>
+    </contour>
+    <contour>
+      <point x="761" y="745" type="line"/>
+      <point x="810" y="745" type="line"/>
+      <point x="615" y="1489" type="line"/>
+      <point x="563" y="1489" type="line"/>
+      <point x="121" y="745" type="line"/>
+      <point x="170" y="745" type="line"/>
+      <point x="583" y="1443" type="line"/>
+      <point x="577" y="1443" type="line"/>
+    </contour>
+    <component base="fraction" xOffset="804"/>
+    <component base="sinferior" xOffset="1281" yOffset="256"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

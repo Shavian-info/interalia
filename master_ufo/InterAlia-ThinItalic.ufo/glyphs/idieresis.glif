@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance height="2479" width="454"/>
+  <unicode hex="00EF"/>
+  <anchor x="134" y="0" name="bottom"/>
+  <anchor x="230" y="582" name="cross"/>
+  <anchor x="157" y="0" name="ogonek"/>
+  <anchor x="413" y="1676" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="dieresis" xOffset="-448"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jdotlessstrokehook" format="2">
+  <advance height="2479.0" width="799.6"/>
+  <unicode hex="0284"/>
+  <outline>
+    <component base="esh"/>
+    <component base="crossbar" xOffset="-110.60000000000001" yOffset="-652.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

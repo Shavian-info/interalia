@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphapsiliperispomeniypogegrammeni" format="2">
+  <advance height="2479" width="1350"/>
+  <unicode hex="1F86"/>
+  <anchor x="579" y="0" name="bottom"/>
+  <anchor x="634" y="1303" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="prosgegrammeni" xOffset="311"/>
+    <component base="psiliperispomeni" xOffset="270" yOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

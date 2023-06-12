@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tetse-cy" format="2">
+  <advance height="2479.0" width="1774.0"/>
+  <unicode hex="04B4"/>
+  <outline>
+    <contour>
+      <point x="1201.0" y="1489.0" type="line"/>
+      <point x="270.3333333333333" y="1489.0" type="line"/>
+      <point x="256.3333333333333" y="1405.0" type="line"/>
+      <point x="1187.6666666666667" y="1405.0" type="line"/>
+    </contour>
+    <component base="Tse-cy" xOffset="329.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

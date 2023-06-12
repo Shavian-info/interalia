@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="insertionsymbol" format="2">
+  <advance height="2479.0" width="1629.0"/>
+  <unicode hex="2380"/>
+  <outline>
+    <contour>
+      <point x="815.0" y="-23.0" type="line"/>
+      <point x="1527.0" y="689.0" type="line"/>
+      <point x="1451.3333333333333" y="763.6666666666666" type="line"/>
+      <point x="815.0" y="127.33333333333334" type="line"/>
+      <point x="177.66666666666666" y="763.6666666666666" type="line"/>
+      <point x="102.0" y="689.0" type="line"/>
+    </contour>
+    <component base="amod" xOffset="427.3333333333333" yOffset="-186.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>amod</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

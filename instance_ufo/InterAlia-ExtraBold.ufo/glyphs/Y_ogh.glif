@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yogh" format="2">
+  <advance height="2479.0" width="1454.2"/>
+  <unicode hex="021C"/>
+  <anchor x="705.2" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="702.6" y="-441.8" type="curve" smooth="yes"/>
+      <point x="1097.6" y="-441.8"/>
+      <point x="1394.2" y="-170.8"/>
+      <point x="1394.2" y="214.4" type="curve" smooth="yes"/>
+      <point x="1394.2" y="517.8"/>
+      <point x="1210.0" y="701.6"/>
+      <point x="855.6" y="735.2" type="curve"/>
+      <point x="689.2" y="553.8" type="line"/>
+      <point x="896.2" y="554.2"/>
+      <point x="1018.6" y="424.4"/>
+      <point x="1018.6" y="212.2" type="curve" smooth="yes"/>
+      <point x="1018.6" y="-4.0"/>
+      <point x="890.8" y="-142.0"/>
+      <point x="706.2" y="-142.0" type="curve" smooth="yes"/>
+      <point x="544.2" y="-142.0"/>
+      <point x="433.6" y="-35.599999999999994"/>
+      <point x="426.8" y="122.4" type="curve"/>
+      <point x="63.8" y="122.4" type="line"/>
+      <point x="72.0" y="-207.2"/>
+      <point x="336.2" y="-441.8"/>
+    </contour>
+    <contour>
+      <point x="364.8" y="336.6" type="line"/>
+      <point x="997.2" y="450.6"/>
+      <point x="1328.2" y="702.2"/>
+      <point x="1328.2" y="1052.0" type="curve" smooth="yes"/>
+      <point x="1328.2" y="1339.8"/>
+      <point x="1105.6" y="1510.0"/>
+      <point x="725.8" y="1510.0" type="curve" smooth="yes"/>
+      <point x="335.2" y="1510.0"/>
+      <point x="109.2" y="1331.4"/>
+      <point x="109.2" y="1026.6" type="curve"/>
+      <point x="458.6" y="1026.6" type="line"/>
+      <point x="458.6" y="1128.2"/>
+      <point x="552.8" y="1196.4"/>
+      <point x="709.2" y="1196.4" type="curve" smooth="yes"/>
+      <point x="877.0" y="1196.4"/>
+      <point x="978.8" y="1118.0"/>
+      <point x="978.8" y="998.0" type="curve" smooth="yes"/>
+      <point x="978.8" y="825.0"/>
+      <point x="766.6" y="708.0"/>
+      <point x="364.8" y="627.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

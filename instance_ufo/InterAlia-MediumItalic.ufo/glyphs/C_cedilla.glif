@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ccedilla" format="2">
+  <advance height="2479.0" width="1515.2"/>
+  <unicode hex="00C7"/>
+  <anchor x="697.2" y="-8.4" name="cedilla"/>
+  <anchor x="974.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedilla" xOffset="475.59999999999997" yOffset="-8.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

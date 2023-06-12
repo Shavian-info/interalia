@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender-cy" format="2">
+  <advance height="2479.0" width="1797.4"/>
+  <unicode hex="0497"/>
+  <anchor x="1747.4" y="123.4" name="cyrtic"/>
+  <anchor x="899.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="zhe-cy"/>
+    <component base="cyrillictic.cn" xOffset="1462.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

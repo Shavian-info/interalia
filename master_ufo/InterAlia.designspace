@@ -1,0 +1,790 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="5.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="100" maximum="900" default="400"/>
+    <axis tag="slnt" name="Slant" minimum="-10" maximum="0" default="0"/>
+  </axes>
+  <sources>
+    <source filename="InterAlia-Thin.ufo" name="Inter Alia Thin" familyname="Inter Alia" stylename="Thin">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="InterAlia-ThinItalic.ufo" name="Inter Alia Thin Italic" familyname="Inter Alia" stylename="Thin Italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="InterAlia-Regular.ufo" name="Inter Alia Regular" familyname="Inter Alia" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="InterAlia-Italic.ufo" name="Inter Alia Italic" familyname="Inter Alia" stylename="Italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="InterAlia-Black.ufo" name="Inter Alia Black" familyname="Inter Alia" stylename="Black">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="InterAlia-BlackItalic.ufo" name="Inter Alia Black Italic" familyname="Inter Alia" stylename="Black Italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Inter Alia Thin" familyname="Inter Alia" stylename="Thin" filename="../instance_ufo/InterAlia-Thin.ufo" stylemapfamilyname="Inter Alia Thin" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Thin Italic" familyname="Inter Alia" stylename="Thin Italic" filename="../instance_ufo/InterAlia-ThinItalic.ufo" stylemapfamilyname="Inter Alia Thin" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="100"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Extra Light" familyname="Inter Alia" stylename="Extra Light" filename="../instance_ufo/InterAlia-ExtraLight.ufo" stylemapfamilyname="Inter Alia Extra Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>3</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Extra Light Italic" familyname="Inter Alia" stylename="Extra Light Italic" filename="../instance_ufo/InterAlia-ExtraLightItalic.ufo" stylemapfamilyname="Inter Alia Extra Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="200"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>3</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Light" familyname="Inter Alia" stylename="Light" filename="../instance_ufo/InterAlia-Light.ufo" stylemapfamilyname="Inter Alia Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Light Italic" familyname="Inter Alia" stylename="Light Italic" filename="../instance_ufo/InterAlia-LightItalic.ufo" stylemapfamilyname="Inter Alia Light" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="300"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Regular" familyname="Inter Alia" stylename="Regular" filename="../instance_ufo/InterAlia-Regular.ufo" stylemapfamilyname="Inter Alia" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>5</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Italic" familyname="Inter Alia" stylename="Italic" filename="../instance_ufo/InterAlia-Italic.ufo" stylemapfamilyname="Inter Alia" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="400"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>5</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Medium" familyname="Inter Alia" stylename="Medium" filename="../instance_ufo/InterAlia-Medium.ufo" stylemapfamilyname="Inter Alia Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>6</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Medium Italic" familyname="Inter Alia" stylename="Medium Italic" filename="../instance_ufo/InterAlia-MediumItalic.ufo" stylemapfamilyname="Inter Alia Medium" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="500"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>6</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Semi Bold" familyname="Inter Alia" stylename="Semi Bold" filename="../instance_ufo/InterAlia-SemiBold.ufo" stylemapfamilyname="Inter Alia Semi Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>7</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Semi Bold Italic" familyname="Inter Alia" stylename="Semi Bold Italic" filename="../instance_ufo/InterAlia-SemiBoldItalic.ufo" stylemapfamilyname="Inter Alia Semi Bold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="600"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>7</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Bold" familyname="Inter Alia" stylename="Bold" filename="../instance_ufo/InterAlia-Bold.ufo" stylemapfamilyname="Inter Alia" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>8</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Bold Italic" familyname="Inter Alia" stylename="Bold Italic" filename="../instance_ufo/InterAlia-BoldItalic.ufo" stylemapfamilyname="Inter Alia" stylemapstylename="bold italic">
+      <location>
+        <dimension name="Weight" xvalue="700"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>8</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Extra Bold" familyname="Inter Alia" stylename="Extra Bold" filename="../instance_ufo/InterAlia-ExtraBold.ufo" stylemapfamilyname="Inter Alia Extra Bold" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>9</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Extra Bold Italic" familyname="Inter Alia" stylename="Extra Bold Italic" filename="../instance_ufo/InterAlia-ExtraBoldItalic.ufo" stylemapfamilyname="Inter Alia Extra Bold" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="800"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>9</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Black" familyname="Inter Alia" stylename="Black" filename="../instance_ufo/InterAlia-Black.ufo" stylemapfamilyname="Inter Alia Black" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Slant" xvalue="0"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>10</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Inter Alia Black Italic" familyname="Inter Alia" stylename="Black Italic" filename="../instance_ufo/InterAlia-BlackItalic.ufo" stylemapfamilyname="Inter Alia Black" stylemapstylename="italic">
+      <location>
+        <dimension name="Weight" xvalue="900"/>
+        <dimension name="Slant" xvalue="-10"/>
+      </location>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>italicAngle</string>
+              <string>9.4</string>
+            </array>
+            <array>
+              <string>panose</string>
+              <array>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>10</integer>
+                <integer>3</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>2</integer>
+                <integer>0</integer>
+                <integer>4</integer>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>5C20EF92-B63D-42A8-8878-93C2863E0093</key>
+        <dict>
+          <key>HH</key>
+          <string>326</string>
+          <key>HV</key>
+          <string>404</string>
+          <key>OH</key>
+          <string>352</string>
+          <key>OV</key>
+          <string>416</string>
+          <key>nV</key>
+          <string>401</string>
+          <key>nd</key>
+          <string>288</string>
+          <key>oH</key>
+          <string>300</string>
+          <key>oV</key>
+          <string>410</string>
+          <key>tH</key>
+          <string>292</string>
+        </dict>
+        <key>B1F27B51-9973-4381-9301-4FE46FE1CA59</key>
+        <dict>
+          <key>HH</key>
+          <string>46</string>
+          <key>HV</key>
+          <string>404</string>
+          <key>OH</key>
+          <string>46</string>
+          <key>OV</key>
+          <string>46</string>
+          <key>nV</key>
+          <string>46</string>
+          <key>nd</key>
+          <string>46</string>
+          <key>oH</key>
+          <string>46</string>
+          <key>oV</key>
+          <string>46</string>
+          <key>tH</key>
+          <string>46</string>
+        </dict>
+        <key>C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265</key>
+        <dict>
+          <key>HH</key>
+          <string>160</string>
+          <key>HV</key>
+          <string>180</string>
+          <key>OH</key>
+          <string>168</string>
+          <key>OV</key>
+          <string>174</string>
+          <key>cydeH</key>
+          <string>220</string>
+          <key>nV</key>
+          <string>170</string>
+          <key>nd</key>
+          <string>140</string>
+          <key>oH</key>
+          <string>154</string>
+          <key>oV</key>
+          <string>172</string>
+          <key>tH</key>
+          <string>146</string>
+        </dict>
+      </dict>
+      <key>UFO.lib</key>
+      <dict>
+        <key>com.fontlab.v2.tth</key>
+        <dict>
+          <key>stems</key>
+          <dict>
+            <key>X: 108</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>0</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>14</key>
+                <integer>2</integer>
+                <key>24</key>
+                <integer>3</integer>
+                <key>33</key>
+                <integer>4</integer>
+                <key>42</key>
+                <integer>5</integer>
+                <key>51</key>
+                <integer>6</integer>
+              </dict>
+              <key>width</key>
+              <integer>216</integer>
+            </dict>
+            <key>Y: 104</key>
+            <dict>
+              <key>horizontal</key>
+              <integer>1</integer>
+              <key>round</key>
+              <dict>
+                <key>0</key>
+                <integer>1</integer>
+                <key>15</key>
+                <integer>2</integer>
+                <key>25</key>
+                <integer>3</integer>
+                <key>34</key>
+                <integer>4</integer>
+                <key>44</key>
+                <integer>5</integer>
+                <key>53</key>
+                <integer>6</integer>
+              </dict>
+              <key>width</key>
+              <integer>208</integer>
+            </dict>
+          </dict>
+        </dict>
+        <key>com.typemytype.robofont.compileSettings.autohint</key>
+        <integer>1</integer>
+        <key>com.typemytype.robofont.compileSettings.checkOutlines</key>
+        <integer>1</integer>
+        <key>com.typemytype.robofont.compileSettings.createDummyDSIG</key>
+        <integer>1</integer>
+        <key>com.typemytype.robofont.compileSettings.decompose</key>
+        <integer>1</integer>
+        <key>com.typemytype.robofont.compileSettings.generateFormat</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.compileSettings.releaseMode</key>
+        <integer>1</integer>
+        <key>com.typemytype.robofont.foreground.layerStrokeColor</key>
+        <array>
+          <string>zero.5</string>
+          <integer>0</integer>
+          <string>zero.5</string>
+          <real>0.7</real>
+        </array>
+        <key>com.typemytype.robofont.guideline.magnetic.1wKco2DCLw</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.3feO1g6pKR</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.5BDOqU396V</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.6zc2PSgk0L</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.72Av04Hnjs</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.Kl6On2bUL5</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.UcLrMpNWyq</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.XS3l6e91ZO</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.ZezcVw5JSI</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.b8ABisG9wa</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.dOrKFWNYQv</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.q0VgLiTZID</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.qiaBIVFlEl</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.tb6p90rJg5</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.v6gAatplbd</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.guideline.magnetic.vM1BSFVjvR</key>
+        <integer>5</integer>
+        <key>com.typemytype.robofont.italicSlantOffset</key>
+        <integer>0</integer>
+        <key>com.typemytype.robofont.reference.layerShow</key>
+        <integer>1</integer>
+        <key>com.typemytype.robofont.reference.layerStrokeColor</key>
+        <array>
+          <string>zero.9804</string>
+          <string>zero.1803</string>
+          <string>zero.6923</string>
+          <string>zero.8955</string>
+        </array>
+        <key>com.typemytype.robofont.segmentType</key>
+        <string>curve</string>
+        <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+        <integer>1</integer>
+      </dict>
+      <key>UFOFormat</key>
+      <integer>3</integer>
+      <key>public.skipExportGlyphs</key>
+      <array>
+        <string>debug1</string>
+        <string>lsdigraph.002</string>
+        <string>version</string>
+      </array>
+    </dict>
+  </lib>
+</designspace>

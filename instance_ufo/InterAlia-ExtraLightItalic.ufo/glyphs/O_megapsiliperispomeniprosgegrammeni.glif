@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsiliperispomeniprosgegrammeni" format="2">
+  <advance height="2479.0" width="1783.3333333333335"/>
+  <unicode hex="1FAE"/>
+  <anchor x="936.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="654.3333333333333" y="1489.0" name="tonos"/>
+  <outline>
+    <component base="Omega" xOffset="261.6666666666667"/>
+    <component base="prosgegrammeni" xOffset="820.6666666666666"/>
+    <component base="psiliperispomeni.tonos" xOffset="-121.0" yOffset="39.666666666666664"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

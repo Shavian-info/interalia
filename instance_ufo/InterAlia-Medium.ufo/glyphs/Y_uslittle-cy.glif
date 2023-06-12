@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yuslittle-cy" format="2">
+  <advance height="2479.0" width="1368.8"/>
+  <unicode hex="0466"/>
+  <outline>
+    <contour>
+      <point x="748.6" y="1343.8" type="line"/>
+      <point x="721.6" y="1489.0" type="line"/>
+      <point x="572.2" y="1489.0" type="line"/>
+      <point x="47.8" y="0.0" type="line"/>
+      <point x="300.6" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1069.6" y="0.0" type="line"/>
+      <point x="1322.6" y="0.0" type="line"/>
+      <point x="804.2" y="1489.0" type="line"/>
+      <point x="654.6" y="1489.0" type="line"/>
+      <point x="624.2" y="1352.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="1045.6" y="613.8" type="line"/>
+      <point x="305.6" y="613.8" type="line"/>
+      <point x="305.6" y="427.2" type="line"/>
+      <point x="1045.6" y="427.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="789.6" y="544.2" type="line"/>
+      <point x="568.4" y="544.2" type="line"/>
+      <point x="568.4" y="0.0" type="line"/>
+      <point x="789.6" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

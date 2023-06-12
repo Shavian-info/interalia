@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fivehundred-roman" format="2">
+  <advance height="2479.0" width="1175.2"/>
+  <unicode hex="217E"/>
+  <anchor x="655.8" y="0.0" name="bottom"/>
+  <anchor x="1025.0" y="1280.0" name="cross"/>
+  <anchor x="1324.2" y="1489.0" name="raccent"/>
+  <anchor x="562.2" y="1489.0" name="top"/>
+  <outline>
+    <component base="d" xOffset="4.800000000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gamma" format="2">
+  <advance height="2479.0" width="1175.0"/>
+  <unicode hex="0393"/>
+  <anchor x="267.0" y="764.0" name="cross"/>
+  <anchor x="394.6666666666667" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="322.0" y="0.0" name="right"/>
+  <anchor x="631.0" y="1697.3333333333333" name="top"/>
+  <outline>
+    <contour>
+      <point x="1067.3333333333333" y="1489.0" type="line"/>
+      <point x="197.66666666666666" y="1489.0" type="line"/>
+      <point x="197.66666666666666" y="0.0" type="line"/>
+      <point x="333.6666666666667" y="0.0" type="line"/>
+      <point x="333.6666666666667" y="1367.0" type="line"/>
+      <point x="1067.3333333333333" y="1367.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

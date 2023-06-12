@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronvaria" format="2">
+  <advance height="2479" width="1708"/>
+  <unicode hex="1FF8"/>
+  <anchor x="978" y="0" name="bottom"/>
+  <anchor x="1184" y="6" name="ogonek"/>
+  <anchor x="335" y="1489" name="tonos"/>
+  <anchor x="978" y="1676" name="top"/>
+  <outline>
+    <component base="O" xOffset="163"/>
+    <component base="varia.tonos" xOffset="-189"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

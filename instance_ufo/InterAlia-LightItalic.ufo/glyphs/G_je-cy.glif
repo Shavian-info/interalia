@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gje-cy" format="2">
+  <advance height="2479.0" width="1176.0"/>
+  <unicode hex="0403"/>
+  <anchor x="300.3333333333333" y="764.0" name="cross"/>
+  <anchor x="310.33333333333337" y="44.66666666666667" name="cyrtic"/>
+  <anchor x="229.0" y="0.0" name="right"/>
+  <anchor x="899.0" y="2070.3333333333335" name="top"/>
+  <outline>
+    <component base="Gamma"/>
+    <component base="acute" xOffset="205.0" yOffset="394.3333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

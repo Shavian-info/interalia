@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kgreenlandic" format="2">
+  <advance height="2479.0" width="1190.8"/>
+  <unicode hex="0138"/>
+  <outline>
+    <contour>
+      <point x="404.6" y="321.8" type="line"/>
+      <point x="609.2" y="555.6" type="line"/>
+      <point x="682.6" y="555.6" type="line"/>
+      <point x="1163.4" y="1117.0" type="line"/>
+      <point x="808.0" y="1117.0" type="line"/>
+      <point x="450.4" y="693.2" type="line"/>
+      <point x="404.6" y="693.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="124.0" y="0.0" type="line"/>
+      <point x="433.4" y="0.0" type="line"/>
+      <point x="433.4" y="1117.0" type="line"/>
+      <point x="124.0" y="1117.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="821.4" y="0.0" type="line"/>
+      <point x="1184.6" y="0.0" type="line"/>
+      <point x="699.4" y="705.0" type="line"/>
+      <point x="493.4" y="486.4" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

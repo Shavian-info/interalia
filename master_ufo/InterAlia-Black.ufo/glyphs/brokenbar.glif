@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenbar" format="2">
+  <advance height="2479" width="815"/>
+  <unicode hex="00A6"/>
+  <outline>
+    <contour>
+      <point x="230" y="425" type="line"/>
+      <point x="230" y="-279" type="line"/>
+      <point x="585" y="-279" type="line"/>
+      <point x="585" y="425" type="line"/>
+    </contour>
+    <contour>
+      <point x="585" y="1489" type="line"/>
+      <point x="230" y="1489" type="line"/>
+      <point x="230" y="788" type="line"/>
+      <point x="585" y="788" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

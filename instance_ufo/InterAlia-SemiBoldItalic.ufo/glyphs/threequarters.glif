@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threequarters" format="2">
+  <advance height="2479.0" width="1980.6"/>
+  <unicode hex="00BE"/>
+  <anchor x="1325.3999999999999" y="791.0" name="dnom"/>
+  <anchor x="802.4" y="698.0" name="numr"/>
+  <outline>
+    <component base="fraction" xOffset="753.1999999999999"/>
+    <component base="four.dnomf" xOffset="1147.2"/>
+    <component base="three.numr" xOffset="-8.0" yOffset="-47.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>four.dnomf</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

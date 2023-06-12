@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zstroke" format="2">
+  <advance height="2479.0" width="1252.6666666666667"/>
+  <unicode hex="01B5"/>
+  <anchor x="624.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="631.6666666666666" y="752.6666666666666" name="cross"/>
+  <anchor x="626.6666666666666" y="1676.0" name="top"/>
+  <outline>
+    <component base="Z"/>
+    <component base="crossbar" xOffset="195.0" yOffset="31.666666666666668"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

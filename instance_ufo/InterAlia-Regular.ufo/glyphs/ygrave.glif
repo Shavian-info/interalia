@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ygrave" format="2">
+  <advance height="2479" width="1140"/>
+  <unicode hex="1EF3"/>
+  <anchor x="847" y="-49" name="bottom"/>
+  <anchor x="723" y="-419" name="ogonek"/>
+  <anchor x="546" y="1676" name="top"/>
+  <outline>
+    <component base="y"/>
+    <component base="grave" xOffset="-50"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

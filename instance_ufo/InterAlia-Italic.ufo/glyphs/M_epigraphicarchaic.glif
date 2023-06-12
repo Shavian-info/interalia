@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Mepigraphicarchaic" format="2">
+  <advance height="2479" width="2409"/>
+  <unicode hex="A7FF"/>
+  <outline>
+    <contour>
+      <point x="1100" y="143" type="line"/>
+      <point x="605" y="1457" type="line"/>
+      <point x="445" y="1315" type="line"/>
+      <point x="940" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="605" y="1457" type="line"/>
+      <point x="396" y="1457" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1527" y="1457" type="line"/>
+      <point x="1324" y="1457" type="line"/>
+      <point x="943" y="0" type="line"/>
+      <point x="1146" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2022" y="143" type="line"/>
+      <point x="1527" y="1457" type="line"/>
+      <point x="1367" y="1315" type="line"/>
+      <point x="1859" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2449" y="1457" type="line"/>
+      <point x="2246" y="1457" type="line"/>
+      <point x="1865" y="0" type="line"/>
+      <point x="2068" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

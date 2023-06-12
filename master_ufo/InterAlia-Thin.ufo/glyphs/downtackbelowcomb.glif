@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downtackbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="031E"/>
+  <anchor x="-589" y="0" name="_bottom"/>
+  <outline>
+    <component base="downtackmod" xOffset="-922" yOffset="-591"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

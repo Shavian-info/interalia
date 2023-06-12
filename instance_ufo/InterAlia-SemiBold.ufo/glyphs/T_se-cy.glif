@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tse-cy" format="2">
+  <advance height="2479.0" width="1590.8"/>
+  <unicode hex="0426"/>
+  <outline>
+    <contour>
+      <point x="1525.2" y="225.2" type="line"/>
+      <point x="1139.4" y="225.2" type="line"/>
+      <point x="1139.4" y="0.0" type="line"/>
+      <point x="1243.8" y="0.0" type="line"/>
+      <point x="1243.8" y="-352.0" type="line"/>
+      <point x="1505.4" y="-352.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="146.4" y="0.0" type="line"/>
+      <point x="1336.0" y="0.0" type="line"/>
+      <point x="1336.0" y="1489.0" type="line"/>
+      <point x="1074.8" y="1489.0" type="line"/>
+      <point x="1074.8" y="224.0" type="line"/>
+      <point x="405.6" y="224.0" type="line"/>
+      <point x="405.6" y="1489.0" type="line"/>
+      <point x="146.4" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

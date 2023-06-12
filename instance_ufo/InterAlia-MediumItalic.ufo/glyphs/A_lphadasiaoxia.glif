@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiaoxia" format="2">
+  <advance height="2479.0" width="1433.8"/>
+  <unicode hex="1F0D"/>
+  <anchor x="623.4" y="0.0" name="bottom"/>
+  <anchor x="1289.0" y="0.0" name="ogonek"/>
+  <anchor x="642.0" y="1489.0" name="tonos"/>
+  <anchor x="903.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="dasiaoxia.tonos" xOffset="-344.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

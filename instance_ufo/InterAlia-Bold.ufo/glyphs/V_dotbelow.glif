@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Vdotbelow" format="2">
+  <advance height="2479.0" width="1531.4"/>
+  <unicode hex="1E7E"/>
+  <anchor x="765.8" y="0.0" name="bottom"/>
+  <anchor x="765.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="V"/>
+    <component base="dotbelowcomb" xOffset="1328.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

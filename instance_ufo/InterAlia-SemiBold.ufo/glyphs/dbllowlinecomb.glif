@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dbllowlinecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0333"/>
+  <outline>
+    <contour>
+      <point x="-170.6" y="-82.8" type="line"/>
+      <point x="-1106.0" y="-82.8" type="line"/>
+      <point x="-1106.0" y="-261.6" type="line"/>
+      <point x="-170.6" y="-261.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="-170.6" y="-350.8" type="line"/>
+      <point x="-1106.0" y="-350.8" type="line"/>
+      <point x="-1106.0" y="-529.2" type="line"/>
+      <point x="-170.6" y="-529.2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

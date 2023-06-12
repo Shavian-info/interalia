@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scommaaccent" format="2">
+  <advance height="2479" width="1306"/>
+  <unicode hex="0218"/>
+  <anchor x="655" y="-26" name="bottom"/>
+  <anchor x="655" y="0" name="cedilla"/>
+  <anchor x="652" y="1676" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="commaaccent" xOffset="376" yOffset="-26"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

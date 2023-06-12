@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhookabove" format="2">
+  <advance height="2479" width="1329"/>
+  <unicode hex="1EE7"/>
+  <anchor x="742" y="0" name="bottom"/>
+  <anchor x="1228" y="0" name="ogonek"/>
+  <anchor x="666" y="1303" name="top"/>
+  <outline>
+    <component base="u"/>
+    <component base="hookabovecomb" xOffset="1405" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

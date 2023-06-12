@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek" format="2">
+  <advance height="2479.0" width="602.8"/>
+  <unicode hex="02DB"/>
+  <anchor x="390.4" y="0.0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="178.99999999999997" y="-416.8" type="curve" smooth="yes"/>
+      <point x="253.8" y="-416.8"/>
+      <point x="315.40000000000003" y="-393.8"/>
+      <point x="354.6" y="-373.8" type="curve"/>
+      <point x="347.0" y="-214.0" type="line"/>
+      <point x="327.0" y="-220.2"/>
+      <point x="301.0" y="-231.6"/>
+      <point x="268.2" y="-231.6" type="curve" smooth="yes"/>
+      <point x="221.8" y="-231.6"/>
+      <point x="201.8" y="-205.6"/>
+      <point x="211.40000000000003" y="-158.0" type="curve" smooth="yes"/>
+      <point x="221.8" y="-88.4"/>
+      <point x="293.8" y="-43.0"/>
+      <point x="390.4" y="0.0" type="curve"/>
+      <point x="175.2" y="83.8" type="line"/>
+      <point x="38.2" y="26.199999999999996"/>
+      <point x="-35.6" y="-107.0"/>
+      <point x="-31.999999999999993" y="-224.8" type="curve" smooth="yes"/>
+      <point x="-29.800000000000004" y="-348.6"/>
+      <point x="51.0" y="-416.8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

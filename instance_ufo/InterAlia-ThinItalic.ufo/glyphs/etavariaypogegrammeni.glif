@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etavariaypogegrammeni" format="2">
+  <advance height="2479" width="1164"/>
+  <unicode hex="1FC2"/>
+  <anchor x="116" y="0" name="bottom"/>
+  <anchor x="704" y="1303" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="prosgegrammeni"/>
+    <component base="varia" xOffset="276" yOffset="107"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

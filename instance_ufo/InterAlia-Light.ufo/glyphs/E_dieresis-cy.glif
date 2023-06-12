@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edieresis-cy" format="2">
+  <advance height="2479.0" width="1354.0"/>
+  <unicode hex="04EC"/>
+  <anchor x="678.0" y="2049.0" name="top"/>
+  <outline>
+    <component base="Ereversed-cy"/>
+    <component base="dieresis" xOffset="49.66666666666667" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

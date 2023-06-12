@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="upWhiteArrow" format="2">
+  <advance height="2479.0" width="1986.3333333333333"/>
+  <unicode hex="21E7"/>
+  <outline>
+    <contour>
+      <point x="186.0" y="799.3333333333334" type="line"/>
+      <point x="612.6666666666666" y="799.3333333333334" type="line"/>
+      <point x="612.6666666666666" y="0.0" type="line"/>
+      <point x="1373.0" y="0.0" type="line"/>
+      <point x="1373.0" y="799.3333333333334" type="line"/>
+      <point x="1799.6666666666667" y="799.3333333333334" type="line"/>
+      <point x="992.6666666666666" y="1606.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="441.6666666666667" y="902.0" type="line"/>
+      <point x="992.6666666666666" y="1453.3333333333333" type="line"/>
+      <point x="1544.6666666666667" y="902.0" type="line"/>
+      <point x="1260.6666666666667" y="902.0" type="line"/>
+      <point x="1260.6666666666667" y="103.0" type="line"/>
+      <point x="725.3333333333334" y="103.0" type="line"/>
+      <point x="725.3333333333334" y="902.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

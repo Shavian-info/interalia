@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="longscomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DE5"/>
+  <outline>
+    <contour>
+      <point x="-463.59999999999997" y="1201.0" type="line"/>
+      <point x="-364.59999999999997" y="1811.4" type="line" smooth="yes"/>
+      <point x="-357.4" y="1849.8"/>
+      <point x="-323.20000000000005" y="1872.6"/>
+      <point x="-273.40000000000003" y="1872.6" type="curve" smooth="yes"/>
+      <point x="-253.79999999999998" y="1872.6"/>
+      <point x="-239.0" y="1872.0"/>
+      <point x="-227.2" y="1866.6" type="curve"/>
+      <point x="-204.0" y="1999.0" type="line"/>
+      <point x="-227.8" y="2001.6"/>
+      <point x="-257.0" y="2007.0"/>
+      <point x="-288.79999999999995" y="2007.0" type="curve" smooth="yes"/>
+      <point x="-422.40000000000003" y="2007.0"/>
+      <point x="-516.6" y="1936.0"/>
+      <point x="-538.0" y="1811.4" type="curve" smooth="yes"/>
+      <point x="-636.2" y="1201.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

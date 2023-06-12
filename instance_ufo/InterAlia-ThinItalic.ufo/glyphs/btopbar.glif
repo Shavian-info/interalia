@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="btopbar" format="2">
+  <advance height="2479" width="1225"/>
+  <unicode hex="0183"/>
+  <anchor x="570" y="0" name="bottom"/>
+  <anchor x="375" y="1280" name="cross"/>
+  <anchor x="785" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="1132" y="1489" type="line" name="hr00"/>
+      <point x="410" y="1489" type="line"/>
+      <point x="401" y="1443" type="line"/>
+      <point x="1123" y="1443" type="line"/>
+    </contour>
+    <component base="b"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>b</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Icircumflex" format="2">
+  <advance height="2479.0" width="563.6"/>
+  <unicode hex="00CE"/>
+  <anchor x="281.4" y="0.0" name="bottom"/>
+  <anchor x="281.4" y="776.0" name="cross"/>
+  <anchor x="416.6" y="0.0" name="ogonek"/>
+  <anchor x="435.8" y="0.0" name="right"/>
+  <anchor x="146.4" y="1489.0" name="tonos"/>
+  <anchor x="282.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="circumflex" xOffset="-254.8" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

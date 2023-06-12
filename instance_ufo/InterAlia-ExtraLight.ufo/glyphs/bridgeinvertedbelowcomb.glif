@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bridgeinvertedbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="033A"/>
+  <outline>
+    <component base="shelfmod" xOffset="-947.0" yOffset="-14.666666666666668"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

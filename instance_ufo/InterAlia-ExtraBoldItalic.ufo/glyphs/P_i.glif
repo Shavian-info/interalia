@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pi" format="2">
+  <advance height="2479.0" width="1596.4"/>
+  <unicode hex="03A0"/>
+  <anchor x="1333.4" y="0.0" name="right"/>
+  <outline>
+    <contour>
+      <point x="1583.4" y="1489.0" type="line"/>
+      <point x="321.0" y="1489.0" type="line"/>
+      <point x="74.0" y="0.0" type="line"/>
+      <point x="428.6" y="0.0" type="line"/>
+      <point x="628.8000000000001" y="1201.0" type="line"/>
+      <point x="1182.0" y="1201.0" type="line"/>
+      <point x="981.8" y="0.0" type="line"/>
+      <point x="1336.2" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="warningSign" format="2">
+  <advance height="2479.0" width="2065.0"/>
+  <unicode hex="26A0"/>
+  <outline>
+    <contour>
+      <point x="-47.0" y="0.0" type="line"/>
+      <point x="1926.0" y="0.0" type="line"/>
+      <point x="1217.0" y="1676.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="978.6666666666666" y="228.66666666666666" type="curve" smooth="yes"/>
+      <point x="926.0" y="228.66666666666666"/>
+      <point x="891.0" y="270.3333333333333"/>
+      <point x="900.0" y="321.6666666666667" type="curve" smooth="yes"/>
+      <point x="908.6666666666666" y="374.3333333333333"/>
+      <point x="956.3333333333333" y="415.3333333333333"/>
+      <point x="1009.0" y="415.3333333333333" type="curve" smooth="yes"/>
+      <point x="1061.0" y="415.3333333333333"/>
+      <point x="1096.0" y="374.3333333333333"/>
+      <point x="1087.0" y="321.6666666666667" type="curve" smooth="yes"/>
+      <point x="1078.0" y="270.3333333333333"/>
+      <point x="1030.6666666666667" y="228.66666666666666"/>
+    </contour>
+    <contour>
+      <point x="980.0" y="597.6666666666666" type="line"/>
+      <point x="1062.6666666666665" y="1117.0" type="line"/>
+      <point x="1188.6666666666667" y="1117.0" type="line"/>
+      <point x="1098.0" y="597.6666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

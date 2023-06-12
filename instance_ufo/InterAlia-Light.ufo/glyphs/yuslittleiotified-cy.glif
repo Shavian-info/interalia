@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuslittleiotified-cy" format="2">
+  <advance height="2479.0" width="1480.0"/>
+  <unicode hex="0469"/>
+  <outline>
+    <contour>
+      <point x="1223.0" y="0.0" type="line"/>
+      <point x="1372.6666666666667" y="0.0" type="line"/>
+      <point x="924.0" y="1117.0" type="line"/>
+      <point x="815.3333333333334" y="1117.0" type="line"/>
+      <point x="873.6666666666666" y="879.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="132.0" y="0.0" type="line"/>
+      <point x="261.6666666666667" y="0.0" type="line"/>
+      <point x="261.6666666666667" y="1117.0" type="line"/>
+      <point x="132.0" y="1117.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="200.0" y="309.3333333333333" type="line"/>
+      <point x="599.3333333333334" y="309.3333333333333" type="line"/>
+      <point x="599.3333333333334" y="431.6666666666667" type="line"/>
+      <point x="200.0" y="431.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="796.3333333333334" y="0.0" type="line"/>
+      <point x="926.0" y="0.0" type="line"/>
+      <point x="926.0" y="406.3333333333333" type="line"/>
+      <point x="796.3333333333334" y="406.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="353.6666666666667" y="0.0" type="line"/>
+      <point x="502.6666666666667" y="0.0" type="line"/>
+      <point x="847.3333333333334" y="879.3333333333334" type="line"/>
+      <point x="908.3333333333334" y="1117.0" type="line"/>
+      <point x="800.3333333333334" y="1117.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="572.3333333333334" y="309.3333333333333" type="line"/>
+      <point x="1162.3333333333333" y="309.3333333333333" type="line"/>
+      <point x="1162.3333333333333" y="431.6666666666667" type="line"/>
+      <point x="572.3333333333334" y="431.6666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

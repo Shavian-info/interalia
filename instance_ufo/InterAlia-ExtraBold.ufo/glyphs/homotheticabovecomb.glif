@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="homotheticabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="034B"/>
+  <outline>
+    <contour>
+      <point x="-475.6" y="1790.4" type="line"/>
+      <point x="-474.0" y="1731.8"/>
+      <point x="-512.6" y="1705.0"/>
+      <point x="-557.2" y="1705.0" type="curve" smooth="yes"/>
+      <point x="-659.0" y="1705.0"/>
+      <point x="-736.6" y="1787.0"/>
+      <point x="-846.0" y="1787.0" type="curve" smooth="yes"/>
+      <point x="-983.2" y="1787.0"/>
+      <point x="-1084.0" y="1651.6"/>
+      <point x="-1084.8" y="1510.6" type="curve"/>
+      <point x="-893.8" y="1499.4" type="line"/>
+      <point x="-892.2" y="1560.4"/>
+      <point x="-855.4" y="1586.2"/>
+      <point x="-813.2" y="1586.2" type="curve" smooth="yes"/>
+      <point x="-704.6" y="1586.2"/>
+      <point x="-653.4" y="1505.2"/>
+      <point x="-525.0" y="1505.2" type="curve" smooth="yes"/>
+      <point x="-383.0" y="1505.2"/>
+      <point x="-282.4" y="1634.6"/>
+      <point x="-283.2" y="1780.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-868.8" y="1966.6" type="curve" smooth="yes"/>
+      <point x="-867.2" y="1877.6"/>
+      <point x="-789.4" y="1812.4"/>
+      <point x="-680.4" y="1812.4" type="curve" smooth="yes"/>
+      <point x="-567.0" y="1812.4"/>
+      <point x="-488.4" y="1877.6"/>
+      <point x="-490.0" y="1966.6" type="curve" smooth="yes"/>
+      <point x="-488.4" y="2053.4"/>
+      <point x="-567.0" y="2119.2"/>
+      <point x="-680.4" y="2119.2" type="curve" smooth="yes"/>
+      <point x="-790.0" y="2119.2"/>
+      <point x="-867.2" y="2052.8"/>
+    </contour>
+    <contour>
+      <point x="-868.8" y="1319.4" type="curve" smooth="yes"/>
+      <point x="-867.2" y="1232.8"/>
+      <point x="-791.8" y="1165.0"/>
+      <point x="-680.4" y="1165.0" type="curve" smooth="yes"/>
+      <point x="-567.0" y="1165.0"/>
+      <point x="-488.4" y="1232.8"/>
+      <point x="-490.0" y="1319.4" type="curve" smooth="yes"/>
+      <point x="-488.4" y="1408.4"/>
+      <point x="-569.4" y="1474.4"/>
+      <point x="-680.4" y="1474.4" type="curve" smooth="yes"/>
+      <point x="-792.4" y="1474.4"/>
+      <point x="-867.2" y="1405.4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

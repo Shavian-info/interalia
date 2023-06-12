@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrondieresiscomb.lc" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="E111"/>
+  <anchor x="-448.66666666666663" y="1280.0" name="_top"/>
+  <anchor x="-351.66666666666663" y="1854.3333333333333" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="-112.33333333333333" y="1417.6666666666667" type="line"/>
+      <point x="-723.6666666666667" y="1417.6666666666667" type="line"/>
+      <point x="-741.3333333333334" y="1303.0" type="line"/>
+      <point x="-130.33333333333334" y="1303.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-665.6666666666667" y="1626.0" type="curve" smooth="yes"/>
+      <point x="-675.6666666666667" y="1575.6666666666667"/>
+      <point x="-647.3333333333333" y="1535.3333333333333"/>
+      <point x="-587.0" y="1535.3333333333333" type="curve" smooth="yes"/>
+      <point x="-528.6666666666667" y="1535.3333333333333"/>
+      <point x="-490.3333333333333" y="1576.6666666666667"/>
+      <point x="-481.3333333333333" y="1622.3333333333333" type="curve" smooth="yes"/>
+      <point x="-474.3333333333333" y="1672.6666666666665"/>
+      <point x="-502.00000000000006" y="1713.6666666666667"/>
+      <point x="-559.6666666666667" y="1713.6666666666667" type="curve" smooth="yes"/>
+      <point x="-618.3333333333333" y="1713.6666666666667"/>
+      <point x="-658.3333333333334" y="1673.6666666666665"/>
+    </contour>
+    <contour>
+      <point x="-287.33333333333337" y="1624.0" type="curve" smooth="yes"/>
+      <point x="-295.0" y="1574.6666666666667"/>
+      <point x="-269.0" y="1535.3333333333333"/>
+      <point x="-208.66666666666666" y="1535.3333333333333" type="curve" smooth="yes"/>
+      <point x="-151.00000000000003" y="1535.3333333333333"/>
+      <point x="-110.66666666666664" y="1571.6666666666667"/>
+      <point x="-103.66666666666664" y="1620.3333333333333" type="curve" smooth="yes"/>
+      <point x="-92.99999999999999" y="1670.3333333333333"/>
+      <point x="-121.66666666666669" y="1711.6666666666667"/>
+      <point x="-182.0" y="1711.6666666666667" type="curve" smooth="yes"/>
+      <point x="-239.66666666666666" y="1711.6666666666667"/>
+      <point x="-278.33333333333337" y="1671.6666666666665"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

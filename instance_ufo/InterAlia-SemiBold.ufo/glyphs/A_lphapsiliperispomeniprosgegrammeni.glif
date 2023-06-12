@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsiliperispomeniprosgegrammeni" format="2">
+  <advance height="2479.0" width="1482.6"/>
+  <unicode hex="1F8E"/>
+  <anchor x="741.2" y="0.0" name="bottom"/>
+  <anchor x="1432.4" y="0.0" name="ogonek"/>
+  <anchor x="481.0" y="1489.0" name="tonos"/>
+  <anchor x="741.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="Alphapsiliperispomeni"/>
+    <component base="prosgegrammeni" xOffset="497.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

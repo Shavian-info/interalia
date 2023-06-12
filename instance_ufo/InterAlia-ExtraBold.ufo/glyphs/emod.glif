@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emod" format="2">
+  <advance height="2479.0" width="819.0"/>
+  <unicode hex="1D49"/>
+  <outline>
+    <contour>
+      <point x="423.2" y="730.0" type="curve"/>
+      <point x="610.6" y="730.0"/>
+      <point x="746.8" y="815.0"/>
+      <point x="776.4" y="975.6" type="curve"/>
+      <point x="550.4" y="990.4" type="line"/>
+      <point x="530.2" y="926.4"/>
+      <point x="480.4" y="912.2"/>
+      <point x="428.6" y="912.2" type="curve" smooth="yes"/>
+      <point x="342.8" y="912.2"/>
+      <point x="285.4" y="956.6"/>
+      <point x="285.4" y="1051.0" type="curve" smooth="yes"/>
+      <point x="285.4" y="1199.0" type="line" smooth="yes"/>
+      <point x="283.0" y="1259.8"/>
+      <point x="338.6" y="1315.8"/>
+      <point x="422.0" y="1315.8" type="curve"/>
+      <point x="497.2" y="1315.8"/>
+      <point x="544.8" y="1271.0"/>
+      <point x="544.8" y="1201.2" type="curve"/>
+      <point x="148.8" y="1201.2" type="line"/>
+      <point x="148.8" y="1051.0" type="line"/>
+      <point x="774.8" y="1051.0" type="line"/>
+      <point x="774.8" y="1112.2" type="line" smooth="yes"/>
+      <point x="774.8" y="1390.2"/>
+      <point x="609.8" y="1498.0"/>
+      <point x="416.6" y="1498.0" type="curve" smooth="yes"/>
+      <point x="189.0" y="1498.0"/>
+      <point x="45.0" y="1345.8"/>
+      <point x="45.0" y="1111.6" type="curve" smooth="yes"/>
+      <point x="45.0" y="872.8"/>
+      <point x="186.0" y="730.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

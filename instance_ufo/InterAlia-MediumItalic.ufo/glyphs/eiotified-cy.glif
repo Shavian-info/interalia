@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eiotified-cy" format="2">
+  <advance height="2479.0" width="1680.2"/>
+  <unicode hex="0465"/>
+  <outline>
+    <contour>
+      <point x="1163.4" y="625.8" type="line"/>
+      <point x="279.8" y="625.8" type="line"/>
+      <point x="252.0" y="456.4" type="line"/>
+      <point x="1134.8000000000002" y="456.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="1540.4" y="774.2" type="line"/>
+      <point x="1541.3999999999999" y="989.6"/>
+      <point x="1383.2" y="1132.0"/>
+      <point x="1139.6" y="1132.0" type="curve" smooth="yes"/>
+      <point x="826.0" y="1132.0"/>
+      <point x="583.8" y="893.6"/>
+      <point x="528.0" y="559.0" type="curve" smooth="yes"/>
+      <point x="470.4" y="216.8"/>
+      <point x="629.8" y="-22.4"/>
+      <point x="948.5999999999999" y="-22.4" type="curve" smooth="yes"/>
+      <point x="1199.8" y="-22.4"/>
+      <point x="1394.6000000000001" y="126.2"/>
+      <point x="1465.6" y="330.6" type="curve"/>
+      <point x="1257.6000000000001" y="346.4" type="line"/>
+      <point x="1208.3999999999999" y="234.2"/>
+      <point x="1107.2" y="163.6"/>
+      <point x="980.5999999999999" y="163.6" type="curve" smooth="yes"/>
+      <point x="788.8000000000001" y="163.6"/>
+      <point x="700.8000000000001" y="320.8"/>
+      <point x="741.4" y="559.0" type="curve" smooth="yes"/>
+      <point x="779.2" y="792.8"/>
+      <point x="920.6" y="946.2"/>
+      <point x="1109.3999999999999" y="946.2" type="curve" smooth="yes"/>
+      <point x="1251.2" y="946.2"/>
+      <point x="1318.2" y="861.4"/>
+      <point x="1327.8" y="757.8" type="curve"/>
+    </contour>
+    <contour>
+      <point x="427.6" y="1117.0" type="line"/>
+      <point x="209.6" y="1117.0" type="line"/>
+      <point x="23.599999999999994" y="0.0" type="line"/>
+      <point x="241.60000000000002" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

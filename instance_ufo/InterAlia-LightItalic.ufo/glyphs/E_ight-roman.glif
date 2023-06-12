@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eight-roman" format="2">
+  <advance height="2479.0" width="2940.3333333333335"/>
+  <unicode hex="2167"/>
+  <anchor x="579.0" y="0.0" name="bottom_1"/>
+  <anchor x="1518.6666666666665" y="0.0" name="bottom_2"/>
+  <anchor x="2050.666666666667" y="0.0" name="bottom_3"/>
+  <anchor x="2582.666666666667" y="0.0" name="bottom_4"/>
+  <anchor x="1644.6666666666665" y="768.0" name="cross_1"/>
+  <anchor x="2176.666666666667" y="768.0" name="cross_2"/>
+  <anchor x="2708.666666666667" y="768.0" name="cross_3"/>
+  <anchor x="1585.0" y="0.0" name="ogonek_1"/>
+  <anchor x="2117.0" y="0.0" name="ogonek_2"/>
+  <anchor x="2649.0" y="0.0" name="ogonek_3"/>
+  <anchor x="1597.3333333333333" y="0.0" name="right_1"/>
+  <anchor x="2129.3333333333335" y="0.0" name="right_2"/>
+  <anchor x="2661.3333333333335" y="0.0" name="right_3"/>
+  <anchor x="1696.6666666666667" y="1489.0" name="tonos_1"/>
+  <anchor x="2228.6666666666665" y="1489.0" name="tonos_2"/>
+  <anchor x="2760.6666666666665" y="1489.0" name="tonos_3"/>
+  <anchor x="856.0" y="1676.0" name="top_1"/>
+  <anchor x="1794.3333333333333" y="1676.0" name="top_2"/>
+  <anchor x="2326.3333333333335" y="1676.0" name="top_3"/>
+  <anchor x="2858.3333333333335" y="1676.0" name="top_4"/>
+  <outline>
+    <component base="V"/>
+    <component base="I" xOffset="1344.3333333333333"/>
+    <component base="I" xOffset="1876.3333333333333"/>
+    <component base="I" xOffset="2408.3333333333335"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

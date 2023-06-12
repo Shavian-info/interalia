@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocenteredtilde" format="2">
+  <advance height="2479.0" width="1601.0"/>
+  <unicode hex="019F"/>
+  <anchor x="711.8" y="2.4000000000000004" name="bottom"/>
+  <anchor x="895.0" y="3.5999999999999996" name="ogonek"/>
+  <anchor x="327.2" y="1489.0" name="tonos"/>
+  <anchor x="985.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="Fita-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

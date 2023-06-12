@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotapsiliperispomeni" format="2">
+  <advance height="2479.0" width="697.6"/>
+  <unicode hex="1F36"/>
+  <anchor x="437.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="iota"/>
+    <component base="psiliperispomeni" xOffset="-24.999999999999996" yOffset="122.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

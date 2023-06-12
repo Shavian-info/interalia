@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wynn" format="2">
+  <advance height="2479" width="1383"/>
+  <unicode hex="01F7"/>
+  <outline>
+    <contour>
+      <point x="320" y="-209" type="line"/>
+      <point x="937" y="-17"/>
+      <point x="1292" y="387"/>
+      <point x="1293" y="909" type="curve" smooth="yes"/>
+      <point x="1293" y="1288"/>
+      <point x="1107" y="1510"/>
+      <point x="791" y="1510" type="curve" smooth="yes"/>
+      <point x="613" y="1510"/>
+      <point x="464" y="1440"/>
+      <point x="372" y="1318" type="curve"/>
+      <point x="372" y="905" type="line"/>
+      <point x="439" y="1082"/>
+      <point x="550" y="1184"/>
+      <point x="673" y="1184" type="curve" smooth="yes"/>
+      <point x="804" y="1184"/>
+      <point x="877" y="1070"/>
+      <point x="877" y="864" type="curve" smooth="yes"/>
+      <point x="876" y="520"/>
+      <point x="673" y="246"/>
+      <point x="320" y="116" type="curve"/>
+    </contour>
+    <contour>
+      <point x="96" y="-419" type="line"/>
+      <point x="500" y="-419" type="line"/>
+      <point x="500" y="1489" type="line"/>
+      <point x="96" y="1489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

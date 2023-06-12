@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one-roman" format="2">
+  <advance height="2479.0" width="535.3333333333334"/>
+  <unicode hex="2170"/>
+  <anchor x="223.66666666666666" y="0.0" name="bottom"/>
+  <anchor x="223.66666666666666" y="589.3333333333334" name="cross"/>
+  <anchor x="288.0" y="0.0" name="ogonek"/>
+  <anchor x="223.66666666666666" y="1303.0" name="top"/>
+  <outline>
+    <component base="i" xOffset="-14.666666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>i</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

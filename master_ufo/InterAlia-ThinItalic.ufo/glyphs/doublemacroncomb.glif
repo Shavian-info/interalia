@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doublemacroncomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="035E"/>
+  <anchor x="124" y="1303" name="_top"/>
+  <outline>
+    <contour>
+      <point x="724" y="1396" type="line"/>
+      <point x="-448" y="1396" type="line"/>
+      <point x="-455" y="1350" type="line"/>
+      <point x="717" y="1350" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

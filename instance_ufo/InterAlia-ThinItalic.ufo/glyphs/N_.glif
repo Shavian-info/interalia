@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance height="2479" width="1583"/>
+  <unicode hex="004E"/>
+  <anchor x="698" y="0" name="bottom"/>
+  <anchor x="1207" y="0" name="right"/>
+  <anchor x="977" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="1504" y="1489" type="line"/>
+      <point x="1457" y="1489" type="line"/>
+      <point x="1225" y="87" type="line"/>
+      <point x="1219" y="87" type="line"/>
+      <point x="433" y="1489" type="line"/>
+      <point x="387" y="1489" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="186" y="0" type="line"/>
+      <point x="419" y="1402" type="line"/>
+      <point x="425" y="1402" type="line"/>
+      <point x="1210" y="0" type="line"/>
+      <point x="1257" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

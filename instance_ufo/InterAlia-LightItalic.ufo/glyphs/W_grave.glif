@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Wgrave" format="2">
+  <advance height="2479.0" width="1906.6666666666665"/>
+  <unicode hex="1E80"/>
+  <anchor x="860.3333333333334" y="12.0" name="bottom"/>
+  <anchor x="1184.6666666666667" y="2048.6666666666665" name="top"/>
+  <outline>
+    <component base="W"/>
+    <component base="grave" xOffset="400.0" yOffset="372.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

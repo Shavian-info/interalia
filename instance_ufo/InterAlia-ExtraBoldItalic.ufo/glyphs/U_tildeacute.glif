@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Utildeacute" format="2">
+  <advance height="2479.0" width="1485.2"/>
+  <unicode hex="1E78"/>
+  <anchor x="649.2" y="3.200000000000003" name="bottom"/>
+  <anchor x="854.1999999999999" y="8.0" name="ogonek"/>
+  <anchor x="768.1999999999999" y="0.0" name="right"/>
+  <anchor x="926.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="U"/>
+    <component base="tildeacutecomb.uc" xOffset="1130.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

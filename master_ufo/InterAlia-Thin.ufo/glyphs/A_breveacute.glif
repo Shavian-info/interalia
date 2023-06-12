@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Abreveacute" format="2">
+  <advance height="2479" width="1263"/>
+  <unicode hex="1EAE"/>
+  <anchor x="631" y="0" name="bottom"/>
+  <anchor x="1196" y="0" name="ogonek"/>
+  <anchor x="527" y="1489" name="tonos"/>
+  <anchor x="631" y="1676" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="breveacutecomb.cn" xOffset="285" yOffset="358"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

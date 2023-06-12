@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colonsign" format="2">
+  <advance height="2479.0" width="1515.2"/>
+  <unicode hex="20A1"/>
+  <anchor x="697.2" y="-8.4" name="cedilla"/>
+  <anchor x="974.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1302.3999999999999" y="1676.0" type="line"/>
+      <point x="1204.2" y="1676.0" type="line"/>
+      <point x="568.5999999999999" y="-186.0" type="line"/>
+      <point x="664.5999999999999" y="-186.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1041.2" y="1676.0" type="line"/>
+      <point x="941.5999999999999" y="1673.0" type="line"/>
+      <point x="307.0" y="-189.0" type="line"/>
+      <point x="403.40000000000003" y="-186.0" type="line"/>
+    </contour>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

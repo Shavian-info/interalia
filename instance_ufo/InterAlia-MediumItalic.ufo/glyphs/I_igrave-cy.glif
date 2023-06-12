@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iigrave-cy" format="2">
+  <advance height="2479.0" width="1529.8"/>
+  <unicode hex="040D"/>
+  <anchor x="1272.8" y="0.0" name="right"/>
+  <anchor x="992.2" y="2048.0" name="top"/>
+  <outline>
+    <component base="Ii-cy"/>
+    <component base="grave" xOffset="205.20000000000002" yOffset="372.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

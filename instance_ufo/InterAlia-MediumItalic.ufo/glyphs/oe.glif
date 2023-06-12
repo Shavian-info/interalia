@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oe" format="2">
+  <advance height="2479.0" width="2018.0"/>
+  <unicode hex="0153"/>
+  <anchor x="524.6" y="0.0" name="bottom_1"/>
+  <anchor x="1336.8" y="0.0" name="bottom_2"/>
+  <anchor x="1340.4" y="0.0" name="cedilla"/>
+  <anchor x="660.2" y="0.0" name="ogonek_1"/>
+  <anchor x="1540.8" y="9.8" name="ogonek_2"/>
+  <anchor x="740.4" y="1303.0" name="top_1"/>
+  <anchor x="1552.8" y="1303.0" name="top_2"/>
+  <outline>
+    <component base="o"/>
+    <component base="e" xOffset="827.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>o</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>e</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinverteddblbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DFC"/>
+  <outline>
+    <contour>
+      <point x="702.6" y="-447.8" type="line"/>
+      <point x="613.2" y="-269.2"/>
+      <point x="414.6" y="-84.0"/>
+      <point x="-52.4" y="-84.0" type="curve" smooth="yes"/>
+      <point x="-525.4" y="-84.0"/>
+      <point x="-719.6" y="-270.4"/>
+      <point x="-809.2" y="-447.8" type="curve"/>
+      <point x="-593.4" y="-447.8" type="line"/>
+      <point x="-520.8" y="-383.6"/>
+      <point x="-393.4" y="-255.8"/>
+      <point x="-52.4" y="-255.8" type="curve" smooth="yes"/>
+      <point x="282.6" y="-255.8"/>
+      <point x="420.4" y="-380.0"/>
+      <point x="486.8" y="-447.8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

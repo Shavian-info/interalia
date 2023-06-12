@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronrighthalfcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="FE25"/>
+  <anchor x="-980" y="1169" name="_marktop"/>
+  <outline>
+    <contour>
+      <point x="-716" y="1460" type="line"/>
+      <point x="-1248" y="1460" type="line"/>
+      <point x="-1248" y="1277" type="line"/>
+      <point x="-716" y="1277" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>73</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

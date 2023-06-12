@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ash-shavian" format="2">
+  <advance width="932.6666666666666"/>
+  <unicode hex="10468"/>
+  <outline>
+    <contour>
+      <point x="24.0" y="0.0" type="line"/>
+      <point x="104.0" y="0.0" type="line" smooth="yes"/>
+      <point x="465.00000000000006" y="0.0"/>
+      <point x="706.6666666666667" y="235.0"/>
+      <point x="775.3333333333334" y="652.6666666666667" type="curve" smooth="yes"/>
+      <point x="853.0" y="1117.0" type="line"/>
+      <point x="723.3333333333334" y="1117.0" type="line"/>
+      <point x="646.0" y="650.3333333333334" type="line" smooth="yes"/>
+      <point x="591.0" y="320.6666666666667"/>
+      <point x="394.0" y="128.33333333333334"/>
+      <point x="113.00000000000001" y="128.33333333333334" type="curve" smooth="yes"/>
+      <point x="46.333333333333336" y="128.33333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ocircumflexhookabove" format="2">
+  <advance height="2479" width="1559"/>
+  <unicode hex="1ED4"/>
+  <anchor x="780" y="0" name="bottom"/>
+  <anchor x="922" y="-6" name="ogonek"/>
+  <anchor x="198" y="1489" name="tonos"/>
+  <anchor x="780" y="1676" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="circumflexhookcomb.cn" xOffset="306" yOffset="355"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="snakebelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="1DC2"/>
+  <outline>
+    <contour>
+      <point x="-876" y="-143" type="curve"/>
+      <point x="-841" y="-215" type="line"/>
+      <point x="-797" y="-195"/>
+      <point x="-748" y="-177"/>
+      <point x="-701" y="-177" type="curve" smooth="yes"/>
+      <point x="-678" y="-177"/>
+      <point x="-663" y="-183"/>
+      <point x="-666" y="-201" type="curve" smooth="yes"/>
+      <point x="-672" y="-224"/>
+      <point x="-826" y="-239"/>
+      <point x="-838" y="-300" type="curve" smooth="yes"/>
+      <point x="-847" y="-358"/>
+      <point x="-692" y="-355"/>
+      <point x="-695" y="-375" type="curve" smooth="yes"/>
+      <point x="-701" y="-404"/>
+      <point x="-852" y="-384"/>
+      <point x="-864" y="-457" type="curve" smooth="yes"/>
+      <point x="-873" y="-515"/>
+      <point x="-777" y="-547"/>
+      <point x="-646" y="-556" type="curve"/>
+      <point x="-617" y="-480" type="line"/>
+      <point x="-701" y="-474"/>
+      <point x="-748" y="-465"/>
+      <point x="-748" y="-457" type="curve" smooth="yes"/>
+      <point x="-742" y="-431"/>
+      <point x="-591" y="-448"/>
+      <point x="-579" y="-372" type="curve" smooth="yes"/>
+      <point x="-567" y="-308"/>
+      <point x="-724" y="-314"/>
+      <point x="-719" y="-291" type="curve" smooth="yes"/>
+      <point x="-716" y="-265"/>
+      <point x="-573" y="-271"/>
+      <point x="-559" y="-186" type="curve" smooth="yes"/>
+      <point x="-553" y="-137"/>
+      <point x="-582" y="-90"/>
+      <point x="-672" y="-90" type="curve" smooth="yes"/>
+      <point x="-739" y="-90"/>
+      <point x="-812" y="-108"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

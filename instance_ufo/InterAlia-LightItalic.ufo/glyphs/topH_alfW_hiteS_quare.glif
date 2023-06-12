@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="topHalfWhiteSquare" format="2">
+  <advance height="2479.0" width="1873.0"/>
+  <unicode hex="2B13"/>
+  <outline>
+    <contour>
+      <point x="251.0" y="562.6666666666666" type="line"/>
+      <point x="231.66666666666666" y="449.6666666666667" type="line"/>
+      <point x="1604.0" y="449.6666666666667" type="line"/>
+      <point x="1623.3333333333335" y="562.6666666666666" type="line"/>
+    </contour>
+    <component base="whiteRoundedCornersSquare"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

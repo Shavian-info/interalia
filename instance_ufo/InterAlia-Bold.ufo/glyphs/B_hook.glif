@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bhook" format="2">
+  <advance height="2479.0" width="1774.4"/>
+  <unicode hex="0181"/>
+  <anchor x="1077.6" y="0.0" name="bottom"/>
+  <anchor x="1075.8" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="715.6" y="1231.8" type="line"/>
+      <point x="715.6" y="1489.0" type="line"/>
+      <point x="498.6" y="1489.0" type="line" smooth="yes"/>
+      <point x="234.6" y="1489.0"/>
+      <point x="72.0" y="1339.8"/>
+      <point x="72.6" y="1105.4" type="curve" smooth="yes"/>
+      <point x="72.6" y="959.6" type="line"/>
+      <point x="353.2" y="959.6" type="line"/>
+      <point x="353.2" y="1045.8" type="line" smooth="yes"/>
+      <point x="352.6" y="1135.8"/>
+      <point x="379.2" y="1231.8"/>
+      <point x="499.8" y="1231.8" type="curve" smooth="yes"/>
+    </contour>
+    <component base="B" xOffset="421.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

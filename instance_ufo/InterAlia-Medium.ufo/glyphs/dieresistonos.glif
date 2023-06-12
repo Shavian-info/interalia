@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresistonos" format="2">
+  <advance height="2479.0" width="1130.6"/>
+  <unicode hex="0385"/>
+  <anchor x="568.2" y="1292.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="484.6" y="1412.6" type="line"/>
+      <point x="633.4" y="1412.6" type="line"/>
+      <point x="756.6" y="1705.0" type="line"/>
+      <point x="535.0" y="1705.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="141.0" y="1366.4" type="curve" smooth="yes"/>
+      <point x="140.8" y="1302.0"/>
+      <point x="187.4" y="1252.4"/>
+      <point x="265.4" y="1252.4" type="curve" smooth="yes"/>
+      <point x="342.6" y="1252.4"/>
+      <point x="391.2" y="1302.0"/>
+      <point x="391.4" y="1366.4" type="curve" smooth="yes"/>
+      <point x="391.2" y="1431.0"/>
+      <point x="342.6" y="1483.8"/>
+      <point x="265.4" y="1483.8" type="curve" smooth="yes"/>
+      <point x="187.0" y="1483.8"/>
+      <point x="140.8" y="1431.0"/>
+    </contour>
+    <contour>
+      <point x="739.8" y="1364.0" type="curve" smooth="yes"/>
+      <point x="739.6" y="1300.2"/>
+      <point x="787.4" y="1250.6"/>
+      <point x="866.6" y="1250.6" type="curve" smooth="yes"/>
+      <point x="943.2" y="1250.6"/>
+      <point x="991.8" y="1299.6"/>
+      <point x="992.0" y="1364.0" type="curve" smooth="yes"/>
+      <point x="991.8" y="1431.6"/>
+      <point x="943.2" y="1483.8"/>
+      <point x="866.6" y="1483.8" type="curve" smooth="yes"/>
+      <point x="787.4" y="1483.8"/>
+      <point x="739.6" y="1431.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

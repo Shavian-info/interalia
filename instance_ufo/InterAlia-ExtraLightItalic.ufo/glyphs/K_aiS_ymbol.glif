@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaiSymbol" format="2">
+  <advance height="2479.0" width="1167.3333333333333"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <contour>
+      <point x="128.00000000000003" y="452.6666666666667" type="line"/>
+      <point x="461.6666666666667" y="759.6666666666667" type="line"/>
+      <point x="1241.0" y="1489.0" type="line"/>
+      <point x="1112.3333333333333" y="1489.0" type="line"/>
+      <point x="410.00000000000006" y="831.6666666666666" type="line"/>
+      <point x="126.33333333333333" y="566.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16.33333333333333" y="0.0" type="line"/>
+      <point x="83.33333333333334" y="0.0" type="line"/>
+      <point x="331.6666666666667" y="1489.0" type="line"/>
+      <point x="231.66666666666669" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="557.3333333333334" y="-344.3333333333333" type="line"/>
+      <point x="993.6666666666666" y="0.0" type="line"/>
+      <point x="471.33333333333337" y="812.3333333333333" type="line"/>
+      <point x="399.6666666666667" y="735.3333333333334" type="line"/>
+      <point x="869.0" y="7.0" type="line"/>
+      <point x="511.0" y="-277.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

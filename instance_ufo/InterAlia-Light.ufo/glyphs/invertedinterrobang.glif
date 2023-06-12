@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="invertedinterrobang" format="2">
+  <advance height="2479.0" width="1019.3333333333334"/>
+  <unicode hex="2E18"/>
+  <outline>
+    <component base="interrobang" xScale="-1.0" yScale="-1.0" xOffset="1019.3333333333334" yOffset="1123.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

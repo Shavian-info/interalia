@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dmacronbelow" format="2">
+  <advance height="2479" width="1227"/>
+  <unicode hex="1E0F"/>
+  <anchor x="505" y="0" name="bottom"/>
+  <anchor x="1090" y="1280" name="cross"/>
+  <anchor x="1279" y="1489" name="raccent"/>
+  <anchor x="728" y="1489" name="top"/>
+  <outline>
+    <component base="d"/>
+    <component base="macronbelowcomb" xOffset="1167"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>macronbelowcomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

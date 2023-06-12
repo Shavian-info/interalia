@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsiliperispomeni" format="2">
+  <advance height="2479" width="1385"/>
+  <unicode hex="1F0E"/>
+  <anchor x="599" y="0" name="bottom"/>
+  <anchor x="1239" y="0" name="ogonek"/>
+  <anchor x="649" y="1489" name="tonos"/>
+  <anchor x="879" y="1676" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="psiliperispomeni.tonos" xOffset="-125" yOffset="37"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhornhookabove" format="2">
+  <advance height="2479.0" width="1778.6"/>
+  <unicode hex="1EEC"/>
+  <anchor x="655.6" y="-8.399999999999999" name="bottom"/>
+  <anchor x="830.6" y="4.0" name="ogonek"/>
+  <anchor x="758.6" y="0.0" name="right"/>
+  <anchor x="934.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="hookabovecomb" xOffset="1464.4" yOffset="386.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

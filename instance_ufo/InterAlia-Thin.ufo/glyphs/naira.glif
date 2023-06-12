@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="naira" format="2">
+  <advance height="2479" width="1606"/>
+  <unicode hex="20A6"/>
+  <anchor x="803" y="0" name="bottom"/>
+  <anchor x="1312" y="0" name="right"/>
+  <anchor x="803" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="1545" y="954" type="line"/>
+      <point x="61" y="954" type="line"/>
+      <point x="61" y="908" type="line"/>
+      <point x="1545" y="908" type="line"/>
+    </contour>
+    <contour>
+      <point x="1545" y="582" type="line"/>
+      <point x="61" y="582" type="line"/>
+      <point x="61" y="535" type="line"/>
+      <point x="1545" y="535" type="line"/>
+    </contour>
+    <component base="N" xOffset="12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>N</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

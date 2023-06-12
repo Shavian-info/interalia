@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish" format="2">
+  <advance height="2479.0" width="1127.6666666666667"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="445.0" y="1489.0" type="line"/>
+      <point x="353.6666666666667" y="1489.0" type="line"/>
+      <point x="353.6666666666667" y="-17.333333333333332" type="line"/>
+      <point x="445.0" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="899.0" y="622.6666666666666" type="line"/>
+      <point x="899.0" y="234.0"/>
+      <point x="723.0" y="66.66666666666667"/>
+      <point x="413.0" y="66.66666666666667" type="curve"/>
+      <point x="353.6666666666667" y="-17.333333333333332" type="line"/>
+      <point x="368.0" y="-19.0"/>
+      <point x="394.3333333333333" y="-20.0"/>
+      <point x="415.0" y="-20.0" type="curve" smooth="yes"/>
+      <point x="788.0" y="-19.333333333333332"/>
+      <point x="990.3333333333334" y="195.33333333333334"/>
+      <point x="990.3333333333334" y="622.6666666666666" type="curve"/>
+    </contour>
+    <contour>
+      <point x="711.6666666666666" y="1211.3333333333333" type="line"/>
+      <point x="118.33333333333333" y="939.3333333333334" type="line"/>
+      <point x="118.33333333333333" y="846.6666666666666" type="line"/>
+      <point x="711.6666666666666" y="1118.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="711.6666666666666" y="890.0" type="line"/>
+      <point x="118.33333333333333" y="618.6666666666666" type="line"/>
+      <point x="118.33333333333333" y="525.6666666666666" type="line"/>
+      <point x="711.6666666666666" y="797.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotmacroncomb.lc" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="E10C"/>
+  <anchor x="-493.80000000000007" y="1299.6" name="_top"/>
+  <outline>
+    <component base="dotmacroncomb.cn" xOffset="-66.4" yOffset="-379.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>dotmacroncomb.cn</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

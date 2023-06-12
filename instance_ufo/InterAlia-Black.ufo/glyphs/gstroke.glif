@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gstroke" format="2">
+  <advance height="2479" width="1330"/>
+  <unicode hex="01E5"/>
+  <anchor x="640" y="-416" name="bottom"/>
+  <anchor x="1024" y="567" name="cross"/>
+  <anchor x="640" y="1303" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="crossbar" xOffset="503" yOffset="-239"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

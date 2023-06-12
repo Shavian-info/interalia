@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nacute" format="2">
+  <advance height="2479.0" width="1556.3333333333335"/>
+  <unicode hex="0143"/>
+  <anchor x="684.6666666666666" y="0.0" name="bottom"/>
+  <anchor x="1245.6666666666665" y="0.0" name="right"/>
+  <anchor x="1041.6666666666667" y="2049.0" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="acute" xOffset="347.6666666666667" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

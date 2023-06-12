@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lambda" format="2">
+  <advance height="2479.0" width="1531.4"/>
+  <unicode hex="039B"/>
+  <outline>
+    <contour>
+      <point x="386.2" y="0.0" type="line"/>
+      <point x="760.2" y="1149.0" type="line"/>
+      <point x="771.2" y="1149.0" type="line"/>
+      <point x="1144.8" y="0.0" type="line"/>
+      <point x="1482.6" y="0.0" type="line"/>
+      <point x="968.6" y="1489.0" type="line"/>
+      <point x="562.4" y="1489.0" type="line"/>
+      <point x="49.0" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

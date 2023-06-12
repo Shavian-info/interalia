@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peep-shavian" format="2">
+  <advance width="724.5999999999999"/>
+  <unicode hex="10450"/>
+  <outline>
+    <contour>
+      <point x="232.6" y="0.0" type="line"/>
+      <point x="496.59999999999997" y="0.0" type="line"/>
+      <point x="673.5999999999999" y="1060.8" type="line" smooth="yes"/>
+      <point x="717.8" y="1324.4"/>
+      <point x="573.8" y="1488.6"/>
+      <point x="359.0" y="1489.0" type="curve" smooth="yes"/>
+      <point x="112.19999999999999" y="1489.0" type="line"/>
+      <point x="72.8" y="1247.4" type="line"/>
+      <point x="229.2" y="1247.4" type="line" smooth="yes"/>
+      <point x="372.6" y="1247.0"/>
+      <point x="428.4" y="1171.3999999999999"/>
+      <point x="402.2" y="1017.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

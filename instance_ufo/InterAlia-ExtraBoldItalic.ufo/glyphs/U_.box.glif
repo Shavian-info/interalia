@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.box" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="1F144"/>
+  <anchor x="1332.0" y="3.200000000000003" name="bottom"/>
+  <anchor x="1537.0" y="8.0" name="ogonek"/>
+  <anchor x="1451.0" y="0.0" name="right"/>
+  <anchor x="1609.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="U" xOffset="682.8"/>
+    <component base="enclosingsquarecomb" xOffset="667.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingsquarecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

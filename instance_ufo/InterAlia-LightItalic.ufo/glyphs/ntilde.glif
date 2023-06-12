@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ntilde" format="2">
+  <advance height="2479.0" width="1187.3333333333333"/>
+  <unicode hex="00F1"/>
+  <anchor x="500.33333333333337" y="0.0" name="bottom"/>
+  <anchor x="779.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="n"/>
+    <component base="tilde" xOffset="83.33333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>tilde</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

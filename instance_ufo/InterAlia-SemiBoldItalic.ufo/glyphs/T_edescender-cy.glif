@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tedescender-cy" format="2">
+  <advance height="2479.0" width="1351.0"/>
+  <unicode hex="04AC"/>
+  <anchor x="581.6" y="0.0" name="bottom"/>
+  <anchor x="591.8000000000001" y="0.0" name="cedilla"/>
+  <anchor x="702.8000000000001" y="727.2" name="cross"/>
+  <anchor x="852.4" y="103.6" name="cyrtic"/>
+  <anchor x="667.8" y="0.0" name="right"/>
+  <anchor x="862.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="cyrillictic.cn" xOffset="677.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

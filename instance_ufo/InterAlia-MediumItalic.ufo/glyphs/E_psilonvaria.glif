@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonvaria" format="2">
+  <advance height="2479.0" width="1603.8"/>
+  <unicode hex="1FC8"/>
+  <anchor x="894.6" y="0.0" name="bottom"/>
+  <anchor x="897.6" y="0.0" name="cedilla"/>
+  <anchor x="1382.0" y="0.0" name="ogonek"/>
+  <anchor x="641.2" y="1489.0" name="tonos"/>
+  <anchor x="1185.6000000000001" y="1676.0" name="top"/>
+  <outline>
+    <component base="E" xOffset="369.0"/>
+    <component base="varia.tonos" xOffset="-37.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>E</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="loll-shavian" format="2">
+  <advance width="1013"/>
+  <unicode hex="10464"/>
+  <outline>
+    <contour>
+      <point x="587" y="0" type="curve"/>
+      <point x="761" y="0" type="line"/>
+      <point x="790" y="169" type="line"/>
+      <point x="604" y="169" type="line"/>
+      <point x="363" y="168"/>
+      <point x="235" y="315"/>
+      <point x="272" y="550" type="curve" smooth="yes"/>
+      <point x="313" y="791"/>
+      <point x="504" y="948"/>
+      <point x="744" y="948" type="curve"/>
+      <point x="921" y="948" type="line"/>
+      <point x="947" y="1117" type="line"/>
+      <point x="761" y="1117" type="line"/>
+      <point x="419" y="1116"/>
+      <point x="161" y="903"/>
+      <point x="107" y="567" type="curve" smooth="yes"/>
+      <point x="49" y="225"/>
+      <point x="243" y="1"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

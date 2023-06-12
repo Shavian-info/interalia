@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n.numr" format="2">
+  <advance height="2479.0" width="843.6"/>
+  <unicode hex="E0A6"/>
+  <outline>
+    <contour>
+      <point x="281.6" y="1220.6" type="line" smooth="yes"/>
+      <point x="281.6" y="1321.4"/>
+      <point x="342.0" y="1379.2"/>
+      <point x="426.4" y="1379.2" type="curve" smooth="yes"/>
+      <point x="509.6" y="1379.2"/>
+      <point x="562.0" y="1324.4"/>
+      <point x="562.0" y="1229.8" type="curve" smooth="yes"/>
+      <point x="562.0" y="745.0" type="line"/>
+      <point x="760.4" y="745.0" type="line"/>
+      <point x="760.4" y="1264.2" type="line" smooth="yes"/>
+      <point x="760.4" y="1440.0"/>
+      <point x="656.6" y="1545.0"/>
+      <point x="504.4" y="1545.0" type="curve" smooth="yes"/>
+      <point x="394.6" y="1545.0"/>
+      <point x="314.2" y="1490.8"/>
+      <point x="280.4" y="1405.6" type="curve"/>
+      <point x="272.0" y="1405.6" type="line"/>
+      <point x="272.0" y="1536.0" type="line"/>
+      <point x="83.2" y="1536.0" type="line"/>
+      <point x="83.2" y="745.0" type="line"/>
+      <point x="281.6" y="745.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

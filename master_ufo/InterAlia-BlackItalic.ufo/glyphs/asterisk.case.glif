@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk.case" format="2">
+  <advance height="2479" width="1245"/>
+  <outline>
+    <component base="asterisk" xOffset="-54" yOffset="-326"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

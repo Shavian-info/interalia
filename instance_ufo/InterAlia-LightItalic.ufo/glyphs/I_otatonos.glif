@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotatonos" format="2">
+  <advance height="2479.0" width="567.6666666666666"/>
+  <unicode hex="038A"/>
+  <anchor x="210.00000000000003" y="0.0" name="bottom"/>
+  <anchor x="336.0" y="768.0" name="cross"/>
+  <anchor x="276.33333333333337" y="0.0" name="ogonek"/>
+  <anchor x="288.6666666666667" y="0.0" name="right"/>
+  <anchor x="388.00000000000006" y="1489.0" name="tonos"/>
+  <anchor x="485.6666666666667" y="1676.0" name="top"/>
+  <outline>
+    <component base="I" xOffset="35.66666666666667"/>
+    <component base="tonos" xOffset="-124.66666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

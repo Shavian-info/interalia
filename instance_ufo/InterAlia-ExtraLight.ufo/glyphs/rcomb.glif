@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="036C"/>
+  <outline>
+    <contour>
+      <point x="-571.3333333333334" y="1630.0" type="line"/>
+      <point x="-590.6666666666666" y="1754.0" type="line"/>
+      <point x="-645.6666666666666" y="1754.0" type="line"/>
+      <point x="-645.6666666666666" y="1201.0" type="line"/>
+      <point x="-571.3333333333334" y="1201.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="-393.6666666666667" y="1754.0" type="line"/>
+      <point x="-406.3333333333333" y="1758.3333333333333"/>
+      <point x="-420.6666666666667" y="1760.0"/>
+      <point x="-435.3333333333333" y="1760.0" type="curve" smooth="yes"/>
+      <point x="-552.0" y="1760.0"/>
+      <point x="-610.0" y="1660.0"/>
+      <point x="-610.0" y="1492.0" type="curve"/>
+      <point x="-577.3333333333334" y="1492.0" type="line"/>
+      <point x="-577.3333333333334" y="1607.0"/>
+      <point x="-523.3333333333334" y="1691.0"/>
+      <point x="-444.0" y="1691.0" type="curve" smooth="yes"/>
+      <point x="-432.6666666666667" y="1691.0"/>
+      <point x="-414.0" y="1688.6666666666667"/>
+      <point x="-393.6666666666667" y="1681.3333333333333" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

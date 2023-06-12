@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dialytikaoxia" format="2">
+  <advance height="2479" width="605"/>
+  <unicode hex="1FEE"/>
+  <anchor x="399" y="1181" name="_top"/>
+  <outline>
+    <contour>
+      <point x="252" y="1373" type="curve" smooth="yes"/>
+      <point x="245" y="1344"/>
+      <point x="265" y="1321"/>
+      <point x="295" y="1321" type="curve" smooth="yes"/>
+      <point x="318" y="1321"/>
+      <point x="341" y="1341"/>
+      <point x="345" y="1361" type="curve" smooth="yes"/>
+      <point x="348" y="1391"/>
+      <point x="329" y="1414"/>
+      <point x="301" y="1414" type="curve" smooth="yes"/>
+      <point x="277" y="1414"/>
+      <point x="255" y="1394"/>
+    </contour>
+    <contour>
+      <point x="531" y="1373" type="curve" smooth="yes"/>
+      <point x="524" y="1347"/>
+      <point x="545" y="1321"/>
+      <point x="575" y="1321" type="curve" smooth="yes"/>
+      <point x="597" y="1321"/>
+      <point x="617" y="1338"/>
+      <point x="624" y="1361" type="curve" smooth="yes"/>
+      <point x="631" y="1390"/>
+      <point x="609" y="1414"/>
+      <point x="580" y="1414" type="curve" smooth="yes"/>
+      <point x="556" y="1414"/>
+      <point x="535" y="1393"/>
+    </contour>
+    <contour>
+      <point x="410" y="1396" type="line"/>
+      <point x="457" y="1396" type="line"/>
+      <point x="625" y="1594" type="line"/>
+      <point x="567" y="1594" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

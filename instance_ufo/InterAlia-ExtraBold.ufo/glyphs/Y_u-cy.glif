@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yu-cy" format="2">
+  <advance height="2479.0" width="2194.2"/>
+  <unicode hex="042E"/>
+  <anchor x="291.8" y="0.0" name="bottom_1"/>
+  <anchor x="1387.2" y="0.0" name="bottom_2"/>
+  <anchor x="291.8" y="784.0" name="cross"/>
+  <anchor x="472.2" y="0.0" name="ogonek_1"/>
+  <anchor x="1580.4" y="3.6000000000000014" name="ogonek_2"/>
+  <anchor x="496.6" y="0.0" name="right"/>
+  <anchor x="112.8" y="1489.0" name="tonos_1"/>
+  <anchor x="756.4" y="1489.0" name="tonos_2"/>
+  <anchor x="294.2" y="1676.0" name="top_1"/>
+  <anchor x="1387.2" y="1676.0" name="top_2"/>
+  <outline>
+    <component base="I"/>
+    <component base="hyphen" xScale="0.7" xOffset="212.0" yOffset="111.4"/>
+    <component base="O" xOffset="579.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>hyphen</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>O</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

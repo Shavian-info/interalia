@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="EnGe-cy" format="2">
+  <advance height="2479.0" width="2074.2"/>
+  <unicode hex="04A4"/>
+  <anchor x="765.6" y="0.0" name="bottom"/>
+  <anchor x="289.2" y="-0.5999999999999996" name="cedilla"/>
+  <anchor x="1586.0" y="143.2" name="cyrtic"/>
+  <anchor x="1419.0" y="0.0" name="right"/>
+  <anchor x="77.8" y="1489.0" name="tonos"/>
+  <anchor x="767.4" y="1676.6" name="top"/>
+  <outline>
+    <contour>
+      <point x="2010.4" y="1489.0" type="line"/>
+      <point x="1060.4" y="1489.0" type="line"/>
+      <point x="1360.4" y="1197.0" type="line"/>
+      <point x="2010.4" y="1197.0" type="line"/>
+    </contour>
+    <component base="H"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

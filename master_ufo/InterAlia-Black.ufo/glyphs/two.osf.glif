@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.osf" format="2">
+  <advance height="2479" width="1204"/>
+  <outline>
+    <contour>
+      <point x="93" y="0" type="line"/>
+      <point x="1143" y="0" type="line"/>
+      <point x="1143" y="317" type="line"/>
+      <point x="708" y="317" type="line"/>
+      <point x="708" y="326" type="line"/>
+      <point x="945" y="465" type="line" smooth="yes"/>
+      <point x="1073" y="540"/>
+      <point x="1127" y="632"/>
+      <point x="1127" y="752" type="curve" smooth="yes"/>
+      <point x="1127" y="987"/>
+      <point x="919" y="1132"/>
+      <point x="609" y="1132" type="curve" smooth="yes"/>
+      <point x="277" y="1132"/>
+      <point x="63" y="964"/>
+      <point x="64" y="708" type="curve"/>
+      <point x="448" y="708" type="line"/>
+      <point x="448" y="786"/>
+      <point x="503" y="838"/>
+      <point x="592" y="838" type="curve" smooth="yes"/>
+      <point x="675" y="838"/>
+      <point x="733" y="793"/>
+      <point x="733" y="720" type="curve" smooth="yes"/>
+      <point x="733" y="671"/>
+      <point x="707" y="636"/>
+      <point x="602" y="577" type="curve" smooth="yes"/>
+      <point x="93" y="294" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

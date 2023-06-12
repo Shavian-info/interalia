@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ertick-cy" format="2">
+  <advance height="2479" width="1247"/>
+  <unicode hex="048E"/>
+  <anchor x="337" y="1489" name="tonos"/>
+  <anchor x="817" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="867" y="906" type="line"/>
+      <point x="828" y="881" type="line"/>
+      <point x="1036" y="527" type="line"/>
+      <point x="1073" y="551" type="line"/>
+    </contour>
+    <component base="P" xOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>P</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

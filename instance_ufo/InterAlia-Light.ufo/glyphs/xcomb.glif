@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="036F"/>
+  <outline>
+    <contour>
+      <point x="-584.6666666666666" y="1752.0" type="line"/>
+      <point x="-707.6666666666666" y="1752.0" type="line"/>
+      <point x="-537.3333333333334" y="1480.3333333333333" type="line"/>
+      <point x="-713.6666666666666" y="1201.0" type="line"/>
+      <point x="-590.6666666666666" y="1201.0" type="line"/>
+      <point x="-472.3333333333333" y="1396.3333333333333" type="line"/>
+      <point x="-353.6666666666667" y="1201.0" type="line"/>
+      <point x="-230.66666666666666" y="1201.0" type="line"/>
+      <point x="-407.0" y="1480.3333333333333" type="line"/>
+      <point x="-236.66666666666666" y="1752.0" type="line"/>
+      <point x="-361.6666666666667" y="1752.0" type="line"/>
+      <point x="-474.3333333333333" y="1563.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

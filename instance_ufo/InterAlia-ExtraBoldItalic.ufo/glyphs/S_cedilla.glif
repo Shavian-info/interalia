@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Scedilla" format="2">
+  <advance height="2479.0" width="1352.4"/>
+  <unicode hex="015E"/>
+  <anchor x="588.6" y="-5.199999999999999" name="bottom"/>
+  <anchor x="587.2" y="0.0" name="cedilla"/>
+  <anchor x="863.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="S"/>
+    <component base="cedilla" xOffset="258.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>cedilla</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cedilla</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

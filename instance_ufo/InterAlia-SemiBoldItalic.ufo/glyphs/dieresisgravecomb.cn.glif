@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisgravecomb.cn" format="2">
+  <advance height="2479.0" width="12.8"/>
+  <unicode hex="E124"/>
+  <anchor x="-515.4" y="1263.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-495.40000000000003" y="1644.2" type="line"/>
+      <point x="-700.8" y="1644.2" type="line"/>
+      <point x="-550.0" y="1440.4" type="line"/>
+      <point x="-398.8" y="1440.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="-860.8" y="1350.8000000000002" type="curve" smooth="yes"/>
+      <point x="-871.4" y="1287.2"/>
+      <point x="-829.0" y="1236.0"/>
+      <point x="-749.6" y="1236.0" type="curve" smooth="yes"/>
+      <point x="-667.1999999999999" y="1236.0"/>
+      <point x="-608.4000000000001" y="1285.4"/>
+      <point x="-596.8" y="1350.8" type="curve" smooth="yes"/>
+      <point x="-586.6" y="1416.0"/>
+      <point x="-628.6" y="1467.8"/>
+      <point x="-712.2" y="1467.8" type="curve" smooth="yes"/>
+      <point x="-790.4" y="1467.8"/>
+      <point x="-849.8" y="1416.0"/>
+    </contour>
+    <contour>
+      <point x="-408.19999999999993" y="1350.8" type="curve" smooth="yes"/>
+      <point x="-419.80000000000007" y="1285.4"/>
+      <point x="-375.8" y="1234.2"/>
+      <point x="-295.79999999999995" y="1234.2" type="curve" smooth="yes"/>
+      <point x="-213.2" y="1234.2"/>
+      <point x="-155.79999999999998" y="1288.4"/>
+      <point x="-145.20000000000002" y="1350.8" type="curve" smooth="yes"/>
+      <point x="-134.6" y="1414.2"/>
+      <point x="-175.8" y="1466.6"/>
+      <point x="-257.2" y="1466.6" type="curve" smooth="yes"/>
+      <point x="-336.6" y="1466.6"/>
+      <point x="-398.20000000000005" y="1415.4"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

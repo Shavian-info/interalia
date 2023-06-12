@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pinferior" format="2">
+  <advance height="2479.0" width="880.8"/>
+  <unicode hex="209A"/>
+  <outline>
+    <component base="pmod" xOffset="-166.0" yOffset="-1001.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

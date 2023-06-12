@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="downtackmod" format="2">
+  <advance height="2479.0" width="710.6666666666666"/>
+  <unicode hex="02D5"/>
+  <outline>
+    <contour>
+      <point x="143.66666666666666" y="416.3333333333333" type="line"/>
+      <point x="520.6666666666666" y="416.3333333333333" type="line"/>
+      <point x="538.3333333333334" y="524.3333333333334" type="line"/>
+      <point x="161.33333333333334" y="524.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="234.33333333333331" y="178.66666666666666" type="line"/>
+      <point x="350.3333333333333" y="178.66666666666666" type="line"/>
+      <point x="408.0" y="524.3333333333334" type="line"/>
+      <point x="292.0" y="524.3333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

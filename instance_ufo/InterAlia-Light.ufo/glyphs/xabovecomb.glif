@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="033D"/>
+  <outline>
+    <contour>
+      <point x="-613.3333333333334" y="1245.3333333333333" type="line"/>
+      <point x="-218.0" y="1649.6666666666667" type="line"/>
+      <point x="-294.6666666666667" y="1729.0" type="line"/>
+      <point x="-690.6666666666666" y="1322.6666666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="-293.3333333333333" y="1244.3333333333333" type="line"/>
+      <point x="-216.66666666666669" y="1324.0" type="line"/>
+      <point x="-609.3333333333334" y="1729.6666666666667" type="line"/>
+      <point x="-690.0" y="1650.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

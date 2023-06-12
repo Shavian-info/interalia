@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dzcurl" format="2">
+  <advance height="2479" width="2320"/>
+  <unicode hex="02A5"/>
+  <anchor x="521" y="0" name="bottom"/>
+  <anchor x="1126" y="1280" name="cross"/>
+  <anchor x="1404" y="1489" name="raccent"/>
+  <anchor x="748" y="1489" name="top"/>
+  <outline>
+    <contour>
+      <point x="1644" y="0" type="line"/>
+      <point x="1748" y="0" type="line" smooth="yes"/>
+      <point x="2070" y="0"/>
+      <point x="2215" y="204"/>
+      <point x="2237" y="337" type="curve" smooth="yes"/>
+      <point x="2259" y="474"/>
+      <point x="2160" y="573"/>
+      <point x="2022" y="573" type="curve" smooth="yes"/>
+      <point x="1820" y="573"/>
+      <point x="1657" y="366"/>
+      <point x="1353" y="20" type="curve" smooth="yes"/>
+      <point x="1245" y="-102" type="line"/>
+      <point x="1364" y="-192" type="line"/>
+      <point x="1551" y="20" type="line" smooth="yes"/>
+      <point x="1766" y="266"/>
+      <point x="1863" y="407"/>
+      <point x="1981" y="407" type="curve" smooth="yes"/>
+      <point x="2029" y="407"/>
+      <point x="2076" y="381"/>
+      <point x="2068" y="323" type="curve" smooth="yes"/>
+      <point x="2052" y="244"/>
+      <point x="1951" y="160"/>
+      <point x="1777" y="160" type="curve" smooth="yes"/>
+      <point x="1670" y="160" type="line"/>
+    </contour>
+    <contour>
+      <point x="1760" y="160" type="line"/>
+      <point x="1353" y="160" type="line"/>
+      <point x="2115" y="980" type="line"/>
+      <point x="2138" y="1117" type="line"/>
+      <point x="1103" y="1117" type="line"/>
+      <point x="1076" y="957" type="line"/>
+      <point x="1891" y="957" type="line"/>
+      <point x="1126" y="145" type="line"/>
+      <point x="1103" y="0" type="line"/>
+      <point x="1734" y="0" type="line"/>
+    </contour>
+    <component base="d"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>d</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

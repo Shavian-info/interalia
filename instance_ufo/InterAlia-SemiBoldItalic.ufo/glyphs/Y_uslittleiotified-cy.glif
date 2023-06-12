@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yuslittleiotified-cy" format="2">
+  <advance height="2479.0" width="2024.8"/>
+  <unicode hex="0468"/>
+  <outline>
+    <contour>
+      <point x="932.1999999999999" y="622.6" type="line"/>
+      <point x="332.2" y="622.6" type="line"/>
+      <point x="298.40000000000003" y="423.2" type="line"/>
+      <point x="898.4" y="423.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="542.4" y="1489.0" type="line"/>
+      <point x="272.2" y="1489.0" type="line"/>
+      <point x="24.799999999999997" y="0.0" type="line"/>
+      <point x="295.4" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1454.3999999999999" y="1355.6" type="line"/>
+      <point x="1431.0" y="1489.0" type="line"/>
+      <point x="1259.8000000000002" y="1489.0" type="line"/>
+      <point x="487.6" y="0.0" type="line"/>
+      <point x="781.2" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1525.6" y="0.0" type="line"/>
+      <point x="1818.6" y="0.0" type="line"/>
+      <point x="1542.6000000000001" y="1489.0" type="line"/>
+      <point x="1371.3999999999999" y="1489.0" type="line"/>
+      <point x="1303.4" y="1364.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="1627.0" y="622.6" type="line"/>
+      <point x="854.2" y="622.6" type="line"/>
+      <point x="820.2" y="421.4" type="line"/>
+      <point x="1593.1999999999998" y="421.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="1357.0" y="535.4" type="line"/>
+      <point x="1115.2" y="535.4" type="line"/>
+      <point x="1025.8" y="0.0" type="line"/>
+      <point x="1267.6" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

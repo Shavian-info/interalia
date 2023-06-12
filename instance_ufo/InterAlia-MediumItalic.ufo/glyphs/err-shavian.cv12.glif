@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="err-shavian.cv12" format="2">
+  <advance height="2479.0" width="1138.6"/>
+  <outline>
+    <contour>
+      <point x="862.2" y="0.0" type="curve" smooth="yes"/>
+      <point x="948.0" y="0.0" type="line"/>
+      <point x="979.6" y="193.6" type="line"/>
+      <point x="880.6" y="193.6" type="line" smooth="yes"/>
+      <point x="718.4" y="192.8"/>
+      <point x="629.8000000000001" y="278.4"/>
+      <point x="653.2" y="420.8" type="curve" smooth="yes"/>
+      <point x="665.0" y="490.6"/>
+      <point x="694.6" y="563.0"/>
+      <point x="748.8000000000001" y="621.6" type="curve"/>
+      <point x="601.4" y="717.4" type="line"/>
+      <point x="581.8" y="704.6"/>
+      <point x="563.2" y="683.0"/>
+      <point x="547.4" y="659.8" type="curve"/>
+      <point x="408.79999999999995" y="653.4"/>
+      <point x="342.8" y="719.0"/>
+      <point x="363.0" y="838.0" type="curve" smooth="yes"/>
+      <point x="373.6" y="909.4"/>
+      <point x="406.4" y="962.6"/>
+      <point x="481.6" y="1019.4000000000001" type="curve"/>
+      <point x="305.8" y="1137.3999999999999" type="line"/>
+      <point x="212.0" y="1063.8"/>
+      <point x="166.79999999999998" y="969.6"/>
+      <point x="149.0" y="862.8" type="curve" smooth="yes"/>
+      <point x="111.8" y="635.0"/>
+      <point x="240.6" y="489.4"/>
+      <point x="470.2" y="496.8" type="curve"/>
+      <point x="456.6" y="469.8"/>
+      <point x="456.2" y="446.4"/>
+      <point x="453.8" y="433.8" type="curve" smooth="yes"/>
+      <point x="410.8" y="176.4"/>
+      <point x="577.4" y="0.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>shavian</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

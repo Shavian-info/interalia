@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Chedescenderabkhasian-cy" format="2">
+  <advance height="2479.0" width="1693.6"/>
+  <unicode hex="04BE"/>
+  <anchor x="969.0" y="-2.4" name="bottom"/>
+  <anchor x="958.0" y="0.0" name="cyrtic"/>
+  <outline>
+    <component base="Cheabkhasian-cy"/>
+    <component base="cyrillictic.cn" xOffset="821.2" yOffset="-83.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

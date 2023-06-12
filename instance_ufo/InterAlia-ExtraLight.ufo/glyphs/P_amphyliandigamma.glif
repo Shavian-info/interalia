@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Pamphyliandigamma" format="2">
+  <advance height="2479.0" width="1512.0"/>
+  <unicode hex="0376"/>
+  <anchor x="1326.3333333333333" y="0.0" name="right"/>
+  <anchor x="757.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="Ii-cy" xOffset="-27.333333333333332"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

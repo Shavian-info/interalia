@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorn" format="2">
+  <advance height="2479" width="1671"/>
+  <unicode hex="01AF"/>
+  <anchor x="671" y="-23" name="bottom"/>
+  <anchor x="738" y="0" name="ogonek"/>
+  <anchor x="738" y="0" name="right"/>
+  <anchor x="953" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="1673" y="1603" type="line"/>
+      <point x="1637" y="1441"/>
+      <point x="1567" y="1380"/>
+      <point x="1423" y="1341" type="curve"/>
+      <point x="1420" y="1295" type="line"/>
+      <point x="1594" y="1335"/>
+      <point x="1679" y="1408"/>
+      <point x="1719" y="1603" type="curve"/>
+    </contour>
+    <component base="U"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

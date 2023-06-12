@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B.box" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="1F131"/>
+  <anchor x="1310.6666666666665" y="0.0" name="bottom"/>
+  <anchor x="1578.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="B" xOffset="760.6666666666667"/>
+    <component base="enclosingsquarecomb" xOffset="784.3333333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>B</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingsquarecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

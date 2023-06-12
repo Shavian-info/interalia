@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleprimeReversed" format="2">
+  <advance height="2479.0" width="1001.8"/>
+  <unicode hex="2036"/>
+  <outline>
+    <component base="primeReversed"/>
+    <component base="primeReversed" xOffset="430.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0306"/>
+  <outline>
+    <contour>
+      <point x="-279.0" y="1493.0" type="line"/>
+      <point x="-290.66666666666663" y="1417.3333333333333"/>
+      <point x="-342.0" y="1358.6666666666667"/>
+      <point x="-432.99999999999994" y="1358.6666666666667" type="curve" smooth="yes"/>
+      <point x="-526.3333333333334" y="1358.6666666666667"/>
+      <point x="-557.0" y="1417.3333333333333"/>
+      <point x="-544.3333333333334" y="1493.0" type="curve"/>
+      <point x="-666.6666666666667" y="1493.0" type="line"/>
+      <point x="-689.6666666666667" y="1354.6666666666665"/>
+      <point x="-607.0" y="1260.0"/>
+      <point x="-448.99999999999994" y="1260.0" type="curve" smooth="yes"/>
+      <point x="-293.0" y="1260.0"/>
+      <point x="-179.99999999999997" y="1354.6666666666665"/>
+      <point x="-156.66666666666666" y="1493.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

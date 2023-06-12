@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gcircumflex" format="2">
+  <advance height="2479.0" width="1313.3999999999999"/>
+  <unicode hex="011D"/>
+  <anchor x="475.6" y="-421.2" name="bottom"/>
+  <anchor x="1021.4" y="566.4" name="cross"/>
+  <anchor x="759.4" y="1303.0" name="top"/>
+  <outline>
+    <component base="g"/>
+    <component base="circumflex" xOffset="26.399999999999988"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusmod" format="2">
+  <advance height="2479.0" width="687.6666666666666"/>
+  <unicode hex="02D6"/>
+  <outline>
+    <contour>
+      <point x="376.0" y="514.3333333333334" type="line"/>
+      <point x="295.0" y="514.3333333333334" type="line"/>
+      <point x="241.33333333333334" y="174.33333333333334" type="line"/>
+      <point x="323.0" y="174.33333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="140.66666666666666" y="383.3333333333333" type="line"/>
+      <point x="128.66666666666666" y="305.3333333333333" type="line"/>
+      <point x="476.0" y="305.3333333333333" type="line"/>
+      <point x="487.6666666666667" y="383.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

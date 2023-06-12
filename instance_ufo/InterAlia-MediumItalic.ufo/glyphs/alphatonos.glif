@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphatonos" format="2">
+  <advance height="2479.0" width="1316.0"/>
+  <unicode hex="03AC"/>
+  <anchor x="500.6" y="0.0" name="bottom"/>
+  <anchor x="737.6" y="1303.0" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="tonostop" xOffset="353.59999999999997" yOffset="4.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

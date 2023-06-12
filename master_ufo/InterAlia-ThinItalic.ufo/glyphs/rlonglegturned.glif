@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rlonglegturned" format="2">
+  <advance height="2479" width="665"/>
+  <unicode hex="027A"/>
+  <outline>
+    <contour>
+      <point x="-9" y="-15" type="curve" smooth="yes"/>
+      <point x="144" y="-15"/>
+      <point x="282" y="60"/>
+      <point x="354" y="176" type="curve"/>
+      <point x="360" y="177" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="626" y="1510" type="line"/>
+      <point x="580" y="1510" type="line"/>
+      <point x="391" y="368" type="line" smooth="yes"/>
+      <point x="359" y="173"/>
+      <point x="192" y="32"/>
+      <point x="-8" y="32" type="curve" smooth="yes"/>
+      <point x="-18" y="32"/>
+      <point x="-18" y="32"/>
+      <point x="-30" y="32" type="curve"/>
+      <point x="-34" y="-15" type="line"/>
+      <point x="-22" y="-15"/>
+      <point x="-22" y="-15"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

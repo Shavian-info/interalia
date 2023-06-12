@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaiSymbol" format="2">
+  <advance height="2479.0" width="1532.6"/>
+  <unicode hex="03CF"/>
+  <outline>
+    <contour>
+      <point x="398.4" y="367.4" type="line"/>
+      <point x="803.6" y="727.8" type="line"/>
+      <point x="1546.8" y="1489.0" type="line"/>
+      <point x="1153.4" y="1489.0" type="line"/>
+      <point x="674.6" y="987.4" type="line"/>
+      <point x="392.4" y="673.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="59.39999999999998" y="0.0" type="line"/>
+      <point x="376.2" y="0.0" type="line"/>
+      <point x="622.0" y="1489.0" type="line"/>
+      <point x="306.2" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="793.0" y="-367.0" type="line"/>
+      <point x="1288.0" y="0.0" type="line"/>
+      <point x="858.2" y="859.8" type="line"/>
+      <point x="590.2" y="665.6" type="line"/>
+      <point x="909.0" y="8.399999999999999" type="line"/>
+      <point x="655.0" y="-178.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

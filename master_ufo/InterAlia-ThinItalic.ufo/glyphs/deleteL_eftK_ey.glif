@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="deleteLeftKey" format="2">
+  <advance height="2479" width="2490"/>
+  <unicode hex="232B"/>
+  <outline>
+    <contour>
+      <point x="820" y="0" type="line"/>
+      <point x="2211" y="0" type="line"/>
+      <point x="2458" y="1489" type="line"/>
+      <point x="1068" y="1489" type="line"/>
+      <point x="204" y="745" type="line"/>
+    </contour>
+    <contour>
+      <point x="848" y="47" type="line"/>
+      <point x="269" y="745" type="line"/>
+      <point x="1079" y="1443" type="line"/>
+      <point x="2404" y="1443" type="line"/>
+      <point x="2173" y="47" type="line"/>
+    </contour>
+    <contour>
+      <point x="1839" y="380" type="line"/>
+      <point x="1199" y="1145" type="line"/>
+      <point x="1159" y="1111" type="line"/>
+      <point x="1799" y="346" type="line"/>
+    </contour>
+    <contour>
+      <point x="1066" y="346" type="line"/>
+      <point x="1959" y="1111" type="line"/>
+      <point x="1932" y="1145" type="line"/>
+      <point x="1039" y="380" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Astroke" format="2">
+  <advance height="2479.0" width="1303.6666666666667"/>
+  <unicode hex="023A"/>
+  <unicode hex="2C65"/>
+  <anchor x="558.3333333333334" y="0.0" name="bottom"/>
+  <anchor x="1148.3333333333333" y="0.0" name="ogonek"/>
+  <anchor x="670.3333333333334" y="1489.0" name="tonos"/>
+  <anchor x="837.6666666666667" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1203.0" y="1679.0" type="line"/>
+      <point x="1116.0000000000002" y="1679.0" type="line"/>
+      <point x="143.66666666666669" y="-189.0" type="line"/>
+      <point x="231.00000000000003" y="-189.0" type="line"/>
+    </contour>
+    <component base="A"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

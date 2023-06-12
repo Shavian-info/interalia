@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowheadleftbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0354"/>
+  <outline>
+    <component base="lowleftarrowheadmod" xOffset="-1100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>41</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

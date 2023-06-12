@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="largerighthook" format="2">
+  <advance height="2479.0" width="939.0"/>
+  <unicode hex="E10F"/>
+  <anchor x="189.66666666666666" y="0.0" name="_right"/>
+  <outline>
+    <contour>
+      <point x="63.666666666666664" y="705.0" type="line"/>
+      <point x="283.3333333333333" y="705.0" type="line" smooth="yes"/>
+      <point x="582.6666666666666" y="705.0"/>
+      <point x="744.3333333333334" y="565.6666666666666"/>
+      <point x="744.3333333333334" y="260.0" type="curve" smooth="yes"/>
+      <point x="744.6666666666666" y="14.333333333333334"/>
+      <point x="639.0" y="-155.33333333333334"/>
+      <point x="428.3333333333333" y="-155.33333333333334" type="curve"/>
+      <point x="431.6666666666667" y="-275.6666666666667" type="line"/>
+      <point x="715.6666666666666" y="-275.3333333333333"/>
+      <point x="878.0" y="-68.33333333333333"/>
+      <point x="878.6666666666666" y="259.3333333333333" type="curve" smooth="yes"/>
+      <point x="879.0" y="639.3333333333334"/>
+      <point x="664.6666666666666" y="827.0"/>
+      <point x="283.3333333333333" y="827.0" type="curve" smooth="yes"/>
+      <point x="63.666666666666664" y="827.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

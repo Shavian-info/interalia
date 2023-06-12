@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasiavaria.1" format="2">
+  <advance height="2479.0" width="1578.8"/>
+  <anchor x="1008.6000000000001" y="0.0" name="bottom"/>
+  <anchor x="1134.8000000000002" y="776.0" name="cross"/>
+  <anchor x="1403.4" y="0.0" name="ogonek"/>
+  <anchor x="1423.2" y="0.0" name="right"/>
+  <anchor x="856.1999999999999" y="1489.0" name="tonos"/>
+  <anchor x="1284.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="I.1" xOffset="620.2"/>
+    <component base="dasiavaria.tonos" xOffset="-60.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>I.1</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>greek</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

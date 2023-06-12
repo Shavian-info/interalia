@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onefraction" format="2">
+  <advance height="2479.0" width="1144.8000000000002"/>
+  <unicode hex="215F"/>
+  <anchor x="1130.2" y="791.0" name="dnom"/>
+  <anchor x="593.1999999999999" y="698.0" name="numr"/>
+  <outline>
+    <component base="fraction" xOffset="552.8000000000001"/>
+    <component base="one.numr" xOffset="-29.6" yOffset="-47.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

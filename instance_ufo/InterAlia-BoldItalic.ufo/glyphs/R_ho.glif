@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rho" format="2">
+  <advance height="2479.0" width="1325.2"/>
+  <unicode hex="03A1"/>
+  <anchor x="258.0" y="1489.0" name="tonos"/>
+  <anchor x="840.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="P"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

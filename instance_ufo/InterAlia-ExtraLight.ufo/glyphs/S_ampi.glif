@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sampi" format="2">
+  <advance height="2479.0" width="1400.0"/>
+  <unicode hex="03E0"/>
+  <outline>
+    <contour>
+      <point x="125.66666666666667" y="948.6666666666666" type="line" name="hr00"/>
+      <point x="197.0" y="1252.0"/>
+      <point x="397.6666666666667" y="1425.0"/>
+      <point x="671.0" y="1424.3333333333333" type="curve" smooth="yes"/>
+      <point x="1047.0" y="1423.0"/>
+      <point x="1277.0" y="1090.3333333333333"/>
+      <point x="1277.0" y="574.0" type="curve" smooth="yes"/>
+      <point x="1277.0" y="470.0" type="line" smooth="yes"/>
+      <point x="1277.0" y="-33.66666666666666"/>
+      <point x="1048.0" y="-342.0"/>
+      <point x="642.3333333333334" y="-343.3333333333333" type="curve"/>
+      <point x="642.3333333333334" y="-436.0" type="line"/>
+      <point x="1102.6666666666667" y="-436.0"/>
+      <point x="1375.3333333333333" y="-89.66666666666667"/>
+      <point x="1375.3333333333333" y="470.0" type="curve" smooth="yes"/>
+      <point x="1375.3333333333333" y="571.0" type="line" smooth="yes"/>
+      <point x="1375.3333333333333" y="1135.3333333333333"/>
+      <point x="1110.3333333333333" y="1511.0"/>
+      <point x="673.6666666666666" y="1511.0" type="curve" smooth="yes"/>
+      <point x="321.6666666666667" y="1511.0"/>
+      <point x="85.33333333333333" y="1271.0"/>
+      <point x="25.333333333333336" y="948.6666666666666" type="curve"/>
+    </contour>
+    <contour>
+      <point x="387.0" y="692.6666666666666" type="line"/>
+      <point x="426.6666666666667" y="618.6666666666666" type="line"/>
+      <point x="1206.3333333333333" y="1076.0" type="line"/>
+      <point x="1164.0" y="1150.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="578.0" y="211.0" type="line"/>
+      <point x="621.6666666666666" y="136.66666666666666" type="line"/>
+      <point x="1353.0" y="565.3333333333334" type="line"/>
+      <point x="1335.0" y="650.6666666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

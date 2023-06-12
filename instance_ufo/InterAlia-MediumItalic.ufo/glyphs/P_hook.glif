@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Phook" format="2">
+  <advance height="2479.0" width="1653.8"/>
+  <unicode hex="01A4"/>
+  <anchor x="633.4" y="1489.0" name="tonos"/>
+  <anchor x="1184.2" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="378.59999999999997" y="1049.2" type="line"/>
+      <point x="389.4" y="1114.6" type="line" smooth="yes"/>
+      <point x="403.4" y="1206.6"/>
+      <point x="437.4" y="1296.6"/>
+      <point x="555.2" y="1296.6" type="curve" smooth="yes"/>
+      <point x="721.8000000000001" y="1296.6" type="line"/>
+      <point x="753.0" y="1489.0" type="line"/>
+      <point x="584.0" y="1489.0" type="line" smooth="yes"/>
+      <point x="368.4" y="1489.0"/>
+      <point x="218.6" y="1350.6"/>
+      <point x="190.39999999999998" y="1163.8" type="curve" smooth="yes"/>
+      <point x="172.39999999999998" y="1049.2" type="line"/>
+    </contour>
+    <component base="P" xOffset="347.40000000000003"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

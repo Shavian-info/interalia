@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i-cy" format="2">
+  <advance height="2479.0" width="464.6666666666667"/>
+  <unicode hex="0456"/>
+  <anchor x="232.66666666666666" y="0.0" name="bottom"/>
+  <anchor x="232.66666666666666" y="585.6666666666666" name="cross"/>
+  <anchor x="276.3333333333333" y="0.0" name="ogonek"/>
+  <anchor x="232.66666666666666" y="1303.0" name="top"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

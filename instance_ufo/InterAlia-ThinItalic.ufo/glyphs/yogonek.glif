@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yogonek" format="2">
+  <advance height="2479" width="1071"/>
+  <unicode hex="EE05"/>
+  <anchor x="633" y="-86" name="bottom"/>
+  <anchor x="415" y="-419" name="ogonek"/>
+  <anchor x="659" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="662" y="-419" type="curve" smooth="yes"/>
+      <point x="700" y="-419"/>
+      <point x="745" y="-409"/>
+      <point x="791" y="-390" type="curve"/>
+      <point x="778" y="-349" type="line"/>
+      <point x="624" y="-412"/>
+      <point x="529" y="-356"/>
+      <point x="496" y="-189" type="curve" smooth="yes"/>
+      <point x="461" y="-9" type="line"/>
+      <point x="420" y="-31" type="line"/>
+      <point x="452" y="-204" type="line" smooth="yes"/>
+      <point x="479" y="-345"/>
+      <point x="553" y="-419"/>
+    </contour>
+    <component base="y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

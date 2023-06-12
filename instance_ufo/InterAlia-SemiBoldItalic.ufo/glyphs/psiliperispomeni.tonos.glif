@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psiliperispomeni.tonos" format="2">
+  <advance height="2479.0" width="773.8"/>
+  <unicode hex="E0FF"/>
+  <anchor x="774.0" y="1453.2" name="_tonos"/>
+  <outline>
+    <component base="psiliperispomeni" xOffset="3.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

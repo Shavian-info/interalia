@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="deleterightKey" format="2">
+  <advance height="2479.0" width="2490.0"/>
+  <unicode hex="2326"/>
+  <outline>
+    <contour>
+      <point x="186.0" y="0.0" type="line"/>
+      <point x="1577.0" y="0.0" type="line"/>
+      <point x="2317.0" y="745.0" type="line"/>
+      <point x="1577.0" y="1489.0" type="line"/>
+      <point x="186.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="682.6666666666666" y="333.3333333333333" type="line"/>
+      <point x="1449.6666666666667" y="1098.3333333333333" type="line"/>
+      <point x="1391.3333333333333" y="1157.0" type="line"/>
+      <point x="625.3333333333334" y="392.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1391.3333333333333" y="333.3333333333333" type="line"/>
+      <point x="1449.6666666666667" y="392.0" type="line"/>
+      <point x="682.6666666666666" y="1157.0" type="line"/>
+      <point x="625.3333333333334" y="1098.3333333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="269.6666666666667" y="84.66666666666667" type="line"/>
+      <point x="269.6666666666667" y="1405.0" type="line"/>
+      <point x="1543.0" y="1405.0" type="line"/>
+      <point x="2199.6666666666665" y="745.0" type="line"/>
+      <point x="1543.0" y="84.66666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

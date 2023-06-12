@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rsmall" format="2">
+  <advance height="2479.0" width="1183.8"/>
+  <unicode hex="0280"/>
+  <outline>
+    <contour>
+      <point x="116.80000000000001" y="0.0" type="line"/>
+      <point x="405.8" y="0.0" type="line"/>
+      <point x="405.8" y="874.2" type="line"/>
+      <point x="615.2" y="874.2" type="line"/>
+      <point x="729.4" y="874.2"/>
+      <point x="789.4" y="813.0"/>
+      <point x="788.2" y="741.8" type="curve"/>
+      <point x="789.4" y="669.4"/>
+      <point x="730.8" y="612.2"/>
+      <point x="617.8" y="612.2" type="curve"/>
+      <point x="302.4" y="612.2" type="line"/>
+      <point x="302.4" y="403.0" type="line"/>
+      <point x="617.8" y="403.0" type="line"/>
+      <point x="905.8" y="403.0"/>
+      <point x="1085.6" y="542.8"/>
+      <point x="1083.8" y="750.2" type="curve"/>
+      <point x="1085.6" y="968.8"/>
+      <point x="904.4" y="1117.0"/>
+      <point x="615.2" y="1117.0" type="curve"/>
+      <point x="116.80000000000001" y="1117.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="819.6" y="0.0" type="line"/>
+      <point x="1115.4" y="0.0" type="line"/>
+      <point x="805.6" y="581.8" type="line"/>
+      <point x="508.8" y="581.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

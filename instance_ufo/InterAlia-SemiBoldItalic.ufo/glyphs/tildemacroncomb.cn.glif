@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tildemacroncomb.cn" format="2">
+  <advance height="2479.0" width="12.8"/>
+  <unicode hex="E125"/>
+  <anchor x="-515.4" y="1257.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-302.4" y="1443.2" type="line"/>
+      <point x="-310.6" y="1395.4"/>
+      <point x="-351.79999999999995" y="1359.2"/>
+      <point x="-390.40000000000003" y="1359.2" type="curve" smooth="yes"/>
+      <point x="-475.4" y="1359.2"/>
+      <point x="-523.8000000000001" y="1427.4"/>
+      <point x="-614.0" y="1427.4" type="curve" smooth="yes"/>
+      <point x="-711.5999999999999" y="1427.4"/>
+      <point x="-794.4" y="1338.0"/>
+      <point x="-809.0" y="1243.2" type="curve"/>
+      <point x="-702.6" y="1211.8" type="line"/>
+      <point x="-694.0" y="1258.8"/>
+      <point x="-657.2" y="1299.8"/>
+      <point x="-618.0" y="1299.8" type="curve" smooth="yes"/>
+      <point x="-529.8" y="1299.8"/>
+      <point x="-503.6" y="1230.0"/>
+      <point x="-394.6" y="1230.0" type="curve" smooth="yes"/>
+      <point x="-296.0" y="1230.0"/>
+      <point x="-210.2" y="1315.6"/>
+      <point x="-192.8" y="1412.2" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-89.6" y="1705.8" type="line"/>
+      <point x="-792.0" y="1705.8" type="line"/>
+      <point x="-818.6" y="1542.0" type="line"/>
+      <point x="-116.19999999999999" y="1542.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Entail-cy" format="2">
+  <advance height="2479" width="1589"/>
+  <unicode hex="04C9"/>
+  <anchor x="756" y="0" name="bottom"/>
+  <anchor x="294" y="-3" name="cedilla"/>
+  <anchor x="1402" y="64" name="cyrtic"/>
+  <anchor x="1335" y="0" name="right"/>
+  <anchor x="145" y="1489" name="tonos"/>
+  <anchor x="765" y="1679" name="top"/>
+  <outline>
+    <component base="H"/>
+    <component base="cyrillictail.cn" xOffset="1123" yOffset="-73"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>cyrillictail.cn</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

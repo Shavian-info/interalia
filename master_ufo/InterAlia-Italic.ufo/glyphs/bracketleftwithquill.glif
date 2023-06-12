@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketleftwithquill" format="2">
+  <advance height="2479" width="742"/>
+  <unicode hex="2045"/>
+  <outline>
+    <contour>
+      <point x="695" y="698" type="line"/>
+      <point x="361" y="698" type="line"/>
+      <point x="337" y="559" type="line"/>
+      <point x="672" y="559" type="line"/>
+    </contour>
+    <component base="bracketleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

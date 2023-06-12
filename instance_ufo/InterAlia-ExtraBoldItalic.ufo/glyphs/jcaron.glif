@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcaron" format="2">
+  <advance height="2479.0" width="581.2"/>
+  <unicode hex="01F0"/>
+  <outline>
+    <component base="jdotless"/>
+    <component base="caron" xOffset="-320.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bmod" format="2">
+  <advance height="2479.0" width="841.3333333333334"/>
+  <unicode hex="1D47"/>
+  <outline>
+    <contour>
+      <point x="151.33333333333331" y="745.0" type="line"/>
+      <point x="268.66666666666663" y="745.0" type="line"/>
+      <point x="291.66666666666663" y="893.6666666666666" type="line"/>
+      <point x="299.66666666666663" y="893.6666666666666" type="line"/>
+      <point x="317.6666666666667" y="809.0"/>
+      <point x="379.33333333333337" y="730.0"/>
+      <point x="501.3333333333333" y="730.0" type="curve" smooth="yes"/>
+      <point x="679.6666666666666" y="730.0"/>
+      <point x="825.3333333333333" y="883.6666666666666"/>
+      <point x="863.6666666666666" y="1117.0" type="curve" smooth="yes"/>
+      <point x="903.6666666666666" y="1356.3333333333333"/>
+      <point x="797.3333333333333" y="1499.0"/>
+      <point x="628.3333333333333" y="1499.0" type="curve" smooth="yes"/>
+      <point x="507.3333333333333" y="1499.0"/>
+      <point x="418.6666666666667" y="1422.0"/>
+      <point x="374.66666666666663" y="1335.3333333333333" type="curve"/>
+      <point x="368.66666666666663" y="1335.3333333333333" type="line"/>
+      <point x="434.66666666666663" y="1737.0" type="line"/>
+      <point x="317.3333333333333" y="1737.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="330.66666666666663" y="1122.0" type="curve" smooth="yes"/>
+      <point x="355.66666666666663" y="1279.6666666666667"/>
+      <point x="455.0" y="1401.0"/>
+      <point x="584.6666666666666" y="1401.0" type="curve" smooth="yes"/>
+      <point x="717.6666666666666" y="1401.0"/>
+      <point x="771.0" y="1279.6666666666667"/>
+      <point x="742.3333333333334" y="1113.0" type="curve" smooth="yes"/>
+      <point x="715.6666666666667" y="947.6666666666667"/>
+      <point x="613.0" y="829.0"/>
+      <point x="486.0" y="829.0" type="curve" smooth="yes"/>
+      <point x="353.66666666666663" y="829.0"/>
+      <point x="302.66666666666663" y="948.3333333333334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

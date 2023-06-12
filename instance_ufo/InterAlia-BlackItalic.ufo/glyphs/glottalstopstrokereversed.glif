@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopstrokereversed" format="2">
+  <advance height="2479" width="1237"/>
+  <unicode hex="02A2"/>
+  <anchor x="535" y="228" name="cross"/>
+  <outline>
+    <component base="glottalstopreversed"/>
+    <component base="crossbar" xOffset="-26" yOffset="-578"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

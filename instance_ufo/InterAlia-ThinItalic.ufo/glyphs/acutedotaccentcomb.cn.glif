@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotaccentcomb.cn" format="2">
+  <advance height="2479"/>
+  <unicode hex="E11B"/>
+  <anchor x="-448" y="1196" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-476" y="1187" type="line"/>
+      <point x="-429" y="1187" type="line"/>
+      <point x="-198" y="1457" type="line"/>
+      <point x="-256" y="1457" type="line"/>
+    </contour>
+    <contour>
+      <point x="-455" y="1519" type="curve" smooth="yes"/>
+      <point x="-461" y="1492"/>
+      <point x="-441" y="1466"/>
+      <point x="-412" y="1466" type="curve" smooth="yes"/>
+      <point x="-388" y="1466"/>
+      <point x="-368" y="1484"/>
+      <point x="-362" y="1507" type="curve" smooth="yes"/>
+      <point x="-355" y="1535"/>
+      <point x="-377" y="1559"/>
+      <point x="-406" y="1559" type="curve" smooth="yes"/>
+      <point x="-429" y="1559"/>
+      <point x="-451" y="1539"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

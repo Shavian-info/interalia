@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="capslock" format="2">
+  <advance height="2479.0" width="2262.4"/>
+  <unicode hex="21EA"/>
+  <outline>
+    <contour>
+      <point x="642.4" y="252.8" type="line"/>
+      <point x="1619.6" y="252.8" type="line"/>
+      <point x="1619.6" y="633.4" type="line"/>
+      <point x="2103.6" y="633.4" type="line"/>
+      <point x="1131.0" y="1606.0" type="line"/>
+      <point x="158.4" y="633.4" type="line"/>
+      <point x="642.4" y="633.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="642.4" y="-389.6" type="line"/>
+      <point x="1619.6" y="-389.6" type="line"/>
+      <point x="1619.6" y="107.6" type="line"/>
+      <point x="642.4" y="107.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="882.0" y="-215.4" type="line"/>
+      <point x="882.0" y="-67.2" type="line"/>
+      <point x="1380.4" y="-67.2" type="line"/>
+      <point x="1380.4" y="-215.4" type="line"/>
+    </contour>
+    <contour>
+      <point x="882.0" y="436.0" type="line"/>
+      <point x="882.0" y="816.6" type="line"/>
+      <point x="640.8" y="816.6" type="line"/>
+      <point x="1131.0" y="1306.8" type="line"/>
+      <point x="1621.6" y="816.6" type="line"/>
+      <point x="1380.4" y="816.6" type="line"/>
+      <point x="1380.4" y="436.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

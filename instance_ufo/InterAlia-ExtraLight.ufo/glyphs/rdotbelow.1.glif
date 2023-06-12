@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdotbelow.1" format="2">
+  <advance height="2479.0" width="756.3333333333334"/>
+  <anchor x="227.66666666666666" y="0.0" name="bottom"/>
+  <anchor x="228.66666666666666" y="535.0" name="cross"/>
+  <anchor x="426.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="r.1"/>
+    <component base="dotbelowcomb" xOffset="802.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

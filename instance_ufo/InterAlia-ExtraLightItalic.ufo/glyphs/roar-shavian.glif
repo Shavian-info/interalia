@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="roar-shavian" format="2">
+  <advance width="1035.3333333333335"/>
+  <unicode hex="1046E"/>
+  <outline>
+    <contour>
+      <point x="95.33333333333334" y="0.0" type="line"/>
+      <point x="285.3333333333333" y="0.0" type="line" smooth="yes"/>
+      <point x="605.0" y="0.0"/>
+      <point x="856.6666666666666" y="218.66666666666666"/>
+      <point x="912.3333333333334" y="554.0" type="curve" smooth="yes"/>
+      <point x="967.6666666666666" y="892.3333333333334"/>
+      <point x="784.6666666666666" y="1117.0"/>
+      <point x="465.66666666666663" y="1117.0" type="curve" smooth="yes"/>
+      <point x="281.33333333333337" y="1117.0" type="line"/>
+      <point x="265.6666666666667" y="1030.0" type="line"/>
+      <point x="457.66666666666663" y="1030.0" type="line" smooth="yes"/>
+      <point x="723.3333333333334" y="1030.0"/>
+      <point x="872.0" y="848.0"/>
+      <point x="826.3333333333334" y="563.0" type="curve" smooth="yes"/>
+      <point x="777.6666666666667" y="276.0"/>
+      <point x="561.0" y="88.66666666666667"/>
+      <point x="293.66666666666663" y="88.66666666666667" type="curve" smooth="yes"/>
+      <point x="110.33333333333334" y="88.66666666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

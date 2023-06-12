@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imod.ccmp" format="2">
+  <advance height="2479.0" width="505.00000000000006"/>
+  <unicode hex="E0F4"/>
+  <outline>
+    <contour>
+      <point x="492.2" y="1365.8" type="line"/>
+      <point x="283.2" y="1365.8" type="line"/>
+      <point x="149.6" y="561.0" type="line"/>
+      <point x="358.2" y="561.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

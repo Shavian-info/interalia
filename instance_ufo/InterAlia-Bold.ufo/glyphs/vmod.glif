@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="vmod" format="2">
+  <advance height="2479.0" width="810.0"/>
+  <unicode hex="1D5B"/>
+  <outline>
+    <contour>
+      <point x="789.4" y="1489.0" type="line"/>
+      <point x="553.8" y="1489.0" type="line"/>
+      <point x="408.6" y="975.8" type="line"/>
+      <point x="399.6" y="975.8" type="line"/>
+      <point x="253.2" y="1489.0" type="line"/>
+      <point x="20.6" y="1489.0" type="line"/>
+      <point x="282.6" y="745.0" type="line"/>
+      <point x="527.4" y="745.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

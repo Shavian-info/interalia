@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etaoxia" format="2">
+  <advance height="2479.0" width="1894.1999999999998"/>
+  <unicode hex="1FCB"/>
+  <anchor x="1038.0" y="0.0" name="bottom"/>
+  <anchor x="567.0" y="0.0" name="cedilla"/>
+  <anchor x="1788.8" y="103.6" name="cyrtic"/>
+  <anchor x="1652.3999999999999" y="0.0" name="right"/>
+  <anchor x="632.6" y="1489.0" name="tonos"/>
+  <anchor x="1322.3999999999999" y="1677.8" name="top"/>
+  <outline>
+    <component base="H" xOffset="370.20000000000005"/>
+    <component base="oxia.tonos" xOffset="-41.800000000000004"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

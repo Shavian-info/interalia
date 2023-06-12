@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubletilderighthalfcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="FE23"/>
+  <outline>
+    <component base="tilderighthalfbelowcomb" xOffset="-5.2" yOffset="1600.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

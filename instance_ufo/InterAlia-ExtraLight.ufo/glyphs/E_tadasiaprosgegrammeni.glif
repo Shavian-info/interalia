@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiaprosgegrammeni" format="2">
+  <advance height="2479.0" width="1805.6666666666667"/>
+  <unicode hex="1F99"/>
+  <anchor x="1049.6666666666667" y="0.0" name="bottom"/>
+  <anchor x="564.3333333333334" y="-5.0" name="cedilla"/>
+  <anchor x="1626.3333333333333" y="25.333333333333336" name="cyrtic"/>
+  <anchor x="1590.0" y="0.0" name="right"/>
+  <anchor x="476.0" y="1489.0" name="tonos"/>
+  <anchor x="1052.6666666666667" y="1677.0" name="top"/>
+  <outline>
+    <component base="H" xOffset="295.6666666666667"/>
+    <component base="prosgegrammeni" xOffset="836.6666666666666"/>
+    <component base="dasia.tonos" xOffset="51.33333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightlongArrow.case" format="2">
+  <advance height="2479.0" width="2746.0"/>
+  <outline>
+    <component base="leftLongArrow" xScale="-1.0" yScale="-1.0" xOffset="2792.3333333333335" yOffset="1396.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

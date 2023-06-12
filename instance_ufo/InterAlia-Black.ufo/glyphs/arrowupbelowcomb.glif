@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowupbelowcomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="034E"/>
+  <outline>
+    <contour>
+      <point x="-599" y="-553" type="line"/>
+      <point x="-599" y="-145" type="line"/>
+      <point x="-762" y="-145" type="line"/>
+      <point x="-762" y="-553" type="line"/>
+    </contour>
+    <contour>
+      <point x="-893" y="-419" type="line"/>
+      <point x="-625" y="-180" type="line"/>
+      <point x="-681" y="-67" type="line"/>
+      <point x="-893" y="-256" type="line"/>
+    </contour>
+    <contour>
+      <point x="-468" y="-256" type="line"/>
+      <point x="-681" y="-67" type="line"/>
+      <point x="-733" y="-183" type="line"/>
+      <point x="-468" y="-419" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>47</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

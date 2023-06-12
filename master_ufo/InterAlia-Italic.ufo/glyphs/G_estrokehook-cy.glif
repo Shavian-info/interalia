@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestrokehook-cy" format="2">
+  <advance height="2479" width="1178"/>
+  <unicode hex="04FA"/>
+  <anchor x="305" y="768" name="cross"/>
+  <anchor x="361" y="64" name="cyrtic"/>
+  <anchor x="256" y="0" name="right"/>
+  <anchor x="817" y="1676" name="top"/>
+  <outline>
+    <component base="Gamma"/>
+    <component base="crossbar" xOffset="-181" yOffset="47"/>
+    <component base="cyrillichook" xOffset="55"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

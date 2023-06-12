@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chedieresis-cy" format="2">
+  <advance height="2479.0" width="1159.0"/>
+  <unicode hex="04F5"/>
+  <anchor x="954.3333333333334" y="13.333333333333336" name="cyrtic"/>
+  <anchor x="840.3333333333334" y="0.0" name="left"/>
+  <anchor x="971.3333333333334" y="0.0" name="right"/>
+  <anchor x="584.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="che-cy"/>
+    <component base="dieresis" xOffset="-67.66666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

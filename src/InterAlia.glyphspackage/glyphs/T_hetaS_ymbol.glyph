@@ -1,0 +1,119 @@
+{
+glyphname = ThetaSymbol;
+kernLeft = C;
+kernRight = D;
+layers = (
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+closed = 1;
+nodes = (
+(268,825,l),
+(268,665,l),
+(1292,665,l),
+(1292,825,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 1559;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+closed = 1;
+nodes = (
+(358,861,l),
+(358,628,l),
+(1271,628,l),
+(1271,861,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 1629;
+},
+{
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+closed = 1;
+nodes = (
+(297,825,l),
+(297,665,l),
+(1321,665,l),
+(1321,825,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 1559;
+},
+{
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(407,861,l),
+(369,628,l),
+(1283,628,l),
+(1321,861,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 1629;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+closed = 1;
+nodes = (
+(179,768,l),
+(179,721,l),
+(1353,721,l),
+(1353,768,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 1530;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+closed = 1;
+nodes = (
+(214,768,l),
+(205,721,l),
+(1380,721,l),
+(1388,768,l)
+);
+},
+{
+ref = O;
+}
+);
+width = 1530;
+}
+);
+metricLeft = O;
+metricRight = O;
+note = "Note: Glyph reused for /obar";
+unicode = 1012;
+}

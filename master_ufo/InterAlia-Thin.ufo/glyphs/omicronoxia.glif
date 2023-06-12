@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicronoxia" format="2">
+  <advance height="2479" width="1187"/>
+  <unicode hex="1F79"/>
+  <anchor x="593" y="0" name="bottom"/>
+  <anchor x="643" y="0" name="ogonek"/>
+  <anchor x="593" y="1303" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="oxia" xOffset="350"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

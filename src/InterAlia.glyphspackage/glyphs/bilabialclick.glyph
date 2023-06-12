@@ -1,0 +1,100 @@
+{
+glyphname = bilabialclick;
+layers = (
+{
+layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (497,625);
+ref = period;
+}
+);
+width = 1559;
+},
+{
+layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (495,566);
+ref = period;
+}
+);
+width = 1629;
+},
+{
+layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (602,627);
+ref = period;
+}
+);
+width = 1559;
+},
+{
+guides = (
+{
+angle = 90;
+pos = (1036,1372);
+}
+);
+layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (588,566);
+ref = period;
+}
+);
+width = 1629;
+},
+{
+layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
+shapes = (
+{
+ref = O;
+},
+{
+alignment = -1;
+pos = (506,701);
+ref = period;
+}
+);
+width = 1530;
+},
+{
+layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
+shapes = (
+{
+ref = O;
+},
+{
+alignment = -1;
+pos = (621,701);
+ref = period;
+}
+);
+width = 1530;
+}
+);
+metricWidth = O;
+unicode = 664;
+userData = {
+com.typemytype.robofont.guideline.magnetic.rNiqLh7mHA = 5;
+interface.gridadjust.original = "{'width': 1944, 'leftMargin': 256, 'rightMargin': 152}";
+"interface.width-adjustments" = (
+-16
+);
+};
+}

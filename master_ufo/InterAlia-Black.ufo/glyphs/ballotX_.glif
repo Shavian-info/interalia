@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotX" format="2">
+  <advance height="2479" width="1804"/>
+  <unicode hex="2717"/>
+  <outline>
+    <contour>
+      <point x="550" y="29" type="line"/>
+      <point x="1524" y="998" type="line"/>
+      <point x="1257" y="1265" type="line"/>
+      <point x="282" y="297" type="line"/>
+    </contour>
+    <contour>
+      <point x="1254" y="29" type="line"/>
+      <point x="1521" y="297" type="line"/>
+      <point x="547" y="1265" type="line"/>
+      <point x="279" y="998" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

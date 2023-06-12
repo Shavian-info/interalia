@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ubar" format="2">
+  <advance height="2479" width="1480"/>
+  <unicode hex="0244"/>
+  <anchor x="633" y="-23" name="bottom"/>
+  <anchor x="700" y="0" name="ogonek"/>
+  <anchor x="700" y="0" name="right"/>
+  <anchor x="915" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="1536" y="876" type="line"/>
+      <point x="49" y="876" type="line"/>
+      <point x="41" y="829" type="line"/>
+      <point x="1527" y="829" type="line"/>
+    </contour>
+    <component base="U" xOffset="-38"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>U</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

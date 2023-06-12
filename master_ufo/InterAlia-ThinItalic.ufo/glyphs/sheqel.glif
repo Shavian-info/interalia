@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sheqel" format="2">
+  <advance height="2479" width="1396"/>
+  <unicode hex="20AA"/>
+  <outline>
+    <contour>
+      <point x="313" y="1117" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="352" y="1071" type="line"/>
+      <point x="662" y="1071" type="line" smooth="yes"/>
+      <point x="843" y="1071"/>
+      <point x="898" y="983"/>
+      <point x="867" y="794" type="curve" smooth="yes"/>
+      <point x="793" y="349" type="line"/>
+      <point x="839" y="349" type="line"/>
+      <point x="911" y="780" type="line" smooth="yes"/>
+      <point x="950" y="1020"/>
+      <point x="860" y="1117"/>
+      <point x="659" y="1117" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="429" y="0" type="line"/>
+      <point x="775" y="0" type="line" smooth="yes"/>
+      <point x="985" y="0"/>
+      <point x="1099" y="89"/>
+      <point x="1140" y="337" type="curve" smooth="yes"/>
+      <point x="1270" y="1108" type="line"/>
+      <point x="1222" y="1108" type="line"/>
+      <point x="1091" y="323" type="line" smooth="yes"/>
+      <point x="1060" y="140"/>
+      <point x="969" y="47"/>
+      <point x="796" y="47" type="curve" smooth="yes"/>
+      <point x="484" y="47" type="line"/>
+      <point x="604" y="768" type="line"/>
+      <point x="557" y="768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

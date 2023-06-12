@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.ss01.osf" format="2">
+  <advance height="2479" width="1189"/>
+  <outline>
+    <contour>
+      <point x="10" y="47" type="line"/>
+      <point x="1023" y="47" type="line"/>
+      <point x="1049" y="207" type="line"/>
+      <point x="228" y="207" type="line"/>
+      <point x="233" y="218" type="line"/>
+      <point x="899" y="1117" type="line"/>
+      <point x="717" y="1117" type="line"/>
+      <point x="32" y="195" type="line"/>
+    </contour>
+    <contour>
+      <point x="593" y="-279" type="line"/>
+      <point x="765" y="-279" type="line"/>
+      <point x="911" y="605" type="line"/>
+      <point x="739" y="605" type="line"/>
+      <point x="666" y="164" type="line"/>
+      <point x="655" y="93" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

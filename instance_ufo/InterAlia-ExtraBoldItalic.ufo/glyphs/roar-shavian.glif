@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="roar-shavian" format="2">
+  <advance width="1009.1999999999999"/>
+  <unicode hex="1046E"/>
+  <outline>
+    <contour>
+      <point x="20.0" y="0.0" type="line"/>
+      <point x="248.8" y="0.0" type="line" smooth="yes"/>
+      <point x="610.5999999999999" y="0.0"/>
+      <point x="879.6" y="208.0"/>
+      <point x="936.6" y="540.4" type="curve" smooth="yes"/>
+      <point x="991.4" y="885.8"/>
+      <point x="778.0" y="1117.0"/>
+      <point x="414.20000000000005" y="1117.0" type="curve" smooth="yes"/>
+      <point x="206.0" y="1117.0" type="line"/>
+      <point x="153.8" y="801.6" type="line"/>
+      <point x="345.8" y="801.6" type="line" smooth="yes"/>
+      <point x="512.8000000000001" y="801.6"/>
+      <point x="609.1999999999999" y="716.4000000000001"/>
+      <point x="584.2" y="562.2" type="curve" smooth="yes"/>
+      <point x="558.1999999999999" y="409.6"/>
+      <point x="428.2" y="316.0"/>
+      <point x="243.0" y="316.0" type="curve" smooth="yes"/>
+      <point x="72.2" y="316.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

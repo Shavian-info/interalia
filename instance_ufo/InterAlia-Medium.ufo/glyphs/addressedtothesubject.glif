@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="addressedtothesubject" format="2">
+  <advance height="2479.0" width="2038.4"/>
+  <unicode hex="2101"/>
+  <anchor x="1301.8" y="791.0" name="dnom"/>
+  <anchor x="827.2" y="698.0" name="numr"/>
+  <outline>
+    <component base="amod"/>
+    <component base="fraction" xOffset="783.4"/>
+    <component base="sinferior" xOffset="1287.8" yOffset="256.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>sinferior</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

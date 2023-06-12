@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance height="2479.0" width="1151.8"/>
+  <unicode hex="04FF"/>
+  <anchor x="576.2" y="0.0" name="bottom"/>
+  <anchor x="576.2" y="559.0" name="cross"/>
+  <anchor x="1050.6" y="103.6" name="cyrtic"/>
+  <anchor x="907.4" y="0.0" name="right"/>
+  <anchor x="576.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="x"/>
+    <component base="crossbar" xOffset="91.8" yOffset="-196.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

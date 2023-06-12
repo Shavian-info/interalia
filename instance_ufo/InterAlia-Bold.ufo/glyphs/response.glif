@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="response" format="2">
+  <advance height="2479.0" width="1356.4"/>
+  <unicode hex="211F"/>
+  <anchor x="693.0" y="0.0" name="bottom"/>
+  <anchor x="668.8" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="956.0" y="1698.4" type="line"/>
+      <point x="535.8" y="1804.8" type="line"/>
+      <point x="503.8" y="1697.2" type="line"/>
+      <point x="824.4" y="1621.6" type="line"/>
+      <point x="392.4" y="-350.0" type="line"/>
+      <point x="509.0" y="-365.8" type="line"/>
+    </contour>
+    <component base="R" xOffset="5.3999999999999995"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

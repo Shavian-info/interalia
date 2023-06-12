@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Esdescender-cy" format="2">
+  <advance height="2479.0" width="1486.3333333333333"/>
+  <unicode hex="04AA"/>
+  <anchor x="775.0" y="-8.0" name="cedilla"/>
+  <anchor x="775.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="cedilla" xOffset="517.6666666666666" yOffset="-8.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Twelve-roman" format="2">
+  <advance height="2479" width="2399"/>
+  <unicode hex="216B"/>
+  <anchor x="657" y="12" name="bottom_1"/>
+  <anchor x="1586" y="0" name="bottom_2"/>
+  <anchor x="2128" y="0" name="bottom_3"/>
+  <anchor x="657" y="745" name="cross_1"/>
+  <anchor x="1586" y="768" name="cross_2"/>
+  <anchor x="2128" y="768" name="cross_3"/>
+  <anchor x="1228" y="64" name="cyrtic"/>
+  <anchor x="1676" y="0" name="ogonek_1"/>
+  <anchor x="2218" y="0" name="ogonek_2"/>
+  <anchor x="1129" y="0" name="right_1"/>
+  <anchor x="1690" y="0" name="right_2"/>
+  <anchor x="2232" y="0" name="right_3"/>
+  <anchor x="1495" y="1489" name="tonos_1"/>
+  <anchor x="2037" y="1489" name="tonos_2"/>
+  <anchor x="657" y="1676" name="top_1"/>
+  <anchor x="1586" y="1676" name="top_2"/>
+  <anchor x="2128" y="1676" name="top_3"/>
+  <outline>
+    <component base="X"/>
+    <component base="I" xOffset="1315"/>
+    <component base="I" xOffset="1857"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

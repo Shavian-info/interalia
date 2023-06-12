@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleverticallinebelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0348"/>
+  <outline>
+    <component base="verticallinemod" xOffset="-770.6666666666667" yOffset="-1635.0"/>
+    <component base="verticallinemod" xOffset="-542.0" yOffset="-1636.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

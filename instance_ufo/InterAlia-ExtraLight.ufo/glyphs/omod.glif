@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omod" format="2">
+  <advance height="2479.0" width="802.6666666666666"/>
+  <unicode hex="1D52"/>
+  <outline>
+    <contour>
+      <point x="402.6666666666667" y="730.0" type="curve" smooth="yes"/>
+      <point x="590.6666666666666" y="730.0"/>
+      <point x="726.3333333333334" y="891.0"/>
+      <point x="726.3333333333334" y="1114.0" type="curve" smooth="yes"/>
+      <point x="726.3333333333334" y="1337.0"/>
+      <point x="590.6666666666666" y="1500.0"/>
+      <point x="402.6666666666667" y="1500.0" type="curve" smooth="yes"/>
+      <point x="212.33333333333334" y="1500.0"/>
+      <point x="76.33333333333333" y="1337.0"/>
+      <point x="76.33333333333333" y="1114.0" type="curve" smooth="yes"/>
+      <point x="76.33333333333333" y="891.0"/>
+      <point x="212.33333333333334" y="730.0"/>
+    </contour>
+    <contour>
+      <point x="402.6666666666667" y="798.0" type="curve" smooth="yes"/>
+      <point x="257.6666666666667" y="798.0"/>
+      <point x="158.0" y="936.6666666666666"/>
+      <point x="158.0" y="1114.0" type="curve" smooth="yes"/>
+      <point x="158.0" y="1292.3333333333333"/>
+      <point x="257.6666666666667" y="1431.0"/>
+      <point x="402.6666666666667" y="1431.0" type="curve" smooth="yes"/>
+      <point x="545.0" y="1431.0"/>
+      <point x="644.6666666666666" y="1292.3333333333333"/>
+      <point x="644.6666666666666" y="1114.0" type="curve" smooth="yes"/>
+      <point x="644.6666666666666" y="938.6666666666666"/>
+      <point x="547.0" y="798.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

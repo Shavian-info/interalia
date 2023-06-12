@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yi-cy" format="2">
+  <advance height="2479.0" width="574.4"/>
+  <unicode hex="0407"/>
+  <anchor x="286.6" y="0.0" name="bottom"/>
+  <anchor x="286.6" y="780.0" name="cross"/>
+  <anchor x="444.4" y="0.0" name="ogonek"/>
+  <anchor x="466.2" y="0.0" name="right"/>
+  <anchor x="129.6" y="1489.0" name="tonos"/>
+  <anchor x="288.4" y="2049.0" name="top"/>
+  <outline>
+    <component base="I"/>
+    <component base="dieresis" xOffset="-259.0" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

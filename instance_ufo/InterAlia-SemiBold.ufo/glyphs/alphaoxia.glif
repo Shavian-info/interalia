@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphaoxia" format="2">
+  <advance height="2479.0" width="1327.2"/>
+  <unicode hex="1F71"/>
+  <anchor x="589.2" y="0.0" name="bottom"/>
+  <anchor x="620.2" y="1303.0" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="oxia" xOffset="326.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

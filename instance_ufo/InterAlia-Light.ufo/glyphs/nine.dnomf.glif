@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.dnomf" format="2">
+  <advance height="2479.0" width="768.6666666666666"/>
+  <outline>
+    <contour>
+      <point x="375.3333333333333" y="805.0" type="curve" smooth="yes"/>
+      <point x="199.0" y="805.0"/>
+      <point x="78.66666666666667" y="690.3333333333334"/>
+      <point x="78.66666666666667" y="540.0" type="curve" smooth="yes"/>
+      <point x="78.66666666666667" y="397.6666666666667"/>
+      <point x="193.66666666666666" y="290.0"/>
+      <point x="344.0" y="290.0" type="curve" smooth="yes"/>
+      <point x="445.0" y="290.0"/>
+      <point x="537.0" y="340.6666666666667"/>
+      <point x="571.0" y="416.0" type="curve"/>
+      <point x="576.0" y="416.0" type="line"/>
+      <point x="576.0" y="210.66666666666666"/>
+      <point x="505.0" y="90.0"/>
+      <point x="368.3333333333333" y="90.0" type="curve" smooth="yes"/>
+      <point x="279.6666666666667" y="90.0"/>
+      <point x="218.0" y="140.66666666666666"/>
+      <point x="206.66666666666666" y="218.33333333333334" type="curve"/>
+      <point x="91.0" y="218.33333333333334" type="line"/>
+      <point x="104.66666666666667" y="87.33333333333333"/>
+      <point x="210.0" y="-12.0"/>
+      <point x="368.3333333333333" y="-12.0" type="curve" smooth="yes"/>
+      <point x="588.3333333333334" y="-12.0"/>
+      <point x="692.0" y="185.0"/>
+      <point x="692.0" y="421.6666666666667" type="curve" smooth="yes"/>
+      <point x="692.0" y="690.0"/>
+      <point x="545.6666666666666" y="805.0"/>
+    </contour>
+    <contour>
+      <point x="375.3333333333333" y="713.3333333333334" type="curve" smooth="yes"/>
+      <point x="474.0" y="713.3333333333334"/>
+      <point x="547.0" y="646.6666666666666"/>
+      <point x="560.6666666666666" y="546.0" type="curve" smooth="yes"/>
+      <point x="572.6666666666666" y="463.3333333333333"/>
+      <point x="492.0" y="373.3333333333333"/>
+      <point x="379.3333333333333" y="373.3333333333333" type="curve" smooth="yes"/>
+      <point x="273.6666666666667" y="373.3333333333333"/>
+      <point x="192.0" y="449.0"/>
+      <point x="192.0" y="542.0" type="curve" smooth="yes"/>
+      <point x="192.0" y="637.3333333333334"/>
+      <point x="271.6666666666667" y="713.3333333333334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Number</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.osf" format="2">
+  <advance height="2479.0" width="1198.4"/>
+  <outline>
+    <contour>
+      <point x="566.8" y="-442.0" type="curve" smooth="yes"/>
+      <point x="876.4" y="-441.8"/>
+      <point x="1102.4" y="-250.6"/>
+      <point x="1102.2" y="10.8" type="curve" smooth="yes"/>
+      <point x="1101.8" y="187.2"/>
+      <point x="1000.2" y="321.6"/>
+      <point x="799.2" y="363.2" type="curve"/>
+      <point x="799.2" y="374.4" type="line"/>
+      <point x="945.0" y="407.6"/>
+      <point x="1042.0" y="545.0"/>
+      <point x="1042.0" y="726.2" type="curve" smooth="yes"/>
+      <point x="1042.0" y="977.8"/>
+      <point x="855.4" y="1132.0"/>
+      <point x="590.4" y="1132.0" type="curve" smooth="yes"/>
+      <point x="319.8" y="1132.0"/>
+      <point x="139.6" y="969.6"/>
+      <point x="133.8" y="723.2" type="curve"/>
+      <point x="351.6" y="723.2" type="line"/>
+      <point x="356.6" y="859.6"/>
+      <point x="448.6" y="949.2"/>
+      <point x="589.6" y="949.2" type="curve" smooth="yes"/>
+      <point x="727.8" y="949.2"/>
+      <point x="829.6" y="863.8"/>
+      <point x="824.8" y="711.0" type="curve" smooth="yes"/>
+      <point x="819.2" y="563.8"/>
+      <point x="720.2" y="455.6"/>
+      <point x="593.8" y="455.6" type="curve" smooth="yes"/>
+      <point x="481.6" y="455.6" type="line"/>
+      <point x="481.6" y="275.0" type="line"/>
+      <point x="593.8" y="275.0" type="line" smooth="yes"/>
+      <point x="771.2" y="275.0"/>
+      <point x="886.0" y="149.2"/>
+      <point x="886.0" y="7.200000000000001" type="curve" smooth="yes"/>
+      <point x="886.2" y="-145.0"/>
+      <point x="751.8" y="-253.4"/>
+      <point x="560.6" y="-253.6" type="curve" smooth="yes"/>
+      <point x="437.6" y="-253.4"/>
+      <point x="356.8" y="-209.4"/>
+      <point x="283.0" y="-99.8" type="curve"/>
+      <point x="87.2" y="-183.8" type="line"/>
+      <point x="143.6" y="-322.2"/>
+      <point x="302.6" y="-441.8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Decimal digit</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

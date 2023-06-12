@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fhook" format="2">
+  <advance height="2479" width="1152"/>
+  <unicode hex="0191"/>
+  <anchor x="462" y="12" name="bottom"/>
+  <anchor x="209" y="410" name="cross"/>
+  <anchor x="587" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="186" y="0" type="line"/>
+      <point x="186" y="-169" type="line" smooth="yes"/>
+      <point x="186" y="-304"/>
+      <point x="135" y="-369"/>
+      <point x="31" y="-369" type="curve" smooth="yes"/>
+      <point x="9" y="-369"/>
+      <point x="-9" y="-367"/>
+      <point x="-22" y="-364" type="curve"/>
+      <point x="-22" y="-410" type="line"/>
+      <point x="-8" y="-414"/>
+      <point x="13" y="-416"/>
+      <point x="35" y="-416" type="curve" smooth="yes"/>
+      <point x="163" y="-416"/>
+      <point x="233" y="-329"/>
+      <point x="233" y="-169" type="curve" smooth="yes"/>
+      <point x="233" y="0" type="line"/>
+    </contour>
+    <component base="F" xOffset="-47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>F</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

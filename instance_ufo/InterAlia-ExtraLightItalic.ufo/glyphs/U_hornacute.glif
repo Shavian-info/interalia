@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhornacute" format="2">
+  <advance height="2479.0" width="1704.3333333333333"/>
+  <unicode hex="1EE8"/>
+  <anchor x="668.0" y="-22.0" name="bottom"/>
+  <anchor x="761.0" y="0.0" name="ogonek"/>
+  <anchor x="741.6666666666666" y="0.0" name="right"/>
+  <anchor x="1020.3333333333333" y="2048.3333333333335" name="top"/>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="acute" xOffset="326.33333333333337" yOffset="372.3333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiavariaprosgegrammeni" format="2">
+  <advance height="2479.0" width="1984.2"/>
+  <unicode hex="1FAB"/>
+  <anchor x="1199.6" y="0.0" name="bottom"/>
+  <anchor x="600.8" y="1489.0" name="tonos"/>
+  <outline>
+    <component base="Omega" xOffset="413.8"/>
+    <component base="prosgegrammeni" xOffset="964.4"/>
+    <component base="dasiavaria.tonos" xOffset="-197.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>Omega</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

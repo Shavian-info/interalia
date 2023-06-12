@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zedieresis-cy" format="2">
+  <advance height="2479.0" width="1076.1999999999998"/>
+  <unicode hex="04DF"/>
+  <anchor x="453.59999999999997" y="0.0" name="cedilla"/>
+  <anchor x="731.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="ze-cy"/>
+    <component base="dieresis" xOffset="-2.2000000000000055"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hwair" format="2">
+  <advance height="2479.0" width="2317.4"/>
+  <unicode hex="01F6"/>
+  <outline>
+    <contour>
+      <point x="1535.4" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1868.4" y="-20.0"/>
+      <point x="2111.6" y="168.8"/>
+      <point x="2166.6" y="501.0" type="curve" smooth="yes"/>
+      <point x="2263.7999999999997" y="1087.6" type="line"/>
+      <point x="1949.0" y="1087.6" type="line"/>
+      <point x="1852.2" y="501.0" type="line" smooth="yes"/>
+      <point x="1822.6000000000001" y="332.8"/>
+      <point x="1725.2" y="244.6"/>
+      <point x="1579.4" y="244.6" type="curve" smooth="yes"/>
+      <point x="1433.0" y="244.6"/>
+      <point x="1359.8" y="332.8"/>
+      <point x="1388.8" y="501.0" type="curve" smooth="yes"/>
+      <point x="1552.0" y="1489.0" type="line"/>
+      <point x="1237.6" y="1489.0" type="line"/>
+      <point x="1136.0" y="875.2" type="line"/>
+      <point x="497.0" y="875.2" type="line"/>
+      <point x="599.0" y="1489.0" type="line"/>
+      <point x="284.0" y="1489.0" type="line"/>
+      <point x="36.599999999999994" y="0.0" type="line"/>
+      <point x="351.4" y="0.0" type="line"/>
+      <point x="453.0" y="615.6" type="line"/>
+      <point x="1092.1999999999998" y="615.6" type="line"/>
+      <point x="1074.0" y="501.0" type="line" smooth="yes"/>
+      <point x="1020.1999999999999" y="170.8"/>
+      <point x="1201.2" y="-20.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

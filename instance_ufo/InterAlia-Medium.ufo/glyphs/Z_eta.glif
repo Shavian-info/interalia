@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zeta" format="2">
+  <advance height="2479.0" width="1308.6"/>
+  <unicode hex="0396"/>
+  <anchor x="649.8" y="0.0" name="bottom"/>
+  <anchor x="672.4" y="772.0" name="cross"/>
+  <anchor x="655.2" y="1676.0" name="top"/>
+  <outline>
+    <component base="Z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

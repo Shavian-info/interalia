@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doublebrevebelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="035C"/>
+  <outline>
+    <component base="doublebrevecomb" xOffset="10.666666666666666" yOffset="-1580.3333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

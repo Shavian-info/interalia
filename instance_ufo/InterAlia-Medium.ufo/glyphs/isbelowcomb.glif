@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="isbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="1DD0"/>
+  <outline>
+    <contour>
+      <point x="-700.4" y="-64.6" type="line"/>
+      <point x="-846.8" y="-428.4" type="line"/>
+      <point x="-746.2" y="-473.8" type="line"/>
+      <point x="-682.6" y="-439.6"/>
+      <point x="-632.2" y="-416.4"/>
+      <point x="-573.2" y="-416.4" type="curve" smooth="yes"/>
+      <point x="-484.8" y="-416.4"/>
+      <point x="-403.0" y="-492.4"/>
+      <point x="-291.2" y="-492.4" type="curve" smooth="yes"/>
+      <point x="-166.6" y="-492.4"/>
+      <point x="-114.0" y="-386.6"/>
+      <point x="-103.4" y="-284.4" type="curve"/>
+      <point x="-224.4" y="-247.0" type="line"/>
+      <point x="-239.0" y="-306.4"/>
+      <point x="-278.0" y="-328.4"/>
+      <point x="-317.4" y="-328.4" type="curve" smooth="yes"/>
+      <point x="-385.2" y="-328.4"/>
+      <point x="-436.8" y="-263.8"/>
+      <point x="-513.6" y="-263.8" type="curve" smooth="yes"/>
+      <point x="-547.6" y="-263.8"/>
+      <point x="-594.6" y="-277.4"/>
+      <point x="-648.6" y="-310.0" type="curve"/>
+      <point x="-551.2" y="-64.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

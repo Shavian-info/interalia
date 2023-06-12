@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustraightstroke-cy" format="2">
+  <advance height="2479.0" width="1119.4"/>
+  <unicode hex="04B1"/>
+  <anchor x="562.6" y="102.4" name="cross"/>
+  <outline>
+    <component base="gamma"/>
+    <component base="crossbar" xOffset="66.0" yOffset="-669.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

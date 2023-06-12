@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lbar.ss02" format="2">
+  <advance height="2479.0" width="645.8"/>
+  <anchor x="347.4" y="0.0" name="bottom"/>
+  <anchor x="291.2" y="784.0" name="cross"/>
+  <anchor x="590.2" y="1489.0" name="raccent"/>
+  <anchor x="290.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="crossbar" xOffset="-217.6" yOffset="-5.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

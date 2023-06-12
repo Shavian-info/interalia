@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0313"/>
+  <outline>
+    <component base="commaturnedabovecomb" xScale="-1.0" yScale="-1.0" xOffset="-1105.6666666666667" yOffset="2528.6666666666665"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

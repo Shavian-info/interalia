@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="epsilondasiaoxia" format="2">
+  <advance height="2479.0" width="1148.2"/>
+  <unicode hex="1F15"/>
+  <anchor x="699.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="epsilon"/>
+    <component base="dasiaoxia" xOffset="156.79999999999998" yOffset="126.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

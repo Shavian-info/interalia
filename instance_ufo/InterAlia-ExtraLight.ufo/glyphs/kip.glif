@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kip" format="2">
+  <advance height="2479.0" width="1309.0"/>
+  <unicode hex="20AD"/>
+  <outline>
+    <contour>
+      <point x="1244.6666666666667" y="824.0" type="line"/>
+      <point x="46.666666666666664" y="824.0" type="line"/>
+      <point x="46.666666666666664" y="740.0" type="line"/>
+      <point x="1244.6666666666667" y="740.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="376.33333333333337" y="1489.0" type="line"/>
+      <point x="285.3333333333333" y="1489.0" type="line"/>
+      <point x="285.3333333333333" y="0.0" type="line"/>
+      <point x="376.33333333333337" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1225.6666666666667" y="1489.0" type="line"/>
+      <point x="1106.3333333333333" y="1489.0" type="line"/>
+      <point x="395.33333333333337" y="764.3333333333334" type="line"/>
+      <point x="360.6666666666667" y="764.3333333333334" type="line"/>
+      <point x="360.6666666666667" y="597.0" type="line"/>
+      <point x="508.33333333333337" y="752.6666666666666" type="line"/>
+      <point x="513.6666666666667" y="760.3333333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="1133.6666666666667" y="0.0" type="line"/>
+      <point x="1248.3333333333333" y="0.0" type="line"/>
+      <point x="539.3333333333334" y="827.0" type="line"/>
+      <point x="485.6666666666667" y="757.3333333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

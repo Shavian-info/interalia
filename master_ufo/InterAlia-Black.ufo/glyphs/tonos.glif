@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonos" format="2">
+  <advance height="2479" width="916"/>
+  <unicode hex="0384"/>
+  <anchor x="657" y="1489" name="_tonos"/>
+  <outline>
+    <component base="tonostop"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

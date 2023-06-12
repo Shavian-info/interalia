@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gestroke-cy" format="2">
+  <advance height="2479" width="1198"/>
+  <unicode hex="0492"/>
+  <anchor x="335" y="788" name="cross"/>
+  <anchor x="617" y="163" name="cyrtic"/>
+  <anchor x="396" y="0" name="right"/>
+  <anchor x="823" y="1676" name="top"/>
+  <outline>
+    <component base="Gamma"/>
+    <component base="crossbar" xOffset="-226" yOffset="-18"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

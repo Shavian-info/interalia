@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance height="2479.0" width="1318.3999999999999"/>
+  <unicode hex="01A1"/>
+  <anchor x="541.4000000000001" y="0.0" name="bottom"/>
+  <anchor x="699.8000000000001" y="0.0" name="ogonek"/>
+  <anchor x="756.6" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1228.0" y="1175.4" type="line"/>
+      <point x="1200.4" y="1003.0"/>
+      <point x="1147.0" y="899.8"/>
+      <point x="989.1999999999999" y="899.8" type="curve"/>
+      <point x="966.5999999999999" y="775.4" type="line"/>
+      <point x="1234.2" y="775.4"/>
+      <point x="1379.0" y="922.4"/>
+      <point x="1420.8" y="1175.4" type="curve"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

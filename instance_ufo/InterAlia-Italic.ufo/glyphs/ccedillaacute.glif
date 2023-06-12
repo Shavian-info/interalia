@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedillaacute" format="2">
+  <advance height="2479" width="1142"/>
+  <unicode hex="1E09"/>
+  <anchor x="523" y="0" name="cedilla"/>
+  <anchor x="811" y="1676" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="cedilla" xOffset="337"/>
+    <component base="acute" xOffset="117"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

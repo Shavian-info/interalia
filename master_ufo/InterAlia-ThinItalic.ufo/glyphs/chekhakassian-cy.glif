@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chekhakassian-cy" format="2">
+  <advance height="2479" width="1150"/>
+  <unicode hex="04CC"/>
+  <anchor x="788" y="-6" name="cyrtic"/>
+  <anchor x="761" y="0" name="left"/>
+  <anchor x="857" y="0" name="right"/>
+  <anchor x="703" y="1303" name="top"/>
+  <outline>
+    <component base="che-cy"/>
+    <component base="cyrillictic.cn" xOffset="803" yOffset="-12"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>che-cy</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

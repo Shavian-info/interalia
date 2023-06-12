@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="carriagereturn" format="2">
+  <advance height="2479" width="2115"/>
+  <unicode hex="21B5"/>
+  <outline>
+    <contour>
+      <point x="751" y="118" type="line"/>
+      <point x="751" y="1185" type="line"/>
+      <point x="202" y="652" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="500" type="line"/>
+      <point x="1907" y="500" type="line"/>
+      <point x="1907" y="803" type="line"/>
+      <point x="570" y="803" type="line"/>
+    </contour>
+    <contour>
+      <point x="1615" y="500" type="line"/>
+      <point x="1911" y="500" type="line"/>
+      <point x="1911" y="1489" type="line"/>
+      <point x="1615" y="1489" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

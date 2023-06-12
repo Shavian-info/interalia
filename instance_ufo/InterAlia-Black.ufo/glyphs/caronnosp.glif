@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronnosp" format="2">
+  <advance height="2479" width="26"/>
+  <unicode hex="E108"/>
+  <outline>
+    <contour>
+      <point x="-835" y="1533" type="line"/>
+      <point x="-1158" y="1533" type="line"/>
+      <point x="-1158" y="1521" type="line"/>
+      <point x="-841" y="1254" type="line"/>
+      <point x="-573" y="1254" type="line"/>
+      <point x="-262" y="1516" type="line"/>
+      <point x="-262" y="1533" type="line"/>
+      <point x="-579" y="1533" type="line"/>
+      <point x="-707" y="1399" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="varia" format="2">
+  <advance height="2479.0" width="608.2"/>
+  <unicode hex="1FEF"/>
+  <anchor x="385.6" y="1187.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="376.6" y="1140.6" type="line"/>
+      <point x="469.6" y="1140.6" type="line"/>
+      <point x="469.6" y="1168.2" type="line"/>
+      <point x="356.0" y="1480.6" type="line"/>
+      <point x="139.4" y="1480.6" type="line"/>
+      <point x="139.4" y="1460.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

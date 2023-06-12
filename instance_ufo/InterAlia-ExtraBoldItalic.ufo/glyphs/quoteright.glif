@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright" format="2">
+  <advance height="2479.0" width="497.59999999999997"/>
+  <unicode hex="2019"/>
+  <anchor x="303.79999999999995" y="1536.0" name="_caron"/>
+  <outline>
+    <contour>
+      <point x="563.0" y="1489.0" type="line"/>
+      <point x="306.4" y="1489.0" type="line"/>
+      <point x="278.4" y="1323.2" type="line" smooth="yes"/>
+      <point x="257.0" y="1194.4"/>
+      <point x="200.8" y="1106.2"/>
+      <point x="144.0" y="1032.8" type="curve"/>
+      <point x="283.6" y="950.4" type="line"/>
+      <point x="393.0" y="1033.8"/>
+      <point x="512.6" y="1185.4"/>
+      <point x="535.6" y="1323.8" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breve" format="2">
+  <advance height="2479.0" width="895.6666666666666"/>
+  <unicode hex="02D8"/>
+  <anchor x="571.9999999999999" y="1303.0" name="_top"/>
+  <anchor x="623.6666666666666" y="1620.3333333333333" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="736.3333333333333" y="1489.0" type="line"/>
+      <point x="723.3333333333333" y="1413.3333333333333"/>
+      <point x="673.3333333333333" y="1354.6666666666667"/>
+      <point x="580.6666666666666" y="1354.6666666666667" type="curve" smooth="yes"/>
+      <point x="487.3333333333333" y="1354.6666666666667"/>
+      <point x="457.6666666666667" y="1413.3333333333333"/>
+      <point x="470.6666666666667" y="1489.0" type="curve"/>
+      <point x="348.3333333333333" y="1489.0" type="line"/>
+      <point x="325.3333333333333" y="1350.6666666666665"/>
+      <point x="407.0" y="1256.0"/>
+      <point x="563.6666666666666" y="1256.0" type="curve" smooth="yes"/>
+      <point x="721.6666666666667" y="1256.0"/>
+      <point x="835.3333333333334" y="1350.6666666666665"/>
+      <point x="858.3333333333334" y="1489.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

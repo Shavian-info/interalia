@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="guillemetright" format="2">
+  <advance height="2479.0" width="1288.0"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <component base="guilsinglright"/>
+    <component base="guilsinglright" xOffset="485.4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rightHookArrow" format="2">
+  <advance height="2479.0" width="2375.4"/>
+  <unicode hex="21AA"/>
+  <outline>
+    <contour>
+      <point x="694.0" y="528.8" type="curve" smooth="yes"/>
+      <point x="1927.6000000000001" y="528.8" type="line"/>
+      <point x="1969.4" y="774.6" type="line"/>
+      <point x="735.8000000000001" y="774.6" type="line" smooth="yes"/>
+      <point x="593.2" y="774.6"/>
+      <point x="497.2" y="890.1999999999999"/>
+      <point x="520.1999999999999" y="1032.8" type="curve" smooth="yes"/>
+      <point x="544.1999999999999" y="1175.0"/>
+      <point x="679.0" y="1290.2"/>
+      <point x="820.8000000000001" y="1290.2" type="curve" smooth="yes"/>
+      <point x="917.0" y="1290.2" type="line"/>
+      <point x="956.8" y="1536.0" type="line"/>
+      <point x="861.2" y="1536.0" type="line" smooth="yes"/>
+      <point x="584.6" y="1536.0"/>
+      <point x="321.2" y="1311.4"/>
+      <point x="274.4" y="1032.8" type="curve" smooth="yes"/>
+      <point x="228.6" y="755.0"/>
+      <point x="417.40000000000003" y="528.8"/>
+    </contour>
+    <contour>
+      <point x="1396.0" y="-28.2" type="line"/>
+      <point x="2188.8" y="652.0" type="line"/>
+      <point x="1621.3999999999999" y="1331.2" type="line"/>
+      <point x="1427.0" y="1164.2" type="line"/>
+      <point x="1853.8" y="652.0" type="line"/>
+      <point x="1257.6000000000001" y="140.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

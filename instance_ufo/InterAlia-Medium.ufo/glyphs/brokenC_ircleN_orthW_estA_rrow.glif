@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brokenCircleNorthWestArrow" format="2">
+  <advance height="2479.0" width="1955.0"/>
+  <unicode hex="238B"/>
+  <outline>
+    <contour>
+      <point x="291.8" y="1299.4" type="line"/>
+      <point x="911.8" y="678.8" type="line"/>
+      <point x="1043.2" y="810.4" type="line"/>
+      <point x="422.6" y="1430.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="233.0" y="958.4" type="line"/>
+      <point x="763.6" y="1489.0" type="line"/>
+      <point x="233.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="977.0" y="1300.6" type="line"/>
+      <point x="1285.4" y="1300.6"/>
+      <point x="1532.6" y="1052.4"/>
+      <point x="1533.6" y="744.8" type="curve" smooth="yes"/>
+      <point x="1534.4" y="436.8"/>
+      <point x="1285.4" y="188.6"/>
+      <point x="977.0" y="188.6" type="curve" smooth="yes"/>
+      <point x="670.6" y="188.6"/>
+      <point x="420.6" y="437.6"/>
+      <point x="421.4" y="744.8" type="curve"/>
+      <point x="233.0" y="745.0" type="line"/>
+      <point x="232.0" y="333.0"/>
+      <point x="567.0" y="0.0"/>
+      <point x="977.0" y="0.0" type="curve" smooth="yes"/>
+      <point x="1390.0" y="0.0"/>
+      <point x="1723.0" y="333.0"/>
+      <point x="1722.0" y="745.0" type="curve" smooth="yes"/>
+      <point x="1721.0" y="1156.0"/>
+      <point x="1390.0" y="1489.0"/>
+      <point x="977.0" y="1489.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

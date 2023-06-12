@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alpha_rhotichookmod-latin.rlig" format="2">
+  <advance height="2479.0" width="1311.2"/>
+  <anchor x="651.4" y="0.0" name="bottom"/>
+  <anchor x="1198.2" y="0.0" name="ogonek"/>
+  <anchor x="670.0" y="1303.0" name="rhalfring"/>
+  <anchor x="1053.0" y="563.0" name="rhotichook"/>
+  <anchor x="665.0" y="1303.0" name="top"/>
+  <outline>
+    <component base="alpha-latin"/>
+    <component base="rhotichookmod" xOffset="1093.4" yOffset="-86.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>rhotichookmod</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hmacronbelow" format="2">
+  <advance height="2479.0" width="1301.2"/>
+  <unicode hex="1E96"/>
+  <anchor x="650.8" y="0.0" name="bottom"/>
+  <anchor x="287.6" y="0.0" name="cedilla"/>
+  <anchor x="284.0" y="1277.4" name="cross"/>
+  <anchor x="286.4" y="1676.0" name="top"/>
+  <outline>
+    <component base="h"/>
+    <component base="macronbelowcomb" xOffset="1274.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

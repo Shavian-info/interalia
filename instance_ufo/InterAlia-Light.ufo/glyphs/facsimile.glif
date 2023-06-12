@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="facsimile" format="2">
+  <advance height="2479.0" width="1504.0"/>
+  <unicode hex="213B"/>
+  <outline>
+    <contour>
+      <point x="93.0" y="954.0" type="line"/>
+      <point x="170.66666666666666" y="954.0" type="line"/>
+      <point x="170.66666666666666" y="1175.0" type="line"/>
+      <point x="363.3333333333333" y="1175.0" type="line"/>
+      <point x="363.3333333333333" y="1245.0" type="line"/>
+      <point x="170.66666666666666" y="1245.0" type="line"/>
+      <point x="170.66666666666666" y="1419.6666666666667" type="line"/>
+      <point x="390.3333333333333" y="1419.6666666666667" type="line"/>
+      <point x="390.3333333333333" y="1489.0" type="line"/>
+      <point x="93.0" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="405.3333333333333" y="954.0" type="line"/>
+      <point x="486.3333333333333" y="954.0" type="line"/>
+      <point x="657.0" y="1395.0" type="line"/>
+      <point x="829.6666666666666" y="954.0" type="line"/>
+      <point x="908.6666666666666" y="954.0" type="line"/>
+      <point x="694.6666666666666" y="1489.0" type="line"/>
+      <point x="621.3333333333334" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="509.6666666666667" y="1091.6666666666667" type="line"/>
+      <point x="804.3333333333334" y="1091.6666666666667" type="line"/>
+      <point x="804.3333333333334" y="1158.0" type="line"/>
+      <point x="509.6666666666667" y="1158.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="967.3333333333334" y="954.0" type="line"/>
+      <point x="1054.3333333333333" y="954.0" type="line"/>
+      <point x="1419.0" y="1489.0" type="line"/>
+      <point x="1330.6666666666667" y="1489.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1336.0" y="954.0" type="line"/>
+      <point x="1422.6666666666667" y="954.0" type="line"/>
+      <point x="1059.0" y="1489.0" type="line"/>
+      <point x="971.3333333333334" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

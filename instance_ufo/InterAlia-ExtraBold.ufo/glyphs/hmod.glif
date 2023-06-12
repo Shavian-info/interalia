@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hmod" format="2">
+  <advance height="2479.0" width="866.6"/>
+  <unicode hex="02B0"/>
+  <outline>
+    <contour>
+      <point x="313.2" y="1155.4" type="line" smooth="yes"/>
+      <point x="313.2" y="1248.8"/>
+      <point x="367.0" y="1297.4"/>
+      <point x="439.8" y="1297.4" type="curve" smooth="yes"/>
+      <point x="512.6" y="1297.4"/>
+      <point x="553.4" y="1251.8"/>
+      <point x="553.4" y="1168.6" type="curve" smooth="yes"/>
+      <point x="553.4" y="745.0" type="line"/>
+      <point x="796.2" y="745.0" type="line"/>
+      <point x="796.2" y="1210.6" type="line" smooth="yes"/>
+      <point x="796.2" y="1395.4"/>
+      <point x="693.6" y="1498.0"/>
+      <point x="537.8" y="1498.0" type="curve" smooth="yes"/>
+      <point x="413.4" y="1498.0"/>
+      <point x="348.8" y="1438.8"/>
+      <point x="316.2" y="1357.0" type="curve"/>
+      <point x="305.4" y="1357.0" type="line"/>
+      <point x="305.4" y="1737.0" type="line"/>
+      <point x="70.4" y="1737.0" type="line"/>
+      <point x="70.4" y="745.0" type="line"/>
+      <point x="313.2" y="745.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

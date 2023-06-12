@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yindepartingtonemod" format="2">
+  <advance height="2479.0" width="586.3333333333334"/>
+  <unicode hex="02EA"/>
+  <outline>
+    <contour>
+      <point x="462.00000000000006" y="84.66666666666667" type="line"/>
+      <point x="53.66666666666667" y="84.66666666666667" type="line"/>
+      <point x="39.0" y="0.0" type="line"/>
+      <point x="447.33333333333337" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="219.33333333333334" y="908.0" type="line"/>
+      <point x="122.00000000000001" y="908.0" type="line"/>
+      <point x="-28.999999999999996" y="0.0" type="line"/>
+      <point x="68.33333333333333" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.1" format="2">
+  <advance height="2479.0" width="811.8000000000001"/>
+  <anchor x="161.4" y="0.0" name="bottom"/>
+  <anchor x="253.4" y="535.0" name="cross"/>
+  <anchor x="540.1999999999999" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="53.6" y="0.0" type="line"/>
+      <point x="271.40000000000003" y="0.0" type="line"/>
+      <point x="383.40000000000003" y="682.0" type="line" smooth="yes"/>
+      <point x="408.2" y="827.6"/>
+      <point x="538.4" y="933.4"/>
+      <point x="688.4" y="933.4" type="curve" smooth="yes"/>
+      <point x="731.2" y="933.4"/>
+      <point x="763.8000000000001" y="925.8000000000001"/>
+      <point x="786.8" y="913.1999999999999" type="curve"/>
+      <point x="885.4" y="1093.4" type="line"/>
+      <point x="854.2" y="1119.4"/>
+      <point x="808.6" y="1134.4"/>
+      <point x="747.8000000000001" y="1134.4" type="curve" smooth="yes"/>
+      <point x="614.8" y="1134.4"/>
+      <point x="492.0" y="1059.6"/>
+      <point x="432.0" y="939.4" type="curve"/>
+      <point x="420.2" y="939.4" type="line"/>
+      <point x="450.40000000000003" y="1117.0" type="line"/>
+      <point x="239.6" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

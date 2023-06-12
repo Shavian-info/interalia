@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="raisedcolonmod" format="2">
+  <advance height="2479.0" width="635.4000000000001"/>
+  <unicode hex="02F8"/>
+  <outline>
+    <component base="period" xOffset="11.800000000000011" yOffset="377.8"/>
+    <component base="period" xOffset="-13.799999999999997" yOffset="1197.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

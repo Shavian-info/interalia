@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clickalveolar" format="2">
+  <advance height="2479.0" width="488.6666666666667"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <component base="clickdental" xOffset="27.333333333333332"/>
+    <component base="crossbar" xOffset="-145.0" yOffset="290.0"/>
+    <component base="crossbar" xOffset="-228.33333333333334" yOffset="-226.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>crossbar</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>crossbar</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

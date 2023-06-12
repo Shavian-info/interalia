@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question" format="2">
+  <advance height="2479.0" width="1019.3333333333334"/>
+  <unicode hex="003F"/>
+  <outline>
+    <contour>
+      <point x="395.6666666666667" y="426.6666666666667" type="line"/>
+      <point x="527.6666666666666" y="426.6666666666667" type="line"/>
+      <point x="527.6666666666666" y="466.6666666666667" type="line" smooth="yes"/>
+      <point x="529.6666666666666" y="626.0"/>
+      <point x="573.3333333333334" y="699.0"/>
+      <point x="705.0" y="785.6666666666666" type="curve" smooth="yes"/>
+      <point x="843.0" y="875.0"/>
+      <point x="912.6666666666666" y="978.3333333333334"/>
+      <point x="912.6666666666666" y="1126.6666666666667" type="curve" smooth="yes"/>
+      <point x="912.6666666666666" y="1348.0"/>
+      <point x="747.0" y="1510.0"/>
+      <point x="505.3333333333333" y="1510.0" type="curve" smooth="yes"/>
+      <point x="273.6666666666667" y="1510.0"/>
+      <point x="93.33333333333333" y="1356.3333333333333"/>
+      <point x="86.0" y="1117.0" type="curve"/>
+      <point x="224.33333333333334" y="1117.0" type="line"/>
+      <point x="231.66666666666669" y="1297.6666666666667"/>
+      <point x="360.0" y="1393.6666666666667"/>
+      <point x="505.3333333333333" y="1393.6666666666667" type="curve" smooth="yes"/>
+      <point x="659.0" y="1393.6666666666667"/>
+      <point x="780.3333333333334" y="1289.0"/>
+      <point x="780.3333333333334" y="1132.6666666666667" type="curve" smooth="yes"/>
+      <point x="780.3333333333334" y="1020.3333333333334"/>
+      <point x="720.6666666666666" y="939.6666666666666"/>
+      <point x="615.0" y="871.0" type="curve" smooth="yes"/>
+      <point x="469.6666666666667" y="778.0"/>
+      <point x="397.0" y="696.0"/>
+      <point x="395.6666666666667" y="466.6666666666667" type="curve" smooth="yes"/>
+    </contour>
+    <component base="period" xOffset="191.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

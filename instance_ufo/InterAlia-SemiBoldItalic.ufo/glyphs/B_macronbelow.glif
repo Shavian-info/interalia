@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Bmacronbelow" format="2">
+  <advance height="2479.0" width="1346.0"/>
+  <unicode hex="1E06"/>
+  <anchor x="559.8" y="0.0" name="bottom"/>
+  <anchor x="834.6" y="1676.0" name="top"/>
+  <outline>
+    <component base="B"/>
+    <component base="macronbelowcomb" xOffset="1266.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

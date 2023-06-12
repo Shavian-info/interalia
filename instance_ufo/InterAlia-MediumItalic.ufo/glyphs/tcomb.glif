@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="036D"/>
+  <outline>
+    <contour>
+      <point x="-262.4" y="1760.0" type="line"/>
+      <point x="-596.8" y="1760.0" type="line"/>
+      <point x="-614.4" y="1648.6" type="line"/>
+      <point x="-280.2" y="1648.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="-480.2" y="1894.0" type="line"/>
+      <point x="-565.1999999999999" y="1382.0" type="line" smooth="yes"/>
+      <point x="-585.6" y="1264.0"/>
+      <point x="-552.0" y="1197.2"/>
+      <point x="-440.8" y="1197.2" type="curve" smooth="yes"/>
+      <point x="-402.0" y="1197.2"/>
+      <point x="-370.59999999999997" y="1202.4"/>
+      <point x="-356.8" y="1207.0" type="curve"/>
+      <point x="-338.4" y="1317.2" type="line"/>
+      <point x="-345.79999999999995" y="1314.2"/>
+      <point x="-365.40000000000003" y="1312.4"/>
+      <point x="-382.79999999999995" y="1312.4" type="curve" smooth="yes"/>
+      <point x="-417.4" y="1312.4"/>
+      <point x="-429.4" y="1338.0"/>
+      <point x="-421.40000000000003" y="1386.8" type="curve" smooth="yes"/>
+      <point x="-337.20000000000005" y="1894.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

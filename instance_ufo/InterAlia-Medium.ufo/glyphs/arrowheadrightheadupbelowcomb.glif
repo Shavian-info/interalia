@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowheadrightheadupbelowcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0356"/>
+  <outline>
+    <component base="lowrightarrowheadmod" xOffset="-1085.6"/>
+    <component base="lowuparrowheadmod" xOffset="-550.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

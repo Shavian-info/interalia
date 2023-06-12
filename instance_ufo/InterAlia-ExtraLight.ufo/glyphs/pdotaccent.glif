@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pdotaccent" format="2">
+  <advance height="2479.0" width="1209.3333333333333"/>
+  <unicode hex="1E57"/>
+  <anchor x="227.66666666666666" y="-419.0" name="bottom"/>
+  <anchor x="1180.0" y="-502.3333333333333" name="bottom0315"/>
+  <anchor x="228.66666666666666" y="-163.0" name="cross"/>
+  <anchor x="637.6666666666666" y="1303.0" name="top"/>
+  <outline>
+    <component base="p"/>
+    <component base="dotaccent" xOffset="432.3333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

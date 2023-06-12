@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="paragraphreversed" format="2">
+  <advance height="2479.0" width="1223.2"/>
+  <unicode hex="204B"/>
+  <outline>
+    <contour>
+      <point x="555.6" y="553.0" type="line"/>
+      <point x="641.4" y="553.0" type="line" smooth="yes"/>
+      <point x="969.2" y="553.0"/>
+      <point x="1180.2" y="751.0"/>
+      <point x="1225.8" y="1021.0" type="curve" smooth="yes"/>
+      <point x="1269.2" y="1289.0"/>
+      <point x="1124.6" y="1489.0"/>
+      <point x="797.4" y="1489.0" type="curve" smooth="yes"/>
+      <point x="420.2" y="1489.0" type="line"/>
+      <point x="380.6" y="1251.0" type="line"/>
+      <point x="671.4" y="1251.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="36.599999999999994" y="0.0" type="line"/>
+      <point x="283.6" y="0.0" type="line"/>
+      <point x="530.6" y="1489.0" type="line"/>
+      <point x="284.0" y="1489.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

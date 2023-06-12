@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrondieresiscomb.cn" format="2">
+  <advance height="2479.0" width="12.8"/>
+  <unicode hex="E123"/>
+  <anchor x="-514.8" y="1252.2" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-142.8" y="1389.6" type="line"/>
+      <point x="-843.4" y="1389.6" type="line"/>
+      <point x="-871.8000000000001" y="1226.6" type="line"/>
+      <point x="-171.8" y="1226.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="-816.1999999999999" y="1598.0" type="curve" smooth="yes"/>
+      <point x="-828.5999999999999" y="1533.4"/>
+      <point x="-785.6" y="1483.8"/>
+      <point x="-705.4" y="1483.8" type="curve" smooth="yes"/>
+      <point x="-623.0" y="1483.8"/>
+      <point x="-565.0" y="1533.4"/>
+      <point x="-552.6" y="1598.0" type="curve" smooth="yes"/>
+      <point x="-543.2" y="1662.6"/>
+      <point x="-586.8" y="1714.6"/>
+      <point x="-666.1999999999999" y="1714.6" type="curve" smooth="yes"/>
+      <point x="-749.2" y="1714.6"/>
+      <point x="-806.8" y="1661.4"/>
+    </contour>
+    <contour>
+      <point x="-364.59999999999997" y="1596.2" type="curve" smooth="yes"/>
+      <point x="-376.40000000000003" y="1531.6"/>
+      <point x="-334.0" y="1483.2"/>
+      <point x="-252.2" y="1483.2" type="curve" smooth="yes"/>
+      <point x="-172.8" y="1483.2"/>
+      <point x="-112.79999999999998" y="1531.6"/>
+      <point x="-101.00000000000001" y="1596.2" type="curve" smooth="yes"/>
+      <point x="-91.19999999999999" y="1661.4"/>
+      <point x="-132.2" y="1712.8"/>
+      <point x="-212.99999999999997" y="1712.8" type="curve" smooth="yes"/>
+      <point x="-294.8" y="1712.8"/>
+      <point x="-355.20000000000005" y="1662.6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

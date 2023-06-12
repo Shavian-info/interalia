@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gemiddlehook-cy" format="2">
+  <advance height="2479.0" width="1051.6666666666667"/>
+  <unicode hex="0495"/>
+  <anchor x="228.66666666666666" y="559.0" name="cross"/>
+  <anchor x="313.33333333333337" y="15.333333333333336" name="cyrtic"/>
+  <anchor x="495.6666666666667" y="1303.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="222.33333333333334" y="539.0" type="line"/>
+      <point x="354.6666666666667" y="539.0" type="line" smooth="yes"/>
+      <point x="670.0" y="539.0"/>
+      <point x="824.0" y="413.0"/>
+      <point x="824.0" y="196.66666666666666" type="curve" smooth="yes"/>
+      <point x="824.6666666666666" y="4.666666666666668"/>
+      <point x="702.0" y="-146.33333333333331"/>
+      <point x="509.3333333333333" y="-159.33333333333334" type="curve"/>
+      <point x="530.3333333333334" y="-240.33333333333334" type="line"/>
+      <point x="757.0" y="-226.66666666666666"/>
+      <point x="911.6666666666666" y="-43.0"/>
+      <point x="912.3333333333334" y="195.33333333333334" type="curve"/>
+      <point x="913.0" y="459.6666666666667"/>
+      <point x="724.3333333333334" y="623.6666666666666"/>
+      <point x="354.6666666666667" y="623.6666666666666" type="curve" smooth="yes"/>
+      <point x="222.33333333333334" y="623.6666666666666" type="line"/>
+    </contour>
+    <component base="ge-cy"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

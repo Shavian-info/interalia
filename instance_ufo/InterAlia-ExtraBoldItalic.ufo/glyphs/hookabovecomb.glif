@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0309"/>
+  <anchor x="-586.0" y="1302.6" name="_top"/>
+  <outline>
+    <contour>
+      <point x="-462.4" y="1279.6" type="line"/>
+      <point x="-452.99999999999994" y="1340.6" type="line"/>
+      <point x="-370.8" y="1352.6"/>
+      <point x="-287.4" y="1395.0"/>
+      <point x="-273.4" y="1480.4" type="curve" smooth="yes"/>
+      <point x="-252.39999999999998" y="1606.2"/>
+      <point x="-389.6" y="1678.8"/>
+      <point x="-668.2" y="1678.8" type="curve"/>
+      <point x="-701.4" y="1528.8" type="line"/>
+      <point x="-620.0" y="1528.8"/>
+      <point x="-561.8" y="1517.6"/>
+      <point x="-572.2" y="1464.8" type="curve" smooth="yes"/>
+      <point x="-574.8" y="1429.8"/>
+      <point x="-620.5999999999999" y="1405.0"/>
+      <point x="-723.4" y="1401.4" type="curve"/>
+      <point x="-721.4" y="1279.6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

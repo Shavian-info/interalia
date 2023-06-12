@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bdotaccent" format="2">
+  <advance height="2479.0" width="1291.0"/>
+  <unicode hex="1E03"/>
+  <anchor x="548.8" y="0.0" name="bottom"/>
+  <anchor x="397.4" y="1280.0" name="cross"/>
+  <anchor x="863.4" y="1303.0" name="top"/>
+  <outline>
+    <component base="b"/>
+    <component base="dotaccent" xOffset="459.40000000000003"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

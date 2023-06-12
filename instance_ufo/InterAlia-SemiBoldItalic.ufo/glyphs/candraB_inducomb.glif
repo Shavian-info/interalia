@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="candraBinducomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0310"/>
+  <outline>
+    <contour>
+      <point x="-525.0" y="1224.0" type="curve" smooth="yes"/>
+      <point x="-316.20000000000005" y="1224.0"/>
+      <point x="-162.79999999999998" y="1346.6"/>
+      <point x="-135.2" y="1515.8" type="curve"/>
+      <point x="-332.4" y="1515.8" type="line"/>
+      <point x="-346.0" y="1444.0"/>
+      <point x="-395.6" y="1380.6"/>
+      <point x="-498.4" y="1380.6" type="curve" smooth="yes"/>
+      <point x="-602.6" y="1380.6"/>
+      <point x="-633.4" y="1444.0"/>
+      <point x="-619.2" y="1515.8" type="curve"/>
+      <point x="-815.2" y="1515.8" type="line"/>
+      <point x="-844.0" y="1344.2"/>
+      <point x="-732.6" y="1224.0"/>
+    </contour>
+    <contour>
+      <point x="-479.19999999999993" y="1491.6" type="curve" smooth="yes"/>
+      <point x="-381.4" y="1491.6"/>
+      <point x="-318.6" y="1546.8"/>
+      <point x="-304.20000000000005" y="1620.6" type="curve" smooth="yes"/>
+      <point x="-293.8" y="1694.8"/>
+      <point x="-339.80000000000007" y="1752.4"/>
+      <point x="-434.4" y="1752.4" type="curve" smooth="yes"/>
+      <point x="-527.2" y="1752.4"/>
+      <point x="-595.6" y="1699.0"/>
+      <point x="-607.4" y="1620.0" type="curve" smooth="yes"/>
+      <point x="-621.0" y="1552.8"/>
+      <point x="-583.6" y="1491.6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

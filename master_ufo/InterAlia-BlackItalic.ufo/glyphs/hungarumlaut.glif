@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance height="2479" width="1073"/>
+  <unicode hex="02DD"/>
+  <anchor x="512" y="1292" name="_top"/>
+  <anchor x="570" y="1649" name="mkmktop_acc"/>
+  <outline>
+    <contour>
+      <point x="564" y="1239" type="line"/>
+      <point x="829" y="1239" type="line"/>
+      <point x="1158" y="1536" type="line"/>
+      <point x="849" y="1536" type="line"/>
+    </contour>
+    <contour>
+      <point x="143" y="1239" type="line"/>
+      <point x="413" y="1239" type="line"/>
+      <point x="716" y="1536" type="line"/>
+      <point x="407" y="1536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcrossedtail.ccmp" format="2">
+  <advance height="2479.0" width="966.2"/>
+  <anchor x="515.4" y="-460.0" name="bottom"/>
+  <anchor x="646.8" y="603.8" name="cross"/>
+  <anchor x="700.6" y="0.0" name="ogonek"/>
+  <anchor x="762.8000000000001" y="1304.2" name="top"/>
+  <outline>
+    <contour>
+      <point x="235.79999999999998" y="-432.8" type="curve" smooth="yes"/>
+      <point x="541.4" y="-432.8"/>
+      <point x="662.2" y="-243.0"/>
+      <point x="692.8000000000001" y="-49.800000000000004" type="curve" smooth="yes"/>
+      <point x="700.6" y="6.217248937900877e-15" type="line"/>
+      <point x="391.2" y="6.217248937900877e-15" type="line"/>
+      <point x="371.8" y="-121.4" type="line" smooth="yes"/>
+      <point x="361.8" y="-182.8"/>
+      <point x="338.2" y="-237.4"/>
+      <point x="264.20000000000005" y="-237.4" type="curve" smooth="yes"/>
+      <point x="212.0" y="-237.4"/>
+      <point x="171.6" y="-215.0"/>
+      <point x="180.79999999999998" y="-162.4" type="curve" smooth="yes"/>
+      <point x="191.0" y="-106.4"/>
+      <point x="245.0" y="-85.4"/>
+      <point x="300.4" y="-85.4" type="curve" smooth="yes"/>
+      <point x="957.0" y="-85.4" type="line"/>
+      <point x="992.0" y="126.8" type="line"/>
+      <point x="307.2" y="126.8" type="line" smooth="yes"/>
+      <point x="87.8" y="126.8"/>
+      <point x="-57.800000000000004" y="15.0"/>
+      <point x="-83.6" y="-152.2" type="curve" smooth="yes"/>
+      <point x="-107.8" y="-317.40000000000003"/>
+      <point x="-11.0" y="-432.8"/>
+    </contour>
+    <component base="idotless" xOffset="360.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

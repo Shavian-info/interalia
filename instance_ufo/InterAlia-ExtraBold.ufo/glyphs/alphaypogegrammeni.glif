@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphaypogegrammeni" format="2">
+  <advance height="2479.0" width="1342.4"/>
+  <unicode hex="1FB3"/>
+  <anchor x="582.4" y="0.0" name="bottom"/>
+  <anchor x="629.4" y="1303.0" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="prosgegrammeni" xOffset="322.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

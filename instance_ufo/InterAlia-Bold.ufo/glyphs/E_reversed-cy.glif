@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ereversed-cy" format="2">
+  <advance height="2479.0" width="1434.2"/>
+  <unicode hex="042D"/>
+  <anchor x="716.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1190.6" y="854.6" type="line"/>
+      <point x="548.4" y="854.6" type="line"/>
+      <point x="548.4" y="602.2" type="line"/>
+      <point x="1190.6" y="602.2" type="line"/>
+    </contour>
+    <contour>
+      <point x="104.6" y="487.8" type="line"/>
+      <point x="125.8" y="186.6"/>
+      <point x="343.4" y="-20.0"/>
+      <point x="711.0" y="-20.0" type="curve" smooth="yes"/>
+      <point x="1096.6" y="-20.0"/>
+      <point x="1331.4" y="248.8"/>
+      <point x="1331.4" y="681.6" type="curve" smooth="yes"/>
+      <point x="1331.4" y="802.6" type="line" smooth="yes"/>
+      <point x="1331.4" y="1235.4"/>
+      <point x="1088.2" y="1510.0"/>
+      <point x="709.2" y="1510.0" type="curve" smooth="yes"/>
+      <point x="325.4" y="1510.0"/>
+      <point x="131.8" y="1282.0"/>
+      <point x="102.8" y="988.6" type="curve"/>
+      <point x="416.6" y="988.6" type="line"/>
+      <point x="429.4" y="1154.8"/>
+      <point x="497.8" y="1254.6"/>
+      <point x="709.2" y="1254.6" type="curve" smooth="yes"/>
+      <point x="921.4" y="1254.6"/>
+      <point x="1021.2" y="1096.6"/>
+      <point x="1021.2" y="803.2" type="curve" smooth="yes"/>
+      <point x="1021.2" y="682.8" type="line" smooth="yes"/>
+      <point x="1021.2" y="398.4"/>
+      <point x="940.6" y="230.6"/>
+      <point x="711.0" y="230.6" type="curve" smooth="yes"/>
+      <point x="523.0" y="230.6"/>
+      <point x="428.8" y="317.2"/>
+      <point x="418.4" y="487.8" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

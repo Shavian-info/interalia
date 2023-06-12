@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance height="2479" width="1588"/>
+  <unicode hex="0051"/>
+  <anchor x="698" y="6" name="bottom"/>
+  <anchor x="841" y="0" name="ogonek"/>
+  <anchor x="329" y="1489" name="tonos"/>
+  <anchor x="963" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="695" y="465" type="line"/>
+      <point x="948" y="134" type="line"/>
+      <point x="989" y="79" type="line"/>
+      <point x="1152" y="-140" type="line"/>
+      <point x="1350" y="-140" type="line"/>
+      <point x="1103" y="189" type="line"/>
+      <point x="1059" y="247" type="line"/>
+      <point x="893" y="465" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

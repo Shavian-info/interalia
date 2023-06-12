@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oneeighth" format="2">
+  <advance height="2479.0" width="1793.6666666666667"/>
+  <unicode hex="215B"/>
+  <anchor x="1036.3333333333333" y="791.0" name="dnom"/>
+  <anchor x="571.0" y="698.0" name="numr"/>
+  <outline>
+    <component base="fraction" xOffset="523.3333333333334"/>
+    <component base="one.numr" yOffset="-47.0"/>
+    <component base="eight.dnomf" xOffset="1032.3333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>fraction</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

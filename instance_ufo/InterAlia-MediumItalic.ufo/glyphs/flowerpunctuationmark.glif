@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="flowerpunctuationmark" format="2">
+  <advance height="2479.0" width="1236.0"/>
+  <unicode hex="2055"/>
+  <outline>
+    <contour>
+      <point x="1058.1999999999998" y="453.6" type="line"/>
+      <point x="1087.0" y="625.6" type="line"/>
+      <point x="170.6" y="625.6" type="line"/>
+      <point x="141.79999999999998" y="453.6" type="line"/>
+    </contour>
+    <contour>
+      <point x="811.0" y="150.6" type="line"/>
+      <point x="953.8000000000001" y="273.0" type="line"/>
+      <point x="418.6" y="922.4" type="line"/>
+      <point x="275.59999999999997" y="802.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="777.6" y="996.0" type="line"/>
+      <point x="605.8" y="996.0" type="line"/>
+      <point x="452.00000000000006" y="83.8" type="line"/>
+      <point x="626.2" y="83.8" type="line"/>
+    </contour>
+    <contour>
+      <point x="289.0" y="150.6" type="line"/>
+      <point x="1041.0" y="802.0" type="line"/>
+      <point x="940.0" y="922.4" type="line"/>
+      <point x="189.4" y="273.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

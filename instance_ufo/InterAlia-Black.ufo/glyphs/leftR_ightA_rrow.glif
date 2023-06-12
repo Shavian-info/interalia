@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="leftRightArrow" format="2">
+  <advance height="2479" width="2746"/>
+  <unicode hex="2194"/>
+  <outline>
+    <contour>
+      <point x="900" y="-47" type="line"/>
+      <point x="1107" y="160" type="line"/>
+      <point x="765" y="500" type="line"/>
+      <point x="1981" y="500" type="line"/>
+      <point x="1639" y="160" type="line"/>
+      <point x="1846" y="-47" type="line"/>
+      <point x="2544" y="652" type="line"/>
+      <point x="1846" y="1350" type="line"/>
+      <point x="1639" y="1145" type="line"/>
+      <point x="1981" y="803" type="line"/>
+      <point x="765" y="803" type="line"/>
+      <point x="1107" y="1145" type="line"/>
+      <point x="900" y="1350" type="line"/>
+      <point x="202" y="652" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ihookabove" format="2">
+  <advance height="2479" width="605"/>
+  <unicode hex="1EC9"/>
+  <anchor x="212" y="0" name="bottom"/>
+  <anchor x="311" y="611" name="cross"/>
+  <anchor x="410" y="0" name="ogonek"/>
+  <anchor x="425" y="1303" name="top"/>
+  <outline>
+    <component base="idotless"/>
+    <component base="hookabovecomb" xOffset="1039" yOffset="-6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

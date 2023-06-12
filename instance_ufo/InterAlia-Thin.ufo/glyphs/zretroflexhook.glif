@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zretroflexhook" format="2">
+  <advance height="2479" width="1105"/>
+  <unicode hex="0290"/>
+  <anchor x="503" y="0" name="bottom"/>
+  <anchor x="521" y="559" name="cross"/>
+  <anchor x="521" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="867" y="15" type="line"/>
+      <point x="867" y="-201" type="line" smooth="yes"/>
+      <point x="867" y="-351"/>
+      <point x="924" y="-416"/>
+      <point x="1052" y="-416" type="curve" smooth="yes"/>
+      <point x="1072" y="-416"/>
+      <point x="1098" y="-415"/>
+      <point x="1123" y="-412" type="curve"/>
+      <point x="1123" y="-365" type="line"/>
+      <point x="1097" y="-368"/>
+      <point x="1071" y="-369"/>
+      <point x="1052" y="-369" type="curve" smooth="yes"/>
+      <point x="949" y="-369"/>
+      <point x="913" y="-324"/>
+      <point x="913" y="-201" type="curve" smooth="yes"/>
+      <point x="913" y="15" type="line" name="hr00"/>
+    </contour>
+    <component base="z"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>z</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

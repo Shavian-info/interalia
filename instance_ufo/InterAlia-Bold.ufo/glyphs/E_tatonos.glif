@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etatonos" format="2">
+  <advance height="2479.0" width="1902.2"/>
+  <unicode hex="0389"/>
+  <anchor x="1137.4" y="0.0" name="bottom"/>
+  <anchor x="664.6" y="-1.2000000000000002" name="cedilla"/>
+  <anchor x="1914.2" y="123.4" name="cyrtic"/>
+  <anchor x="1772.2" y="0.0" name="right"/>
+  <anchor x="468.8" y="1489.0" name="tonos"/>
+  <anchor x="1141.0" y="1677.2" name="top"/>
+  <outline>
+    <component base="H" xOffset="374.2"/>
+    <component base="tonos" xOffset="-90.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>H</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

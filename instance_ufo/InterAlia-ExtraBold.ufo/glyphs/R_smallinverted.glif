@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rsmallinverted" format="2">
+  <advance height="2479.0" width="1195.4"/>
+  <unicode hex="0281"/>
+  <outline>
+    <contour>
+      <point x="103.4" y="0.0" type="line"/>
+      <point x="614.6" y="0.0" type="line"/>
+      <point x="920.2" y="0.0"/>
+      <point x="1112.8" y="155.6"/>
+      <point x="1110.4" y="378.4" type="curve"/>
+      <point x="1112.8" y="586.6"/>
+      <point x="919.4" y="731.0"/>
+      <point x="611.4" y="731.0" type="curve"/>
+      <point x="311.2" y="731.0" type="line"/>
+      <point x="311.2" y="505.4" type="line"/>
+      <point x="611.4" y="505.4" type="line"/>
+      <point x="721.4" y="505.4"/>
+      <point x="775.2" y="451.0"/>
+      <point x="773.6" y="389.6" type="curve"/>
+      <point x="775.2" y="331.0"/>
+      <point x="722.2" y="271.4"/>
+      <point x="614.6" y="271.4" type="curve"/>
+      <point x="434.4" y="271.4" type="line"/>
+      <point x="434.4" y="1117.0" type="line"/>
+      <point x="103.4" y="1117.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="491.4" y="526.6" type="line"/>
+      <point x="824.8" y="526.6" type="line"/>
+      <point x="1132.2" y="1117.0" type="line"/>
+      <point x="799.8" y="1117.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

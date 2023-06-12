@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.t_base" format="2">
+  <advance height="2479.0" width="727.3333333333334"/>
+  <anchor x="335.3333333333333" y="0.0" name="bottom"/>
+  <anchor x="380.3333333333333" y="0.0" name="cedilla"/>
+  <anchor x="454.6666666666667" y="1489.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="392.3333333333333" y="1385.0" type="line"/>
+      <point x="205.33333333333331" y="248.33333333333334" type="line" smooth="yes"/>
+      <point x="177.33333333333331" y="79.0"/>
+      <point x="292.0" y="-18.333333333333332"/>
+      <point x="431.66666666666663" y="-18.333333333333332" type="curve" smooth="yes"/>
+      <point x="476.33333333333337" y="-18.333333333333332"/>
+      <point x="508.33333333333337" y="-10.999999999999998"/>
+      <point x="538.3333333333334" y="0.0" type="curve"/>
+      <point x="530.3333333333333" y="80.66666666666667" type="line"/>
+      <point x="506.33333333333337" y="73.66666666666667"/>
+      <point x="483.3333333333333" y="67.66666666666667"/>
+      <point x="452.66666666666663" y="67.66666666666667" type="curve" smooth="yes"/>
+      <point x="352.0" y="67.66666666666667"/>
+      <point x="272.6666666666667" y="128.33333333333334"/>
+      <point x="296.0" y="264.0" type="curve" smooth="yes"/>
+      <point x="481.0" y="1385.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

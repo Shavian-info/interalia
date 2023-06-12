@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/woff2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/woff2/brotli" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/woff2/brotli/research/esaxx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/woff2/brotli/research/libdivsufsort" vcs="Git" />
+  </component>
+</project>

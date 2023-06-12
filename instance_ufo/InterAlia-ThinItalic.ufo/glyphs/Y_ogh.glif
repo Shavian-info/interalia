@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yogh" format="2">
+  <advance height="2479" width="1442"/>
+  <unicode hex="021C"/>
+  <anchor x="893" y="1676" name="top"/>
+  <outline>
+    <contour>
+      <point x="525" y="-442" type="curve" smooth="yes"/>
+      <point x="885" y="-442"/>
+      <point x="1158" y="-212"/>
+      <point x="1213" y="123" type="curve" smooth="yes"/>
+      <point x="1265" y="433"/>
+      <point x="1095" y="629"/>
+      <point x="791" y="630" type="curve"/>
+      <point x="733" y="591" type="line"/>
+      <point x="1043" y="596"/>
+      <point x="1216" y="416"/>
+      <point x="1167" y="124" type="curve" smooth="yes"/>
+      <point x="1116" y="-184"/>
+      <point x="859" y="-396"/>
+      <point x="526" y="-396" type="curve" smooth="yes"/>
+      <point x="216" y="-396"/>
+      <point x="44" y="-209"/>
+      <point x="90" y="73" type="curve"/>
+      <point x="45" y="73" type="line"/>
+      <point x="-7" y="-238"/>
+      <point x="185" y="-442"/>
+    </contour>
+    <contour>
+      <point x="378" y="465" type="line"/>
+      <point x="885" y="596"/>
+      <point x="1230" y="764"/>
+      <point x="1283" y="1081" type="curve" smooth="yes"/>
+      <point x="1325" y="1334"/>
+      <point x="1154" y="1510"/>
+      <point x="838" y="1510" type="curve" smooth="yes"/>
+      <point x="542" y="1510"/>
+      <point x="312" y="1353"/>
+      <point x="272" y="1116" type="curve"/>
+      <point x="318" y="1116" type="line"/>
+      <point x="352" y="1325"/>
+      <point x="563" y="1463"/>
+      <point x="834" y="1463" type="curve" smooth="yes"/>
+      <point x="1117" y="1463"/>
+      <point x="1272" y="1310"/>
+      <point x="1238" y="1089" type="curve" smooth="yes"/>
+      <point x="1193" y="799"/>
+      <point x="865" y="647"/>
+      <point x="383" y="513" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

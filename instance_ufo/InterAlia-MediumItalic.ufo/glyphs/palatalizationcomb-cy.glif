@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="palatalizationcomb-cy" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0484"/>
+  <outline>
+    <contour>
+      <point x="-794.1999999999999" y="1437.0" type="line"/>
+      <point x="-817.4" y="1303.0" type="line"/>
+      <point x="-778.8" y="1303.0" type="line" smooth="yes"/>
+      <point x="-543.6" y="1303.0"/>
+      <point x="-387.79999999999995" y="1423.0"/>
+      <point x="-271.0" y="1423.0" type="curve" smooth="yes"/>
+      <point x="-209.60000000000002" y="1423.0"/>
+      <point x="-170.4" y="1391.4"/>
+      <point x="-182.8" y="1321.0" type="curve" smooth="yes"/>
+      <point x="-185.8" y="1303.0" type="line"/>
+      <point x="-47.80000000000001" y="1303.0" type="line"/>
+      <point x="-38.80000000000001" y="1341.0" type="line" smooth="yes"/>
+      <point x="-15.800000000000011" y="1487.4"/>
+      <point x="-96.0" y="1556.0"/>
+      <point x="-245.0" y="1556.0" type="curve" smooth="yes"/>
+      <point x="-403.99999999999994" y="1556.0"/>
+      <point x="-541.1999999999999" y="1437.0"/>
+      <point x="-757.8" y="1437.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

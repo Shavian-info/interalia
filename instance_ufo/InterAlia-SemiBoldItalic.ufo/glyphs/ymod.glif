@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ymod" format="2">
+  <advance height="2479.0" width="796.0"/>
+  <unicode hex="02B8"/>
+  <outline>
+    <contour>
+      <point x="184.2" y="455.2" type="curve" smooth="yes"/>
+      <point x="330.6" y="455.2"/>
+      <point x="431.4" y="538.6"/>
+      <point x="493.0" y="656.4" type="curve" smooth="yes"/>
+      <point x="926.6" y="1489.0" type="line"/>
+      <point x="714.2" y="1489.0" type="line"/>
+      <point x="462.6" y="941.0" type="line"/>
+      <point x="455.4" y="941.0" type="line"/>
+      <point x="388.6" y="1489.0" type="line"/>
+      <point x="180.4" y="1489.0" type="line"/>
+      <point x="322.2" y="727.0" type="line"/>
+      <point x="300.0" y="687.2" type="line" smooth="yes"/>
+      <point x="256.6" y="616.2"/>
+      <point x="212.6" y="609.0"/>
+      <point x="138.4" y="632.4" type="curve"/>
+      <point x="68.2" y="476.4" type="line"/>
+      <point x="84.0" y="467.4"/>
+      <point x="128.6" y="455.2"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

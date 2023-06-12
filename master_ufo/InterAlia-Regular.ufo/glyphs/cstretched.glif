@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cstretched" format="2">
+  <advance height="2479" width="1143"/>
+  <unicode hex="0297"/>
+  <outline>
+    <contour>
+      <point x="611" y="-442" type="curve" smooth="yes"/>
+      <point x="841" y="-442"/>
+      <point x="1030" y="-292"/>
+      <point x="1050" y="-93" type="curve"/>
+      <point x="879" y="-93" type="line"/>
+      <point x="858" y="-204"/>
+      <point x="743" y="-288"/>
+      <point x="611" y="-288" type="curve" smooth="yes"/>
+      <point x="410" y="-288"/>
+      <point x="276" y="-33"/>
+      <point x="276" y="351" type="curve" smooth="yes"/>
+      <point x="276" y="729"/>
+      <point x="410" y="977"/>
+      <point x="611" y="977" type="curve" smooth="yes"/>
+      <point x="743" y="977"/>
+      <point x="858" y="893"/>
+      <point x="879" y="783" type="curve"/>
+      <point x="1050" y="783" type="line"/>
+      <point x="1030" y="982"/>
+      <point x="839" y="1132"/>
+      <point x="608" y="1132" type="curve" smooth="yes"/>
+      <point x="305" y="1132"/>
+      <point x="105" y="819"/>
+      <point x="105" y="343" type="curve" smooth="yes"/>
+      <point x="105" y="-131"/>
+      <point x="305" y="-442"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

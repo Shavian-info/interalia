@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsa-cy" format="2">
+  <advance height="2479.0" width="1474.8"/>
+  <unicode hex="0474"/>
+  <anchor x="921.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1142.3999999999999" y="1192.0" type="curve" smooth="yes"/>
+      <point x="676.4" y="276.6" type="line"/>
+      <point x="659.8" y="276.6" type="line"/>
+      <point x="446.4" y="1489.0" type="line"/>
+      <point x="203.8" y="1489.0" type="line"/>
+      <point x="491.79999999999995" y="0.0" type="line"/>
+      <point x="752.0" y="0.0" type="line"/>
+      <point x="1365.6" y="1166.8" type="line" smooth="yes"/>
+      <point x="1414.8" y="1258.6"/>
+      <point x="1442.0" y="1306.8"/>
+      <point x="1518.8" y="1306.8" type="curve" smooth="yes"/>
+      <point x="1545.8" y="1306.8" type="line"/>
+      <point x="1579.8" y="1510.0" type="line"/>
+      <point x="1520.0" y="1510.0" type="line" smooth="yes"/>
+      <point x="1346.4" y="1510.0"/>
+      <point x="1246.2" y="1400.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="retroflexhookcomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="0322"/>
+  <outline>
+    <contour>
+      <point x="-236.66666666666666" y="-448.0" type="curve" smooth="yes"/>
+      <point x="-214.99999999999997" y="-448.0"/>
+      <point x="-183.33333333333331" y="-444.3333333333333"/>
+      <point x="-163.66666666666666" y="-438.6666666666667" type="curve"/>
+      <point x="-151.66666666666666" y="-359.0" type="line"/>
+      <point x="-165.0" y="-363.0"/>
+      <point x="-182.33333333333331" y="-363.66666666666663"/>
+      <point x="-196.33333333333334" y="-363.66666666666663" type="curve" smooth="yes"/>
+      <point x="-275.0" y="-363.66666666666663"/>
+      <point x="-300.0" y="-311.66666666666663"/>
+      <point x="-282.3333333333333" y="-206.66666666666666" type="curve" smooth="yes"/>
+      <point x="-231.66666666666666" y="91.0" type="line"/>
+      <point x="-329.6666666666667" y="91.0" type="line"/>
+      <point x="-379.3333333333333" y="-206.66666666666666" type="line" smooth="yes"/>
+      <point x="-405.3333333333333" y="-363.3333333333333"/>
+      <point x="-356.99999999999994" y="-448.0"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

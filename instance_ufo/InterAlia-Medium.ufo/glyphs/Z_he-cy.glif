@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhe-cy" format="2">
+  <advance height="2479.0" width="2036.2"/>
+  <unicode hex="0416"/>
+  <anchor x="1948.4" y="83.8" name="cyrtic"/>
+  <anchor x="1888.8" y="0.0" name="right"/>
+  <anchor x="1018.4" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="1129.4" y="1489.0" type="line"/>
+      <point x="906.6" y="1489.0" type="line"/>
+      <point x="906.6" y="0.0" type="line"/>
+      <point x="1129.4" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="56.2" y="0.0" type="line"/>
+      <point x="316.6" y="0.0" type="line"/>
+      <point x="695.8" y="635.0" type="line"/>
+      <point x="1342.2" y="635.0" type="line"/>
+      <point x="1716.6" y="0.0" type="line"/>
+      <point x="1980.0" y="0.0" type="line"/>
+      <point x="1505.0" y="778.6" type="line"/>
+      <point x="1947.2" y="1489.0" type="line"/>
+      <point x="1673.4" y="1489.0" type="line"/>
+      <point x="1306.6" y="844.8" type="line"/>
+      <point x="734.2" y="844.8" type="line"/>
+      <point x="364.6" y="1489.0" type="line"/>
+      <point x="90.2" y="1489.0" type="line"/>
+      <point x="534.0" y="779.8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

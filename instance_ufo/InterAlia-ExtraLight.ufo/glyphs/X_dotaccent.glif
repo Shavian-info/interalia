@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Xdotaccent" format="2">
+  <advance height="2479.0" width="1237.6666666666667"/>
+  <unicode hex="1E8A"/>
+  <anchor x="618.3333333333334" y="12.0" name="bottom"/>
+  <anchor x="618.3333333333334" y="745.0" name="cross"/>
+  <anchor x="1160.0" y="25.333333333333336" name="cyrtic"/>
+  <anchor x="1095.6666666666667" y="0.0" name="right"/>
+  <anchor x="618.3333333333334" y="1676.0" name="top"/>
+  <outline>
+    <component base="X"/>
+    <component base="dotaccent" xOffset="413.0" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

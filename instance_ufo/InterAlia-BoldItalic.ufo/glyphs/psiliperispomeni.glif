@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psiliperispomeni" format="2">
+  <advance height="2479.0" width="792.4"/>
+  <unicode hex="1FCF"/>
+  <anchor x="459.4" y="1181.0" name="_top"/>
+  <outline>
+    <contour>
+      <point x="762.4" y="1702.6" type="line"/>
+      <point x="755.1999999999999" y="1654.8"/>
+      <point x="717.2" y="1616.8"/>
+      <point x="678.4" y="1616.8" type="curve" smooth="yes"/>
+      <point x="594.5999999999999" y="1616.8"/>
+      <point x="538.0" y="1683.8"/>
+      <point x="449.2" y="1683.8" type="curve" smooth="yes"/>
+      <point x="350.8" y="1683.8"/>
+      <point x="267.4" y="1595.2"/>
+      <point x="251.20000000000002" y="1499.2" type="curve"/>
+      <point x="371.0" y="1463.6" type="line"/>
+      <point x="379.6" y="1511.8"/>
+      <point x="413.40000000000003" y="1551.2"/>
+      <point x="453.2" y="1551.2" type="curve" smooth="yes"/>
+      <point x="542.5999999999999" y="1551.2"/>
+      <point x="576.8" y="1484.0"/>
+      <point x="683.8000000000001" y="1484.0" type="curve" smooth="yes"/>
+      <point x="782.8000000000001" y="1484.0"/>
+      <point x="864.8000000000001" y="1568.0"/>
+      <point x="881.2" y="1664.0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="641.0" y="1432.2" type="line"/>
+      <point x="478.0" y="1432.2" type="line"/>
+      <point x="464.2" y="1356.2" type="line" smooth="yes"/>
+      <point x="456.4" y="1301.6"/>
+      <point x="435.8" y="1242.6"/>
+      <point x="371.8" y="1208.6" type="curve"/>
+      <point x="441.4" y="1135.0" type="line"/>
+      <point x="534.2" y="1173.8"/>
+      <point x="611.4" y="1252.4"/>
+      <point x="627.8" y="1352.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ertick-cy" format="2">
+  <advance height="2479.0" width="1354.6"/>
+  <unicode hex="048E"/>
+  <anchor x="110.80000000000001" y="1489.0" name="tonos"/>
+  <anchor x="661.0" y="1676.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="760.0" y="978.0" type="line"/>
+      <point x="627.8" y="894.0" type="line"/>
+      <point x="996.8" y="323.6" type="line"/>
+      <point x="1129.0" y="409.2" type="line"/>
+    </contour>
+    <component base="P" xOffset="7.199999999999999"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="icomb" format="2">
+  <advance height="2479"/>
+  <unicode hex="0365"/>
+  <outline>
+    <contour>
+      <point x="-588" y="1754" type="line"/>
+      <point x="-768" y="1754" type="line"/>
+      <point x="-768" y="1201" type="line"/>
+      <point x="-588" y="1201" type="line"/>
+    </contour>
+    <contour>
+      <point x="-780" y="1900" type="curve" smooth="yes"/>
+      <point x="-781" y="1847"/>
+      <point x="-737" y="1809"/>
+      <point x="-681" y="1809" type="curve" smooth="yes"/>
+      <point x="-621" y="1809"/>
+      <point x="-580" y="1847"/>
+      <point x="-579" y="1900" type="curve" smooth="yes"/>
+      <point x="-580" y="1949"/>
+      <point x="-621" y="1987"/>
+      <point x="-681" y="1987" type="curve" smooth="yes"/>
+      <point x="-737" y="1987"/>
+      <point x="-781" y="1952"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>58</integer>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

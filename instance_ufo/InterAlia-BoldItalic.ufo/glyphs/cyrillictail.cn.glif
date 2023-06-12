@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cyrillictail.cn" format="2">
+  <advance height="2479.0" width="607.8"/>
+  <anchor x="118.4" y="73.0" name="_right"/>
+  <outline>
+    <contour>
+      <point x="396.4" y="241.8" type="line"/>
+      <point x="144.4" y="241.8" type="line"/>
+      <point x="114.2" y="50.0" type="line"/>
+      <point x="90.0" y="-98.8"/>
+      <point x="15.400000000000006" y="-187.0"/>
+      <point x="-46.2" y="-280.2" type="curve"/>
+      <point x="107.00000000000003" y="-353.0" type="line"/>
+      <point x="233.60000000000002" y="-252.0"/>
+      <point x="343.8" y="-91.0"/>
+      <point x="368.0" y="68.2" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Mark</string>
+      <key>com.schriftgestaltung.Glyphs.subCategory</key>
+      <string>Other</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

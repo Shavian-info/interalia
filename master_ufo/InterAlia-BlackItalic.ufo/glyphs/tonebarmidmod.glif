@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonebarmidmod" format="2">
+  <advance height="2479" width="829"/>
+  <unicode hex="02E7"/>
+  <outline>
+    <contour>
+      <point x="908" y="1457" type="line"/>
+      <point x="532" y="1457" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="666" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="780" y="879" type="line"/>
+      <point x="128" y="879" type="line"/>
+      <point x="79" y="579" type="line"/>
+      <point x="730" y="579" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance height="2479.0" width="1808.6"/>
+  <unicode hex="04A0"/>
+  <anchor x="1576.0" y="156.8" name="cyrtic"/>
+  <outline>
+    <contour>
+      <point x="656.6" y="1489.0" type="line"/>
+      <point x="38.6" y="1489.0" type="line"/>
+      <point x="38.6" y="1215.4" type="line"/>
+      <point x="656.6" y="1215.4" type="line"/>
+    </contour>
+    <component base="Ka-cy" xOffset="252.8"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

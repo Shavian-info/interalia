@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omacron" format="2">
+  <advance height="2479.0" width="1256.8"/>
+  <unicode hex="014D"/>
+  <anchor x="535.8" y="0.0" name="bottom"/>
+  <anchor x="686.6" y="0.0" name="ogonek"/>
+  <anchor x="751.1999999999999" y="1303.0" name="top"/>
+  <outline>
+    <component base="o"/>
+    <component base="macron" xOffset="48.6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegapsili" format="2">
+  <advance height="2479.0" width="1831.0"/>
+  <unicode hex="1F60"/>
+  <anchor x="914.6" y="0.0" name="bottom"/>
+  <anchor x="913.8" y="1303.0" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="koronis" xOffset="702.8" yOffset="122.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

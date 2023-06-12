@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphaprosgegrammeni" format="2">
+  <advance height="2479" width="1385"/>
+  <unicode hex="1FBC"/>
+  <anchor x="692" y="0" name="bottom"/>
+  <anchor x="1332" y="0" name="ogonek"/>
+  <anchor x="495" y="1489" name="tonos"/>
+  <anchor x="692" y="1676" name="top"/>
+  <outline>
+    <component base="A"/>
+    <component base="prosgegrammeni" xOffset="465"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

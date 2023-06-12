@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="fita-cy" format="2">
+  <advance height="2479" width="1280"/>
+  <unicode hex="0473"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="806" y="0" name="ogonek"/>
+  <anchor x="640" y="1303" name="top"/>
+  <outline>
+    <contour>
+      <point x="982" y="662" type="line"/>
+      <point x="298" y="662" type="line"/>
+      <point x="298" y="455" type="line"/>
+      <point x="982" y="455" type="line"/>
+    </contour>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

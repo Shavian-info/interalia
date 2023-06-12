@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omicron" format="2">
+  <advance height="2479" width="1222"/>
+  <unicode hex="03BF"/>
+  <anchor x="611" y="0" name="bottom"/>
+  <anchor x="739" y="0" name="ogonek"/>
+  <anchor x="611" y="1303" name="top"/>
+  <outline>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

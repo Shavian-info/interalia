@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kcaron" format="2">
+  <advance height="2479.0" width="1218.8000000000002"/>
+  <unicode hex="01E9"/>
+  <anchor x="527.0" y="0.0" name="bottom"/>
+  <anchor x="479.8" y="1676.0" name="top"/>
+  <outline>
+    <component base="k"/>
+    <component base="caron" xOffset="-253.20000000000002" yOffset="373.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

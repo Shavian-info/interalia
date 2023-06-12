@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="adieresismacron.1" format="2">
+  <advance height="2479" width="1227"/>
+  <anchor x="506" y="0" name="bottom"/>
+  <anchor x="899" y="0" name="ogonek"/>
+  <anchor x="707" y="1303" name="rhalfring"/>
+  <anchor x="704" y="1303" name="top"/>
+  <outline>
+    <component base="a.1"/>
+    <component base="dieresismacroncomb.lc" xOffset="1146" yOffset="-47"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.category</key>
+      <string>Letter</string>
+      <key>com.schriftgestaltung.Glyphs.script</key>
+      <string>latin</string>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="conjoiningmacroncomb" format="2">
+  <advance height="2479.0"/>
+  <unicode hex="FE26"/>
+  <anchor x="-463.66666666666663" y="1169.0" name="_marktop"/>
+  <outline>
+    <contour>
+      <point x="139.0" y="1442.6666666666667" type="line"/>
+      <point x="-972.6666666666667" y="1442.6666666666667" type="line"/>
+      <point x="-991.0000000000001" y="1326.3333333333333" type="line"/>
+      <point x="120.0" y="1326.3333333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>

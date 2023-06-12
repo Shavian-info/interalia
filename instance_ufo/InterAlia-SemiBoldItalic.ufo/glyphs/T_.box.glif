@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="T.box" format="2">
+  <advance height="2479.0" width="2845.0"/>
+  <unicode hex="1F143"/>
+  <anchor x="1330.1999999999998" y="0.0" name="bottom"/>
+  <anchor x="1340.3999999999999" y="0.0" name="cedilla"/>
+  <anchor x="1451.3999999999999" y="727.2" name="cross"/>
+  <anchor x="1601.0" y="103.6" name="cyrtic"/>
+  <anchor x="1416.3999999999999" y="0.0" name="right"/>
+  <anchor x="1611.0" y="1676.0" name="top"/>
+  <outline>
+    <component base="T" xOffset="748.6"/>
+    <component base="enclosingsquarecomb" xOffset="716.2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>T</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>enclosingsquarecomb</string>
+        </dict>
+      </array>
+      <key>public.verticalOrigin</key>
+      <integer>1984</integer>
+    </dict>
+  </lib>
+</glyph>
