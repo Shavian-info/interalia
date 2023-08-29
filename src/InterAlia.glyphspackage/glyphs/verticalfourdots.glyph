@@ -5,19 +5,19 @@ layers = (
 layerId = "C698F293-3EC0-4A5A-A3A0-0FDB1F5CF265";
 shapes = (
 {
-pos = (797,1504);
+pos = (795,1504);
 ref = dotbelowcomb;
 },
 {
-pos = (797,1111);
+pos = (795,1111);
 ref = dotbelowcomb;
 },
 {
-pos = (797,724);
+pos = (795,724);
 ref = dotbelowcomb;
 },
 {
-pos = (797,335);
+pos = (795,335);
 ref = dotbelowcomb;
 }
 );
@@ -35,19 +35,19 @@ pos = (-72,144);
 layerId = "5C20EF92-B63D-42A8-8878-93C2863E0093";
 shapes = (
 {
-pos = (876,1443);
+pos = (794,1443);
 ref = dotbelowcomb;
 },
 {
-pos = (876,1085);
+pos = (794,1075);
 ref = dotbelowcomb;
 },
 {
-pos = (876,704);
+pos = (794,705);
 ref = dotbelowcomb;
 },
 {
-pos = (876,337);
+pos = (794,337);
 ref = dotbelowcomb;
 }
 );
@@ -57,19 +57,19 @@ width = 518;
 layerId = "11F4534A-B963-4AB5-820F-DAF9A20CD933";
 shapes = (
 {
-pos = (797,1504);
+pos = (1042,1504);
 ref = dotbelowcomb;
 },
 {
-pos = (797,1111);
+pos = (978,1111);
 ref = dotbelowcomb;
 },
 {
-pos = (797,724);
+pos = (912,724);
 ref = dotbelowcomb;
 },
 {
-pos = (797,335);
+pos = (848,335);
 ref = dotbelowcomb;
 }
 );
@@ -87,19 +87,19 @@ pos = (-104,144);
 layerId = "D0EC06BF-13F9-4C88-A6F5-B8203AF6C77E";
 shapes = (
 {
-pos = (852,1443);
+pos = (1024,1443);
 ref = dotbelowcomb;
 },
 {
-pos = (852,1085);
+pos = (967,1074);
 ref = dotbelowcomb;
 },
 {
-pos = (852,704);
+pos = (900,705);
 ref = dotbelowcomb;
 },
 {
-pos = (852,337);
+pos = (844,337);
 ref = dotbelowcomb;
 }
 );
@@ -110,22 +110,22 @@ layerId = "B1F27B51-9973-4381-9301-4FE46FE1CA59";
 shapes = (
 {
 alignment = -1;
-pos = (751,1542);
+pos = (708,1542);
 ref = dotbelowcomb;
 },
 {
 alignment = -1;
-pos = (751,1129);
+pos = (708,1129);
 ref = dotbelowcomb;
 },
 {
 alignment = -1;
-pos = (751,736);
+pos = (708,736);
 ref = dotbelowcomb;
 },
 {
 alignment = -1;
-pos = (751,335);
+pos = (708,335);
 ref = dotbelowcomb;
 }
 );
@@ -136,22 +136,22 @@ layerId = "200BE2C5-40F6-4CF4-AF4F-A33C0CC0964F";
 shapes = (
 {
 alignment = -1;
-pos = (765,1542);
+pos = (964,1542);
 ref = dotbelowcomb;
 },
 {
 alignment = -1;
-pos = (765,1129);
+pos = (896,1129);
 ref = dotbelowcomb;
 },
 {
 alignment = -1;
-pos = (765,736);
+pos = (831,736);
 ref = dotbelowcomb;
 },
 {
 alignment = -1;
-pos = (765,335);
+pos = (763,335);
 ref = dotbelowcomb;
 }
 );

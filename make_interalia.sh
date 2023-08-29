@@ -1,8 +1,8 @@
-#!/bin/sh
+#!/bin/bash
 
-fontmake $PWD/src/InterAlia.glyphspackage -o ttf otf -i -f
+fontmake "$PWD/src/InterAlia.glyphspackage" -o ttf otf -i -f
 
-fontmake $PWD/src/InterAlia.glyphspackage -o variable -f
+fontmake "$PWD/src/InterAlia.glyphspackage" -o variable -f
 
 #woff2_compress $PWD/instance_ttf/InterAlia-Black.ttf > $PWD/instance_woff2/InterAlia-Black.woff2
 #woff2_compress $PWD/instance_ttf/InterAlia-BlackItalic.ttf > $PWD/instance_woff2/InterAlia-BlackItalic.woff2
