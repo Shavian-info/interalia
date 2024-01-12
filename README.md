@@ -13,6 +13,18 @@ Inter Alia builds on the features of Inter to add:
 
 Support for additional scripts may be considered in future.
 
+## What to download (basic font files for everyday use)
+
+Most users will want to download the OpenType files saved in [instance̠_otf](/instance_otf). To get the basic, standard set of font files, download:
+- [Inter Alia Regular](instance_otf/InterAlia-Regular.otf)
+- [Inter Alia Bold](instance_otf/InterAlia-Bold.otf)
+- [Inter Alia Italic](instance_otf/InterAlia-Italic.otf)
+- [Inter Alia Bold Italic](instance_otf/InterAlia-BlackItalic.otf)
+
+If you have an older system and/or these files aren't working for some reason, you could try the equivalent TrueType files in [instance_ttf](/instance_ttf)
+
+You will then need to install these fonts on your system, often by double clicking the files which should bring up a font manager program.
+
 ## Design
 
 Inter Alia expands the Inter typeface with additional glyphs and features. Inter is similar to Roboto, San Francisco, Akkurat, Asap, Lucida Grande and other "UI" and "Text" typefaces. Some trade-offs were made in order to make this typeface work really well at small sizes. For details of the underlying approach to designing Inter, please see [https://github.com/rsms/inter](https://github.com/rsms/inter).
@@ -41,5 +53,15 @@ Current font styles:
 | Black Italic       | 900          |
 
 Inter Alia is also available as a variable font.
+
+## Extended Shavian letters
+
+The extended Shavian letters are either attested in Kingsley Read's work (the letters here called 'oeuvre', 'yeah', and 'loch' appear in the Shaw-Script journal), are derived from Quikscript ('loch', 'llan' and 'which') or are logically derived ('argh', for want of a better word in English).
+
+They are not in Unicode so are a little tricky to produce. This requires using the 'Variation Selector 1' character in Unicode, U+FE00, as follows:
+
+![Extended Shavian letters list](ExtendedShavian.jpg)
+
+## Licence
 
 Inter Alia is licensed under the [SIL Open Font License](LICENSE.txt)
