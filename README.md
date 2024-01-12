@@ -15,7 +15,7 @@ Support for additional scripts may be considered in future.
 
 ## What to download (basic font files for everyday use)
 
-Most users will want to download the OpenType files saved in [instance̠_otf](/instance_otf). To get the basic, standard set of font files, download:
+Most users will want to download the OpenType files saved in [instance_otf](/instance_otf). To get the basic, standard set of font files, download:
 - [Inter Alia Regular](instance_otf/InterAlia-Regular.otf)
 - [Inter Alia Bold](instance_otf/InterAlia-Bold.otf)
 - [Inter Alia Italic](instance_otf/InterAlia-Italic.otf)
