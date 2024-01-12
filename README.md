@@ -56,7 +56,7 @@ Inter Alia is also available as a variable font.
 
 ## Extended Shavian letters
 
-The extended Shavian letters are either attested in Kingsley Read's work (the letters here called 'oeuvre', 'yeah', and 'loch' appear in the Shaw-Script journal), are derived from Quikscript ('loch', 'llan' and 'which') or are logically derived ('argh', for want of a better word in English).
+The extended Shavian letters are either attested in Kingsley Read's work on Shavian (the letters here called 'oeuvre', 'yeah', and 'loch' appear in the Shaw-Script journal), are derived from Quikscript ('llan' and 'which') or are logically derived ('argh', for want of a better word in English).
 
 They are not in Unicode so are a little tricky to produce. This requires using the 'Variation Selector 1' character in Unicode, U+FE00, as follows:
 
